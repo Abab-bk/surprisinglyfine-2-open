@@ -1,0 +1,4792 @@
+msgid ""
+msgstr ""
+"Language: Czech\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 hodin +100% zkušeností ze schopností"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 hodin +100% výdělku v režimu offline"
+
+msgid "炼金实验室"
+msgstr "Alchymistická laboratoř"
+
+msgid "铁砧"
+msgstr "Kovadlina"
+
+msgid "制图台"
+msgstr "Stůl na mapy"
+
+msgid "烹饪锅"
+msgstr "Kuchyňský hrnec"
+
+msgid "熔炉"
+msgstr "Pec"
+
+msgid "投资政策"
+msgstr "Investiční politika"
+
+msgid "建筑建造费用 {0}"
+msgstr "Náklady na výstavbu budovy {0}"
+
+msgid "财政改革"
+msgstr "Finanční reforma"
+
+msgid "全城维护费 {0}"
+msgstr "Náklady na údržbu města {0}"
+
+msgid "关税壁垒"
+msgstr "Celní bariéry"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Rychlost obnovy nasycení {0}"
+
+msgid "自动化生产"
+msgstr "Automatizovaná výroba"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Rychlost výroby {0}, poptávka po pracovní síle {1}"
+
+msgid "标准化作业"
+msgstr "Standardizované operace"
+
+msgid "生产速度 {0}"
+msgstr "Rychlost výroby {0}"
+
+msgid "强制加班"
+msgstr "Povinné přesčasy"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Rychlost výroby {0}, náklady na údržbu {1}"
+
+msgid "福利国家"
+msgstr "Sociální stát"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Náklady na údržbu obytných budov {0}"
+
+msgid "公共住房"
+msgstr "Veřejné bydlení"
+
+msgid "住宅容量 {0}"
+msgstr "Kapacita bydlení {0}"
+
+msgid "第一步"
+msgstr "První krok"
+
+msgid "让我们挖掘"
+msgstr "Pojďme těžit"
+
+msgid "让我们冶炼"
+msgstr "Pojďme tavit"
+
+msgid "想吃点鱼"
+msgstr "Chci nějakou rybu"
+
+msgid "想吃点鱼2"
+msgstr "Chci nějakou rybu 2"
+
+msgid "整装待发"
+msgstr "Připraveni k odchodu"
+
+msgid "击杀邪恶哥布林"
+msgstr "Zabít zlého goblina"
+
+msgid "花匠"
+msgstr "Zahradník"
+
+msgid "炼金师"
+msgstr "Alchymista"
+
+msgid "猎户"
+msgstr "Lovec"
+
+msgid "考古时刻"
+msgstr "Archeologický okamžik"
+
+msgid "考古时刻2"
+msgstr "Archeologický okamžik 2"
+
+msgid "工人住宅"
+msgstr "Dělnické bydlení"
+
+msgid "黏土坑"
+msgstr "Hliník"
+
+msgid "砖厂"
+msgstr "Cihelna"
+
+msgid "猪场"
+msgstr "Vepřín"
+
+msgid "屠宰场"
+msgstr "Jatka"
+
+msgid "谷物农场"
+msgstr "Obilná farma"
+
+msgid "面粉厂"
+msgstr "Mlýn"
+
+msgid "面包厂"
+msgstr "Pekárna"
+
+msgid "铁矿"
+msgstr "Železný důl"
+
+msgid "石油矿"
+msgstr "Ropný vrt"
+
+msgid "炼铁厂"
+msgstr "Hutě na železo"
+
+msgid "钢铁厂"
+msgstr "Ocelárna"
+
+msgid "炼脂厂"
+msgstr "Tukovna"
+
+msgid "肥皂厂"
+msgstr "Mýdlárna"
+
+msgid "武器厂"
+msgstr "Zbrojovka"
+
+msgid "麦芽厂"
+msgstr "Sladovna"
+
+msgid "啤酒花厂"
+msgstr "Chmelnice"
+
+msgid "啤酒厂"
+msgstr "Brewery"
+
+msgid "农民住宅"
+msgstr "Selské stavení"
+
+msgid "树厂"
+msgstr "Plantáž stromů"
+
+msgid "锯木厂"
+msgstr "Pila"
+
+msgid "渔场"
+msgstr "Rybářská osada"
+
+msgid "土豆农场"
+msgstr "Bramborová farma"
+
+msgid "伏特加酒厂"
+msgstr "Pálenice vodky"
+
+msgid "羊毛厂"
+msgstr "Vlnovna"
+
+msgid "服装厂"
+msgstr "Oděvní továrna"
+
+msgid "占星学家别墅"
+msgstr "Vila astrologa"
+
+msgid "西瓜农场"
+msgstr "Melounová farma"
+
+msgid "鸡蛋厂"
+msgstr "Drůbežárna"
+
+msgid "曲奇厂"
+msgstr "Továrna na sušenky"
+
+msgid "曲奇罐头厂"
+msgstr "Továrna na sušenky v plechovkách"
+
+msgid "沙矿场"
+msgstr "Pískovna"
+
+msgid "硅厂"
+msgstr "Továrna na křemík"
+
+msgid "电子厂"
+msgstr "Továrna na elektroniku"
+
+msgid "放大镜厂"
+msgstr "Továrna na lupy"
+
+msgid "颜料厂"
+msgstr "Továrna na barviva"
+
+msgid "笔厂"
+msgstr "Továrna na pera"
+
+msgid "绘图纸厂"
+msgstr "Továrna na výkresy"
+
+msgid "绘图厂"
+msgstr "Rýsovací dílna"
+
+msgid "炼金术士别墅"
+msgstr "Vila alchymisty"
+
+msgid "采石场"
+msgstr "Lom"
+
+msgid "混凝土厂"
+msgstr "Betonárna"
+
+msgid "锌矿厂"
+msgstr "Továrna na zinek"
+
+msgid "石英矿场"
+msgstr "Křemenný důl"
+
+msgid "轴矿场"
+msgstr "Uranový důl"
+
+msgid "红酒厂"
+msgstr "Vinařství"
+
+msgid "注射器厂"
+msgstr "Továrna na injekční stříkačky"
+
+msgid "橡胶农场"
+msgstr "Kaučuková plantáž"
+
+msgid "生化服厂"
+msgstr "Továrna na ochranné obleky"
+
+msgid "硝石工厂"
+msgstr "Továrna na ledek"
+
+msgid "炸药工厂"
+msgstr "Továrna na výbušniny"
+
+msgid "炼药锅"
+msgstr "Alchymistický kotlík"
+
+msgid "镍矿厂"
+msgstr "Továrna na nikl"
+
+msgid "镍锭厂"
+msgstr "Továrna na niklové slitky"
+
+msgid "磁带厂"
+msgstr "Továrna na magnetofonové pásky"
+
+msgid "纤维厂"
+msgstr "Továrna na vlákna"
+
+msgid "光盘厂"
+msgstr "Továrna na optické disky"
+
+msgid "要号码宝箱"
+msgstr "Truhlice s čísly"
+
+msgid "对抗纨绔宝箱"
+msgstr "Truhlice pro boj s rozmazleností"
+
+msgid "美颜参数宝箱"
+msgstr "Truhlice s parametry krásy"
+
+msgid "说梦话宝箱"
+msgstr "Truhlice mluvení ze spaní"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Truhlice kočičího zamňoukání"
+
+msgid "傻子太多宝箱"
+msgstr "Truhlice pro příliš mnoho hlupáků"
+
+msgid "生活太难宝箱"
+msgstr "Truhlice těžkého života"
+
+msgid "生活太难宝箱 2"
+msgstr "Truhlice těžkého života 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Truhlice ambicí"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Truhlice ambicí 2"
+
+msgid "喝水宝箱"
+msgstr "Truhlice s vodou"
+
+msgid "礼貌宝箱"
+msgstr "Truhlice zdvořilosti"
+
+msgid "礼貌宝箱 2"
+msgstr "Truhlice zdvořilosti 2"
+
+msgid "厉害宝箱"
+msgstr "Truhlice skvělosti"
+
+msgid "厉害宝箱 2"
+msgstr "Truhlice skvělosti 2"
+
+msgid "厉害宝箱 3"
+msgstr "Truhlice skvělosti 3"
+
+msgid "奢侈品宝箱"
+msgstr "Truhlice luxusu"
+
+msgid "奢侈品宝箱 2"
+msgstr "Truhlice luxusu 2"
+
+msgid "不可战胜宝箱"
+msgstr "Truhlice neporazitelnosti"
+
+msgid "不可战胜宝箱 2"
+msgstr "Truhlice neporazitelnosti 2"
+
+msgid "帅哥宝箱"
+msgstr "Truhlice fešáků"
+
+msgid "镇静宝箱"
+msgstr "Truhlice klidu"
+
+msgid "生活方式宝箱"
+msgstr "Truhlice životního stylu"
+
+msgid "生活方式宝箱 2"
+msgstr "Truhlice životního stylu 2"
+
+msgid "爱情故事宝箱"
+msgstr "Truhlice milostného příběhu"
+
+msgid "爱情故事宝箱 2"
+msgstr "Truhlice milostného příběhu 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Truhlice milostného příběhu 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Truhlice milostného příběhu 4"
+
+msgid "硬币"
+msgstr "Mince"
+
+msgid "星星"
+msgstr "Hvězda"
+
+msgid "瓶子"
+msgstr "Láhev"
+
+msgid "蚯蚓"
+msgstr "Žížala"
+
+msgid "皮革"
+msgstr "Kůže"
+
+msgid "羽毛"
+msgstr "Pírko"
+
+msgid "墨水"
+msgstr "Ink"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Ocel"
+
+msgid "啤酒"
+msgstr "Pivo"
+
+msgid "麦芽"
+msgstr "Slad"
+
+msgid "啤酒花"
+msgstr "Chmel"
+
+msgid "好猪肉"
+msgstr "Kvalitní vepřové"
+
+msgid "谷物"
+msgstr "Obilí"
+
+msgid "面粉"
+msgstr "Mouka"
+
+msgid "面包"
+msgstr "Chléb"
+
+msgid "油脂"
+msgstr "Tuky"
+
+msgid "肥皂"
+msgstr "Mýdlo"
+
+msgid "武器"
+msgstr "Zbraně"
+
+msgid "砖块"
+msgstr "Cihly"
+
+msgid "猪肉"
+msgstr "Vepřové"
+
+msgid "粘土"
+msgstr "Jíl"
+
+msgid "石油"
+msgstr "Ropa"
+
+msgid "铁锭"
+msgstr "Železné slitky"
+
+msgid "木板"
+msgstr "Prkna"
+
+msgid "土豆"
+msgstr "Brambory"
+
+msgid "鱼"
+msgstr "Ryby"
+
+msgid "伏特加"
+msgstr "Vodka"
+
+msgid "羊毛"
+msgstr "Vlna"
+
+msgid "衣服"
+msgstr "Oblečení"
+
+msgid "原木"
+msgstr "Dřevo"
+
+msgid "西瓜"
+msgstr "Melouny"
+
+msgid "鸡蛋"
+msgstr "Vejce"
+
+msgid "曲奇"
+msgstr "Sušenky"
+
+msgid "曲奇罐头"
+msgstr "Sušenky v plechovkách"
+
+msgid "沙子"
+msgstr "Písek"
+
+msgid "硅"
+msgstr "Křemík"
+
+msgid "电路板"
+msgstr "Desky plošných spojů"
+
+msgid "放大镜"
+msgstr "Lupa"
+
+msgid "颜料"
+msgstr "Barviva"
+
+msgid "笔"
+msgstr "Pera"
+
+msgid "绘图纸"
+msgstr "Výkresy"
+
+msgid "星图"
+msgstr "Hvězdné mapy"
+
+msgid "石头"
+msgstr "Kámen"
+
+msgid "混凝土"
+msgstr "Beton"
+
+msgid "锌"
+msgstr "Zinek"
+
+msgid "石英"
+msgstr "Křemen"
+
+msgid "铀"
+msgstr "Uran"
+
+msgid "红酒"
+msgstr "Červené víno"
+
+msgid "注射器"
+msgstr "Injekční stříkačka"
+
+msgid "橡胶"
+msgstr "Kaučuk"
+
+msgid "生化服"
+msgstr "Ochranné obleky"
+
+msgid "硝石"
+msgstr "Ledek"
+
+msgid "炸药"
+msgstr "Výbušniny"
+
+msgid "炼金锅"
+msgstr "Alchymistický kotlík"
+
+msgid "镍"
+msgstr "Nikl"
+
+msgid "镍锭"
+msgstr "Niklové slitky"
+
+msgid "磁带"
+msgstr "Magnetofonové pásky"
+
+msgid "纤维"
+msgstr "Vlákna"
+
+msgid "光盘"
+msgstr "Optické disky"
+
+msgid "邪恶虾兵"
+msgstr "Zlý krevetí voják"
+
+msgid "邪恶蟹将"
+msgstr "Zlý krabí generál"
+
+msgid "邪恶史莱姆"
+msgstr "Zlý sliz"
+
+msgid "邪恶秃头"
+msgstr "Zlý plešoun"
+
+msgid "邪恶龙骨"
+msgstr "Zlá dračí kostra"
+
+msgid "邪恶泰坦"
+msgstr "Zlý titán"
+
+msgid "邪恶将军"
+msgstr "Zlý generál"
+
+msgid "邪恶大王"
+msgstr "Zlý král"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elitní zlý sliz"
+
+msgid "精英邪恶秃头"
+msgstr "Elitní zlý plešoun"
+
+msgid "精英邪恶龙骨"
+msgstr "Elitní zlá dračí kostra"
+
+msgid "精英邪恶泰坦"
+msgstr "Elitní zlý titán"
+
+msgid "精英邪恶将军"
+msgstr "Elitní zlý generál"
+
+msgid "精英邪恶大王"
+msgstr "Elitní zlý král"
+
+msgid "邪恶死人"
+msgstr "Zlý nemrtvý"
+
+msgid "邪恶蛇蛇"
+msgstr "Zlý had"
+
+msgid "邪恶小偷"
+msgstr "Zlý zloděj"
+
+msgid "邪恶外星人"
+msgstr "Zlý mimozemšťan"
+
+msgid "邪恶大象"
+msgstr "Zlý slon"
+
+msgid "邪恶野人"
+msgstr "Zlý divoch"
+
+msgid "邪恶三头龙"
+msgstr "Zlý trojhlavý drak"
+
+msgid "邪恶邪神"
+msgstr "Zlý temný bůh"
+
+msgid "精英邪恶小偷"
+msgstr "Elitní zlý zloděj"
+
+msgid "精英邪恶外星人"
+msgstr "Elitní zlý mimozemšťan"
+
+msgid "精英邪恶大象"
+msgstr "Elitní zlý slon"
+
+msgid "精英邪恶野人"
+msgstr "Elitní zlý divoch"
+
+msgid "精英邪恶三头龙"
+msgstr "Elitní zlý trojhlavý drak"
+
+msgid "精英邪恶邪神"
+msgstr "Elitní zlý temný bůh"
+
+msgid "邪恶螃蟹"
+msgstr "Zlý krab"
+
+msgid "邪恶太阳花"
+msgstr "Zlá slunečnice"
+
+msgid "邪恶小鸡"
+msgstr "Zlé kuře"
+
+msgid "邪恶蜘蛛"
+msgstr "Zlý pavouk"
+
+msgid "邪恶蜜蜂"
+msgstr "Zlá včela"
+
+msgid "邪恶笑脸男"
+msgstr "Zlý smajlík"
+
+msgid "邪恶骑士"
+msgstr "Zlý rytíř"
+
+msgid "邪恶巫婆"
+msgstr "Zlá čarodějnice"
+
+msgid "精英邪恶小鸡"
+msgstr "Elitní zlé kuře"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elitní zlý pavouk"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elitní zlá včela"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elitní zlý smajlík"
+
+msgid "精英邪恶骑士"
+msgstr "Elitní zlý rytíř"
+
+msgid "精英邪恶巫婆"
+msgstr "Elitní zlá čarodějnice"
+
+msgid "祭坛"
+msgstr "Oltář"
+
+msgid "铜剑"
+msgstr "Měděný meč"
+
+msgid "铜锤"
+msgstr "Měděné kladivo"
+
+msgid "铜镰刀"
+msgstr "Měděná kosa"
+
+msgid "铜矛"
+msgstr "Měděné kopí"
+
+msgid "铜飞镖"
+msgstr "Měděné hvězdice"
+
+msgid "银剑"
+msgstr "Stříbrný meč"
+
+msgid "银锤"
+msgstr "Stříbrné kladivo"
+
+msgid "银镰刀"
+msgstr "Stříbrná kosa"
+
+msgid "银矛"
+msgstr "Stříbrné kopí"
+
+msgid "银飞镖"
+msgstr "Stříbrné hvězdice"
+
+msgid "金剑"
+msgstr "Zlatý meč"
+
+msgid "金锤"
+msgstr "Zlaté kladivo"
+
+msgid "金镰刀"
+msgstr "Zlatá kosa"
+
+msgid "金矛"
+msgstr "Zlaté oštěpy"
+
+msgid "金飞镖"
+msgstr "Zlatá hvězdice"
+
+msgid "霜冻剑"
+msgstr "Ledový meč"
+
+msgid "霜冻锤"
+msgstr "Ledové kladivo"
+
+msgid "霜冻镰刀"
+msgstr "Ledová kosa"
+
+msgid "霜冻矛"
+msgstr "Ledové oštěpy"
+
+msgid "霜冻飞镖"
+msgstr "Ledová hvězdice"
+
+msgid "翡翠剑"
+msgstr "Jadeitový meč"
+
+msgid "翡翠锤"
+msgstr "Jadeitové kladivo"
+
+msgid "翡翠镰刀"
+msgstr "Jadeitová kosa"
+
+msgid "翡翠矛"
+msgstr "Jadeitové oštěpy"
+
+msgid "翡翠飞镖"
+msgstr "Jadeitová hvězdice"
+
+msgid "熔岩剑"
+msgstr "Lavový meč"
+
+msgid "熔岩锤"
+msgstr "Lavové kladivo"
+
+msgid "熔岩镰刀"
+msgstr "Lavová kosa"
+
+msgid "熔岩矛"
+msgstr "Lavové oštěpy"
+
+msgid "熔岩飞镖"
+msgstr "Lavová hvězdice"
+
+msgid "星辰剑"
+msgstr "Hvězdný meč"
+
+msgid "星辰锤"
+msgstr "Hvězdné kladivo"
+
+msgid "星辰镰刀"
+msgstr "Hvězdná kosa"
+
+msgid "星辰矛"
+msgstr "Hvězdné kopí"
+
+msgid "星辰飞镖"
+msgstr "Hvězdné hvězdice"
+
+msgid "彩虹剑"
+msgstr "Duha meč"
+
+msgid "彩虹锤"
+msgstr "Duha kladivo"
+
+msgid "彩虹镰刀"
+msgstr "Duha kosa"
+
+msgid "彩虹矛"
+msgstr "Duha kopí"
+
+msgid "彩虹飞镖"
+msgstr "Duha hvězdice"
+
+msgid "铜靴子"
+msgstr "Měděné boty"
+
+msgid "铜腿甲"
+msgstr "Měděné chrániče nohou"
+
+msgid "铜头盔"
+msgstr "Měděná přilba"
+
+msgid "铜盾牌"
+msgstr "Měděný štít"
+
+msgid "铜护甲"
+msgstr "Měděná zbroj"
+
+msgid "铜披风"
+msgstr "Měděný plášť"
+
+msgid "银靴子"
+msgstr "Stříbrné boty"
+
+msgid "银腿甲"
+msgstr "Stříbrné chrániče nohou"
+
+msgid "银头盔"
+msgstr "Stříbrná přilba"
+
+msgid "银盾牌"
+msgstr "Stříbrný štít"
+
+msgid "银护甲"
+msgstr "Stříbrná zbroj"
+
+msgid "银披风"
+msgstr "Stříbrný plášť"
+
+msgid "金靴子"
+msgstr "Zlaté boty"
+
+msgid "金腿甲"
+msgstr "Zlaté chrániče nohou"
+
+msgid "金头盔"
+msgstr "Zlatá přilba"
+
+msgid "金盾牌"
+msgstr "Zlatý štít"
+
+msgid "金护甲"
+msgstr "Zlatá zbroj"
+
+msgid "金披风"
+msgstr "Zlatý plášť"
+
+msgid "霜冻靴子"
+msgstr "Ledové boty"
+
+msgid "霜冻腿甲"
+msgstr "Ledové chrániče nohou"
+
+msgid "霜冻头盔"
+msgstr "Ledová přilba"
+
+msgid "霜冻盾牌"
+msgstr "Ledový štít"
+
+msgid "霜冻护甲"
+msgstr "Ledová zbroj"
+
+msgid "霜冻披风"
+msgstr "Ledový plášť"
+
+msgid "翡翠靴子"
+msgstr "Jantarové boty"
+
+msgid "翡翠腿甲"
+msgstr "Jantarové chrániče nohou"
+
+msgid "翡翠头盔"
+msgstr "Jantarová přilba"
+
+msgid "翡翠盾牌"
+msgstr "Jantarový štít"
+
+msgid "翡翠护甲"
+msgstr "Jantarová zbroj"
+
+msgid "翡翠披风"
+msgstr "Jantarový plášť"
+
+msgid "熔岩靴子"
+msgstr "Lávové boty"
+
+msgid "熔岩腿甲"
+msgstr "Lavové nohavice"
+
+msgid "熔岩头盔"
+msgstr "Lavová přilba"
+
+msgid "熔岩盾牌"
+msgstr "Lavový štít"
+
+msgid "熔岩护甲"
+msgstr "Lavová zbroj"
+
+msgid "熔岩披风"
+msgstr "Lavový plášť"
+
+msgid "星辰靴子"
+msgstr "Hvězdné boty"
+
+msgid "星辰腿甲"
+msgstr "Hvězdné nohavice"
+
+msgid "星辰头盔"
+msgstr "Hvězdná přilba"
+
+msgid "星辰盾牌"
+msgstr "Hvězdný štít"
+
+msgid "星辰护甲"
+msgstr "Hvězdná zbroj"
+
+msgid "星辰披风"
+msgstr "Hvězdný plášť"
+
+msgid "彩虹靴子"
+msgstr "Duha boty"
+
+msgid "彩虹腿甲"
+msgstr "Duha nohavice"
+
+msgid "彩虹头盔"
+msgstr "Duha přilba"
+
+msgid "彩虹盾牌"
+msgstr "Duha štít"
+
+msgid "彩虹护甲"
+msgstr "Duha zbroj"
+
+msgid "彩虹披风"
+msgstr "Duha plášť"
+
+msgid "红宝石戒指"
+msgstr "Rubínový prsten"
+
+msgid "黄宝石戒指"
+msgstr "Topazový prsten"
+
+msgid "绿宝石戒指"
+msgstr "Smaragdový prsten"
+
+msgid "月亮宝石戒指"
+msgstr "Měsíční drahokamový prsten"
+
+msgid "水晶宝石戒指"
+msgstr "Křišťálový drahokamový prsten"
+
+msgid "星星宝石戒指"
+msgstr "Hvězdný drahokamový prsten"
+
+msgid "玛瑙宝石戒指"
+msgstr "Achátový drahokamový prsten"
+
+msgid "彩虹宝石戒指"
+msgstr "Duhový drahokamový prsten"
+
+msgid "红宝石项链"
+msgstr "Rubínový náhrdelník"
+
+msgid "黄宝石项链"
+msgstr "Topazový náhrdelník"
+
+msgid "绿宝石项链"
+msgstr "Smaragdový náhrdelník"
+
+msgid "月亮宝石项链"
+msgstr "Měsíční drahokamový náhrdelník"
+
+msgid "水晶宝石项链"
+msgstr "Křišťálový drahokamový náhrdelník"
+
+msgid "星星宝石项链"
+msgstr "Hvězdný drahokamový náhrdelník"
+
+msgid "玛瑙宝石项链"
+msgstr "Achátový drahokamový náhrdelník"
+
+msgid "彩虹宝石项链"
+msgstr "Duhový drahokamový náhrdelník"
+
+msgid "红宝石手环"
+msgstr "Rubínový náramek"
+
+msgid "黄宝石手环"
+msgstr "Topazový náramek"
+
+msgid "绿宝石手环"
+msgstr "Smaragdový náramek"
+
+msgid "月亮宝石手环"
+msgstr "Měsíční drahokamový náramek"
+
+msgid "水晶宝石手环"
+msgstr "Křišťálový drahokamový náramek"
+
+msgid "星星宝石手环"
+msgstr "Hvězdný drahokamový náramek"
+
+msgid "玛瑙宝石手环"
+msgstr "Achátový drahokamový náramek"
+
+msgid "彩虹宝石手环"
+msgstr "Prsten z duhových drahokamů"
+
+msgid "铜鱼竿"
+msgstr "Měděný prut"
+
+msgid "铜铲"
+msgstr "Měděná lopata"
+
+msgid "铜斧"
+msgstr "Měděná sekyra"
+
+msgid "铜镐"
+msgstr "Měděné kladivo"
+
+msgid "铜陷阱"
+msgstr "Měděná past"
+
+msgid "银鱼竿"
+msgstr "Stříbrný prut"
+
+msgid "银铲"
+msgstr "Stříbrná lopata"
+
+msgid "银斧"
+msgstr "Stříbrná sekyra"
+
+msgid "银镐"
+msgstr "Stříbrné kladivo"
+
+msgid "银陷阱"
+msgstr "Stříbrná past"
+
+msgid "金鱼竿"
+msgstr "Zlatý prut"
+
+msgid "金铲"
+msgstr "Zlatá lopata"
+
+msgid "金斧"
+msgstr "Zlatá sekyra"
+
+msgid "金镐"
+msgstr "Zlaté kladivo"
+
+msgid "金陷阱"
+msgstr "Zlatá past"
+
+msgid "霜冻鱼竿"
+msgstr "Mrazivý prut"
+
+msgid "霜冻铲"
+msgstr "Mrazivá lopata"
+
+msgid "霜冻斧"
+msgstr "Mrazivá sekyra"
+
+msgid "霜冻镐"
+msgstr "Mrazivé kladivo"
+
+msgid "霜冻陷阱"
+msgstr "Mrazivá past"
+
+msgid "翡翠鱼竿"
+msgstr "Jadeitový prut"
+
+msgid "翡翠铲"
+msgstr "Jadeitová lopata"
+
+msgid "翡翠斧"
+msgstr "Jadeitová sekyra"
+
+msgid "翡翠镐"
+msgstr "Jadeitový krumpáč"
+
+msgid "翡翠陷阱"
+msgstr "Jadeitová past"
+
+msgid "熔岩鱼竿"
+msgstr "Lávový prut"
+
+msgid "熔岩铲"
+msgstr "Lávová lopata"
+
+msgid "熔岩斧"
+msgstr "Lávová sekyra"
+
+msgid "熔岩镐"
+msgstr "Lávový krumpáč"
+
+msgid "熔岩陷阱"
+msgstr "Lávová past"
+
+msgid "星辰鱼竿"
+msgstr "Hvězdný prut"
+
+msgid "星辰铲"
+msgstr "Hvězdná lopata"
+
+msgid "星辰斧"
+msgstr "Hvězdná sekyra"
+
+msgid "星辰镐"
+msgstr "Hvězdný krumpáč"
+
+msgid "星辰陷阱"
+msgstr "Hvězdná past"
+
+msgid "彩虹鱼竿"
+msgstr "Duha prut"
+
+msgid "彩虹铲"
+msgstr "Duha lopata"
+
+msgid "彩虹斧"
+msgstr "Duha sekyra"
+
+msgid "彩虹镐"
+msgstr "Duha krumpáč"
+
+msgid "彩虹陷阱"
+msgstr "Duha past"
+
+msgid "苹果"
+msgstr "Jablko"
+
+msgid "草莓"
+msgstr "Jahoda"
+
+msgid "香蕉"
+msgstr "Banán"
+
+msgid "蓝莓"
+msgstr "Borůvka"
+
+msgid "樱桃"
+msgstr "Třešeň"
+
+msgid "橙子"
+msgstr "Pomeranč"
+
+msgid "桃子"
+msgstr "Broskev"
+
+msgid "椰子"
+msgstr "Kokos"
+
+msgid "铜矿石"
+msgstr "Měděná ruda"
+
+msgid "银矿石"
+msgstr "Stříbrná ruda"
+
+msgid "金矿石"
+msgstr "Zlatá ruda"
+
+msgid "霜冻矿石"
+msgstr "Zamrzlá ruda"
+
+msgid "翡翠矿石"
+msgstr "Jadeitová ruda"
+
+msgid "熔岩矿石"
+msgstr "Lávová ruda"
+
+msgid "星辰矿石"
+msgstr "Hvězdná ruda"
+
+msgid "彩虹矿石"
+msgstr "Duha ruda"
+
+msgid "眼睛"
+msgstr "Oko"
+
+msgid "牙"
+msgstr "Zub"
+
+msgid "黄色眼睛"
+msgstr "Žluté oko"
+
+msgid "锋利的牙"
+msgstr "Ostré zuby"
+
+msgid "绿色眼睛"
+msgstr "Zelené oči"
+
+msgid "恐怖金牙"
+msgstr "Děsivé zlaté zuby"
+
+msgid "红色眼睛"
+msgstr "Červené oči"
+
+msgid "骷髅头"
+msgstr "Lebka"
+
+msgid "炭"
+msgstr "Uhlí"
+
+msgid "铜锭"
+msgstr "Měděná ingot"
+
+msgid "银锭"
+msgstr "Stříbrná ingot"
+
+msgid "金锭"
+msgstr "Zlatá ingot"
+
+msgid "霜冻锭"
+msgstr "Ledová ingot"
+
+msgid "翡翠锭"
+msgstr "Jadeitová ingot"
+
+msgid "熔岩锭"
+msgstr "Lavová ingot"
+
+msgid "星辰锭"
+msgstr "Hvězdná ingot"
+
+msgid "彩虹锭"
+msgstr "Duha ingot"
+
+msgid "松木"
+msgstr "Borové dřevo"
+
+msgid "云杉木"
+msgstr "Smrkové dřevo"
+
+msgid "桦木"
+msgstr "Březové dřevo"
+
+msgid "柚木"
+msgstr "Teakové dřevo"
+
+msgid "桃花心木"
+msgstr "Mahagonové dřevo"
+
+msgid "铁皮木"
+msgstr "Železné dřevo"
+
+msgid "红木"
+msgstr "Mahagon"
+
+msgid "古木"
+msgstr "Staré dřevo"
+
+msgid "鲤鱼"
+msgstr "Kapr"
+
+msgid "鳟鱼"
+msgstr "Pstruh"
+
+msgid "三文鱼"
+msgstr "Losos"
+
+msgid "鲈鱼"
+msgstr "Mořský vlk"
+
+msgid "罗非鱼"
+msgstr "Tilápie"
+
+msgid "鲭鱼"
+msgstr "Makrela"
+
+msgid "沙丁鱼"
+msgstr "Sardinka"
+
+msgid "鲱鱼"
+msgstr "Sleď"
+
+msgid "鲤鱼料理"
+msgstr "Kaprí pokrm"
+
+msgid "鳟鱼料理"
+msgstr "Pstruhový pokrm"
+
+msgid "三文鱼料理"
+msgstr "Lososový pokrm"
+
+msgid "鲈鱼料理"
+msgstr "Pokrm z mořského vlka"
+
+msgid "罗非鱼料理"
+msgstr "Tilápiový pokrm"
+
+msgid "鲭鱼料理"
+msgstr "Makrelový pokrm"
+
+msgid "沙丁鱼料理"
+msgstr "Sardinkový pokrm"
+
+msgid "鲱鱼料理"
+msgstr "Sleďový pokrm"
+
+msgid "鲤鱼豪华料理"
+msgstr "Luxusní kapří pokrm"
+
+msgid "鳟鱼豪华料理"
+msgstr "Luxusní pstruhový pokrm"
+
+msgid "三文鱼豪华料理"
+msgstr "Lososové deluxe jídlo"
+
+msgid "鲈鱼豪华料理"
+msgstr "Okounové deluxe jídlo"
+
+msgid "罗非鱼豪华料理"
+msgstr "Tilapie deluxe jídlo"
+
+msgid "鲭鱼豪华料理"
+msgstr "Makrela deluxe jídlo"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Sardinkové deluxe jídlo"
+
+msgid "鲱鱼豪华料理"
+msgstr "Sleďové deluxe jídlo"
+
+msgid "红宝石"
+msgstr "Rubín"
+
+msgid "黄宝石"
+msgstr "Topaz"
+
+msgid "绿宝石"
+msgstr "Smaragd"
+
+msgid "月亮宝石"
+msgstr "Měsíční kámen"
+
+msgid "水晶宝石"
+msgstr "Křišťálový kámen"
+
+msgid "星星宝石"
+msgstr "Hvězdný kámen"
+
+msgid "玛瑙宝石"
+msgstr "Achátový kámen"
+
+msgid "彩虹宝石"
+msgstr "Duhový kámen"
+
+msgid "红宝石精华"
+msgstr "Rubínová esence"
+
+msgid "黄宝石精华"
+msgstr "Topazová esence"
+
+msgid "绿宝石精华"
+msgstr "Smaragdová esence"
+
+msgid "月亮精华"
+msgstr "Měsíční esence"
+
+msgid "水晶精华"
+msgstr "Křišťálová esence"
+
+msgid "星星精华"
+msgstr "Hvězdná esence"
+
+msgid "玛瑙精华"
+msgstr "Onyxový extrakt"
+
+msgid "彩虹精华"
+msgstr "Duha extrakt"
+
+msgid "宝石粉末"
+msgstr "Prášek z drahokamů"
+
+msgid "种子"
+msgstr "Semínko"
+
+msgid "肥料"
+msgstr "Hnojivo"
+
+msgid "兰花"
+msgstr "Orchidej"
+
+msgid "雏菊"
+msgstr "Sedmikráska"
+
+msgid "郁金香"
+msgstr "Tulipán"
+
+msgid "玫瑰"
+msgstr "Růže"
+
+msgid "金盏花"
+msgstr "Měsíček lékařský"
+
+msgid "牡丹"
+msgstr "Pivoňka"
+
+msgid "风铃草"
+msgstr "Zvonky"
+
+msgid "向日葵"
+msgstr "Slunečnice"
+
+msgid "玉米"
+msgstr "Kukuřice"
+
+msgid "白菜"
+msgstr "Zelí"
+
+msgid "辣椒"
+msgstr "Paprika"
+
+msgid "萝卜"
+msgstr "Ředkev"
+
+msgid "蘑菇"
+msgstr "Houba"
+
+msgid "番茄"
+msgstr "Rajče"
+
+msgid "茄子"
+msgstr "Lilek"
+
+msgid "黄瓜"
+msgstr "Okurka"
+
+msgid "精英怪物地图"
+msgstr "Mapa elitních příšer"
+
+msgid "老洞穴地图"
+msgstr "Mapa staré jeskyně"
+
+msgid "泡菜厂地图"
+msgstr "Mapa továrny na kyselé zelí"
+
+msgid "老学校地图"
+msgstr "Mapa staré školy"
+
+msgid "啤酒厂地图"
+msgstr "Mapa pivovaru"
+
+msgid "大香蕉地图"
+msgstr "Mapa velkého banánu"
+
+msgid "藏身处地图"
+msgstr "Mapa úkrytu"
+
+msgid "木地地图"
+msgstr "Mapa dřevěné země"
+
+msgid "红色血包"
+msgstr "Červený balíček krve"
+
+msgid "大电池手电筒"
+msgstr "Velká baterka"
+
+msgid "空空瓶"
+msgstr "Prázdná láhev"
+
+msgid "大哥大"
+msgstr "Velký mobilní telefon"
+
+msgid "卡姆PIU特"
+msgstr "KamPIUte"
+
+msgid "红药丸瓶"
+msgstr "Láhev s červenými pilulkami"
+
+msgid "神奇海螺"
+msgstr "Magická mušle"
+
+msgid "蓝色笔"
+msgstr "Modré pero"
+
+msgid "对话气泡"
+msgstr "Bublina s dialogem"
+
+msgid "蓝色小人"
+msgstr "Modrý panáček"
+
+msgid "音药"
+msgstr "Hudební lék"
+
+msgid "拳头！"
+msgstr "Pěst!"
+
+msgid "叶子~"
+msgstr "Listek~"
+
+msgid "火药球"
+msgstr "Prachová koule"
+
+msgid "蝴蝶蝶"
+msgstr "Motýl motýl"
+
+msgid "考试小抄"
+msgstr "Špehovací lístek"
+
+msgid "下头！"
+msgstr "To je trapné!"
+
+msgid "护目镜"
+msgstr "Brýle"
+
+msgid "硬币？"
+msgstr "Mince?"
+
+msgid "贵项链"
+msgstr "Drahý náhrdelník"
+
+msgid "贵戒指"
+msgstr "Drahý prsten"
+
+msgid "经典背包经典"
+msgstr "Klasický batoh klasický"
+
+msgid "经典小包经典"
+msgstr "Klasická taška klasická"
+
+msgid "烛蜡"
+msgstr "Svíčka"
+
+msgid "经典宝箱经典"
+msgstr "Klasická truhla klasická"
+
+msgid "经典十字经典"
+msgstr "Klasický kříž klasický"
+
+msgid "神秘墓碑"
+msgstr "Tajemný náhrobek"
+
+msgid "神秘铁锤"
+msgstr "Tajemné kladivo"
+
+msgid "无良印品"
+msgstr "Nečestná značka"
+
+msgid "鱼鱼"
+msgstr "Ryba ryba"
+
+msgid "捣蒜器"
+msgstr "Drť česneku"
+
+msgid "离洞绳"
+msgstr "Lano z jeskyně"
+
+msgid "美容镜"
+msgstr "Zkrášlující zrcadlo"
+
+msgid "八匹狼"
+msgstr "Osm vlků"
+
+msgid "神秘沙漏"
+msgstr "Tajemná přesýpací hodiny"
+
+msgid "红心"
+msgstr "Červené srdce"
+
+msgid "火焰"
+msgstr "Plamen"
+
+msgid "全麦面包"
+msgstr "Celozrnný chléb"
+
+msgid "没寄出的信"
+msgstr "Neodeslaný dopis"
+
+msgid "花生之神"
+msgstr "Bůh arašídů"
+
+msgid "威风堂堂"
+msgstr "Velkolepost"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr "Při úspěšném vyhnutí se útoku je další útok zaručeně kritický."
+
+msgid "百折不挠的真诚"
+msgstr "Upřímná nezlomnost"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Při útoku je 3% pravděpodobnost, že dojde ke dvojímu poškození."
+
+msgid "直言不讳的勇敢"
+msgstr "Přímá odvaha"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"Každý boj náhodně aktivuje 1 efekt: +50% poškození / +30% obrana / "
+"dvojnásobné zkušenosti"
+
+msgid "空想家"
+msgstr "Snílek"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Po zabití nepřítele se zvýší pravděpodobnost vypadnutí vzácného předmětu o "
+"1%, lze násobit, ale přestane fungovat, když je zdraví pod 50%."
+
+msgid "令人震惊的"
+msgstr "Ohromující"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Když je zdraví pod 20%, automaticky se spustí „Regenerace“, která obnovuje 5% "
+"zdraví za sekundu (trvá 10 sekund, CD 2 minuty)."
+
+msgid "恐慌的"
+msgstr "Panikařící"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"Při zásahu má 5% šanci, že nepřítel nebude moci jednat po dobu 5 sekund. "
+"Nelze opakovat."
+
+msgid "无法忍受的"
+msgstr "Nesnesitelný"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Při přijímání poškození řezáním má 10% šanci odrazit 50% poškození útočníkovi."
+
+msgid "邪恶的"
+msgstr "Zlý"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr ""
+"Rychlost rybaření se zvýší o 15%, ale s 10% pravděpodobností nezískáte nic."
+
+msgid "难以置信的"
+msgstr "Neuvěřitelný"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Při kácení stromů má 5% pravděpodobnost získat 1 dřevěné uhlí."
+
+msgid "搞点货"
+msgstr "Získat nějaké zboží"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"Získané bojové zkušenosti se sníží o 30%, ale 50% z této části se rovnoměrně "
+"rozdělí mezi všechny nebojové dovednosti."
+
+msgid "空间管理"
+msgstr "Správa prostoru"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Každá prázdná buňka v batohu poskytuje 0,2% globální bonus k poškození; každá "
+"obsazená buňka poskytuje 0,2% globální snížení poškození."
+
+msgid "麻烦的"
+msgstr "Nepříjemný"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"Bojové odměny již nebudou vydávat zlato, místo toho zvolí jiné předměty jako "
+"náhradu."
+
+msgid "一心二用的"
+msgstr "Všestranný"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Při nošení a boji se rychlost archeologie zvýší o 10 %."
+
+msgid "底子很好的"
+msgstr "Dobře založený"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "Za každou 2 s útočného intervalu se konečné poškození zvýší o 10 %."
+
+msgid "主角般的"
+msgstr "Hlavní hrdina"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"Nepřátelé mají o 20 % vyšší šanci tě zasáhnout, ale na oplátku mají nepřátelé "
+"1,5krát vyšší šanci vypustit vzácné předměty."
+
+msgid "形容词的"
+msgstr "Přídavné jméno"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"Tvoje šance zásahu se sníží o 20 %, ale výnos všech tvých dovedností se zvýší "
+"o 10 %."
+
+msgid "哈哈哈"
+msgstr "Haha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr "Při tréninku dovedností je 10% šance přehrát smích „haha“."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "Při nošení se při každém otevření překryvu Steam přidá 1 zlato."
+
+msgid "基础健康药水"
+msgstr "Základní lektvar zdraví"
+
+msgid "基础战斗经验药水"
+msgstr "Základní lektvar bojových zkušeností"
+
+msgid "基础拾取药水"
+msgstr "Základní lektvar sběru"
+
+msgid "基础采集速度药水"
+msgstr "Základní lektvar rychlosti sběru"
+
+msgid "基础采集经验药水"
+msgstr "Základní lektvar zkušeností sběru"
+
+msgid "基础采集产量药水"
+msgstr "Základní lektvar výnosu sběru"
+
+msgid "基础制造速度药水"
+msgstr "Základní lektvar rychlosti výroby"
+
+msgid "基础多件制造药水"
+msgstr "Základní lektvar výroby více kusů"
+
+msgid "基础制造经验药水"
+msgstr "Základní lektvar zkušeností výroby"
+
+msgid "常规健康药水"
+msgstr "Běžný lektvar zdraví"
+
+msgid "常规战斗经验药水"
+msgstr "Běžný lektvar zkušeností z boje"
+
+msgid "常规拾取药水"
+msgstr "Běžný lektvar sběru"
+
+msgid "常规采集速度药水"
+msgstr "Běžný lektvar rychlosti sběru"
+
+msgid "常规采集经验药水"
+msgstr "Běžný lektvar zkušeností ze sběru"
+
+msgid "常规采集产量药水"
+msgstr "Běžný lektvar výnosu sběru"
+
+msgid "常规制造速度药水"
+msgstr "Běžný lektvar rychlosti výroby"
+
+msgid "常规多件制造药水"
+msgstr "Běžný lektvar výroby více kusů"
+
+msgid "常规制造经验药水"
+msgstr "Běžný lektvar zkušeností z výroby"
+
+msgid "高级健康药水"
+msgstr "Pokročilý lektvar zdraví"
+
+msgid "高级战斗经验药水"
+msgstr "Pokročilý lektvar zkušeností z boje"
+
+msgid "高级拾取药水"
+msgstr "Pokročilý lektvar sběru"
+
+msgid "高级采集速度药水"
+msgstr "Pokročilý lektvar rychlosti sběru"
+
+msgid "高级采集经验药水"
+msgstr "Pokročilý lektvar zkušeností ze sběru"
+
+msgid "高级采集产量药水"
+msgstr "Pokročilý lektvar výnosu sběru"
+
+msgid "高级制造速度药水"
+msgstr "Pokročilý lektvar rychlosti výroby"
+
+msgid "高级多件制造药水"
+msgstr "Pokročilý lektvar výroby více kusů"
+
+msgid "高级制造经验药水"
+msgstr "Pokročilý lektvar zkušeností z výroby"
+
+msgid "超级健康药水"
+msgstr "Super lektvar zdraví"
+
+msgid "超级战斗经验药水"
+msgstr "Super lektvar zkušeností z boje"
+
+msgid "超级拾取药水"
+msgstr "Super lektvar sběru"
+
+msgid "超级采集速度药水"
+msgstr "Super Potion of Gathering Speed"
+
+msgid "超级采集经验药水"
+msgstr "Super Potion of Gathering Experience"
+
+msgid "超级采集产量药水"
+msgstr "Super Potion of Gathering Yield"
+
+msgid "超级制造速度药水"
+msgstr "Super Potion of Crafting Speed"
+
+msgid "超级多件制造药水"
+msgstr "Super Potion of Multi-Crafting"
+
+msgid "超级制造经验药水"
+msgstr "Super Potion of Crafting Experience"
+
+msgid "老洞穴"
+msgstr "Old Cave"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "泡菜厂"
+msgstr "Kimchi Factory"
+
+msgid "老学校"
+msgstr "Old School"
+
+msgid "大香蕉"
+msgstr "Big Banana"
+
+msgid "藏身处"
+msgstr "Hideout"
+
+msgid "木地"
+msgstr "Woodland"
+
+msgid "龙虾巢穴"
+msgstr "Humří doupě"
+
+msgid "ocean"
+msgstr "Ocean"
+
+msgid "深海洞窟"
+msgstr "Hlubinná jeskyně"
+
+msgid "黏黏洞窟"
+msgstr "Slizová jeskyně"
+
+msgid "决斗洞窟"
+msgstr "Soubojová jeskyně"
+
+msgid "海底坟墓"
+msgstr "Mořská hrobka"
+
+msgid "海底大坑"
+msgstr "Oceánská propast"
+
+msgid "神秘小路"
+msgstr "Tajemná stezka"
+
+msgid "海底皇宫"
+msgstr "Podmořský palác"
+
+msgid "危险黏黏洞窟"
+msgstr "Nebezpečná slizová jeskyně"
+
+msgid "elite"
+msgstr "Elite"
+
+msgid "危险决斗洞窟"
+msgstr "Nebezpečná soubojová jeskyně"
+
+msgid "危险海底坟墓"
+msgstr "Nebezpečná mořská hrobka"
+
+msgid "危险海底大坑"
+msgstr "Nebezpečná oceánská propast"
+
+msgid "危险海底小路"
+msgstr "Nebezpečná podmořská stezka"
+
+msgid "危险海底皇宫"
+msgstr "Nebezpečný podmořský palác"
+
+msgid "墓地"
+msgstr "Hřbitov"
+
+msgid "mountain"
+msgstr "Mountain"
+
+msgid "蛇蛇巢穴"
+msgstr "Hadí doupě"
+
+msgid "下水道"
+msgstr "Kanalizace"
+
+msgid "外星基地"
+msgstr "Základna mimozemšťanů"
+
+msgid "大象巢穴"
+msgstr "Sloní doupě"
+
+msgid "野人小屋"
+msgstr "Chýše divochů"
+
+msgid "地狱"
+msgstr "Peklo"
+
+msgid "邪恶国度"
+msgstr "Zlá říše"
+
+msgid "危险下水道"
+msgstr "Nebezpečná kanalizace"
+
+msgid "危险外星基地"
+msgstr "Nebezpečná základna mimozemšťanů"
+
+msgid "危险大象巢穴"
+msgstr "Nebezpečné sloní doupě"
+
+msgid "危险野人小屋"
+msgstr "Nebezpečná chýše divochů"
+
+msgid "危险地狱"
+msgstr "Nebezpečné peklo"
+
+msgid "危险邪恶国度"
+msgstr "Nebezpečná zlá říše"
+
+msgid "螃蟹巢穴"
+msgstr "Krabí doupě"
+
+msgid "forest"
+msgstr "Les"
+
+msgid "种植园"
+msgstr "Plantáž"
+
+msgid "鸡圈"
+msgstr "Kurník"
+
+msgid "蜘蛛巢穴"
+msgstr "Pavoučí doupě"
+
+msgid "蜂巢"
+msgstr "Včelí úl"
+
+msgid "开心乐园"
+msgstr "Zábavní park"
+
+msgid "城堡"
+msgstr "Hrad"
+
+msgid "魔法城堡"
+msgstr "Magický hrad"
+
+msgid "危险鸡圈"
+msgstr "Nebezpečný kurník"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Nebezpečné pavoučí doupě"
+
+msgid "危险蜂巢"
+msgstr "Nebezpečný včelí úl"
+
+msgid "危险开心乐园"
+msgstr "Nebezpečný zábavní park"
+
+msgid "危险城堡"
+msgstr "Nebezpečný hrad"
+
+msgid "危险魔法城堡"
+msgstr "Nebezpečný magický hrad"
+
+msgid "village"
+msgstr "Vesnice"
+
+msgid "优质三文鱼"
+msgstr "Kvalitní losos"
+
+msgid "outskirts"
+msgstr "Okolí"
+
+msgid "优质鲈鱼"
+msgstr "Kvalitní okoun"
+
+msgid "优质罗非鱼"
+msgstr "Kvalitní tilápie"
+
+msgid "优质鲭鱼"
+msgstr "Kvalitní makrela"
+
+msgid "优质沙丁鱼"
+msgstr "Kvalitní sardinka"
+
+msgid "优质鲱鱼"
+msgstr "Kvalitní sleď"
+
+msgid "铜矿脉"
+msgstr "Měděná žíla"
+
+msgid "银矿脉"
+msgstr "Stříbrná žíla"
+
+msgid "金矿脉"
+msgstr "Zlatá žíla"
+
+msgid "霜冻矿脉"
+msgstr "Mrazivá žíla"
+
+msgid "翡翠矿脉"
+msgstr "Jantarová žíla"
+
+msgid "熔岩矿脉"
+msgstr "Sopečná žíla"
+
+msgid "星辰矿脉"
+msgstr "Hvězdná žíla"
+
+msgid "彩虹矿脉"
+msgstr "Duha žíla"
+
+msgid "优质金矿脉"
+msgstr "Kvalitní zlatá žíla"
+
+msgid "优质霜冻矿脉"
+msgstr "Kvalitní mrazivá žíla"
+
+msgid "优质翡翠矿脉"
+msgstr "Kvalitní jadeitová žíla"
+
+msgid "优质熔岩矿脉"
+msgstr "Kvalitní sopečná žíla"
+
+msgid "优质星辰矿脉"
+msgstr "Kvalitní hvězdná žíla"
+
+msgid "优质彩虹矿脉"
+msgstr "Kvalitní duhová žíla"
+
+msgid "松树"
+msgstr "Borovice"
+
+msgid "云杉树"
+msgstr "Smrk"
+
+msgid "桦树"
+msgstr "Bříza"
+
+msgid "柚木树"
+msgstr "Teakový strom"
+
+msgid "桃花心木树"
+msgstr "Mahagonový strom"
+
+msgid "铁皮树"
+msgstr "Železný strom"
+
+msgid "红木树"
+msgstr "Červený strom"
+
+msgid "古树"
+msgstr "Prastarý strom"
+
+msgid "优质桦树"
+msgstr "Kvalitní bříza"
+
+msgid "优质柚木树"
+msgstr "Kvalitní teakový strom"
+
+msgid "优质桃花心木树"
+msgstr "Kvalitní mahagonový strom"
+
+msgid "优质铁皮树"
+msgstr "Kvalitní železný strom"
+
+msgid "优质红木树"
+msgstr "Kvalitní červený strom"
+
+msgid "优质古树"
+msgstr "Kvalitní prastarý strom"
+
+msgid "ores"
+msgstr "rudy"
+
+msgid "gems"
+msgstr "drahokamy"
+
+msgid "月亮宝石精华"
+msgstr "esence měsíčního drahokamu"
+
+msgid "水晶宝石精华"
+msgstr "esence krystalového drahokamu"
+
+msgid "星星宝石精华"
+msgstr "esence hvězdného drahokamu"
+
+msgid "玛瑙宝石精华"
+msgstr "esence onyxového drahokamu"
+
+msgid "彩虹宝石精华"
+msgstr "esence duhového drahokamu"
+
+msgid "flower"
+msgstr "květina"
+
+msgid "vegetable"
+msgstr "zelenina"
+
+msgid "basics"
+msgstr "základní"
+
+msgid "regular"
+msgstr "běžný"
+
+msgid "advance"
+msgstr "pokročilý"
+
+msgid "hyper"
+msgstr "hyper"
+
+msgid "cuisine"
+msgstr "kuchyně"
+
+msgid "good_cuisine"
+msgstr "dobrá kuchyně"
+
+msgid "猪猪"
+msgstr "prase"
+
+msgid "小鸡"
+msgstr "kuře"
+
+msgid "鹅鹅"
+msgstr "husa"
+
+msgid "羊羊"
+msgstr "ovce"
+
+msgid "狼狼"
+msgstr "vlk"
+
+msgid "乌龟"
+msgstr "Želva"
+
+msgid "猫猫"
+msgstr "Kočka"
+
+msgid "螃蟹"
+msgstr "Krab"
+
+msgid "蓝皮猪猪"
+msgstr "Modrý prasátko"
+
+msgid "blue_skin"
+msgstr "Modrá kůže"
+
+msgid "蓝皮小鸡"
+msgstr "Modré kuřátko"
+
+msgid "蓝皮鹅鹅"
+msgstr "Modrý houser"
+
+msgid "蓝皮羊羊"
+msgstr "Modrá ovce"
+
+msgid "蓝皮狼狼"
+msgstr "Modrý vlk"
+
+msgid "蓝皮乌龟"
+msgstr "Modrá želva"
+
+msgid "蓝皮猫猫"
+msgstr "Modrá kočka"
+
+msgid "蓝皮螃蟹"
+msgstr "Modrý krab"
+
+msgid "map_crafting"
+msgstr "Výroba map"
+
+msgid "copper"
+msgstr "Měď"
+
+msgid "armor"
+msgstr "Brnění"
+
+msgid "tool"
+msgstr "Nástroj"
+
+msgid "铜铲子"
+msgstr "Měděná lopata"
+
+msgid "铜斧头"
+msgstr "Měděná sekyra"
+
+msgid "weapons"
+msgstr "Zbraně"
+
+msgid "铜弓"
+msgstr "Měděný luk"
+
+msgid "accessories"
+msgstr "doplňky"
+
+msgid "silver"
+msgstr "stříbro"
+
+msgid "银铲子"
+msgstr "stříbrná lopata"
+
+msgid "银斧头"
+msgstr "stříbrná sekyra"
+
+msgid "银弓"
+msgstr "stříbrný luk"
+
+msgid "gold"
+msgstr "zlato"
+
+msgid "黄金披风"
+msgstr "zlatý plášť"
+
+msgid "金铲子"
+msgstr "zlatá lopata"
+
+msgid "金斧头"
+msgstr "zlatá sekyra"
+
+msgid "金弓"
+msgstr "zlatý luk"
+
+msgid "frost"
+msgstr "mraz"
+
+msgid "霜冻铲子"
+msgstr "mrazivá lopata"
+
+msgid "霜冻斧头"
+msgstr "mrazivá sekyra"
+
+msgid "霜冻弓"
+msgstr "mrazivý luk"
+
+msgid "jade"
+msgstr "jadeit"
+
+msgid "翡翠铲子"
+msgstr "jadeitová lopata"
+
+msgid "翡翠斧头"
+msgstr "jadeitová sekyra"
+
+msgid "翡翠弓"
+msgstr "jadeitový luk"
+
+msgid "molten"
+msgstr "roztavený"
+
+msgid "熔岩铲子"
+msgstr "roztavená lopata"
+
+msgid "熔岩斧头"
+msgstr "Lavová sekyra"
+
+msgid "熔岩弓"
+msgstr "Lavový luk"
+
+msgid "stellar"
+msgstr "Stelární"
+
+msgid "星辰铲子"
+msgstr "Stelární lopata"
+
+msgid "星辰斧头"
+msgstr "Stelární sekyra"
+
+msgid "星辰弓"
+msgstr "Stelární luk"
+
+msgid "rainbow"
+msgstr "Duhový"
+
+msgid "彩虹铲子"
+msgstr "Duhová lopata"
+
+msgid "彩虹斧头"
+msgstr "Duhová sekyra"
+
+msgid "彩虹弓"
+msgstr "Duhový luk"
+
+msgid "伐木"
+msgstr "Těžba dřeva"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Hlavní produkty: dřevo, ovoce\n"
+"\n"
+"Použití:\n"
+"- Dřevo → přemění se na uhlí (potřebné pro slévárenství, vaření)\n"
+"- Dřevo → stavba komunitní infrastruktury\n"
+"- Ovoce → přemění se na hnojivo (potřebné pro zemědělství)\n"
+"\n"
+"Bonus dovednosti: +0,25 % efektivity těžby dřeva za úroveň (poskytuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Hlavní nástroj: sekyra (zvyšuje rychlost těžby dřeva)"
+
+msgid "采矿"
+msgstr "Těžba rud"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Hlavní produkty: ruda, drahokamy\n"
+"\n"
+"Použití:\n"
+"- Ruda → přemění se na ingoty\n"
+"- Drahokamy → přemění se na esence drahokamů\n"
+"\n"
+"Bonus dovednosti: +0,25 % efektivity těžby rud za úroveň (poskytuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Hlavní nástroj: krumpáč (zvyšuje rychlost těžby rud)"
+
+msgid "冶炼"
+msgstr "Slevárenství"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Výroba:\n"
+"- Ruda + uhlí → ingoty\n"
+"- Drahokamy + uhlí → esence drahokamů\n"
+"\n"
+"Použití:\n"
+"- Ingoty a esence drahokamů → kování zbraní, nástrojů, zbroje, šperků\n"
+"- Ingoty a esence drahokamů → stavba komunitní infrastruktury\n"
+"\n"
+"Bonus dovednosti: +0,25 % efektivity slévárenství za úroveň (poskytuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Hlavní budova: pec (zvyšuje rychlost slévárenství)"
+
+msgid "锻造"
+msgstr "Kování"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Výroba: zbraně, nástroje, zbroj, šperky\n"
+"Potřebné materiály: ingoty, esence drahokamů\n"
+"Bonus dovednosti: +0,25 % efektivity kování za úroveň (poskytuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Hlavní budova: kovadlina (zvyšuje rychlost kování)"
+
+msgid "农业"
+msgstr "Zemědělství"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Hlavní produkty: květiny, zelenina\n"
+"\n"
+"Použití:\n"
+"- Květiny → alchymie vyrábí lektvary\n"
+"- Zelenina → vaření luxusních jídel (léčení v boji)\n"
+"\n"
+"Potřebné materiály:\n"
+"- Semena (nákup v obchodě)\n"
+"- Hnojivo (přeměněné z ovoce)\n"
+"\n"
+"Bonus dovednosti: +0,25 % efektivity zemědělství za úroveň (poskytuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Hlavní nástroj: lopata (zvyšuje rychlost zemědělství)"
+
+msgid "炼金"
+msgstr "Alchymie"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Výroba: Různé lektvary\n"
+"\n"
+"Potřebné materiály:\n"
+"- Květiny (zemědělství)\n"
+"- Kosti (boj)\n"
+"- Lahve (obchod)\n"
+"\n"
+"Účinek lektvaru: Poskytuje různé bonusy, trvání 180 sekund\n"
+"Bonus dovednosti: +0,25 % účinnosti alchymie za úroveň (zvyšuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Klíčová budova: Alchymistická laboratoř (zvyšuje rychlost alchymie)"
+
+msgid "钓鱼"
+msgstr "Rybaření"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Hlavní produkt: Ryby\n"
+"Použití: Vaření (léčení v boji)\n"
+"Bonus dovednosti: +0,25 % účinnosti rybaření za úroveň (zvyšuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Klíčový nástroj: Prut (zvyšuje rychlost rybaření)"
+
+msgid "烹饪"
+msgstr "Vaření"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Výroba: Různé pokrmy\n"
+"Potřebné materiály: Ingredience (ryby a zelenina) + dřevěné uhlí\n"
+"Účinek pokrmu: Automaticky se použije v boji, když je zdraví pod 33 %, "
+"obnovuje zdraví (časový limit 15 sekund)\n"
+"Bonus dovednosti: +0,25 % účinnosti vaření za úroveň (zvyšuje pravděpodobnost "
+"okamžitého dokončení akce)\n"
+"Klíčová budova: Kotel (zvyšuje rychlost vaření)"
+
+msgid "狩猎"
+msgstr "Lov"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Hlavní produkt: Kůže, inkoust, peří\n"
+"Použití: Výroba map (potřebné pro dovednost kartografie)\n"
+"Potřebné materiály: Žížaly (získané z rybaření)\n"
+"Bonus dovednosti: +0,25 % účinnosti lovu za úroveň (zvyšuje pravděpodobnost "
+"okamžitého dokončení akce)\n"
+"Klíčový nástroj: Past (zvyšuje rychlost lovu)"
+
+msgid "制图"
+msgstr "Kartografie"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Výroba: Mapy\n"
+"Potřebné materiály: Kůže, inkoust, peří\n"
+"\n"
+"Použití:\n"
+"- Spotřební předmět pro dovednost archeologie\n"
+"- Potřebné pro výzvu elitních monster\n"
+"\n"
+"Bonus dovednosti: +0,25 % účinnosti kartografie za úroveň (zvyšuje "
+"pravděpodobnost okamžitého dokončení akce)\n"
+"Klíčová budova: Stůl na mapy (zvyšuje rychlost kartografie)"
+
+msgid "考古"
+msgstr "Archeologie"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Speciální mechanismus: Pasivní dovednost, lze provádět současně s jinými "
+"dovednostmi\n"
+"Potřebné materiály: Mapy\n"
+"Hlavní produkt: Artefakty\n"
+"\n"
+"Systém artefaktů:\n"
+"- Po postavení \"oltáře\" lze aktivovat artefakty\n"
+"- Lze aktivovat maximálně 3 artefakty současně\n"
+"- Aktivace spotřebovává zdroje\n"
+"\n"
+"Zrychlení: Použití hvězd pro zrychlení archeologického postupu"
+
+msgid "单手武器"
+msgstr "Jednoruční zbraně"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ zbraně: Meče, kladiva\n"
+"Bonus dovednosti: +0,25 % účinnosti jednoručních zbraní za úroveň (při "
+"tréninku šance na dvojnásobek zkušeností z boje a kořisti)\n"
+"\n"
+"Mechanika úspěšnosti zásahu:\n"
+"Základní úspěšnost: 75 % (při shodné úrovni)\n"
+"Každá úroveň nad příšerou: +0,5 % úspěšnosti (max 90 %)\n"
+"Každá úroveň pod příšerou: -0,5 % úspěšnosti"
+
+msgid "双手武器"
+msgstr "Obouruční zbraně"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ zbraně: Kopí, kosa\n"
+"Bonus dovednosti: +0,25 % účinnosti obouručních zbraní za úroveň (při "
+"tréninku šance na dvojnásobek zkušeností z boje a kořisti)\n"
+"\n"
+"Mechanika úspěšnosti zásahu:\n"
+"Základní úspěšnost: 75 % (při shodné úrovni)\n"
+"Každá úroveň nad příšerou: +0,5 % úspěšnosti (max 90 %)\n"
+"Každá úroveň pod příšerou: -0,5 % úspěšnosti"
+
+msgid "远程武器"
+msgstr "Střelné zbraně"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ zbraně: Luky, vrhací hvězdice\n"
+"Bonus dovednosti: +0,25 % účinnosti střelných zbraní za úroveň (při tréninku "
+"šance na dvojnásobek zkušeností z boje a kořisti)\n"
+"\n"
+"Mechanika úspěšnosti zásahu:\n"
+"Základní úspěšnost: 75 % (při shodné úrovni)\n"
+"Každá úroveň nad příšerou: +0,5 % úspěšnosti (max 90 %)\n"
+"Každá úroveň pod příšerou: -0,5 % úspěšnosti"
+
+msgid "防御"
+msgstr "Obrana"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Bonus dovednosti: +0,25 % účinnosti obrany za úroveň (při tréninku šance na "
+"dvojnásobek zkušeností z boje a kořisti)\n"
+"\n"
+"Obranný mechanismus: Snížení úspěšnosti zásahu příšer\n"
+"Každá úroveň nad příšerou: Úspěšnost zásahu příšer -0,5 %\n"
+"Každá úroveň pod příšerou: Úspěšnost zásahu příšer +0,5 %"
+
+msgid "把你踹开"
+msgstr "Tě vykopnout"
+
+msgid "他想要"
+msgstr "On chce"
+
+msgid "我的号码"
+msgstr "Moje číslo"
+
+msgid "我不给"
+msgstr "Já nedám"
+
+msgid "对抗纨绔"
+msgstr "Bojovat proti rozmazleným"
+
+msgid "美颜参数"
+msgstr "Parametry pro úpravu vzhledu"
+
+msgid "值得学习"
+msgstr "Stojí za to se učit"
+
+msgid "说梦话"
+msgstr "Mluvit ze spaní"
+
+msgid "肌肉大"
+msgstr "Velké svaly"
+
+msgid "生活总是"
+msgstr "Život je vždy"
+
+msgid "太多波折"
+msgstr "Příliš mnoho zvratů"
+
+msgid "猫咪"
+msgstr "Kočka"
+
+msgid "张嘴"
+msgstr "Otevřít pusu"
+
+msgid "这个地方"
+msgstr "Toto místo"
+
+msgid "傻子太多"
+msgstr "Příliš mnoho hlupáků"
+
+msgid "我的生活"
+msgstr "Můj život"
+
+msgid "特别难过"
+msgstr "Obzvlášť smutné"
+
+msgid "希望你"
+msgstr "Doufám, že ty"
+
+msgid "知道这个"
+msgstr "Vědět toto"
+
+msgid "我不想"
+msgstr "Nechci"
+
+msgid "当小人物"
+msgstr "Když je malý člověk"
+
+msgid "地下的"
+msgstr "Podzemní"
+
+msgid "皇帝"
+msgstr "Císař"
+
+msgid "我想当"
+msgstr "Chci být"
+
+msgid "三根一起抽"
+msgstr "Táhnout tři najednou"
+
+msgid "喝很多水"
+msgstr "Pít hodně vody"
+
+msgid "和我作对"
+msgstr "Stát se proti mně"
+
+msgid "出人头地"
+msgstr "Vyniknout"
+
+msgid "就在今天"
+msgstr "Právě dnes"
+
+msgid "当我看见"
+msgstr "Když vidím"
+
+msgid "外国友人"
+msgstr "Zahraniční přátelé"
+
+msgid "我不问好"
+msgstr "Nezdravím"
+
+msgid "因为我太"
+msgstr "Protože jsem příliš"
+
+msgid "高冷了"
+msgstr "Chladný"
+
+msgid "质疑我的"
+msgstr "Zpochybňují můj"
+
+msgid "嘲笑我的"
+msgstr "Smějí se mému"
+
+msgid "都是一群"
+msgstr "Je to banda"
+
+msgid "大傻子"
+msgstr "Velcí hlupáci"
+
+msgid "我就是"
+msgstr "Já jsem"
+
+msgid "全世界"
+msgstr "Celý svět"
+
+msgid "最牛的！"
+msgstr "Nejlepší!"
+
+msgid "你的炫耀"
+msgstr "Tvůj chlub"
+
+msgid "名牌包包"
+msgstr "Značková kabelka"
+
+msgid "名牌手表"
+msgstr "Značkové hodinky"
+
+msgid "说实话"
+msgstr "Upřímně řečeno"
+
+msgid "我不在乎"
+msgstr "Je mi to jedno"
+
+msgid "想打败我"
+msgstr "Chceš mě porazit"
+
+msgid "那你惨了"
+msgstr "Tak to máš smůlu"
+
+msgid "我需要个"
+msgstr "Potřebuji"
+
+msgid "赚快钱"
+msgstr "rychlé peníze"
+
+msgid "的方法"
+msgstr "metoda"
+
+msgid "你可以叫我"
+msgstr "Můžeš mi říkat"
+
+msgid "小帅"
+msgstr "Malý šikula"
+
+msgid "面临"
+msgstr "čelí"
+
+msgid "指控"
+msgstr "obvinění"
+
+msgid "从不会"
+msgstr "Nikdy"
+
+msgid "求神拜佛"
+msgstr "modlit se"
+
+msgid "我只穿"
+msgstr "Nosím jen"
+
+msgid "一次性的"
+msgstr "jednorázové"
+
+msgid "袜子"
+msgstr "ponožky"
+
+msgid "洗衣服"
+msgstr "Prát prádlo"
+
+msgid "太麻烦"
+msgstr "Je to příliš složité"
+
+msgid "她画了"
+msgstr "Ona nakreslila"
+
+msgid "美丽的妆"
+msgstr "Krásný makeup"
+
+msgid "但是她"
+msgstr "Ale ona"
+
+msgid "喜欢女的"
+msgstr "Má ráda ženy"
+
+msgid "我是那个"
+msgstr "Já jsem ten"
+
+msgid "第三者"
+msgstr "Třetí osoba"
+
+msgid "特别伤心"
+msgstr "Obzvlášť smutný"
+
+msgid "我哭了"
+msgstr "Plakal jsem"
+
+msgid "自给自足者"
+msgstr "Soběstačný"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 200, rychlost dovednosti +20%\n"
+"Když je zásob méně než 50, rychlost dovednosti -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 300, násobitel zkušeností dovednosti +20%\n"
+"Když je zásob méně než 100, násobitel zkušeností dovednosti -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 320, rychlost dovednosti +24%\n"
+"Když je zásob méně než 80, rychlost dovednosti -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 420, násobitel zkušeností dovednosti +24%\n"
+"Když je zásob méně než 140, násobitel zkušeností dovednosti -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 500, rychlost dovednosti +30%\n"
+"Když je zásob méně než 180, rychlost dovednosti -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Při provádění akce zkontroluje povinné předměty k výrobě:\n"
+"Když je zásob více než 650, násobitel zkušeností dovednosti +30%\n"
+"Když je zásob méně než 220, násobitel zkušeností dovednosti -4%"
+
+msgid "Z 世代"
+msgstr "Generace Z"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny sběratelské dovednosti +18%.\n"
+"V jinou dobu rychlost -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny výrobní dovednosti +18%.\n"
+"V jinou dobu rychlost -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny sběratelské dovednosti +24%.\n"
+"V jinou dobu rychlost -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny výrobní dovednosti +24%.\n"
+"V jinou dobu rychlost -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny sběratelské dovednosti +28%.\n"
+"V jinou dobu rychlost -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Mezi 22:00 a 6:00 všechny výrobní dovednosti +28%.\n"
+"V jinou dobu rychlost -8%"
+
+msgid "赌徒"
+msgstr "Hazardér"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Při dokončení libovolné akce: 13% pravděpodobnost, že výstup této akce bude "
+"vynulován, 13% pravděpodobnost, že výstup této akce bude ×3.\n"
+"Ale výstup předmětů z dovedností sběru, výroby a boje -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Při dokončení libovolné akce: 4% pravděpodobnost, že výstup této akce bude "
+"vynulován, 6% pravděpodobnost, že výstup této akce bude ×3"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Při dokončení libovolné akce: 10% pravděpodobnost, že výstup této akce bude "
+"vynulován, 20% pravděpodobnost, že výstup této akce bude ×3.\n"
+"Ale výstup předmětů z dovedností sběru, výroby a boje -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Při dokončení libovolné akce: 5% pravděpodobnost, že výstup této akce bude "
+"vynulován, 9% pravděpodobnost, že výstup této akce bude ×3"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Při dokončení libovolné akce: 8% pravděpodobnost, že výstup této akce bude "
+"vynulován, 26% pravděpodobnost, že výstup této akce bude vynásoben 3.\n"
+"Ale při sběru, výrobě a bojových dovednostech se výstup předmětů sníží o 10%."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Při dokončení libovolné akce: 2% pravděpodobnost, že výstup této akce bude "
+"vynulován, 10% pravděpodobnost, že výstup této akce bude vynásoben 3."
+
+msgid "番茄钟"
+msgstr "Pomodoro"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 10 minut soustředění na jednu výrobní dovednost se výstup předmětů "
+"této dovednosti kumulativně zvýší o 5% (maximálně +30%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 10 minut soustředění na jednu výrobní dovednost se násobitel "
+"zkušeností této dovednosti kumulativně zvýší o 5% (maximálně +30%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 8 minut soustředění na jednu výrobní dovednost se výstup předmětů "
+"této dovednosti kumulativně zvýší o 4% (maximálně +36%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 8 minut soustředění na jednu výrobní dovednost se násobitel "
+"zkušeností této dovednosti kumulativně zvýší o 4% (maximálně +36%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 6 minut soustředění na jednu výrobní dovednost se výstup předmětů "
+"této dovednosti kumulativně zvýší o 4% (maximálně +48%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Za každých 6 minut soustředění na jednu výrobní dovednost se násobitel "
+"zkušeností této dovednosti kumulativně zvýší o 4% (maximálně +48%).\n"
+"Při přepnutí na jinou výrobní dovednost se kumulativní hodnota resetuje na 0."
+
+msgid "万岁"
+msgstr "Sláva"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Při nepřetržitém porážení příšer se každý úder kumulativně zvýší poškození a "
+"přesnost o 2,5% (maximálně +25%).\n"
+"Jakmile jste zasaženi příšerou, počítadlo se resetuje na 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Po obdržení poškození se příští útok zvýší o 18% poškození a 8% "
+"přesnosti.\n"
+"Ale maximální zdraví se sníží o 12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Při nepřetržitém porážení příšer se každý úder kumulativně zvýší poškození a "
+"přesnost o 3% (maximálně +36%).\n"
+"Jakmile jste zasaženi příšerou, počítadlo se resetuje na 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Po obdržení poškození se příští útok zvýší o 24% poškození a 12% "
+"přesnosti.\n"
+"Ale maximální zdraví se sníží o 12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Při nepřetržitém porážení příšer se každý úder kumulativně zvýší poškození a "
+"přesnost o 3,5% (maximálně +45%).\n"
+"Jakmile jste zasaženi příšerou, počítadlo se resetuje na 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Po obdržení poškození se příští útok zvýší o 30% poškození a 15% "
+"přesnosti.\n"
+"Ale maximální zdraví se sníží o 10%."
+
+msgid "伐木菜鸟"
+msgstr "Začátečník v těžbě dřeva"
+
+msgid "挖掘菜鸟"
+msgstr "Začátečník v těžbě surovin"
+
+msgid "冶炼菜鸟"
+msgstr "Začátečník v hutnictví"
+
+msgid "锻造菜鸟"
+msgstr "Začátečník v kovářství"
+
+msgid "种地菜鸟"
+msgstr "Začátečník v zemědělství"
+
+msgid "炼金菜鸟"
+msgstr "Začátečník v alchymii"
+
+msgid "钓鱼菜鸟"
+msgstr "Začátečník v rybaření"
+
+msgid "烹饪菜鸟"
+msgstr "Začátečník v vaření"
+
+msgid "狩猎菜鸟"
+msgstr "Začátečník v lovu"
+
+msgid "制图菜鸟"
+msgstr "Začátečník v kartografii"
+
+msgid "考古菜鸟"
+msgstr "Začátečník v archeologii"
+
+msgid "单手武器菜鸟"
+msgstr "Začátečník v jednoručních zbraních"
+
+msgid "双手武器菜鸟"
+msgstr "Začátečník v obouručních zbraních"
+
+msgid "远程武器菜鸟"
+msgstr "Začátečník v dálkových zbraních"
+
+msgid "防御菜鸟"
+msgstr "Začátečník v obraně"
+
+msgid "伐木高手"
+msgstr "Zkušený těžař dřeva"
+
+msgid "挖掘高手"
+msgstr "Zkušený těžař surovin"
+
+msgid "冶炼高手"
+msgstr "Zkušený hutník"
+
+msgid "锻造高手"
+msgstr "Zkušený kovář"
+
+msgid "种地高手"
+msgstr "Zkušený zemědělec"
+
+msgid "炼金高手"
+msgstr "Mistr alchymie"
+
+msgid "钓鱼高手"
+msgstr "Mistr rybaření"
+
+msgid "烹饪高手"
+msgstr "Mistr vaření"
+
+msgid "狩猎高手"
+msgstr "Mistr lovu"
+
+msgid "制图高手"
+msgstr "Mistr kartografie"
+
+msgid "考古高手"
+msgstr "Mistr archeologie"
+
+msgid "单手武器高手"
+msgstr "Mistr jednoručních zbraní"
+
+msgid "双手武器高手"
+msgstr "Mistr obouručních zbraní"
+
+msgid "远程武器高手"
+msgstr "Mistr střelných zbraní"
+
+msgid "防御高手"
+msgstr "Mistr obrany"
+
+msgid "伐木大王"
+msgstr "Král dřeva"
+
+msgid "挖掘大王"
+msgstr "Král dolování"
+
+msgid "冶炼大王"
+msgstr "Král tavení"
+
+msgid "锻造大王"
+msgstr "Král kovářství"
+
+msgid "种地大王"
+msgstr "Král zemědělství"
+
+msgid "炼金大王"
+msgstr "Král alchymie"
+
+msgid "钓鱼大王"
+msgstr "Král rybaření"
+
+msgid "烹饪大王"
+msgstr "Král vaření"
+
+msgid "狩猎大王"
+msgstr "Král lovu"
+
+msgid "制图大王"
+msgstr "Král kartografie"
+
+msgid "考古大王"
+msgstr "Král archeologie"
+
+msgid "单手武器大王"
+msgstr "Král jednoručních zbraní"
+
+msgid "双手武器大王"
+msgstr "Král obouručních zbraní"
+
+msgid "远程武器大王"
+msgstr "Král střelných zbraní"
+
+msgid "防御大王"
+msgstr "Král obrany"
+
+msgid "Tutorial"
+msgstr "Výukový program"
+
+msgid "Loadout"
+msgstr "Výbava"
+
+msgid "Character"
+msgstr "Postava"
+
+msgid "Inventory"
+msgstr "Inventář"
+
+msgid "Journey"
+msgstr "Cesta"
+
+msgid "Quests"
+msgstr "Úkoly"
+
+msgid "Community"
+msgstr "Komunita"
+
+msgid "Cheat"
+msgstr "Cheat"
+
+msgid "Dev"
+msgstr "Vývojář"
+
+msgid "Shop"
+msgstr "Obchod"
+
+msgid "StarStore"
+msgstr "Hvězdný obchod"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Codex"
+msgstr "Kodex"
+
+msgid "Leaderboard"
+msgstr "Žebříček"
+
+msgid "Achievements"
+msgstr "Úspěchy"
+
+msgid "Talents"
+msgstr "Talenty"
+
+msgid "Traits"
+msgstr "Vlastnosti"
+
+msgid "City"
+msgstr "Město"
+
+msgid "Skills"
+msgstr "Dovednosti"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Exit"
+msgstr "Konec"
+
+msgid "Skill unlocked: {0}"
+msgstr "Dovednost odemčena: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Reklamní příležitost"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Popis dialogu reklamní příležitosti"
+
+msgid "Ad Opportunity Finished"
+msgstr "Reklamní příležitost dokončena"
+
+msgid "Ad Failed"
+msgstr "Reklama se nezdařila"
+
+msgid "Activated Modifiers"
+msgstr "Aktivované modifikátory"
+
+msgid "Completed"
+msgstr "Dokončeno"
+
+msgid "Bankrupted"
+msgstr "Zbankrotováno"
+
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+msgid "Decline"
+msgstr "Odmítnout"
+
+msgid "Accept"
+msgstr "Přijmout"
+
+msgid "Skills Total Level"
+msgstr "Celková úroveň dovedností"
+
+msgid "Formater"
+msgstr "Formátor"
+
+msgid "✦ First selection is free"
+msgstr "✦ První výběr je zdarma"
+
+msgid "Switch cooldown: {0}"
+msgstr "Přepínací čas obnovení: {0}"
+
+msgid "● ACTIVE"
+msgstr "● AKTIVNÍ"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "Inspect"
+msgstr "Zkontrolovat"
+
+msgid "← Back"
+msgstr "← Zpět"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● AKTIVNÍ VLASTNOST"
+
+msgid "Selected"
+msgstr "Vybráno"
+
+msgid "Switch  (1× Formater)"
+msgstr "Přepnout (1× Formater)"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Dosáhněte celkové úrovně dovednosti {0} pro odemknutí tohoto slotu výhody. "
+"(Aktuálně: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "Změna výhody stojí 1× Formater"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "Loading"
+msgstr "Načítání"
+
+msgid "Buy"
+msgstr "Koupit"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "Sledovat {0} reklamu za {1}?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "Utratit {0} hvězd za {1}?"
+
+msgid "Success"
+msgstr "Úspěch"
+
+msgid "Successfully purchased %s"
+msgstr "Úspěšně zakoupeno: %s"
+
+msgid "Failed"
+msgstr "Neúspěch"
+
+msgid "Failed to purchase %s"
+msgstr "Nákup %s se nezdařil"
+
+msgid "Consumes"
+msgstr "Spotřebovává"
+
+msgid "Drops"
+msgstr "Vypouští"
+
+msgid "Loot"
+msgstr "Kořist"
+
+msgid "Props"
+msgstr "Předměty"
+
+msgid "Auto Equip"
+msgstr "Automatické vybavení"
+
+msgid "Actions"
+msgstr "Akce"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Zrychlení 10 minut: 1 hvězda"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Podzemí: {0} – {1} vln"
+
+msgid "Last wave is BOSS!"
+msgstr "Poslední vlna je BOSS!"
+
+msgid "Monster Pool:"
+msgstr "Fond monster:"
+
+msgid "Equipped"
+msgstr "Vybaveno"
+
+msgid "No Prop Selected"
+msgstr "Není vybrán předmět"
+
+msgid "Item is not a prop"
+msgstr "Položka není předmětem"
+
+msgid "Stop"
+msgstr "Zastavit"
+
+msgid "Amount"
+msgstr "Množství"
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Not enough coins"
+msgstr "Nedostatek mincí"
+
+msgid "About"
+msgstr "O hře"
+
+msgid "Game Version"
+msgstr "Verze hry"
+
+msgid "Theme Preference"
+msgstr "Preferované téma"
+
+msgid "Theme Style"
+msgstr "Styl motivu"
+
+msgid "Seed Color"
+msgstr "Barva semene"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "UI Scale"
+msgstr "Měřítko rozhraní"
+
+msgid "Scale: {0}"
+msgstr "Měřítko: {0}"
+
+msgid "Sound Volume"
+msgstr "Hlasitost zvuku"
+
+msgid "Volume: {0}"
+msgstr "Hlasitost: {0}"
+
+msgid "Music Volume"
+msgstr "Hlasitost hudby"
+
+msgid "Confirm"
+msgstr "Potvrdit"
+
+msgid "Stock"
+msgstr "Zásoby"
+
+msgid "Materials"
+msgstr "Materiály"
+
+msgid "Empty"
+msgstr "Prázdné"
+
+msgid "Item"
+msgstr "Předmět"
+
+msgid "Select a material"
+msgstr "Vyberte materiál"
+
+msgid "Not enough materials"
+msgstr "Nedostatek materiálu"
+
+msgid "Create"
+msgstr "Vytvořit"
+
+msgid "Quest"
+msgstr "Úkol"
+
+msgid "Rewards"
+msgstr "Odměny"
+
+msgid "Claim Reward"
+msgstr "Získat odměnu"
+
+msgid "Reward Claimed"
+msgstr "Odměna získána"
+
+msgid "In Progress"
+msgstr "Probíhá"
+
+msgid "Daily Quests"
+msgstr "Denní úkoly"
+
+msgid "Requirements"
+msgstr "Požadavky"
+
+msgid "Saving..."
+msgstr "Ukládání..."
+
+msgid "Saved"
+msgstr "Uloženo"
+
+msgid "Creating save"
+msgstr "Vytváření uložení"
+
+msgid "Deleting save"
+msgstr "Mazání uložení"
+
+msgid "Entering save"
+msgstr "Vstup do uložení"
+
+msgid "Refreshing"
+msgstr "Obnovování"
+
+msgid "Syncing cloud"
+msgstr "Synchronizace cloudu"
+
+msgid "New save"
+msgstr "Nové uložení"
+
+msgid "No modified time"
+msgstr "Bez času modifikace"
+
+msgid "Character name"
+msgstr "Jméno postavy"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Saves"
+msgstr "Uložení"
+
+msgid "Delete save"
+msgstr "Smazat uložení"
+
+msgid "Delete {0} ?"
+msgstr "Smazat {0} ?"
+
+msgid "Onboarding"
+msgstr "Úvod"
+
+msgid "Total Mastery"
+msgstr "Celkové mistrovství"
+
+msgid "{0} mastered"
+msgstr "{0} ovládnuto"
+
+msgid "Progress Rank"
+msgstr "Hodnost postupu"
+
+msgid "Collect items to start"
+msgstr "Sbírejte předměty pro zahájení"
+
+msgid "Mastery Level"
+msgstr "Úroveň mistrovství"
+
+msgid "Locked"
+msgstr "Zamčeno"
+
+msgid "Friends Only"
+msgstr "Pouze pro přátele"
+
+msgid "Your Rank"
+msgstr "Vaše hodnost"
+
+msgid "Total Mastery XP"
+msgstr "Celkové zkušenosti za mistrovství"
+
+msgid "Loading leaderboard..."
+msgstr "Načítání žebříčku..."
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Retry"
+msgstr "Zkusit znovu"
+
+msgid "No Data Available"
+msgstr "Nejsou k dispozici žádná data"
+
+msgid "Add friends to see rankings"
+msgstr "Pro zobrazení žebříčku přidejte přátele"
+
+msgid "Slots"
+msgstr "Sloty"
+
+msgid "Open Results"
+msgstr "Otevřít výsledky"
+
+msgid "Nothing obtained."
+msgstr "Nebylo získáno nic."
+
+msgid "Inventory full"
+msgstr "Inventář je plný"
+
+msgid "Item is locked"
+msgstr "Předmět je zamčen"
+
+msgid "Sell"
+msgstr "Prodat"
+
+msgid "Purchase Slot"
+msgstr "Koupit slot"
+
+msgid "Max Slots"
+msgstr "Maximální sloty"
+
+msgid "Selections"
+msgstr "Výběry"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Remove the relic?"
+msgstr "Odstranit relikvii?"
+
+msgid "Place Relic"
+msgstr "Umístit relikvii"
+
+msgid "Enchanting"
+msgstr "Zaklínání"
+
+msgid "Square"
+msgstr "Čtverec"
+
+msgid "Altar"
+msgstr "Oltář"
+
+msgid "Stop Enchanting"
+msgstr "Zastavit zaklínání"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Zastavit zaklínání? Materiály nebudou vráceny."
+
+msgid "Enchanting Result"
+msgstr "Výsledek zaklínání"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr "Vyberte předmět, který chcete vložit do inventáře, druhý bude zahozen."
+
+msgid "Put in Inventory"
+msgstr "Vložit do inventáře"
+
+msgid "Select Item"
+msgstr "Vybrat předmět"
+
+msgid "Original"
+msgstr "Původní"
+
+msgid "New"
+msgstr "Nový"
+
+msgid "Click to Keep"
+msgstr "Klikněte pro ponechání"
+
+msgid "Remaining"
+msgstr "Zbývající"
+
+msgid "Possible Modifiers"
+msgstr "Možné modifikátory"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Náhodně získá 1–2 modifikátory."
+
+msgid "Capacity"
+msgstr "Kapacita"
+
+msgid "Upgrade"
+msgstr "Vylepšit"
+
+msgid "Occupying"
+msgstr "Obsazeno"
+
+msgid "Unlocked"
+msgstr "Odemčeno"
+
+msgid "Layers"
+msgstr "Vrstvy"
+
+msgid "Not Built"
+msgstr "Není postaveno"
+
+msgid "Max Level Reached"
+msgstr "Maximální úrovně dosaženo"
+
+msgid "Decrease Tier"
+msgstr "Snížit úroveň"
+
+msgid "Increase Tier"
+msgstr "Zvýšit úroveň"
+
+msgid "Tier"
+msgstr "Úroveň"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Offline Rewards"
+msgstr "Odmeny za offline"
+
+msgid "You have been offline for {0}."
+msgstr "Byli jste offline po dobu {0}."
+
+msgid "Quantity"
+msgstr "Množství"
+
+msgid "Max Count"
+msgstr "Maximální počet"
+
+msgid "1 Left"
+msgstr "Zbývá 1"
+
+msgid "Owned"
+msgstr "Vlastněno"
+
+msgid "Unit Price"
+msgstr "Jednotková cena"
+
+msgid "Total Price"
+msgstr "Celková cena"
+
+msgid "Current Item"
+msgstr "Aktuální předmět"
+
+msgid "Count"
+msgstr "Počet"
+
+msgid "{0} missed {1}"
+msgstr "{0} minul {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} zasáhl {1}, poškození: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} byl poražen"
+
+msgid "Trait triggered: {0}"
+msgstr "Vlastnost aktivována: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Boj ukončen: {0}"
+
+msgid "Combat started"
+msgstr "Boj zahájen"
+
+msgid "Reviving..."
+msgstr "Oživování..."
+
+msgid "Combat Log"
+msgstr "Záznam boje"
+
+msgid "No combat events yet."
+msgstr "Zatím žádné bojové události."
+
+msgid "No trait activations yet."
+msgstr "Zatím žádné aktivace vlastností."
+
+msgid "Attack Speed"
+msgstr "Rychlost útoku"
+
+msgid "Slash Damage"
+msgstr "Poškození řezáním"
+
+msgid "Puncture Damage"
+msgstr "Poškození vpichem"
+
+msgid "Impact Damage"
+msgstr "Poškození nárazem"
+
+msgid "Slash Resistance"
+msgstr "Odolnost proti řezání"
+
+msgid "Puncture Resistance"
+msgstr "Odolnost proti vpichu"
+
+msgid "Impact Resistance"
+msgstr "Odolnost proti nárazu"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Pokrok v mistrovství: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Vybavení"
+
+msgid "Farming"
+msgstr "Zemědělství"
+
+msgid "Material"
+msgstr "Materiál"
+
+msgid "Misc"
+msgstr "Různé"
+
+msgid "Relics"
+msgstr "Relikvie"
+
+msgid "Item Mastered"
+msgstr "Předmět zvládnut"
+
+msgid "Mastery Complete"
+msgstr "Mistrovství dokončeno"
+
+msgid "Mastery Rank"
+msgstr "Úroveň mistrovství"
+
+msgid "Rank Advanced"
+msgstr "Postup na další úroveň"
+
+msgid "Your mastery continues to grow"
+msgstr "Vaše mistrovství dále roste"
+
+msgid "Finished"
+msgstr "Dokončeno"
+
+msgid "Fee: {0}"
+msgstr "Poplatek: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Tržní tlak: {0}"
+
+msgid "You Pay"
+msgstr "Platíte"
+
+msgid "You Receive"
+msgstr "Obdržíte"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"Tržní tlak představuje úroveň nasycení trhu. Čím vyšší je tržní tlak, tím "
+"horší je směnný kurz pro nákup. Tržní tlak v průběhu času přirozeně klesá."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "Směna mincí za ostrovní poukázky zvýší tržní tlak."
+
+msgid "Confirm Exchange"
+msgstr "Potvrdit směnu"
+
+msgid "Enter Amount"
+msgstr "Zadat množství"
+
+msgid "Insufficient Balance"
+msgstr "Nedostatečný zůstatek"
+
+msgid "Balance: {0}"
+msgstr "Zůstatek: {0}"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Pokud si myslíte, že jste udělali malou chybu, stačí kliknout na tlačítko "
+"níže a začít znovu! Žádný strach – tohle je jen malý zádrhel na vaší cestě k "
+"velikosti."
+
+msgid "Start Over"
+msgstr "Začít znovu"
+
+msgid "Are you sure?"
+msgstr "Jste si jistí?"
+
+msgid "Port"
+msgstr "Přístav"
+
+msgid "Next Trade In: {0}"
+msgstr "Příští obchod za: {0}"
+
+msgid "Current Stats"
+msgstr "Aktuální statistiky"
+
+msgid "Capacity (per trade)"
+msgstr "Kapacita (na obchod)"
+
+msgid "Trade Interval"
+msgstr "Interval obchodování"
+
+msgid "Saturation Speed"
+msgstr "Rychlost nasycení"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/položka, -{1}/s"
+
+msgid "Upgrades"
+msgstr "Vylepšení"
+
+msgid "How many items can be sold per trade."
+msgstr "Kolik položek lze prodat při jednom obchodu."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Jak často probíhají obchody. Nižší hodnota je lepší."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "Nasycení roste pomaleji a klesá rychleji."
+
+msgid "Now"
+msgstr "Nyní"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Cost"
+msgstr "Cena"
+
+msgid "Last Trade"
+msgstr "Poslední obchod"
+
+msgid "Trade Rule"
+msgstr "Pravidlo obchodu"
+
+msgid "Stock: {0}"
+msgstr "Zásoby: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Nasycení: {0}% (Cena x{1})"
+
+msgid "Trade Mode"
+msgstr "Režim obchodu"
+
+msgid "Min Stock"
+msgstr "Minimální zásoba"
+
+msgid "Saturation"
+msgstr "Nasycení"
+
+msgid "Policies"
+msgstr "Pravidla"
+
+msgid "Banking"
+msgstr "Bankovnictví"
+
+msgid "Repository"
+msgstr "Úložiště"
+
+msgid "Farmers"
+msgstr "Zemědělci"
+
+msgid "Workers"
+msgstr "Dělníci"
+
+msgid "Astrologers"
+msgstr "Astrologové"
+
+msgid "Alchemists"
+msgstr "Alchymisté"
+
+msgid "GreatToken"
+msgstr "Velký žeton"
+
+msgid "The Office"
+msgstr "Kancelář"
+
+msgid "Productivity"
+msgstr "Produktivita"
+
+msgid "Population"
+msgstr "Populace"
+
+msgid "Insufficient Resources"
+msgstr "Nedostatek zdrojů"
+
+msgid "Insufficient Workforce"
+msgstr "Nedostatek pracovních sil"
+
+msgid "Maintenance"
+msgstr "Údržba"
+
+msgid "Production Period"
+msgstr "Výrobní období"
+
+msgid "Building..."
+msgstr "Stavím..."
+
+msgid "Build"
+msgstr "Postavit"
+
+msgid "Build Cost"
+msgstr "Náklady na výstavbu"
+
+msgid "Period Costs"
+msgstr "Periodické náklady"
+
+msgid "Period Yields"
+msgstr "Periodické výnosy"
+
+msgid "Balance"
+msgstr "Zůstatek"
+
+msgid "Maintenance: {0}s"
+msgstr "Údržba: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Obchod: {0}"
+
+msgid "Available: {0}"
+msgstr "Dostupné: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Stále potřeba: {0}"
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "Already completed."
+msgstr "Již dokončeno."
+
+msgid "No available items."
+msgstr "Žádné dostupné položky."
+
+msgid "Add Items."
+msgstr "Přidat položky."
+
+msgid "Amount: {0}"
+msgstr "Množství: {0}"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "Needed"
+msgstr "Potřebné"
+
+msgid "Progress"
+msgstr "Pokrok"
+
+msgid "Action"
+msgstr "Akce"
+
+msgid "Great Token"
+msgstr "Velký žeton"
+
+msgid "Total Progress"
+msgstr "Celkový pokrok"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Přetáhněte karty do slotů a poté stiskněte Potvrdit pro použití. Navrhovat "
+"lze pouze odemčené karty."
+
+msgid "Unlocked: {0}"
+msgstr "Odemčeno: {0}"
+
+msgid "Reset"
+msgstr "Resetovat"
+
+msgid "Unequip"
+msgstr "Sundat"
+
+msgid "Cards"
+msgstr "Karty"
+
+msgid "{0} Policies"
+msgstr "{0} Pravidla"
+
+msgid "Equipped: {0}"
+msgstr "Vybaveno: {0}"
+
+msgid "Not equipped"
+msgstr "Nevybaveno"
+
+msgid "Equip"
+msgstr "Vybavit"
+
+msgid "Costs"
+msgstr "Náklady"
+
+msgid "None"
+msgstr "Žádné"
+
+msgid "Economic"
+msgstr "Ekonomické"
+
+msgid "Labor"
+msgstr "Pracovní"
+
+msgid "Social"
+msgstr "Sociální"
+
+msgid "Wildcard"
+msgstr "Žolík"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Vím o tobě! Slavný, všestranný mistr odborník. Vím, že svým důvtipem už znáš "
+"způsob fungování města, ale musím ti to představit! Nemáš na výběr!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"Tvým prvním krokem je získání populace, čehož lze dosáhnout stavbou "
+"zemědělských domů. Prosím, vyber kartu zemědělců."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Skvělý pokus! Nyní postav pár továren na dřevo a pil, abys mohl vyrábět prkna."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Skvělá práce, nyní to všechno prodáme. Prosím, jdi nejprve do přístavu. Najdi "
+"prkna a poté vyber režim obchodu na prodej, ve vhodnou chvíli se to "
+"automaticky prodá. Je to tak jednoduché!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Skvělá práce! Tvým konečným cílem je syntetizovat Velký žeton, který prokáže "
+"tvé mimořádné schopnosti správy města. Vytrvej a směřuj k tomuto cíli!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "Hotovo! Jdi a splň své ambiciózní cíle!"
+
+msgid "Skill level too low"
+msgstr "Úroveň dovednosti je příliš nízká"
+
+msgid "Not enough items"
+msgstr "Nedostatek předmětů"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Aktér"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maximální zdraví"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Zdraví"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Rychlost útoku"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Brnění"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Násobitel poškození"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Násobitel přijatého poškození"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Sekné poškození"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Bodné poškození"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Tupé poškození"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Bonus k šanci na zásah"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Bonus k šanci na úhyb"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Odolnost proti seknutí"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Odolnost proti bodnutí"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Odolnost proti tupému poškození"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Hráč"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Efekt jídla"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Násobitel offline odměn"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Dovednosti"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Efektivita kácení"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Efektivita těžby"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Efektivita tavení"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Efektivita kovářství"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Efektivita zemědělství"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Efektivita alchymie"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Efektivita rybolovu"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Efektivita vaření"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Efektivita lovu"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Efektivita mapování"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Efektivita archeologie"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Efektivita jednoručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Efektivita obouručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Efektivita střelby"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Efektivita obrany"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Rychlost kácení"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Rychlost těžby"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Rychlost tavení"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Rychlost kovářství"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Rychlost zemědělství"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Rychlost alchymie"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Rychlost rybolovu"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Rychlost vaření"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Rychlost lovu"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Rychlost mapování"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Rychlost archeologie"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Rychlost jednoručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Rychlost obouručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Rychlost střelby"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Rychlost obrany"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "Násobitel zkušeností kácení"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "Násobitel zkušeností těžby"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "Násobitel zkušeností tavení"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "Násobitel zkušeností kovářství"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "Násobitel zkušeností zemědělství"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "Násobitel zkušeností alchymie"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "Násobitel zkušeností rybolovu"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "Násobitel zkušeností vaření"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "Násobitel zkušeností lovu"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "Násobitel zkušeností mapování"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "Násobitel zkušeností archeologie"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "Násobitel zkušeností jednoručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "Násobitel zkušeností obouručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "Násobitel zkušeností střelby"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "Násobitel zkušeností obrany"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Násobitel kořisti kácení"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Násobitel kořisti těžby"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Násobitel kořisti tavení"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Násobitel kořisti kovářství"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Násobitel kořisti zemědělství"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Násobitel kořisti alchymie"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Násobitel kořisti rybolovu"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Násobitel kořisti vaření"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Násobitel kořisti lovu"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Násobitel kořisti mapování"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Násobitel kořisti archeologie"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Násobitel kořisti jednoručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Násobitel kořisti obouručních zbraní"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Násobitel kořisti střelby"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Násobitel kořisti obrany"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Štěstí při kácení"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Štěstí při těžbě"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Štěstí při tavení"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Štěstí při kovářství"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Štěstí při zemědělství"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Štěstí při alchymii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Štěstí při rybolovu"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Štěstí při vaření"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Štěstí při lovu"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Štěstí při mapování"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Štěstí při archeologii"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "Bojové zkušenosti"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Bojový výnos"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "Zkušenosti sběru"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Výnos sběru"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Rychlost sběru"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "Zkušenosti řemesla"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Výnos řemesla"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Rychlost řemesla"
+
+msgid "Skill {0} level up to {1}"
+msgstr "Dovednost {0} se zvýšila na úroveň {1}"
+
+msgid "Food"
+msgstr "Jídlo"
+
+msgid "Combat Potion"
+msgstr "Bojový lektvar"
+
+msgid "Gather Potion"
+msgstr "Lektvar pro sběr"
+
+msgid "Craft Potion"
+msgstr "Lektvar pro řemeslo"
+
+msgid "Inventory Slots"
+msgstr "Sloty v inventáři"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "Systém"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Světlá"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Tmavá"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "TonalSpot"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Neutrální"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Vibrantní"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Expresivní"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Duhová"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "FruitSalad"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Monochromatická"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Věrnost"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Unlock {0}"
+msgstr "Odemknout {0}"
+
+msgid "No requirement"
+msgstr "Bez požadavků"
+
+msgid "{0} reach level {1}"
+msgstr "{0} dosáhne úrovně {1}"
+
+msgid "Unknown skill"
+msgstr "Neznámá dovednost"
+
+msgid "{0} completed"
+msgstr "{0} dokončeno"
+
+msgid "Error Quest"
+msgstr "Chyba v úkolu"
+
+msgid "Kill {0} {1}"
+msgstr "Zabij {0} {1}"
+
+msgid "Collect {0} {1}"
+msgstr "Seber {0} {1}"
+
+msgid "Finish {0} {1}"
+msgstr "Dokonči {0} {1}"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "Postavit {0} {1}"
+
+msgid "Quest {0} completed"
+msgstr "Úkol {0} dokončen"
+
+msgid "Weapon"
+msgstr "Zbraň"
+
+msgid "Shield"
+msgstr "Štít"
+
+msgid "Helmet"
+msgstr "Helma"
+
+msgid "Armor"
+msgstr "Brnění"
+
+msgid "LegArmor"
+msgstr "Nohavice"
+
+msgid "Boots"
+msgstr "Boty"
+
+msgid "Accessories"
+msgstr "Doplňky"
+
+msgid "Necklace"
+msgstr "Náhrdelník"
+
+msgid "Ring"
+msgstr "Prsten"
+
+msgid "Bracelet"
+msgstr "Náramek"
+
+msgid "Cape"
+msgstr "Plášť"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Axe"
+msgstr "Sekera"
+
+msgid "Pickaxe"
+msgstr "Krumpáč"
+
+msgid "Spade"
+msgstr "Lopata"
+
+msgid "Rod"
+msgstr "Kmen"
+
+msgid "Trap"
+msgstr "Past"
+
+msgid "{0} Completed"
+msgstr "{0} dokončeno"
+
+msgid "Items not enough"
+msgstr "Nedostatek položek"
+
+msgid "CombatPotion"
+msgstr "Bojový lektvar"
+
+msgid "GatherPotion"
+msgstr "Sběratelský lektvar"
+
+msgid "CraftPotion"
+msgstr "Řemeslný lektvar"
+
+msgid "Flower"
+msgstr "Květina"
+
+msgid "Vegetable"
+msgstr "Zelenina"
+
+msgid "Fruit"
+msgstr "Ovoce"
+
+msgid "Fish"
+msgstr "Ryba"
+
+msgid "Sword"
+msgstr "Meč"
+
+msgid "Hammer"
+msgstr "Kladivo"
+
+msgid "Scythe"
+msgstr "Kosa"
+
+msgid "Spear"
+msgstr "Kopí"
+
+msgid "Bow"
+msgstr "Luk"
+
+msgid "Dart"
+msgstr "Šíp"
+
+msgid "Relic"
+msgstr "Relikvie"
+
+msgid "%s secs"
+msgstr "%s s"
+
+msgid "%s mins"
+msgstr "%s min"
+
+msgid "%s hours"
+msgstr "%s h"
+
+msgid "%s days"
+msgstr "%s d"
+
+msgid "%s weeks"
+msgstr "%s týdnů"
+
+msgid "%s months"
+msgstr "%s měsíců"
+
+msgid "%s years"
+msgstr "%s let"
+
+msgid "Always"
+msgstr "Vždy"
+
+msgid "Common"
+msgstr "Běžný"
+
+msgid "Uncommon"
+msgstr "Neobvyklý"
+
+msgid "Rare"
+msgstr "Vzácný"
+
+msgid "Legendary"
+msgstr "Legendární"
+
+msgid "Frenzy"
+msgstr "Šílenství"
+
+msgid "Tanky"
+msgstr "Odolný"
+
+msgid "Deadly"
+msgstr "Smrtící"
+
+msgid "Swift"
+msgstr "Rychlý"
+
+msgid "Precise"
+msgstr "Přesný"
+
+msgid "Hardened"
+msgstr "Ztvrdlý"

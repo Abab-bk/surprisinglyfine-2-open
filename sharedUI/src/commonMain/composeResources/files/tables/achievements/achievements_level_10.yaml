@@ -1,0 +1,119 @@
+- id: achievement_woodcutting_level_10
+  name: 伐木菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_woodcutting
+      level: 10
+
+
+- id: achievement_mining_level_10
+  name: 挖掘菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_mining
+      level: 10
+
+
+- id: achievement_smelting_level_10
+  name: 冶炼菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smelting
+      level: 10
+
+
+- id: achievement_smithing_level_10
+  name: 锻造菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smithing
+      level: 10
+
+
+- id: achievement_farming_level_10
+  name: 种地菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_farming
+      level: 10
+
+
+- id: achievement_alchemy_level_10
+  name: 炼金菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_alchemy
+      level: 10
+
+
+- id: achievement_fishing_level_10
+  name: 钓鱼菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_fishing
+      level: 10
+
+
+- id: achievement_cooking_level_10
+  name: 烹饪菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_cooking
+      level: 10
+
+
+- id: achievement_hunting_level_10
+  name: 狩猎菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_hunting
+      level: 10
+
+
+- id: achievement_charting_level_10
+  name: 制图菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_charting
+      level: 10
+
+
+- id: achievement_archaeology_level_10
+  name: 考古菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_archaeology
+      level: 10
+
+
+- id: achievement_one_handed_level_10
+  name: 单手武器菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_one_handed
+      level: 10
+
+
+- id: achievement_two_handed_level_10
+  name: 双手武器菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_two_handed
+      level: 10
+
+
+- id: achievement_ranged_level_10
+  name: 远程武器菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_ranged
+      level: 10
+
+
+- id: achievement_defense_level_10
+  name: 防御菜鸟
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_defense
+      level: 10
+

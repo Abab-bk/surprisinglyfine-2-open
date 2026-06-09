@@ -1,0 +1,19 @@
+- id: shop_seeds
+  itemId: seeds
+  rarity: Common
+
+- id: shop_vial
+  itemId: vial
+  rarity: Common
+
+- id: shop_formater
+  itemId: formater
+  rarity: Rare
+
+- id: shop_worm
+  itemId: worm
+  rarity: Rare
+  requirements:
+    - !<skillRequirement>
+      skillId: skill_fishing
+      level: 1

@@ -1,0 +1,4813 @@
+msgid ""
+msgstr ""
+"Language: Norwegian\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 timer +100% ferdighetserfaring"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 timer +100% frakoblet inntekt"
+
+msgid "炼金实验室"
+msgstr "Alkemilaboratorium"
+
+msgid "铁砧"
+msgstr "Ambolt"
+
+msgid "制图台"
+msgstr "Kartleggingsbord"
+
+msgid "烹饪锅"
+msgstr "Kokegryte"
+
+msgid "熔炉"
+msgstr "Smelteovn"
+
+msgid "投资政策"
+msgstr "Investeringspolitikk"
+
+msgid "建筑建造费用 {0}"
+msgstr "Byggekostnad {0}"
+
+msgid "财政改革"
+msgstr "Finansreform"
+
+msgid "全城维护费 {0}"
+msgstr "Vedlikeholdskostnad for hele byen {0}"
+
+msgid "关税壁垒"
+msgstr "Tollbarrierer"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Metningsgjenvinningshastighet {0}"
+
+msgid "自动化生产"
+msgstr "Automatisert produksjon"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Produksjonshastighet {0}, Arbeidskraftsbehov {1}"
+
+msgid "标准化作业"
+msgstr "Standardisert drift"
+
+msgid "生产速度 {0}"
+msgstr "Produksjonshastighet {0}"
+
+msgid "强制加班"
+msgstr "Obligatorisk overtid"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Produksjonshastighet {0}, Vedlikeholdskostnad {1}"
+
+msgid "福利国家"
+msgstr "Velferdsstat"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Vedlikeholdskostnad for boliger {0}"
+
+msgid "公共住房"
+msgstr "Offentlig bolig"
+
+msgid "住宅容量 {0}"
+msgstr "Boligkapasitet {0}"
+
+msgid "第一步"
+msgstr "Første steg"
+
+msgid "让我们挖掘"
+msgstr "La oss grave"
+
+msgid "让我们冶炼"
+msgstr "La oss smelte"
+
+msgid "想吃点鱼"
+msgstr "Vil spise litt fisk"
+
+msgid "想吃点鱼2"
+msgstr "Vil spise litt fisk 2"
+
+msgid "整装待发"
+msgstr "Klare til å dra"
+
+msgid "击杀邪恶哥布林"
+msgstr "Drep onde goblins"
+
+msgid "花匠"
+msgstr "Blomsterhandler"
+
+msgid "炼金师"
+msgstr "Alkymist"
+
+msgid "猎户"
+msgstr "Jeger"
+
+msgid "考古时刻"
+msgstr "Arkeologisk øyeblikk"
+
+msgid "考古时刻2"
+msgstr "Arkeologisk øyeblikk 2"
+
+msgid "工人住宅"
+msgstr "Arbeiderbolig"
+
+msgid "黏土坑"
+msgstr "Leiregrop"
+
+msgid "砖厂"
+msgstr "Mursteinsfabrikk"
+
+msgid "猪场"
+msgstr "Grisegård"
+
+msgid "屠宰场"
+msgstr "Slakteri"
+
+msgid "谷物农场"
+msgstr "Kornåker"
+
+msgid "面粉厂"
+msgstr "Mølle"
+
+msgid "面包厂"
+msgstr "Bakeri"
+
+msgid "铁矿"
+msgstr "Jerngruve"
+
+msgid "石油矿"
+msgstr "Oljebrønn"
+
+msgid "炼铁厂"
+msgstr "Jernverk"
+
+msgid "钢铁厂"
+msgstr "Stålverk"
+
+msgid "炼脂厂"
+msgstr "Fettraffineri"
+
+msgid "肥皂厂"
+msgstr "Såpefabrikk"
+
+msgid "武器厂"
+msgstr "Våpenfabrikk"
+
+msgid "麦芽厂"
+msgstr "Malteri"
+
+msgid "啤酒花厂"
+msgstr "Humlegård"
+
+msgid "啤酒厂"
+msgstr "Bryggeri"
+
+msgid "农民住宅"
+msgstr "Bondebolig"
+
+msgid "树厂"
+msgstr "Trefabrikk"
+
+msgid "锯木厂"
+msgstr "Sagbruk"
+
+msgid "渔场"
+msgstr "Fiskeri"
+
+msgid "土豆农场"
+msgstr "Potetåker"
+
+msgid "伏特加酒厂"
+msgstr "Vodkabrenneri"
+
+msgid "羊毛厂"
+msgstr "Ullfabrikk"
+
+msgid "服装厂"
+msgstr "Klesfabrikk"
+
+msgid "占星学家别墅"
+msgstr "Astrologvilla"
+
+msgid "西瓜农场"
+msgstr "Vannmelonåker"
+
+msgid "鸡蛋厂"
+msgstr "Eggfabrikk"
+
+msgid "曲奇厂"
+msgstr "Kjeksfabrikk"
+
+msgid "曲奇罐头厂"
+msgstr "Kjeksboksfabrikk"
+
+msgid "沙矿场"
+msgstr "Sandtak"
+
+msgid "硅厂"
+msgstr "Silisiumfabrikk"
+
+msgid "电子厂"
+msgstr "Elektronikkfabrikk"
+
+msgid "放大镜厂"
+msgstr "Forstørrelsesglassfabrikk"
+
+msgid "颜料厂"
+msgstr "Malingfabrikk"
+
+msgid "笔厂"
+msgstr "Pennfabrikk"
+
+msgid "绘图纸厂"
+msgstr "Tegnepapirfabrikk"
+
+msgid "绘图厂"
+msgstr "Tegnefabrikk"
+
+msgid "炼金术士别墅"
+msgstr "Alkemistvilla"
+
+msgid "采石场"
+msgstr "Steinbrudd"
+
+msgid "混凝土厂"
+msgstr "Betongfabrikk"
+
+msgid "锌矿厂"
+msgstr "Sinkgruve"
+
+msgid "石英矿场"
+msgstr "Kvartsbrudd"
+
+msgid "轴矿场"
+msgstr "Urangruve"
+
+msgid "红酒厂"
+msgstr "Vinprodusent"
+
+msgid "注射器厂"
+msgstr "Sprøytefabrikk"
+
+msgid "橡胶农场"
+msgstr "Gummiplantasje"
+
+msgid "生化服厂"
+msgstr "Beskyttelsesdraktfabrikk"
+
+msgid "硝石工厂"
+msgstr "Salpeterfabrikk"
+
+msgid "炸药工厂"
+msgstr "Eksplosivfabrikk"
+
+msgid "炼药锅"
+msgstr "Alkemikjel"
+
+msgid "镍矿厂"
+msgstr "Nikkelgruve"
+
+msgid "镍锭厂"
+msgstr "Nikkelverk"
+
+msgid "磁带厂"
+msgstr "Kassettfabrikk"
+
+msgid "纤维厂"
+msgstr "Fiberfabrikk"
+
+msgid "光盘厂"
+msgstr "CD-fabrikk"
+
+msgid "要号码宝箱"
+msgstr "Nummer-kiste"
+
+msgid "对抗纨绔宝箱"
+msgstr "Kiste for å bekjempe pøbel"
+
+msgid "美颜参数宝箱"
+msgstr "Skjønnhetsparameter-kiste"
+
+msgid "说梦话宝箱"
+msgstr "Søvngjenger-kiste"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Katt-som-gjesper-kiste"
+
+msgid "傻子太多宝箱"
+msgstr "For-mange-tullinger-kiste"
+
+msgid "生活太难宝箱"
+msgstr "Livet-er-hardt-kiste"
+
+msgid "生活太难宝箱 2"
+msgstr "Livet-er-hardt-kiste 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Ambisiøs kiste"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Ambisiøs kiste 2"
+
+msgid "喝水宝箱"
+msgstr "Drikkevann-kiste"
+
+msgid "礼貌宝箱"
+msgstr "Høflighets-kiste"
+
+msgid "礼貌宝箱 2"
+msgstr "Høflighets-kiste 2"
+
+msgid "厉害宝箱"
+msgstr "Imponerende kiste"
+
+msgid "厉害宝箱 2"
+msgstr "Imponerende kiste 2"
+
+msgid "厉害宝箱 3"
+msgstr "Imponerende kiste 3"
+
+msgid "奢侈品宝箱"
+msgstr "Luksusartikkel-kiste"
+
+msgid "奢侈品宝箱 2"
+msgstr "Luksusartikkel-kiste 2"
+
+msgid "不可战胜宝箱"
+msgstr "Uovervinnelig kiste"
+
+msgid "不可战胜宝箱 2"
+msgstr "Uovervinnelig kiste 2"
+
+msgid "帅哥宝箱"
+msgstr "Kjekk fyr-kiste"
+
+msgid "镇静宝箱"
+msgstr "Rolig-kiste"
+
+msgid "生活方式宝箱"
+msgstr "Livsstils-kiste"
+
+msgid "生活方式宝箱 2"
+msgstr "Livsstils-kiste 2"
+
+msgid "爱情故事宝箱"
+msgstr "Kjærlighetshistorie-kiste"
+
+msgid "爱情故事宝箱 2"
+msgstr "Kjærlighetshistorie-kiste 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Kjærlighetshistorie-kiste 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Kjærlighetshistorie-kiste 4"
+
+msgid "硬币"
+msgstr "Mynt"
+
+msgid "星星"
+msgstr "Stjerne"
+
+msgid "瓶子"
+msgstr "Flaske"
+
+msgid "蚯蚓"
+msgstr "Regnorm"
+
+msgid "皮革"
+msgstr "Lær"
+
+msgid "羽毛"
+msgstr "Fjær"
+
+msgid "墨水"
+msgstr "Blekk"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Stål"
+
+msgid "啤酒"
+msgstr "Øl"
+
+msgid "麦芽"
+msgstr "Malt"
+
+msgid "啤酒花"
+msgstr "Humle"
+
+msgid "好猪肉"
+msgstr "Godt svinekjøtt"
+
+msgid "谷物"
+msgstr "Korn"
+
+msgid "面粉"
+msgstr "Mel"
+
+msgid "面包"
+msgstr "Brød"
+
+msgid "油脂"
+msgstr "Fett"
+
+msgid "肥皂"
+msgstr "Såpe"
+
+msgid "武器"
+msgstr "Våpen"
+
+msgid "砖块"
+msgstr "Murstein"
+
+msgid "猪肉"
+msgstr "Svinekjøtt"
+
+msgid "粘土"
+msgstr "Leire"
+
+msgid "石油"
+msgstr "Olje"
+
+msgid "铁锭"
+msgstr "Jernbarre"
+
+msgid "木板"
+msgstr "Treplanker"
+
+msgid "土豆"
+msgstr "Potet"
+
+msgid "鱼"
+msgstr "Fisk"
+
+msgid "伏特加"
+msgstr "Vodka"
+
+msgid "羊毛"
+msgstr "Ull"
+
+msgid "衣服"
+msgstr "Klær"
+
+msgid "原木"
+msgstr "Tømmer"
+
+msgid "西瓜"
+msgstr "Vannmelon"
+
+msgid "鸡蛋"
+msgstr "Egg"
+
+msgid "曲奇"
+msgstr "Kjeks"
+
+msgid "曲奇罐头"
+msgstr "Kjeksboks"
+
+msgid "沙子"
+msgstr "Sand"
+
+msgid "硅"
+msgstr "Silisium"
+
+msgid "电路板"
+msgstr "Kretskort"
+
+msgid "放大镜"
+msgstr "Forstørrelsesglass"
+
+msgid "颜料"
+msgstr "Maling"
+
+msgid "笔"
+msgstr "Penn"
+
+msgid "绘图纸"
+msgstr "Tegnepapir"
+
+msgid "星图"
+msgstr "Stjernekart"
+
+msgid "石头"
+msgstr "Stein"
+
+msgid "混凝土"
+msgstr "Betong"
+
+msgid "锌"
+msgstr "Sink"
+
+msgid "石英"
+msgstr "Kvarts"
+
+msgid "铀"
+msgstr "Uran"
+
+msgid "红酒"
+msgstr "Rødvin"
+
+msgid "注射器"
+msgstr "Sprøyte"
+
+msgid "橡胶"
+msgstr "Gummi"
+
+msgid "生化服"
+msgstr "Beskyttelsesdrakt"
+
+msgid "硝石"
+msgstr "Salpeter"
+
+msgid "炸药"
+msgstr "Eksplosiver"
+
+msgid "炼金锅"
+msgstr "Alkemikjele"
+
+msgid "镍"
+msgstr "Nikkel"
+
+msgid "镍锭"
+msgstr "Nikkelbarre"
+
+msgid "磁带"
+msgstr "Kassett"
+
+msgid "纤维"
+msgstr "Fiber"
+
+msgid "光盘"
+msgstr "CD"
+
+msgid "邪恶虾兵"
+msgstr "Ond rekesoldat"
+
+msgid "邪恶蟹将"
+msgstr "Ond krabbeoffiser"
+
+msgid "邪恶史莱姆"
+msgstr "Ond slim"
+
+msgid "邪恶秃头"
+msgstr "Ond skallet"
+
+msgid "邪恶龙骨"
+msgstr "Ond dragebein"
+
+msgid "邪恶泰坦"
+msgstr "Ond titan"
+
+msgid "邪恶将军"
+msgstr "Ond general"
+
+msgid "邪恶大王"
+msgstr "Ond konge"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elite ond slim"
+
+msgid "精英邪恶秃头"
+msgstr "Elite ond skallet"
+
+msgid "精英邪恶龙骨"
+msgstr "Elite ond dragebein"
+
+msgid "精英邪恶泰坦"
+msgstr "Elite ond titan"
+
+msgid "精英邪恶将军"
+msgstr "Elite ond general"
+
+msgid "精英邪恶大王"
+msgstr "Elite ond konge"
+
+msgid "邪恶死人"
+msgstr "Ond død mann"
+
+msgid "邪恶蛇蛇"
+msgstr "Ond Slange"
+
+msgid "邪恶小偷"
+msgstr "Ond tyv"
+
+msgid "邪恶外星人"
+msgstr "Ond romvesen"
+
+msgid "邪恶大象"
+msgstr "Ond elefant"
+
+msgid "邪恶野人"
+msgstr "Ond Villmann"
+
+msgid "邪恶三头龙"
+msgstr "Ond trehodet drage"
+
+msgid "邪恶邪神"
+msgstr "Ond guddom"
+
+msgid "精英邪恶小偷"
+msgstr "Elite ond tyv"
+
+msgid "精英邪恶外星人"
+msgstr "Elite ond romvesen"
+
+msgid "精英邪恶大象"
+msgstr "Elite ond elefant"
+
+msgid "精英邪恶野人"
+msgstr "Elite ond villmann"
+
+msgid "精英邪恶三头龙"
+msgstr "Elite ond trehodet drage"
+
+msgid "精英邪恶邪神"
+msgstr "Elite ond guddom"
+
+msgid "邪恶螃蟹"
+msgstr "Ond krabbe"
+
+msgid "邪恶太阳花"
+msgstr "Ond solsikke"
+
+msgid "邪恶小鸡"
+msgstr "Ond Liten Høne"
+
+msgid "邪恶蜘蛛"
+msgstr "Ond edderkopp"
+
+msgid "邪恶蜜蜂"
+msgstr "Ond bie"
+
+msgid "邪恶笑脸男"
+msgstr "Ond smilende mann"
+
+msgid "邪恶骑士"
+msgstr "Ond ridder"
+
+msgid "邪恶巫婆"
+msgstr "Ond heks"
+
+msgid "精英邪恶小鸡"
+msgstr "Elite Ond Liten Høne"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elite ond edderkopp"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elite ond bie"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elite Ond Smilende Mann"
+
+msgid "精英邪恶骑士"
+msgstr "Elite ond ridder"
+
+msgid "精英邪恶巫婆"
+msgstr "Elite ond heks"
+
+msgid "祭坛"
+msgstr "Alter"
+
+msgid "铜剑"
+msgstr "Kobbersverd"
+
+msgid "铜锤"
+msgstr "Kobberhammer"
+
+msgid "铜镰刀"
+msgstr "Kobberskjæring"
+
+msgid "铜矛"
+msgstr "Kobberlanse"
+
+msgid "铜飞镖"
+msgstr "Kobberkastespiss"
+
+msgid "银剑"
+msgstr "Sølvsverd"
+
+msgid "银锤"
+msgstr "Sølvhammer"
+
+msgid "银镰刀"
+msgstr "Sølvskjæring"
+
+msgid "银矛"
+msgstr "Sølvlanse"
+
+msgid "银飞镖"
+msgstr "Sølvkastespiss"
+
+msgid "金剑"
+msgstr "Gullsverd"
+
+msgid "金锤"
+msgstr "Gullhammer"
+
+msgid "金镰刀"
+msgstr "Gullsigd"
+
+msgid "金矛"
+msgstr "Gullspyd"
+
+msgid "金飞镖"
+msgstr "Gullkastestjerne"
+
+msgid "霜冻剑"
+msgstr "Frostsværd"
+
+msgid "霜冻锤"
+msgstr "Frosthammer"
+
+msgid "霜冻镰刀"
+msgstr "Frostsigd"
+
+msgid "霜冻矛"
+msgstr "Frostspyd"
+
+msgid "霜冻飞镖"
+msgstr "Frostkastestjerne"
+
+msgid "翡翠剑"
+msgstr "Emeraldsværd"
+
+msgid "翡翠锤"
+msgstr "Emeraldhammer"
+
+msgid "翡翠镰刀"
+msgstr "Emeraldsigd"
+
+msgid "翡翠矛"
+msgstr "Emeraldspyd"
+
+msgid "翡翠飞镖"
+msgstr "Emeraldkastestjerne"
+
+msgid "熔岩剑"
+msgstr "Lavasværd"
+
+msgid "熔岩锤"
+msgstr "Lavahammer"
+
+msgid "熔岩镰刀"
+msgstr "Lavasigd"
+
+msgid "熔岩矛"
+msgstr "Lavaspyd"
+
+msgid "熔岩飞镖"
+msgstr "Lavakastestjerne"
+
+msgid "星辰剑"
+msgstr "Stjernesværd"
+
+msgid "星辰锤"
+msgstr "Stjernemalle"
+
+msgid "星辰镰刀"
+msgstr "Stjernesigd"
+
+msgid "星辰矛"
+msgstr "Stjernelanse"
+
+msgid "星辰飞镖"
+msgstr "Stjerneshuriken"
+
+msgid "彩虹剑"
+msgstr "Regnbuesverd"
+
+msgid "彩虹锤"
+msgstr "Regnbuemalle"
+
+msgid "彩虹镰刀"
+msgstr "Regnbuesigd"
+
+msgid "彩虹矛"
+msgstr "Regnbuelanse"
+
+msgid "彩虹飞镖"
+msgstr "Regnbueshuriken"
+
+msgid "铜靴子"
+msgstr "Kobbersko"
+
+msgid "铜腿甲"
+msgstr "Kobberbrynje"
+
+msgid "铜头盔"
+msgstr "Kobberhjelm"
+
+msgid "铜盾牌"
+msgstr "Kobberskjold"
+
+msgid "铜护甲"
+msgstr "Kobberbrynje"
+
+msgid "铜披风"
+msgstr "Kobberkappe"
+
+msgid "银靴子"
+msgstr "Sølvsko"
+
+msgid "银腿甲"
+msgstr "Sølvbrynje"
+
+msgid "银头盔"
+msgstr "Sølvhjelm"
+
+msgid "银盾牌"
+msgstr "Sølvskjold"
+
+msgid "银护甲"
+msgstr "Sølvbrynje"
+
+msgid "银披风"
+msgstr "Sølvkappe"
+
+msgid "金靴子"
+msgstr "Gullstøvler"
+
+msgid "金腿甲"
+msgstr "Gullbryne"
+
+msgid "金头盔"
+msgstr "Gullhjelm"
+
+msgid "金盾牌"
+msgstr "Gullskjold"
+
+msgid "金护甲"
+msgstr "Gullrustning"
+
+msgid "金披风"
+msgstr "Gullkappe"
+
+msgid "霜冻靴子"
+msgstr "Froststøvler"
+
+msgid "霜冻腿甲"
+msgstr "Frostbryne"
+
+msgid "霜冻头盔"
+msgstr "Frosthjelm"
+
+msgid "霜冻盾牌"
+msgstr "Frostskjold"
+
+msgid "霜冻护甲"
+msgstr "Frostrustning"
+
+msgid "霜冻披风"
+msgstr "Frostkappe"
+
+msgid "翡翠靴子"
+msgstr "Emeraldstøvler"
+
+msgid "翡翠腿甲"
+msgstr "Emeraldbryne"
+
+msgid "翡翠头盔"
+msgstr "Emeraldhjelm"
+
+msgid "翡翠盾牌"
+msgstr "Emeraldskjold"
+
+msgid "翡翠护甲"
+msgstr "Emeraldrustning"
+
+msgid "翡翠披风"
+msgstr "Emeraldkappe"
+
+msgid "熔岩靴子"
+msgstr "Maggstøvler"
+
+msgid "熔岩腿甲"
+msgstr "Lavaskinnbukser"
+
+msgid "熔岩头盔"
+msgstr "Lavahjelm"
+
+msgid "熔岩盾牌"
+msgstr "Lavaskjold"
+
+msgid "熔岩护甲"
+msgstr "Lavabrynje"
+
+msgid "熔岩披风"
+msgstr "Lavakappe"
+
+msgid "星辰靴子"
+msgstr "Stjernesko"
+
+msgid "星辰腿甲"
+msgstr "Stjerneskinnbukser"
+
+msgid "星辰头盔"
+msgstr "Stjernehatt"
+
+msgid "星辰盾牌"
+msgstr "Stjerneskjold"
+
+msgid "星辰护甲"
+msgstr "Stjernebrynje"
+
+msgid "星辰披风"
+msgstr "Stjernekappe"
+
+msgid "彩虹靴子"
+msgstr "Regnbuesko"
+
+msgid "彩虹腿甲"
+msgstr "Regnbueskinnbukser"
+
+msgid "彩虹头盔"
+msgstr "Regnbuehatt"
+
+msgid "彩虹盾牌"
+msgstr "Regnbueskjold"
+
+msgid "彩虹护甲"
+msgstr "Regnbuebrynje"
+
+msgid "彩虹披风"
+msgstr "Regnbuekappe"
+
+msgid "红宝石戒指"
+msgstr "Rubinring"
+
+msgid "黄宝石戒指"
+msgstr "Topasring"
+
+msgid "绿宝石戒指"
+msgstr "Smaragdring"
+
+msgid "月亮宝石戒指"
+msgstr "Måne stein ring"
+
+msgid "水晶宝石戒指"
+msgstr "Krystall stein ring"
+
+msgid "星星宝石戒指"
+msgstr "Stjerne stein ring"
+
+msgid "玛瑙宝石戒指"
+msgstr "Agat stein ring"
+
+msgid "彩虹宝石戒指"
+msgstr "Regnbue stein ring"
+
+msgid "红宝石项链"
+msgstr "Rubin halskjede"
+
+msgid "黄宝石项链"
+msgstr "Topas halskjede"
+
+msgid "绿宝石项链"
+msgstr "Smaragd halskjede"
+
+msgid "月亮宝石项链"
+msgstr "Måne stein halskjede"
+
+msgid "水晶宝石项链"
+msgstr "Krystall stein halskjede"
+
+msgid "星星宝石项链"
+msgstr "Stjerne stein halskjede"
+
+msgid "玛瑙宝石项链"
+msgstr "Agat stein halskjede"
+
+msgid "彩虹宝石项链"
+msgstr "Regnbue stein halskjede"
+
+msgid "红宝石手环"
+msgstr "Rubin armbånd"
+
+msgid "黄宝石手环"
+msgstr "Topas armbånd"
+
+msgid "绿宝石手环"
+msgstr "Smaragd armbånd"
+
+msgid "月亮宝石手环"
+msgstr "Måne stein armbånd"
+
+msgid "水晶宝石手环"
+msgstr "Krystall stein armbånd"
+
+msgid "星星宝石手环"
+msgstr "Stjerne stein armbånd"
+
+msgid "玛瑙宝石手环"
+msgstr "Agat stein armbånd"
+
+msgid "彩虹宝石手环"
+msgstr "Regnbue smykkearmbånd"
+
+msgid "铜鱼竿"
+msgstr "Kobber fiskestang"
+
+msgid "铜铲"
+msgstr "Kobber spade"
+
+msgid "铜斧"
+msgstr "Kobber øks"
+
+msgid "铜镐"
+msgstr "Kobber hakke"
+
+msgid "铜陷阱"
+msgstr "Kobber felle"
+
+msgid "银鱼竿"
+msgstr "Sølv fiskestang"
+
+msgid "银铲"
+msgstr "Sølv spade"
+
+msgid "银斧"
+msgstr "Sølv øks"
+
+msgid "银镐"
+msgstr "Sølv hakke"
+
+msgid "银陷阱"
+msgstr "Sølv felle"
+
+msgid "金鱼竿"
+msgstr "Gull fiskestang"
+
+msgid "金铲"
+msgstr "Gull spade"
+
+msgid "金斧"
+msgstr "Gull øks"
+
+msgid "金镐"
+msgstr "Gull hakke"
+
+msgid "金陷阱"
+msgstr "Gull felle"
+
+msgid "霜冻鱼竿"
+msgstr "Frost fiskestang"
+
+msgid "霜冻铲"
+msgstr "Frost spade"
+
+msgid "霜冻斧"
+msgstr "Frost øks"
+
+msgid "霜冻镐"
+msgstr "Frost hakke"
+
+msgid "霜冻陷阱"
+msgstr "Frostfelle"
+
+msgid "翡翠鱼竿"
+msgstr "Jade fiskestang"
+
+msgid "翡翠铲"
+msgstr "Jade spade"
+
+msgid "翡翠斧"
+msgstr "Jade øks"
+
+msgid "翡翠镐"
+msgstr "Jade hakke"
+
+msgid "翡翠陷阱"
+msgstr "Jade felle"
+
+msgid "熔岩鱼竿"
+msgstr "Lava fiskestang"
+
+msgid "熔岩铲"
+msgstr "Lava spade"
+
+msgid "熔岩斧"
+msgstr "Lava øks"
+
+msgid "熔岩镐"
+msgstr "Lava hakke"
+
+msgid "熔岩陷阱"
+msgstr "Lava felle"
+
+msgid "星辰鱼竿"
+msgstr "Stjerneskinn fiskestang"
+
+msgid "星辰铲"
+msgstr "Stjerneskinn spade"
+
+msgid "星辰斧"
+msgstr "Stjerneskinn øks"
+
+msgid "星辰镐"
+msgstr "Stjerneskinn hakke"
+
+msgid "星辰陷阱"
+msgstr "Stjerneskinn felle"
+
+msgid "彩虹鱼竿"
+msgstr "Regnbue fiskestang"
+
+msgid "彩虹铲"
+msgstr "Regnbue spade"
+
+msgid "彩虹斧"
+msgstr "Regnbue øks"
+
+msgid "彩虹镐"
+msgstr "Regnbue hakke"
+
+msgid "彩虹陷阱"
+msgstr "Regnbuefelle"
+
+msgid "苹果"
+msgstr "Eple"
+
+msgid "草莓"
+msgstr "Jordbær"
+
+msgid "香蕉"
+msgstr "Banán"
+
+msgid "蓝莓"
+msgstr "Blåbær"
+
+msgid "樱桃"
+msgstr "Kirsebær"
+
+msgid "橙子"
+msgstr "Appelsin"
+
+msgid "桃子"
+msgstr "Fersken"
+
+msgid "椰子"
+msgstr "Kokosnøtt"
+
+msgid "铜矿石"
+msgstr "Kobbermalm"
+
+msgid "银矿石"
+msgstr "Sølvmalm"
+
+msgid "金矿石"
+msgstr "Gullmalm"
+
+msgid "霜冻矿石"
+msgstr "Frostmalm"
+
+msgid "翡翠矿石"
+msgstr "Jadesten"
+
+msgid "熔岩矿石"
+msgstr "Lavamalm"
+
+msgid "星辰矿石"
+msgstr "Stjernemalm"
+
+msgid "彩虹矿石"
+msgstr "Regnbuemalm"
+
+msgid "眼睛"
+msgstr "Øye"
+
+msgid "牙"
+msgstr "Tann"
+
+msgid "黄色眼睛"
+msgstr "Gult øye"
+
+msgid "锋利的牙"
+msgstr "Skarpe tenner"
+
+msgid "绿色眼睛"
+msgstr "Grønne øyne"
+
+msgid "恐怖金牙"
+msgstr "Skremmende gulltenner"
+
+msgid "红色眼睛"
+msgstr "Røde øyne"
+
+msgid "骷髅头"
+msgstr "Skalle"
+
+msgid "炭"
+msgstr "Kull"
+
+msgid "铜锭"
+msgstr "Kobberstang"
+
+msgid "银锭"
+msgstr "Sølvstang"
+
+msgid "金锭"
+msgstr "Gullstang"
+
+msgid "霜冻锭"
+msgstr "Froststang"
+
+msgid "翡翠锭"
+msgstr "Jadestang"
+
+msgid "熔岩锭"
+msgstr "Lavastang"
+
+msgid "星辰锭"
+msgstr "Stjernestang"
+
+msgid "彩虹锭"
+msgstr "Regnbuestang"
+
+msgid "松木"
+msgstr "Furu"
+
+msgid "云杉木"
+msgstr "Gran"
+
+msgid "桦木"
+msgstr "Bjørk"
+
+msgid "柚木"
+msgstr "Teak"
+
+msgid "桃花心木"
+msgstr "Mahogni"
+
+msgid "铁皮木"
+msgstr "Jernved"
+
+msgid "红木"
+msgstr "Mahogni"
+
+msgid "古木"
+msgstr "Gammelt tre"
+
+msgid "鲤鱼"
+msgstr "Karpe"
+
+msgid "鳟鱼"
+msgstr "Ørret"
+
+msgid "三文鱼"
+msgstr "Laks"
+
+msgid "鲈鱼"
+msgstr "Søramerikansk aborre"
+
+msgid "罗非鱼"
+msgstr "Tilapia"
+
+msgid "鲭鱼"
+msgstr "Makrell"
+
+msgid "沙丁鱼"
+msgstr "Sardin"
+
+msgid "鲱鱼"
+msgstr "Sild"
+
+msgid "鲤鱼料理"
+msgstr "Karperett"
+
+msgid "鳟鱼料理"
+msgstr "Ørretrett"
+
+msgid "三文鱼料理"
+msgstr "Laksrett"
+
+msgid "鲈鱼料理"
+msgstr "Søramerikansk abborerett"
+
+msgid "罗非鱼料理"
+msgstr "Tilapiarett"
+
+msgid "鲭鱼料理"
+msgstr "Makrellrett"
+
+msgid "沙丁鱼料理"
+msgstr "Sardinrett"
+
+msgid "鲱鱼料理"
+msgstr "Sildrett"
+
+msgid "鲤鱼豪华料理"
+msgstr "Luksus karperett"
+
+msgid "鳟鱼豪华料理"
+msgstr "Luksus ørretrett"
+
+msgid "三文鱼豪华料理"
+msgstr "Lakse-luksusmiddag"
+
+msgid "鲈鱼豪华料理"
+msgstr "Sølvabbor-luksusmiddag"
+
+msgid "罗非鱼豪华料理"
+msgstr "Tilapia-luksusmiddag"
+
+msgid "鲭鱼豪华料理"
+msgstr "Makrell-luksusmiddag"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Sardine-luksusmiddag"
+
+msgid "鲱鱼豪华料理"
+msgstr "Sild-luksusmiddag"
+
+msgid "红宝石"
+msgstr "Rubin"
+
+msgid "黄宝石"
+msgstr "Topas"
+
+msgid "绿宝石"
+msgstr "Smaragd"
+
+msgid "月亮宝石"
+msgstr "Månesten"
+
+msgid "水晶宝石"
+msgstr "Krystall"
+
+msgid "星星宝石"
+msgstr "Stjernesten"
+
+msgid "玛瑙宝石"
+msgstr "Onyks"
+
+msgid "彩虹宝石"
+msgstr "Regnbuesten"
+
+msgid "红宝石精华"
+msgstr "Rubinessens"
+
+msgid "黄宝石精华"
+msgstr "Topasesens"
+
+msgid "绿宝石精华"
+msgstr "Smaragdessens"
+
+msgid "月亮精华"
+msgstr "Månessens"
+
+msgid "水晶精华"
+msgstr "Krystallessens"
+
+msgid "星星精华"
+msgstr "Stjernenessens"
+
+msgid "玛瑙精华"
+msgstr "Onyx Essence"
+
+msgid "彩虹精华"
+msgstr "Rainbow Essence"
+
+msgid "宝石粉末"
+msgstr "Gem Powder"
+
+msgid "种子"
+msgstr "Seed"
+
+msgid "肥料"
+msgstr "Fertilizer"
+
+msgid "兰花"
+msgstr "Orchid"
+
+msgid "雏菊"
+msgstr "Daisy"
+
+msgid "郁金香"
+msgstr "Tulip"
+
+msgid "玫瑰"
+msgstr "Rose"
+
+msgid "金盏花"
+msgstr "Marigold"
+
+msgid "牡丹"
+msgstr "Peony"
+
+msgid "风铃草"
+msgstr "Bluebell"
+
+msgid "向日葵"
+msgstr "Sunflower"
+
+msgid "玉米"
+msgstr "Corn"
+
+msgid "白菜"
+msgstr "Cabbage"
+
+msgid "辣椒"
+msgstr "Chili"
+
+msgid "萝卜"
+msgstr "Radish"
+
+msgid "蘑菇"
+msgstr "Mushroom"
+
+msgid "番茄"
+msgstr "Tomato"
+
+msgid "茄子"
+msgstr "Eggplant"
+
+msgid "黄瓜"
+msgstr "Agurk"
+
+msgid "精英怪物地图"
+msgstr "Elite monster kart"
+
+msgid "老洞穴地图"
+msgstr "Gammel hule kart"
+
+msgid "泡菜厂地图"
+msgstr "Sylteagurkfabrikk kart"
+
+msgid "老学校地图"
+msgstr "Gammel skole kart"
+
+msgid "啤酒厂地图"
+msgstr "Bryggeri kart"
+
+msgid "大香蕉地图"
+msgstr "Stor banan kart"
+
+msgid "藏身处地图"
+msgstr "Skjulested kart"
+
+msgid "木地地图"
+msgstr "Trejord kart"
+
+msgid "红色血包"
+msgstr "Rød blodpose"
+
+msgid "大电池手电筒"
+msgstr "Stort batteri lommelykt"
+
+msgid "空空瓶"
+msgstr "Tom flaske"
+
+msgid "大哥大"
+msgstr "Storebror"
+
+msgid "卡姆PIU特"
+msgstr "Kam PIU-te"
+
+msgid "红药丸瓶"
+msgstr "Rød pilleflaske"
+
+msgid "神奇海螺"
+msgstr "Magisk sjøsnile"
+
+msgid "蓝色笔"
+msgstr "Blå penn"
+
+msgid "对话气泡"
+msgstr "Dialogboble"
+
+msgid "蓝色小人"
+msgstr "Blå liten person"
+
+msgid "音药"
+msgstr "Musikalsk medisin"
+
+msgid "拳头！"
+msgstr "Nevn!"
+
+msgid "叶子~"
+msgstr "Blad~"
+
+msgid "火药球"
+msgstr "Kruttkule"
+
+msgid "蝴蝶蝶"
+msgstr "Sommerfugl"
+
+msgid "考试小抄"
+msgstr "Eksamenshjelp"
+
+msgid "下头！"
+msgstr "Skuffende!"
+
+msgid "护目镜"
+msgstr "Beskyttelsesbriller"
+
+msgid "硬币？"
+msgstr "Mynt?"
+
+msgid "贵项链"
+msgstr "Dyr halskjede"
+
+msgid "贵戒指"
+msgstr "Dyr ring"
+
+msgid "经典背包经典"
+msgstr "Klassisk ryggsekk"
+
+msgid "经典小包经典"
+msgstr "Klassisk liten sekk"
+
+msgid "烛蜡"
+msgstr "Lysvoks"
+
+msgid "经典宝箱经典"
+msgstr "Klassisk skattkiste"
+
+msgid "经典十字经典"
+msgstr "Klassisk kors"
+
+msgid "神秘墓碑"
+msgstr "Mystisk gravstein"
+
+msgid "神秘铁锤"
+msgstr "Mystisk hammer"
+
+msgid "无良印品"
+msgstr "Uredelig trykksak"
+
+msgid "鱼鱼"
+msgstr "Fisk"
+
+msgid "捣蒜器"
+msgstr "Hvitløksknuser"
+
+msgid "离洞绳"
+msgstr "Huletau"
+
+msgid "美容镜"
+msgstr "Skjønnhetsspeil"
+
+msgid "八匹狼"
+msgstr "Åtte ulver"
+
+msgid "神秘沙漏"
+msgstr "Mystisk timeglass"
+
+msgid "红心"
+msgstr "Rødt hjerte"
+
+msgid "火焰"
+msgstr "Flamme"
+
+msgid "全麦面包"
+msgstr "Fullkornsbrød"
+
+msgid "没寄出的信"
+msgstr "Usendt brev"
+
+msgid "花生之神"
+msgstr "Jordnøttgud"
+
+msgid "威风堂堂"
+msgstr "Storslått"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr ""
+"Hver gang du unngår et angrep, vil neste angrep garantert være et kritisk "
+"treff."
+
+msgid "百折不挠的真诚"
+msgstr "Utholdende oppriktighet"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Ved angrep er det 3 % sannsynlighet for å utløse dobbel skade."
+
+msgid "直言不讳的勇敢"
+msgstr "Direkte og modig"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"Hver kamp aktiverer tilfeldig 1 effekt: +50% skade / +30% forsvar / dobbel "
+"erfaring"
+
+msgid "空想家"
+msgstr "Drømmer"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Etter å ha drept en fiende, øker sjansen for å falle sjeldne gjenstander med "
+"1%, kan stables, men slutter å virke når helse er under 50%."
+
+msgid "令人震惊的"
+msgstr "Sjokkerende"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Når helse er under 20%, aktiveres \"Regenerering\" automatisk, som "
+"gjenoppretter 5% helse per sekund (varer 10 sekunder, 2 minutters avkjøling)."
+
+msgid "恐慌的"
+msgstr "Panisk"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"Ved treff, 5% sjanse for å gjøre fienden ute av stand til å handle i 5 "
+"sekunder. Kan ikke utløses på nytt."
+
+msgid "无法忍受的"
+msgstr "Uutholdelig"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Når du tar skjæreskade, 10% sjanse for å reflektere 50% skade tilbake til "
+"angriperen."
+
+msgid "邪恶的"
+msgstr "Ondskapsfull"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr "Fiskehastighet økes med 15%, men 10% sjanse for å ikke få noe."
+
+msgid "难以置信的"
+msgstr "Utrolig"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Når du hugger trær, 5% sjanse for å få 1 trekull."
+
+msgid "搞点货"
+msgstr "Skaff litt varer"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"Kampopplevelse reduseres med 30%, men 50% av dette fordeles jevnt til alle "
+"ikke-kampferdigheter."
+
+msgid "空间管理"
+msgstr "Plassstyring"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Hver tom plass i ryggsekken gir 0,2% global skadeøkning; hver opptatt plass "
+"gir 0,2% global skadereduksjon."
+
+msgid "麻烦的"
+msgstr "Plagsom"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"Kampbelønninger vil ikke lenger falle gull, men vil velge andre fall som "
+"erstatning."
+
+msgid "一心二用的"
+msgstr "To-i bruk"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Øker arkeologihastigheten med 10% mens den er utstyrt og i kamp."
+
+msgid "底子很好的"
+msgstr "Godt grunnlag"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "For hvert 2 sekunder på angrepsintervallet, økes sluttsskaden med 10%."
+
+msgid "主角般的"
+msgstr "Hovedrolleaktør"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"Fienders treffsjanse mot deg økes med 20%, men som kompensasjon økes sjansen "
+"for at fiender dropper sjeldne gjenstander med 1,5 ganger."
+
+msgid "形容词的"
+msgstr "Adjektiv"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"Din treffsjanse reduseres med 20%, men alle dine ferdigheters "
+"produksjonsmultiplikator økes med 10%."
+
+msgid "哈哈哈"
+msgstr "Ha ha ha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr ""
+"10% sjanse for å spille av latterlyden 'ha ha' når du trener en ferdighet."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr ""
+"Når den er utstyrt, legges det til 1 gullmynt for hver gang Steam-overlegget "
+"åpnes."
+
+msgid "基础健康药水"
+msgstr "Grunnleggende helseeliksir"
+
+msgid "基础战斗经验药水"
+msgstr "Grunnleggende kampeliksir"
+
+msgid "基础拾取药水"
+msgstr "Grunnleggende plukkeliksir"
+
+msgid "基础采集速度药水"
+msgstr "Grunnleggende innsamlingshastighetseliksir"
+
+msgid "基础采集经验药水"
+msgstr "Grunnleggende innsamlingseliksir"
+
+msgid "基础采集产量药水"
+msgstr "Grunnleggende innsamlingsutbytteeliksir"
+
+msgid "基础制造速度药水"
+msgstr "Grunnleggende produksjonshastighetseliksir"
+
+msgid "基础多件制造药水"
+msgstr "Grunnleggende flerproduksjonseliksir"
+
+msgid "基础制造经验药水"
+msgstr "Grunnleggende produksjoneliksir"
+
+msgid "常规健康药水"
+msgstr "Vanlig helseeliksir"
+
+msgid "常规战斗经验药水"
+msgstr "Vanlig kamp-erfaring elixir"
+
+msgid "常规拾取药水"
+msgstr "Vanlig plukke-elixir"
+
+msgid "常规采集速度药水"
+msgstr "Vanlig innsamlingstempo elixir"
+
+msgid "常规采集经验药水"
+msgstr "Vanlig innsamlingserfaring elixir"
+
+msgid "常规采集产量药水"
+msgstr "Vanlig innsamlingsutbytte elixir"
+
+msgid "常规制造速度药水"
+msgstr "Vanlig produksjonstempo elixir"
+
+msgid "常规多件制造药水"
+msgstr "Vanlig flerproduksjon elixir"
+
+msgid "常规制造经验药水"
+msgstr "Vanlig produksjonserfaring elixir"
+
+msgid "高级健康药水"
+msgstr "Avansert helse elixir"
+
+msgid "高级战斗经验药水"
+msgstr "Avansert kamp-erfaring elixir"
+
+msgid "高级拾取药水"
+msgstr "Avansert plukke-elixir"
+
+msgid "高级采集速度药水"
+msgstr "Avansert innsamlingstempo elixir"
+
+msgid "高级采集经验药水"
+msgstr "Avansert innsamlingserfaring elixir"
+
+msgid "高级采集产量药水"
+msgstr "Avansert innsamlingsutbytte elixir"
+
+msgid "高级制造速度药水"
+msgstr "Avansert produksjonstempo elixir"
+
+msgid "高级多件制造药水"
+msgstr "Avansert flerproduksjon elixir"
+
+msgid "高级制造经验药水"
+msgstr "Avansert produksjonserfaring elixir"
+
+msgid "超级健康药水"
+msgstr "Super helse elixir"
+
+msgid "超级战斗经验药水"
+msgstr "Super kamp-erfaring elixir"
+
+msgid "超级拾取药水"
+msgstr "Super plukke-elixir"
+
+msgid "超级采集速度药水"
+msgstr "Super høstingshastighetspotion"
+
+msgid "超级采集经验药水"
+msgstr "Super høstingserfaringspotion"
+
+msgid "超级采集产量药水"
+msgstr "Super høstingsproduksjonspotion"
+
+msgid "超级制造速度药水"
+msgstr "Super produksjonshastighetspotion"
+
+msgid "超级多件制造药水"
+msgstr "Super flerproduksjonspotion"
+
+msgid "超级制造经验药水"
+msgstr "Super produksjonserfaringspotion"
+
+msgid "老洞穴"
+msgstr "Gammel hule"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "泡菜厂"
+msgstr "Kimchifabrikk"
+
+msgid "老学校"
+msgstr "Gammel skole"
+
+msgid "大香蕉"
+msgstr "Stor banan"
+
+msgid "藏身处"
+msgstr "Skjulested"
+
+msgid "木地"
+msgstr "Treområde"
+
+msgid "龙虾巢穴"
+msgstr "Hummerhi"
+
+msgid "ocean"
+msgstr "Hav"
+
+msgid "深海洞窟"
+msgstr "Dyphavshule"
+
+msgid "黏黏洞窟"
+msgstr "Slimhule"
+
+msgid "决斗洞窟"
+msgstr "Duellhule"
+
+msgid "海底坟墓"
+msgstr "Havbunnsgrav"
+
+msgid "海底大坑"
+msgstr "Havbunnsavgrunn"
+
+msgid "神秘小路"
+msgstr "Mystisk sti"
+
+msgid "海底皇宫"
+msgstr "Havpalass"
+
+msgid "危险黏黏洞窟"
+msgstr "Farlig slimhule"
+
+msgid "elite"
+msgstr "Elite"
+
+msgid "危险决斗洞窟"
+msgstr "Farlig duellhule"
+
+msgid "危险海底坟墓"
+msgstr "Farlig havbunnsgrav"
+
+msgid "危险海底大坑"
+msgstr "Farlig havbunnsavgrunn"
+
+msgid "危险海底小路"
+msgstr "Farlig mystisk sti"
+
+msgid "危险海底皇宫"
+msgstr "Farlig havpalass"
+
+msgid "墓地"
+msgstr "Kirkegård"
+
+msgid "mountain"
+msgstr "Fjell"
+
+msgid "蛇蛇巢穴"
+msgstr "Slangehi"
+
+msgid "下水道"
+msgstr "Kloakk"
+
+msgid "外星基地"
+msgstr "Fremmedbase"
+
+msgid "大象巢穴"
+msgstr "Elefanthi"
+
+msgid "野人小屋"
+msgstr "Villmannshytte"
+
+msgid "地狱"
+msgstr "Helvete"
+
+msgid "邪恶国度"
+msgstr "Ondskapens rike"
+
+msgid "危险下水道"
+msgstr "Farlig kloakk"
+
+msgid "危险外星基地"
+msgstr "Farlig fremmedbase"
+
+msgid "危险大象巢穴"
+msgstr "Farlig elefanthi"
+
+msgid "危险野人小屋"
+msgstr "Farlig villmannshytte"
+
+msgid "危险地狱"
+msgstr "Farlig helvete"
+
+msgid "危险邪恶国度"
+msgstr "Farlig ondskapens rike"
+
+msgid "螃蟹巢穴"
+msgstr "Krabbehi"
+
+msgid "forest"
+msgstr "Skog"
+
+msgid "种植园"
+msgstr "Plantasje"
+
+msgid "鸡圈"
+msgstr "Hønsegård"
+
+msgid "蜘蛛巢穴"
+msgstr "Edderkopphi"
+
+msgid "蜂巢"
+msgstr "Bikube"
+
+msgid "开心乐园"
+msgstr "Fornøyelsespark"
+
+msgid "城堡"
+msgstr "Slott"
+
+msgid "魔法城堡"
+msgstr "Magisk slott"
+
+msgid "危险鸡圈"
+msgstr "Farlig hønsegård"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Farlig edderkopphi"
+
+msgid "危险蜂巢"
+msgstr "Farlig bikube"
+
+msgid "危险开心乐园"
+msgstr "Farlig fornøyelsespark"
+
+msgid "危险城堡"
+msgstr "Farlig slott"
+
+msgid "危险魔法城堡"
+msgstr "Farlig magisk slott"
+
+msgid "village"
+msgstr "Landsby"
+
+msgid "优质三文鱼"
+msgstr "Premium Laks"
+
+msgid "outskirts"
+msgstr "Utkant"
+
+msgid "优质鲈鱼"
+msgstr "Premium Aborre"
+
+msgid "优质罗非鱼"
+msgstr "Premium Tilapia"
+
+msgid "优质鲭鱼"
+msgstr "Premium Makrell"
+
+msgid "优质沙丁鱼"
+msgstr "Premium Sardin"
+
+msgid "优质鲱鱼"
+msgstr "Premium Sild"
+
+msgid "铜矿脉"
+msgstr "Kobberåre"
+
+msgid "银矿脉"
+msgstr "Sølvåre"
+
+msgid "金矿脉"
+msgstr "Gullåre"
+
+msgid "霜冻矿脉"
+msgstr "Froståre"
+
+msgid "翡翠矿脉"
+msgstr "Jadeåre"
+
+msgid "熔岩矿脉"
+msgstr "Lavaåre"
+
+msgid "星辰矿脉"
+msgstr "Stjärnåre"
+
+msgid "彩虹矿脉"
+msgstr "Regnbågeåre"
+
+msgid "优质金矿脉"
+msgstr "Gull av høy kvalitet"
+
+msgid "优质霜冻矿脉"
+msgstr "Frost av høy kvalitet"
+
+msgid "优质翡翠矿脉"
+msgstr "Jade av høy kvalitet"
+
+msgid "优质熔岩矿脉"
+msgstr "Lava av høy kvalitet"
+
+msgid "优质星辰矿脉"
+msgstr "Stjerner av høy kvalitet"
+
+msgid "优质彩虹矿脉"
+msgstr "Regnbue av høy kvalitet"
+
+msgid "松树"
+msgstr "Furu"
+
+msgid "云杉树"
+msgstr "Gran"
+
+msgid "桦树"
+msgstr "Bjørk"
+
+msgid "柚木树"
+msgstr "Teak"
+
+msgid "桃花心木树"
+msgstr "Mahogni"
+
+msgid "铁皮树"
+msgstr "Jernved"
+
+msgid "红木树"
+msgstr "Mahogny"
+
+msgid "古树"
+msgstr "Eldgammelt tre"
+
+msgid "优质桦树"
+msgstr "Bjørk av høy kvalitet"
+
+msgid "优质柚木树"
+msgstr "Teak av høy kvalitet"
+
+msgid "优质桃花心木树"
+msgstr "Mahogni av høy kvalitet"
+
+msgid "优质铁皮树"
+msgstr "Jernved av høy kvalitet"
+
+msgid "优质红木树"
+msgstr "Mahogny av høy kvalitet"
+
+msgid "优质古树"
+msgstr "Eldgammelt tre av høy kvalitet"
+
+msgid "ores"
+msgstr "malm"
+
+msgid "gems"
+msgstr "edelstener"
+
+msgid "月亮宝石精华"
+msgstr "Måne-juvel-essens"
+
+msgid "水晶宝石精华"
+msgstr "Krystall-juvel-essens"
+
+msgid "星星宝石精华"
+msgstr "Stjerne-juvel-essens"
+
+msgid "玛瑙宝石精华"
+msgstr "Onyks-juvel-essens"
+
+msgid "彩虹宝石精华"
+msgstr "Regnbue-juvel-essens"
+
+msgid "flower"
+msgstr "blomst"
+
+msgid "vegetable"
+msgstr "grønnsak"
+
+msgid "basics"
+msgstr "grunnleggende"
+
+msgid "regular"
+msgstr "vanlig"
+
+msgid "advance"
+msgstr "avansert"
+
+msgid "hyper"
+msgstr "hyper"
+
+msgid "cuisine"
+msgstr "matlaging"
+
+msgid "good_cuisine"
+msgstr "god matlaging"
+
+msgid "猪猪"
+msgstr "gris"
+
+msgid "小鸡"
+msgstr "høne"
+
+msgid "鹅鹅"
+msgstr "gås"
+
+msgid "羊羊"
+msgstr "sau"
+
+msgid "狼狼"
+msgstr "ulv"
+
+msgid "乌龟"
+msgstr "Skilpadde"
+
+msgid "猫猫"
+msgstr "Katt"
+
+msgid "螃蟹"
+msgstr "Krabbe"
+
+msgid "蓝皮猪猪"
+msgstr "Blågris"
+
+msgid "blue_skin"
+msgstr "Blå hud"
+
+msgid "蓝皮小鸡"
+msgstr "Blå kylling"
+
+msgid "蓝皮鹅鹅"
+msgstr "Blå gås"
+
+msgid "蓝皮羊羊"
+msgstr "Blå sau"
+
+msgid "蓝皮狼狼"
+msgstr "Blå ulv"
+
+msgid "蓝皮乌龟"
+msgstr "Blå skilpadde"
+
+msgid "蓝皮猫猫"
+msgstr "Blå katt"
+
+msgid "蓝皮螃蟹"
+msgstr "Blå krabbe"
+
+msgid "map_crafting"
+msgstr "Kartfremstilling"
+
+msgid "copper"
+msgstr "Kobber"
+
+msgid "armor"
+msgstr "Rustning"
+
+msgid "tool"
+msgstr "Verktøy"
+
+msgid "铜铲子"
+msgstr "Kobberspade"
+
+msgid "铜斧头"
+msgstr "Kobberøks"
+
+msgid "weapons"
+msgstr "Våpen"
+
+msgid "铜弓"
+msgstr "Kobberbue"
+
+msgid "accessories"
+msgstr "tilbehør"
+
+msgid "silver"
+msgstr "sølv"
+
+msgid "银铲子"
+msgstr "sølvspade"
+
+msgid "银斧头"
+msgstr "sølvøks"
+
+msgid "银弓"
+msgstr "sølvbue"
+
+msgid "gold"
+msgstr "gull"
+
+msgid "黄金披风"
+msgstr "gullkappe"
+
+msgid "金铲子"
+msgstr "gullspade"
+
+msgid "金斧头"
+msgstr "gulløks"
+
+msgid "金弓"
+msgstr "gullbue"
+
+msgid "frost"
+msgstr "frost"
+
+msgid "霜冻铲子"
+msgstr "frostspade"
+
+msgid "霜冻斧头"
+msgstr "frostøks"
+
+msgid "霜冻弓"
+msgstr "frostbue"
+
+msgid "jade"
+msgstr "jade"
+
+msgid "翡翠铲子"
+msgstr "jadespade"
+
+msgid "翡翠斧头"
+msgstr "jadeøks"
+
+msgid "翡翠弓"
+msgstr "jadebue"
+
+msgid "molten"
+msgstr "smeltet"
+
+msgid "熔岩铲子"
+msgstr "smeltet spade"
+
+msgid "熔岩斧头"
+msgstr "Lavøks"
+
+msgid "熔岩弓"
+msgstr "Lavbue"
+
+msgid "stellar"
+msgstr "Stjerneskjønn"
+
+msgid "星辰铲子"
+msgstr "Stjerneskovel"
+
+msgid "星辰斧头"
+msgstr "Stjerneøks"
+
+msgid "星辰弓"
+msgstr "Stjernebue"
+
+msgid "rainbow"
+msgstr "Regnbue"
+
+msgid "彩虹铲子"
+msgstr "Regnbueskov"
+
+msgid "彩虹斧头"
+msgstr "Regnbueøks"
+
+msgid "彩虹弓"
+msgstr "Regnbuebue"
+
+msgid "伐木"
+msgstr "Tømmerhugging"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Hovedproduksjon: Ved, frukt\n"
+"\n"
+"Bruk:\n"
+"- Ved → omdannes til trekull (til smelting, matlaging)\n"
+"- Ved → bygging av fellesskapsinfrastruktur\n"
+"- Frukt → omdannes til gjødsel (til jordbruk)\n"
+"\n"
+"Ferdighetsbonus: +0,25 % tømmerhuggingseffektivitet per nivå (gir umiddelbar "
+"fullføring av handling)\n"
+"Kjerneverktøy: Øks (øker tømmerhuggingstakten)"
+
+msgid "采矿"
+msgstr "Gruvedrift"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Hovedproduksjon: Malm, edelstener\n"
+"\n"
+"Bruk:\n"
+"- Malm → smeltes til barrer\n"
+"- Edelstener → smeltes til edelstenekstrakt\n"
+"\n"
+"Ferdighetsbonus: +0,25 % gruvedriftseffektivitet per nivå (gir umiddelbar "
+"fullføring av handling)\n"
+"Kjerneverktøy: Hakke (øker gruvedriftstakten)"
+
+msgid "冶炼"
+msgstr "Smelting"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Produksjonsinnhold:\n"
+"- Malm + trekull → barrer\n"
+"- Edelstener + trekull → edelstenekstrakt\n"
+"\n"
+"Bruk:\n"
+"- Barrer og edelstenekstrakt → smiing av våpen, verktøy, rustning, smykker\n"
+"- Barrer og edelstenekstrakt → bygging av "
+"fellesskapsinfrastruktur\n"
+"\n"
+"Ferdighetsbonus: +0,25 % smeltingseffektivitet per nivå (gir umiddelbar "
+"fullføring av handling)\n"
+"Kjernebygning: Smelteovn (øker smeltingstakten)"
+
+msgid "锻造"
+msgstr "Smier"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Produksjonsinnhold: Våpen, verktøy, rustning, smykker\n"
+"Nødvendige materialer: Barrer, edelstenekstrakt\n"
+"Ferdighetsbonus: +0,25 % smieeffektivitet per nivå (gir umiddelbar fullføring "
+"av handling)\n"
+"Kjernebygning: Ambolt (øker smietakten)"
+
+msgid "农业"
+msgstr "Jordbruk"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Hovedproduksjon: Blomster, grønnsaker\n"
+"\n"
+"Bruk:\n"
+"- Blomster → alkymistisk produksjon av eliksirer\n"
+"- Grønnsaker → matlaging av luksusretter (kampbehandling)\n"
+"\n"
+"Nødvendige materialer:\n"
+"- Frø (kjøpt i butikk)\n"
+"- Gjødsel (produsert fra frukt)\n"
+"\n"
+"Ferdighetsbonus: +0,25 % jordbrukseffektivitet per nivå (gir umiddelbar "
+"fullføring av handling)\n"
+"Kjerneverktøy: Spade (øker jordbrukstakten)"
+
+msgid "炼金"
+msgstr "Alkymi"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Produksjon: Forskjellige typer eliksirer\n"
+"\n"
+"Nødvendige materialer:\n"
+"- Blomster (Jordbruk)\n"
+"- Bein (Kamp)\n"
+"- Flasker (Butikk)\n"
+"\n"
+"Eliksireffekt: Gir flere fordelaktige effekter, varer i 180 sekunder som "
+"standard\n"
+"Ferdighetsbonus: +0,25 % alkymi-effektivitet per nivå (gir sannsynlighet for "
+"umiddelbar fullføring av handling)\n"
+"Kjernebygning: Alkymilaboratorium (øker alkymihastigheten)"
+
+msgid "钓鱼"
+msgstr "Fiske"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Hovedproduksjon: Fisk\n"
+"Bruk: Matlaging (helbredelse i kamp)\n"
+"Ferdighetsbonus: +0,25 % fiske-effektivitet per nivå (gir sannsynlighet for "
+"umiddelbar fullføring av handling)\n"
+"Kjerneverktøy: Fiskestang (øker fiskehastigheten)"
+
+msgid "烹饪"
+msgstr "Matlaging"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Produksjon: Forskjellige retter\n"
+"Nødvendige materialer: Ingredienser (fisk og grønnsaker) + kull\n"
+"Retteeffekt: Brukes automatisk i kamp når helse er under 33 %, gjenoppretter "
+"helse (nedkjølingstid 15 sekunder)\n"
+"Ferdighetsbonus: +0,25 % matlagingseffektivitet per nivå (gir sannsynlighet "
+"for umiddelbar fullføring av handling)\n"
+"Kjernebygning: Kokegryte (øker matlaginghastigheten)"
+
+msgid "狩猎"
+msgstr "Jakt"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Hovedproduksjon: Skinn, blekk, fjær\n"
+"Bruk: Kartproduksjon (krever kartleggingsferdighet)\n"
+"Nødvendige materialer: Meitemark (oppnådd fra fiske)\n"
+"Ferdighetsbonus: +0,25 % jakt-effektivitet per nivå (gir sannsynlighet for "
+"umiddelbar fullføring av handling)\n"
+"Kjerneverktøy: Felle (øker jakthastigheten)"
+
+msgid "制图"
+msgstr "Kartlegging"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Produksjon: Kart\n"
+"Nødvendige materialer: Skinn, blekk, fjær\n"
+"\n"
+"Bruk:\n"
+"- Forbruksgjenstand for arkeologiferdighet\n"
+"- Kreves for utfordring av elite-monstre\n"
+"\n"
+"Ferdighetsbonus: +0,25 % kartleggingseffektivitet per nivå (gir sannsynlighet "
+"for umiddelbar fullføring av handling)\n"
+"Kjernebygning: Kartleggingsbord (øker kartleggingshastigheten)"
+
+msgid "考古"
+msgstr "Arkeologi"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Spesiell mekanikk: Passiv ferdighet, kan utføres samtidig med andre "
+"ferdigheter\n"
+"Nødvendige materialer: Kart\n"
+"Hovedproduksjon: Relikvier\n"
+"\n"
+"Relikviesystem:\n"
+"- Bygg \"alter\" for å aktivere relikvier\n"
+"- Kan maksimalt aktivere 3 relikvier samtidig\n"
+"- Aktivering krever ressursforbruk\n"
+"\n"
+"Akselerasjonsmetode: Bruk stjerner for å akselerere arkeologifremgang"
+
+msgid "单手武器"
+msgstr "Enhåndsvåpen"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Våpentype: Sverd, hammer\n"
+"Ferdighetsbonus: +0,25 % enhånds-effektivitet per nivå (trening gir mulighet "
+"for dobbelt kamp-erfaring og "
+"bytte)\n"
+"\n"
+"Treffsannsynlighetsmekanikk:\n"
+"Grunnleggende treffsannsynlighet: 75 % (nivå lik)\n"
+"Hver over monster-nivå: +0,5 % treffsannsynlighet (grense 90 %)\n"
+"Hver under monster-nivå: -0,5 % treffsannsynlighet"
+
+msgid "双手武器"
+msgstr "Tohåndsvåpen"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Våpentype: Spyd, ljå\n"
+"Ferdighetsbonus: +0,25 % tohånds-effektivitet per nivå (trening gir mulighet "
+"for dobbelt kamp-erfaring og "
+"bytte)\n"
+"\n"
+"Treffsannsynlighetsmekanikk:\n"
+"Grunnleggende treffsannsynlighet: 75 % (nivå lik)\n"
+"Hver over monster-nivå: +0,5 % treffsannsynlighet (grense 90 %)\n"
+"Hver under monster-nivå: -0,5 % treffsannsynlighet"
+
+msgid "远程武器"
+msgstr "Fjernvåpen"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Våpentype: Bue, kastestjerne\n"
+"Ferdighetsbonus: +0,25 % fjern-effektivitet per nivå (trening gir mulighet "
+"for dobbelt kamp-erfaring og "
+"bytte)\n"
+"\n"
+"Treffsannsynlighetsmekanikk:\n"
+"Grunnleggende treffsannsynlighet: 75 % (nivå lik)\n"
+"Hver over monster-nivå: +0,5 % treffsannsynlighet (grense 90 %)\n"
+"Hver under monster-nivå: -0,5 % treffsannsynlighet"
+
+msgid "防御"
+msgstr "Forsvar"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Ferdighetsbonus: +0,25 % forsvarseffektivitet per nivå (trening gir mulighet "
+"for dobbelt kamp-erfaring og bytte)\n"
+"\n"
+"Forsvarsmekanikk: Reduserer monsterets treffsannsynlighet\n"
+"Hver over monster-nivå: Monsterets treffsannsynlighet -0,5 %\n"
+"Hver under monster-nivå: Monsterets treffsannsynlighet +0,5 %"
+
+msgid "把你踹开"
+msgstr "Sparker deg bort"
+
+msgid "他想要"
+msgstr "Han vil ha"
+
+msgid "我的号码"
+msgstr "Nummeret mitt"
+
+msgid "我不给"
+msgstr "Jeg gir ikke"
+
+msgid "对抗纨绔"
+msgstr "Kjempe mot rikmannssønner"
+
+msgid "美颜参数"
+msgstr "Skjønnsparametere"
+
+msgid "值得学习"
+msgstr "Verdt å lære"
+
+msgid "说梦话"
+msgstr "Snakke i søvne"
+
+msgid "肌肉大"
+msgstr "Store muskler"
+
+msgid "生活总是"
+msgstr "Livet er alltid"
+
+msgid "太多波折"
+msgstr "For mange opp- og nedturer"
+
+msgid "猫咪"
+msgstr "Katt"
+
+msgid "张嘴"
+msgstr "Åpne munnen"
+
+msgid "这个地方"
+msgstr "Dette stedet"
+
+msgid "傻子太多"
+msgstr "For mange dumme folk"
+
+msgid "我的生活"
+msgstr "Livet mitt"
+
+msgid "特别难过"
+msgstr "Veldig trist"
+
+msgid "希望你"
+msgstr "Jeg håper du"
+
+msgid "知道这个"
+msgstr "Vet dette"
+
+msgid "我不想"
+msgstr "Jeg vil ikke"
+
+msgid "当小人物"
+msgstr "Når en liten person"
+
+msgid "地下的"
+msgstr "Underjordisk"
+
+msgid "皇帝"
+msgstr "Keiser"
+
+msgid "我想当"
+msgstr "Jeg vil være"
+
+msgid "三根一起抽"
+msgstr "Tre roter sammen"
+
+msgid "喝很多水"
+msgstr "Drikke mye vann"
+
+msgid "和我作对"
+msgstr "Stå imot meg"
+
+msgid "出人头地"
+msgstr "Komme opp i verden"
+
+msgid "就在今天"
+msgstr "Nettopp i dag"
+
+msgid "当我看见"
+msgstr "Når jeg ser"
+
+msgid "外国友人"
+msgstr "Utenlandske venner"
+
+msgid "我不问好"
+msgstr "Jeg hilser ikke"
+
+msgid "因为我太"
+msgstr "Fordi jeg er for"
+
+msgid "高冷了"
+msgstr "Kald og fjern"
+
+msgid "质疑我的"
+msgstr "Tvile på min"
+
+msgid "嘲笑我的"
+msgstr "Gjøre narr av min"
+
+msgid "都是一群"
+msgstr "Er alle en gjeng"
+
+msgid "大傻子"
+msgstr "Store idioter"
+
+msgid "我就是"
+msgstr "Jeg er"
+
+msgid "全世界"
+msgstr "Hele verden"
+
+msgid "最牛的！"
+msgstr "Kuleste!"
+
+msgid "你的炫耀"
+msgstr "Din skryt"
+
+msgid "名牌包包"
+msgstr "Designer veske"
+
+msgid "名牌手表"
+msgstr "Designer klokke"
+
+msgid "说实话"
+msgstr "For å være ærlig"
+
+msgid "我不在乎"
+msgstr "Jeg bryr meg ikke"
+
+msgid "想打败我"
+msgstr "Vil slå meg"
+
+msgid "那你惨了"
+msgstr "Da har du trøbbel"
+
+msgid "我需要个"
+msgstr "Jeg trenger en"
+
+msgid "赚快钱"
+msgstr "Tjene raske penger"
+
+msgid "的方法"
+msgstr "metode"
+
+msgid "你可以叫我"
+msgstr "Du kan kalle meg"
+
+msgid "小帅"
+msgstr "Lille kjekke"
+
+msgid "面临"
+msgstr "Står overfor"
+
+msgid "指控"
+msgstr "anklager"
+
+msgid "从不会"
+msgstr "Vil aldri"
+
+msgid "求神拜佛"
+msgstr "Be til gudene"
+
+msgid "我只穿"
+msgstr "Jeg bare har på meg"
+
+msgid "一次性的"
+msgstr "engangs"
+
+msgid "袜子"
+msgstr "sokker"
+
+msgid "洗衣服"
+msgstr "Vask klær"
+
+msgid "太麻烦"
+msgstr "For mye bry"
+
+msgid "她画了"
+msgstr "Hun malte"
+
+msgid "美丽的妆"
+msgstr "Vakker sminke"
+
+msgid "但是她"
+msgstr "Men hun"
+
+msgid "喜欢女的"
+msgstr "Liker kvinner"
+
+msgid "我是那个"
+msgstr "Jeg er den"
+
+msgid "第三者"
+msgstr "Den tredje personen"
+
+msgid "特别伤心"
+msgstr "Veldig lei meg"
+
+msgid "我哭了"
+msgstr "Jeg gråt"
+
+msgid "自给自足者"
+msgstr "Selvforsynt"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 200: Ferdighetshastighet +20%\n"
+"Lager under 50: Ferdighetshastighet -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 300: Ferdighetserfaring multiplikator +20%\n"
+"Lager under 100: Ferdighetserfaring multiplikator -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 320: Ferdighetshastighet +24%\n"
+"Lager under 80: Ferdighetshastighet -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 420: Ferdighetserfaring multiplikator +24%\n"
+"Lager under 140: Ferdighetserfaring multiplikator -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 500: Ferdighetshastighet +30%\n"
+"Lager under 180: Ferdighetshastighet -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Ved utførelse av en handling, sjekk de obligatoriske gjenstandene for den "
+"handlingen:\n"
+"Lager over 650: Ferdighetserfaring multiplikator +30%\n"
+"Lager under 220: Ferdighetserfaring multiplikator -4%"
+
+msgid "Z 世代"
+msgstr "Generasjon Z"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Mellom 22:00–6:00, alle innsamlingsferdigheter hastighet +18%.\n"
+"Andre tider hastighet -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Mellom 22:00–6:00, alle produksjonsferdigheter hastighet +18%.\n"
+"Andre tider hastighet -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Mellom 22:00–6:00, alle innsamlingsferdigheter hastighet +24%.\n"
+"Andre tider hastighet -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Mellom 22:00–6:00, alle produksjonsferdigheter hastighet +24%.\n"
+"Andre tider hastighet -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Mellom 22:00–6:00, alle innsamlingsferdigheter hastighet +28%.\n"
+"Andre tider hastighet -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Mellom 22:00–6:00, alle produksjonsferdigheter hastighet +28%.\n"
+"Andre tider hastighet -8%"
+
+msgid "赌徒"
+msgstr "Spiller"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Ved fullføring av en handling: 13% sannsynlighet for at dagens utbytte "
+"nullstilles, 13% sannsynlighet for at dagens utbytte ×3.\n"
+"Men innsamlings-, produksjons- og kampferdigheters gjenstandsutbytte -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Ved fullføring av en handling: 4% sannsynlighet for at dagens utbytte "
+"nullstilles, 6% sannsynlighet for at dagens utbytte ×3"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Ved fullføring av en handling: 10% sannsynlighet for at dagens utbytte "
+"nullstilles, 20% sannsynlighet for at dagens utbytte ×3.\n"
+"Men innsamlings-, produksjons- og kampferdigheters gjenstandsutbytte -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Ved fullføring av en handling: 5% sannsynlighet for at dagens utbytte "
+"nullstilles, 9% sannsynlighet for at dagens utbytte ×3"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Ved fullføring av hvilken som helst handling: 8 % sannsynlighet for at denne "
+"produksjonen nullstilles, 26 % sannsynlighet for at denne produksjonen ganges "
+"med 3.\n"
+"Men høsting, håndverk og kampferdigheter reduserer vareproduksjonen med 10 %."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Ved fullføring av hvilken som helst handling: 2 % sannsynlighet for at denne "
+"produksjonen nullstilles, 10 % sannsynlighet for at denne produksjonen ganges "
+"med 3."
+
+msgid "番茄钟"
+msgstr "Tomaturs"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 10 minutter, "
+"øker vareproduksjonen for den ferdigheten med 5 % (maks +30 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 10 minutter, "
+"øker erfaringsmultiplikatoren for den ferdigheten med 5 % (maks +30 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 8 minutter, "
+"øker vareproduksjonen for den ferdigheten med 4 % (maks +36 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 8 minutter, "
+"øker erfaringsmultiplikatoren for den ferdigheten med 4 % (maks +36 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 6 minutter, "
+"øker vareproduksjonen for den ferdigheten med 4 % (maks +48 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Hver gang du fokuserer på en enkelt håndverksferdighet i over 6 minutter, "
+"øker erfaringsmultiplikatoren for den ferdigheten med 4 % (maks +48 %).\n"
+"Når du bytter håndverksferdighet, nullstilles akkumuleringen til 0."
+
+msgid "万岁"
+msgstr "Leve"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Ved kontinuerlig beseiring av monstre, akkumuleres skade og treffsikkerhet "
+"med +2,5 % per gang (maks +25 %).\n"
+"Når du blir truffet av et monster, starter tellingen fra 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Etter hvert skade du tar, øker skaden på neste angrep med 18 % og "
+"treffsikkerheten med 8 %.\n"
+"Men maks helse reduseres med 12 %."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Ved kontinuerlig beseiring av monstre, akkumuleres skade og treffsikkerhet "
+"med +3 % per gang (maks +36 %).\n"
+"Når du blir truffet av et monster, starter tellingen fra 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Etter hvert skade du tar, øker skaden på neste angrep med 24 % og "
+"treffsikkerheten med 12 %.\n"
+"Men maks helse reduseres med 12 %."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Ved kontinuerlig beseiring av monstre, akkumuleres skade og treffsikkerhet "
+"med +3,5 % per gang (maks +45 %).\n"
+"Når du blir truffet av et monster, starter tellingen fra 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Etter hvert skade du tar, øker skaden på neste angrep med 30 % og "
+"treffsikkerheten med 15 %.\n"
+"Men maks helse reduseres med 10 %."
+
+msgid "伐木菜鸟"
+msgstr "Skogbruker i lære"
+
+msgid "挖掘菜鸟"
+msgstr "Gruvearbeider i lære"
+
+msgid "冶炼菜鸟"
+msgstr "Smelter i lære"
+
+msgid "锻造菜鸟"
+msgstr "Smed i lære"
+
+msgid "种地菜鸟"
+msgstr "Bonde i lære"
+
+msgid "炼金菜鸟"
+msgstr "Alkemist i lære"
+
+msgid "钓鱼菜鸟"
+msgstr "Fisker i lære"
+
+msgid "烹饪菜鸟"
+msgstr "Kokk i lære"
+
+msgid "狩猎菜鸟"
+msgstr "Jeger i lære"
+
+msgid "制图菜鸟"
+msgstr "Kartmaker i lære"
+
+msgid "考古菜鸟"
+msgstr "Arkeolog i lære"
+
+msgid "单手武器菜鸟"
+msgstr "Enhåndsvåpen i lære"
+
+msgid "双手武器菜鸟"
+msgstr "Tohåndsvåpen i lære"
+
+msgid "远程武器菜鸟"
+msgstr "Fjernvåpen i lære"
+
+msgid "防御菜鸟"
+msgstr "Forsvar i lære"
+
+msgid "伐木高手"
+msgstr "Skogbruker i mester"
+
+msgid "挖掘高手"
+msgstr "Gruvearbeider i mester"
+
+msgid "冶炼高手"
+msgstr "Smelter i mester"
+
+msgid "锻造高手"
+msgstr "Smed i mester"
+
+msgid "种地高手"
+msgstr "Bonde i mester"
+
+msgid "炼金高手"
+msgstr "Alkemimester"
+
+msgid "钓鱼高手"
+msgstr "Fiskemester"
+
+msgid "烹饪高手"
+msgstr "Kokemester"
+
+msgid "狩猎高手"
+msgstr "Jaktmester"
+
+msgid "制图高手"
+msgstr "Kartmester"
+
+msgid "考古高手"
+msgstr "Arkeologmester"
+
+msgid "单手武器高手"
+msgstr "Enhåndsvåpenmester"
+
+msgid "双手武器高手"
+msgstr "Tohåndsvåpenmester"
+
+msgid "远程武器高手"
+msgstr "Fjernvåpenmester"
+
+msgid "防御高手"
+msgstr "Forsvarsmester"
+
+msgid "伐木大王"
+msgstr "Skogskonge"
+
+msgid "挖掘大王"
+msgstr "Gravekonge"
+
+msgid "冶炼大王"
+msgstr "Smeltekonge"
+
+msgid "锻造大王"
+msgstr "Smedkonge"
+
+msgid "种地大王"
+msgstr "Jordbrukkonge"
+
+msgid "炼金大王"
+msgstr "Alkemikonge"
+
+msgid "钓鱼大王"
+msgstr "Fiskekonge"
+
+msgid "烹饪大王"
+msgstr "Kokekonge"
+
+msgid "狩猎大王"
+msgstr "Jaktekonge"
+
+msgid "制图大王"
+msgstr "Kartkonge"
+
+msgid "考古大王"
+msgstr "Arkeologikongen"
+
+msgid "单手武器大王"
+msgstr "Enhåndsvåpenkongen"
+
+msgid "双手武器大王"
+msgstr "Tohåndsvåpenkongen"
+
+msgid "远程武器大王"
+msgstr "Fjernvåpenkongen"
+
+msgid "防御大王"
+msgstr "Forsvarskongen"
+
+msgid "Tutorial"
+msgstr "Opplæring"
+
+msgid "Loadout"
+msgstr "Utstyr"
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Inventory"
+msgstr "Invensjon"
+
+msgid "Journey"
+msgstr "Reise"
+
+msgid "Quests"
+msgstr "Oppdrag"
+
+msgid "Community"
+msgstr "Felleskap"
+
+msgid "Cheat"
+msgstr "Jukse"
+
+msgid "Dev"
+msgstr "Utvikler"
+
+msgid "Shop"
+msgstr "Butikk"
+
+msgid "StarStore"
+msgstr "Stjernebutikk"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Codex"
+msgstr "Kodeks"
+
+msgid "Leaderboard"
+msgstr "Ledertavle"
+
+msgid "Achievements"
+msgstr "Prestasjoner"
+
+msgid "Talents"
+msgstr "Talenter"
+
+msgid "Traits"
+msgstr "Egenskaper"
+
+msgid "City"
+msgstr "By"
+
+msgid "Skills"
+msgstr "Ferdigheter"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Exit"
+msgstr "Avslutt"
+
+msgid "Skill unlocked: {0}"
+msgstr "Ferdighet låst opp: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Anledning for reklame"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Beskrivelse av reklameanledning"
+
+msgid "Ad Opportunity Finished"
+msgstr "Reklameanledning fullført"
+
+msgid "Ad Failed"
+msgstr "Reklame mislyktes"
+
+msgid "Activated Modifiers"
+msgstr "Aktiverte modifikatorer"
+
+msgid "Completed"
+msgstr "Fullført"
+
+msgid "Bankrupted"
+msgstr "Gått konkurs"
+
+msgid "Privacy Policy"
+msgstr "Personvernerklæring"
+
+msgid "Decline"
+msgstr "Avslå"
+
+msgid "Accept"
+msgstr "Godta"
+
+msgid "Skills Total Level"
+msgstr "Ferdighets totalnivå"
+
+msgid "Formater"
+msgstr "Formater"
+
+msgid "✦ First selection is free"
+msgstr "✦ Første valg er gratis"
+
+msgid "Switch cooldown: {0}"
+msgstr "Bytteavkjøling: {0}"
+
+msgid "● ACTIVE"
+msgstr "● AKTIV"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Inspect"
+msgstr "Inspiser"
+
+msgid "← Back"
+msgstr "← Tilbake"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● AKTIV EGENSKAP"
+
+msgid "Selected"
+msgstr "Valgt"
+
+msgid "Switch  (1× Formater)"
+msgstr "Bytt (1× Formater)"
+
+msgid "Select"
+msgstr "Velg"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Nå totalt ferdighetsnivå {0} for å låse opp denne fordelssloten. (For "
+"øyeblikket: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "Endring av fordel koster 1× Formater"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activate"
+msgstr "Aktiver"
+
+msgid "Loading"
+msgstr "Laster inn"
+
+msgid "Buy"
+msgstr "Kjøp"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "Se {0} annonse for {1}?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "Bruke {0} stjerner for {1}?"
+
+msgid "Success"
+msgstr "Vellykket"
+
+msgid "Successfully purchased %s"
+msgstr "Kjøpte %s vellykket"
+
+msgid "Failed"
+msgstr "Mislykket"
+
+msgid "Failed to purchase %s"
+msgstr "Kunne ikke kjøpe %s"
+
+msgid "Consumes"
+msgstr "Forbruker"
+
+msgid "Drops"
+msgstr "Dropper"
+
+msgid "Loot"
+msgstr "Bytte"
+
+msgid "Props"
+msgstr "Eiendeler"
+
+msgid "Auto Equip"
+msgstr "Auto-utstyr"
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Forskyv 10 minutter: 1 stjerne"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Fangehull: {0} - {1} bølger"
+
+msgid "Last wave is BOSS!"
+msgstr "Siste bølge er en BOSS!"
+
+msgid "Monster Pool:"
+msgstr "Monsterutvalg:"
+
+msgid "Equipped"
+msgstr "Utstyrt"
+
+msgid "No Prop Selected"
+msgstr "Ingen gjenstand valgt"
+
+msgid "Item is not a prop"
+msgstr "Gjenstanden er ikke en gjenstand"
+
+msgid "Stop"
+msgstr "Stopp"
+
+msgid "Amount"
+msgstr "Beløp"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Price"
+msgstr "Pris"
+
+msgid "Not enough coins"
+msgstr "Ikke nok mynter"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Game Version"
+msgstr "Spillversjon"
+
+msgid "Theme Preference"
+msgstr "Temaforetrukkelse"
+
+msgid "Theme Style"
+msgstr "Temastil"
+
+msgid "Seed Color"
+msgstr "Frøfarge"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "UI Scale"
+msgstr "Brukerflate skalering"
+
+msgid "Scale: {0}"
+msgstr "Skalering: {0}"
+
+msgid "Sound Volume"
+msgstr "Lydvolum"
+
+msgid "Volume: {0}"
+msgstr "Volum: {0}"
+
+msgid "Music Volume"
+msgstr "Musikkvolum"
+
+msgid "Confirm"
+msgstr "Bekreft"
+
+msgid "Stock"
+msgstr "Lager"
+
+msgid "Materials"
+msgstr "Materialer"
+
+msgid "Empty"
+msgstr "Tom"
+
+msgid "Item"
+msgstr "Gjenstand"
+
+msgid "Select a material"
+msgstr "Velg et materiale"
+
+msgid "Not enough materials"
+msgstr "Ikke nok materialer"
+
+msgid "Create"
+msgstr "Lag"
+
+msgid "Quest"
+msgstr "Oppdrag"
+
+msgid "Rewards"
+msgstr "Belønninger"
+
+msgid "Claim Reward"
+msgstr "Hent belønning"
+
+msgid "Reward Claimed"
+msgstr "Belønning hentet"
+
+msgid "In Progress"
+msgstr "Pågående"
+
+msgid "Daily Quests"
+msgstr "Daglige oppdrag"
+
+msgid "Requirements"
+msgstr "Krav"
+
+msgid "Saving..."
+msgstr "Lagrer..."
+
+msgid "Saved"
+msgstr "Lagret"
+
+msgid "Creating save"
+msgstr "Oppretter lagring"
+
+msgid "Deleting save"
+msgstr "Sletter lagring"
+
+msgid "Entering save"
+msgstr "Går inn i lagring"
+
+msgid "Refreshing"
+msgstr "Oppdaterer"
+
+msgid "Syncing cloud"
+msgstr "Synkroniserer sky"
+
+msgid "New save"
+msgstr "Ny lagring"
+
+msgid "No modified time"
+msgstr "Ingen endringstid"
+
+msgid "Character name"
+msgstr "Karakternavn"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Saves"
+msgstr "Lagring"
+
+msgid "Delete save"
+msgstr "Slett lagring"
+
+msgid "Delete {0} ?"
+msgstr "Slett {0} ?"
+
+msgid "Onboarding"
+msgstr "Introduksjon"
+
+msgid "Total Mastery"
+msgstr "Totalt mesterskap"
+
+msgid "{0} mastered"
+msgstr "{0} fullført"
+
+msgid "Progress Rank"
+msgstr "Fremgangsrangering"
+
+msgid "Collect items to start"
+msgstr "Samle gjenstander for å starte"
+
+msgid "Mastery Level"
+msgstr "Mesterskapsnivå"
+
+msgid "Locked"
+msgstr "Låst"
+
+msgid "Friends Only"
+msgstr "Kun venner"
+
+msgid "Your Rank"
+msgstr "Din rangering"
+
+msgid "Total Mastery XP"
+msgstr "Totalt mesterskap XP"
+
+msgid "Loading leaderboard..."
+msgstr "Leder liste lastes inn..."
+
+msgid "Error"
+msgstr "Feil"
+
+msgid "Retry"
+msgstr "Prøv igjen"
+
+msgid "No Data Available"
+msgstr "Ingen data tilgjengelig"
+
+msgid "Add friends to see rankings"
+msgstr "Legg til venner for å se rangeringer"
+
+msgid "Slots"
+msgstr "Plasser"
+
+msgid "Open Results"
+msgstr "Åpne resultater"
+
+msgid "Nothing obtained."
+msgstr "Ingenting ble funnet."
+
+msgid "Inventory full"
+msgstr "Lageret er fullt"
+
+msgid "Item is locked"
+msgstr "Gjenstanden er låst"
+
+msgid "Sell"
+msgstr "Selg"
+
+msgid "Purchase Slot"
+msgstr "Kjøp plass"
+
+msgid "Max Slots"
+msgstr "Maks plasser"
+
+msgid "Selections"
+msgstr "Valg"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Remove the relic?"
+msgstr "Fjern relikvi?"
+
+msgid "Place Relic"
+msgstr "Plasser relikvi"
+
+msgid "Enchanting"
+msgstr "Fortrolling"
+
+msgid "Square"
+msgstr "Firkant"
+
+msgid "Altar"
+msgstr "Alter"
+
+msgid "Stop Enchanting"
+msgstr "Stopp fortrolling"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Stopp fortrolling? Materialer vil ikke bli refundert."
+
+msgid "Enchanting Result"
+msgstr "Fortrollingsresultat"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr ""
+"Velg gjenstanden som skal legges i inventaret, den andre vil bli kastet."
+
+msgid "Put in Inventory"
+msgstr "Legg i inventar"
+
+msgid "Select Item"
+msgstr "Velg gjenstand"
+
+msgid "Original"
+msgstr "Opprinnelig"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Click to Keep"
+msgstr "Klikk for å beholde"
+
+msgid "Remaining"
+msgstr "Gjenstående"
+
+msgid "Possible Modifiers"
+msgstr "Mulige modifikatorer"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Vil tilfeldig få 1-2 modifikatorer."
+
+msgid "Capacity"
+msgstr "Kapasitet"
+
+msgid "Upgrade"
+msgstr "Oppgrader"
+
+msgid "Occupying"
+msgstr "Opptar"
+
+msgid "Unlocked"
+msgstr "Låst opp"
+
+msgid "Layers"
+msgstr "Lag"
+
+msgid "Not Built"
+msgstr "Ikke bygd"
+
+msgid "Max Level Reached"
+msgstr "Maks nivå nådd"
+
+msgid "Decrease Tier"
+msgstr "Senk nivå"
+
+msgid "Increase Tier"
+msgstr "Øk nivå"
+
+msgid "Tier"
+msgstr "Nivå"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Offline Rewards"
+msgstr "Frakoblet belønning"
+
+msgid "You have been offline for {0}."
+msgstr "Du har vært frakoblet i {0}."
+
+msgid "Quantity"
+msgstr "Antall"
+
+msgid "Max Count"
+msgstr "Maks antall"
+
+msgid "1 Left"
+msgstr "1 igjen"
+
+msgid "Owned"
+msgstr "Eid"
+
+msgid "Unit Price"
+msgstr "Enhetspris"
+
+msgid "Total Price"
+msgstr "Totalpris"
+
+msgid "Current Item"
+msgstr "Gjeldende gjenstand"
+
+msgid "Count"
+msgstr "Antall"
+
+msgid "{0} missed {1}"
+msgstr "{0} bommet på {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} traff {1}, skade: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} ble beseiret"
+
+msgid "Trait triggered: {0}"
+msgstr "Egenskap utløst: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Kamp sluttet: {0}"
+
+msgid "Combat started"
+msgstr "Kamp startet"
+
+msgid "Reviving..."
+msgstr "Gjenoppliver..."
+
+msgid "Combat Log"
+msgstr "Kamplogg"
+
+msgid "No combat events yet."
+msgstr "Ingen kamphendelser ennå."
+
+msgid "No trait activations yet."
+msgstr "Ingen trekkaktivering ennå."
+
+msgid "Attack Speed"
+msgstr "Angrepshastighet"
+
+msgid "Slash Damage"
+msgstr "Huggeskade"
+
+msgid "Puncture Damage"
+msgstr "Stikkskade"
+
+msgid "Impact Damage"
+msgstr "Slagskade"
+
+msgid "Slash Resistance"
+msgstr "Huggemotstand"
+
+msgid "Puncture Resistance"
+msgstr "Stikkemotstand"
+
+msgid "Impact Resistance"
+msgstr "Slagmotstand"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Mestringsprogresjon: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Utstyr"
+
+msgid "Farming"
+msgstr "Jordbruk"
+
+msgid "Material"
+msgstr "Material"
+
+msgid "Misc"
+msgstr "Diverse"
+
+msgid "Relics"
+msgstr "Relikvier"
+
+msgid "Item Mastered"
+msgstr "Gjenstand mestret"
+
+msgid "Mastery Complete"
+msgstr "Mesterskap fullført"
+
+msgid "Mastery Rank"
+msgstr "Mesterskapsrangering"
+
+msgid "Rank Advanced"
+msgstr "Rangering avansert"
+
+msgid "Your mastery continues to grow"
+msgstr "Mesterskapet ditt fortsetter å vokse"
+
+msgid "Finished"
+msgstr "Ferdig"
+
+msgid "Fee: {0}"
+msgstr "Avgift: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Markedspress: {0}"
+
+msgid "You Pay"
+msgstr "Du betaler"
+
+msgid "You Receive"
+msgstr "Du mottar"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"Markedspress representerer markedsmetningsgraden. Jo høyere markedspress, "
+"desto dårligere blir valutakursen for kjøp. Markedspresset avtar naturlig "
+"over tid."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "Å bytte harde penger mot øyboer-kuponger vil øke markedspresset."
+
+msgid "Confirm Exchange"
+msgstr "Bekreft bytte"
+
+msgid "Enter Amount"
+msgstr "Angi beløp"
+
+msgid "Insufficient Balance"
+msgstr "Utilstrekkelig saldo"
+
+msgid "Balance: {0}"
+msgstr "Saldo: {0}"
+
+msgid "MAX"
+msgstr "MAKS"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Hvis du tror du har gjort en liten feil, er det bare å klikke på knappen "
+"nedenfor for å starte på nytt! Ingen grunn til bekymring – dette er bare en "
+"liten hindring på veien mot storhet."
+
+msgid "Start Over"
+msgstr "Start på nytt"
+
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+msgid "Port"
+msgstr "Havn"
+
+msgid "Next Trade In: {0}"
+msgstr "Neste handel om: {0}"
+
+msgid "Current Stats"
+msgstr "Nåværende statistikk"
+
+msgid "Capacity (per trade)"
+msgstr "Kapasitet (per handel)"
+
+msgid "Trade Interval"
+msgstr "Handelsintervall"
+
+msgid "Saturation Speed"
+msgstr "Metningshastighet"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/gjenstand, -{1}/sek"
+
+msgid "Upgrades"
+msgstr "Oppgraderinger"
+
+msgid "How many items can be sold per trade."
+msgstr "Hvor mange gjenstander som kan selges per handel."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Hvor ofte handler skjer. Lavere er bedre."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "Metning stiger langsommere og avtar raskere."
+
+msgid "Now"
+msgstr "Nå"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "Cost"
+msgstr "Kostnad"
+
+msgid "Last Trade"
+msgstr "Siste handel"
+
+msgid "Trade Rule"
+msgstr "Handelsregel"
+
+msgid "Stock: {0}"
+msgstr "Lagerbeholdning: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Metning: {0}% (Pris x{1})"
+
+msgid "Trade Mode"
+msgstr "Handelsmodus"
+
+msgid "Min Stock"
+msgstr "Minimumslager"
+
+msgid "Saturation"
+msgstr "Metning"
+
+msgid "Policies"
+msgstr "Retningslinjer"
+
+msgid "Banking"
+msgstr "Bankvirksomhet"
+
+msgid "Repository"
+msgstr "Depot"
+
+msgid "Farmers"
+msgstr "Bønder"
+
+msgid "Workers"
+msgstr "Arbeidere"
+
+msgid "Astrologers"
+msgstr "Astrologer"
+
+msgid "Alchemists"
+msgstr "Alkymister"
+
+msgid "GreatToken"
+msgstr "Viktige代币"
+
+msgid "The Office"
+msgstr "Kontoret"
+
+msgid "Productivity"
+msgstr "Produktivitet"
+
+msgid "Population"
+msgstr "Befolkning"
+
+msgid "Insufficient Resources"
+msgstr "Utilstrekkelige ressurser"
+
+msgid "Insufficient Workforce"
+msgstr "Utilstrekkelig arbeidskraft"
+
+msgid "Maintenance"
+msgstr "Vedlikehold"
+
+msgid "Production Period"
+msgstr "Produksjonsperiode"
+
+msgid "Building..."
+msgstr "Bygger..."
+
+msgid "Build"
+msgstr "Bygg"
+
+msgid "Build Cost"
+msgstr "Byggekostnad"
+
+msgid "Period Costs"
+msgstr "Periodekostnader"
+
+msgid "Period Yields"
+msgstr "Periodeinntekter"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Maintenance: {0}s"
+msgstr "Vedlikehold: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Handel: {0}"
+
+msgid "Available: {0}"
+msgstr "Tilgjengelig: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Fortsatt nødvendig: {0}"
+
+msgid "Done"
+msgstr "Ferdig"
+
+msgid "Already completed."
+msgstr "Allerede fullført."
+
+msgid "No available items."
+msgstr "Ingen tilgjengelige elementer."
+
+msgid "Add Items."
+msgstr "Legg til elementer."
+
+msgid "Amount: {0}"
+msgstr "Beløp: {0}"
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "All"
+msgstr "Alt"
+
+msgid "Needed"
+msgstr "Nødvendig"
+
+msgid "Progress"
+msgstr "Progresjon"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Great Token"
+msgstr "Viktig代币"
+
+msgid "Total Progress"
+msgstr "Total progresjon"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Dra kort til plassene, og trykk på Bekreft for å bruke dem. Bare låste kort "
+"kan utkastes."
+
+msgid "Unlocked: {0}"
+msgstr "Låst opp: {0}"
+
+msgid "Reset"
+msgstr "Nullstill"
+
+msgid "Unequip"
+msgstr "Fjern utstyr"
+
+msgid "Cards"
+msgstr "Kort"
+
+msgid "{0} Policies"
+msgstr "{0} retningslinjer"
+
+msgid "Equipped: {0}"
+msgstr "Utstyrt: {0}"
+
+msgid "Not equipped"
+msgstr "Ikke utstyrt"
+
+msgid "Equip"
+msgstr "Utstyr"
+
+msgid "Costs"
+msgstr "Kostnader"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Economic"
+msgstr "Økonomisk"
+
+msgid "Labor"
+msgstr "Arbeidskraft"
+
+msgid "Social"
+msgstr "Sosial"
+
+msgid "Wildcard"
+msgstr "Joker"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Jeg kjenner deg! Den berømte og talentfulle mesteren av mestring. Jeg vet at "
+"din skarpe intelligens allerede har forstått hvordan byen fungerer, men jeg "
+"må introdusere deg for den! Du har ikke noe valg!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"Ditt første steg er å skaffe befolkning, noe som kan gjøres ved å bygge "
+"bondeboliger. Vennligst velg bonde-fanen."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Flott forsøk! Nå, bygg noen trefabrikker og sagbruk for å produsere planker."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Fantastisk, la oss nå selge disse tingene. Gå først til havnen. Finn planker, "
+"og velg handelsmodus for å selge; det vil automatisk selge når timingen er "
+"riktig. Så enkelt er det!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Fantastisk arbeid! Ditt ultimate mål er å fremstille Stor token, for å vise "
+"frem dine ekstraordinære evner innen bystyring. Jobb hardt mot dette målet!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "Du er ferdig! Gå ut og realiser dine ambisjoner!"
+
+msgid "Skill level too low"
+msgstr "Ferdighetsnivå for lavt"
+
+msgid "Not enough items"
+msgstr "Ikke nok gjenstander"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Aktør"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maks helse"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Helse"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Angrepshastighet"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Rustning"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Skademultiplikator"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Mottatt skade-multiplikator"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Huggskade"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Stikkskade"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Slagskade"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Treffsjansebonus"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Unnvikelsessjansebonus"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Huggresistans"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Stikkresistans"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Slagresistans"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Spiller"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Mateffekt"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Multiplikator for frakoblet belønning"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Ferdigheter"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Effektivitet for tømmerhogst"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Effektivitet for gruvedrift"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Effektivitet for smelting"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Effektivitet for smedkunst"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Effektivitet for jordbruk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Effektivitet for alkymi"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Effektivitet for fiske"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Effektivitet for matlaging"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Effektivitet for jakt"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Effektivitet for kartlegging"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Effektivitet for arkeologi"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Effektivitet for enhånds"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Effektivitet for tohånds"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Effektivitet for avstandskamp"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Effektivitet for forsvar"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Hastighet for tømmerhogst"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Hastighet for gruvedrift"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Hastighet for smelting"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Hastighet for smedkunst"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Hastighet for jordbruk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Hastighet for alkymi"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Hastighet for fiske"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Hastighet for matlaging"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Hastighet for jakt"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Hastighet for kartlegging"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Hastighet for arkeologi"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Hastighet for enhånds"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Hastighet for tohånds"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Hastighet for avstandskamp"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Hastighet for forsvar"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "XP-multiplikator for tømmerhogst"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "XP-multiplikator for gruvedrift"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "XP-multiplikator for smelting"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "XP-multiplikator for smedkunst"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "XP-multiplikator for jordbruk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "XP-multiplikator for alkymi"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "XP-multiplikator for fiske"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "XP-multiplikator for matlaging"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "XP-multiplikator for jakt"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "XP-multiplikator for kartlegging"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "XP-multiplikator for arkeologi"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "XP-multiplikator for enhånds"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "XP-multiplikator for tohånds"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "XP-multiplikator for avstandskamp"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "XP-multiplikator for forsvar"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Byttemultiplikator for tømmerhogst"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Byttemultiplikator for gruvedrift"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Byttemultiplikator for smelting"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Byttemultiplikator for smedkunst"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Byttemultiplikator for jordbruk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Byttemultiplikator for alkymi"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Byttemultiplikator for fiske"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Byttemultiplikator for matlaging"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Byttemultiplikator for jakt"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Byttemultiplikator for kartlegging"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Byttemultiplikator for arkeologi"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Byttemultiplikator for enhånds"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Byttemultiplikator for tohånds"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Byttemultiplikator for avstandskamp"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Byttemultiplikator for forsvar"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Lykke for tømmerhogst"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Lykke for gruvedrift"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Lykke for smelting"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Lykke for smedkunst"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Lykke for jordbruk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Lykke for alkymi"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Lykke for fiske"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Lykke for matlaging"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Lykke for jakt"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Lykke for kartlegging"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Lykke for arkeologi"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "Kamp-XP"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Kampbytte"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "Innsamlings-XP"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Innsamlingsbytte"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Innsamlingshastighet"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "Håndverks-XP"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Håndverksbytte"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Håndverkshastighet"
+
+msgid "Skill {0} level up to {1}"
+msgstr "Ferdighet {0} stiger til nivå {1}"
+
+msgid "Food"
+msgstr "Mat"
+
+msgid "Combat Potion"
+msgstr "Kampdrikk"
+
+msgid "Gather Potion"
+msgstr "Innsamlingsdrikk"
+
+msgid "Craft Potion"
+msgstr "Håndverksdrikk"
+
+msgid "Inventory Slots"
+msgstr "Lagringsplasser"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "System"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Lys"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Mørk"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "TonalSpot"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Nøytral"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Levende"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Uttrykksfull"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Regnbue"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "Fruktsalat"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Monokrom"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Fidelitet"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Unlock {0}"
+msgstr "Lås opp {0}"
+
+msgid "No requirement"
+msgstr "Ingen krav"
+
+msgid "{0} reach level {1}"
+msgstr "{0} når nivå {1}"
+
+msgid "Unknown skill"
+msgstr "Ukjent ferdighet"
+
+msgid "{0} completed"
+msgstr "{0} fullført"
+
+msgid "Error Quest"
+msgstr "Feil oppdrag"
+
+msgid "Kill {0} {1}"
+msgstr "Drep {0} {1}"
+
+msgid "Collect {0} {1}"
+msgstr "Samle inn {0} {1}"
+
+msgid "Finish {0} {1}"
+msgstr "Fullfør {0} {1}"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "Bygg {0} {1}"
+
+msgid "Quest {0} completed"
+msgstr "Oppdrag {0} fullført"
+
+msgid "Weapon"
+msgstr "Våpen"
+
+msgid "Shield"
+msgstr "Skjold"
+
+msgid "Helmet"
+msgstr "Hjelm"
+
+msgid "Armor"
+msgstr "Rustning"
+
+msgid "LegArmor"
+msgstr "Benskinne"
+
+msgid "Boots"
+msgstr "Støvler"
+
+msgid "Accessories"
+msgstr "Tilbehør"
+
+msgid "Necklace"
+msgstr "Halskjede"
+
+msgid "Ring"
+msgstr "Ring"
+
+msgid "Bracelet"
+msgstr "Armbånd"
+
+msgid "Cape"
+msgstr "Kappe"
+
+msgid "Tools"
+msgstr "Verktøy"
+
+msgid "Axe"
+msgstr "Øks"
+
+msgid "Pickaxe"
+msgstr "Spade"
+
+msgid "Spade"
+msgstr "Spatel"
+
+msgid "Rod"
+msgstr "Stang"
+
+msgid "Trap"
+msgstr "Felle"
+
+msgid "{0} Completed"
+msgstr "{0} fullført"
+
+msgid "Items not enough"
+msgstr "Ikke nok gjenstander"
+
+msgid "CombatPotion"
+msgstr "Kampdrikke"
+
+msgid "GatherPotion"
+msgstr "Innsamlingsdrikke"
+
+msgid "CraftPotion"
+msgstr "Håndverksdrikke"
+
+msgid "Flower"
+msgstr "Blomst"
+
+msgid "Vegetable"
+msgstr "Grønnsak"
+
+msgid "Fruit"
+msgstr "Frukt"
+
+msgid "Fish"
+msgstr "Fisk"
+
+msgid "Sword"
+msgstr "Sverd"
+
+msgid "Hammer"
+msgstr "Hammer"
+
+msgid "Scythe"
+msgstr "Sigd"
+
+msgid "Spear"
+msgstr "Spyd"
+
+msgid "Bow"
+msgstr "Bue"
+
+msgid "Dart"
+msgstr "Pil"
+
+msgid "Relic"
+msgstr "Relikvie"
+
+msgid "%s secs"
+msgstr "%s sekunder"
+
+msgid "%s mins"
+msgstr "%s minutter"
+
+msgid "%s hours"
+msgstr "%s timer"
+
+msgid "%s days"
+msgstr "%s dager"
+
+msgid "%s weeks"
+msgstr "%s uker"
+
+msgid "%s months"
+msgstr "%s måneder"
+
+msgid "%s years"
+msgstr "%s år"
+
+msgid "Always"
+msgstr "Alltid"
+
+msgid "Common"
+msgstr "Vanlig"
+
+msgid "Uncommon"
+msgstr "Uvanlig"
+
+msgid "Rare"
+msgstr "Sjelden"
+
+msgid "Legendary"
+msgstr "Legendarisk"
+
+msgid "Frenzy"
+msgstr "Vanvidd"
+
+msgid "Tanky"
+msgstr "Robust"
+
+msgid "Deadly"
+msgstr "Dødelig"
+
+msgid "Swift"
+msgstr "Rask"
+
+msgid "Precise"
+msgstr "Presis"
+
+msgid "Hardened"
+msgstr "Herdet"

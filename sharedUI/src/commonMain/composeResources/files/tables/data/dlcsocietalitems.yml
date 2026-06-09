@@ -1,0 +1,425 @@
+- id: 'steel'
+  name: '钢铁'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'beer'
+  name: '啤酒'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'malt'
+  name: '麦芽'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'hop'
+  name: '啤酒花'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'processed_pork'
+  name: '好猪肉'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'grain'
+  name: '谷物'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'flour'
+  name: '面粉'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'bread'
+  name: '面包'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'tallow'
+  name: '油脂'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'soap'
+  name: '肥皂'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'weapon'
+  name: '武器'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'brick'
+  name: '砖块'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'pork'
+  name: '猪肉'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'clay'
+  name: '粘土'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'iron'
+  name: '铁矿'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'oil'
+  name: '石油'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'iron_bar'
+  name: '铁锭'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Worker'
+  tags:
+  - 'CityItem'
+- id: 'plank'
+  name: '木板'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'potato'
+  name: '土豆'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'fish'
+  name: '鱼'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'vodka'
+  name: '伏特加'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'wool'
+  name: '羊毛'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'clothes'
+  name: '衣服'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'log'
+  name: '原木'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Farmer'
+  tags:
+  - 'CityItem'
+- id: 'watermelon'
+  name: '西瓜'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'egg'
+  name: '鸡蛋'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'cookie'
+  name: '曲奇'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'cookie_can'
+  name: '曲奇罐头'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'sand'
+  name: '沙子'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'silicon'
+  name: '硅'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'pcb'
+  name: '电路板'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'magnifying_glass'
+  name: '放大镜'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'pigments'
+  name: '颜料'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'pen'
+  name: '笔'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'paper'
+  name: '绘图纸'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'star_map'
+  name: '星图'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Astrologer'
+  tags:
+  - 'CityItem'
+- id: 'stone'
+  name: '石头'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'concert'
+  name: '混凝土'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'zinc'
+  name: '锌'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'quartz'
+  name: '石英'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'uranium'
+  name: '铀'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'wine'
+  name: '红酒'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'injector'
+  name: '注射器'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'rubber'
+  name: '橡胶'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'hazmat_suit'
+  name: '生化服'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'saltpeter'
+  name: '硝石'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'tnt'
+  name: '炸药'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'alchemy_pot'
+  name: '炼金锅'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'nickel'
+  name: '镍'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'nickel_bar'
+  name: '镍锭'
+  type: 'Misc'
+  tier: -2
+  cityTier: 3
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'tape'
+  name: '磁带'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'fiber'
+  name: '纤维'
+  type: 'Misc'
+  tier: -2
+  cityTier: 1
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+- id: 'disc'
+  name: '光盘'
+  type: 'Misc'
+  tier: -2
+  cityTier: 2
+  populationTier: 'Alchemist'
+  tags:
+  - 'CityItem'
+...

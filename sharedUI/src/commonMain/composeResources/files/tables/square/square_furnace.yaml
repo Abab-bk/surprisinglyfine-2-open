@@ -1,0 +1,123 @@
+- id: square_furnace
+  name: 熔炉
+  tiers:
+    - size: 1
+      cost:
+        - itemId: map_cave
+          count: 500
+        - itemId: copper_bar
+          count: 300
+      modifiers:
+        - - statId: skill_smelting_speed
+            value: 0.1
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 2
+      cost:
+        - itemId: map_pickle
+          count: 600
+        - itemId: silver_bar
+          count: 400
+      modifiers:
+        - - statId: skill_smelting_speed
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_oldschool
+          count: 700
+        - itemId: gold_bar
+          count: 500
+      modifiers:
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_smelting_speed
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_beer
+          count: 800
+        - itemId: frost_bar
+          count: 600
+      modifiers:
+        - - statId: skill_smelting_speed
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.10
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_big_banana
+          count: 900
+        - itemId: jade_bar
+          count: 700
+      modifiers:
+        - - statId: skill_smelting_lootMultiplier
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.14
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_shelter
+          count: 1000
+        - itemId: molten_bar
+          count: 800
+      modifiers:
+        - - statId: skill_smelting_speed
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_cemetery
+          count: 1100
+        - itemId: stellar_bar
+          count: 900
+      modifiers:
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.18
+            type: Percent
+
+        - - statId: skill_smelting_lootMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: map_elite_enemy
+          count: 1200
+        - itemId: rainbow_bar
+          count: 1000
+      modifiers:
+        - - statId: skill_smelting_lootMultiplier
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_smelting_XpMultiplier
+            value: 0.20
+            type: Percent
+

@@ -1,0 +1,119 @@
+- id: achievement_woodcutting_level_40
+  name: 伐木高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_woodcutting
+      level: 40
+
+
+- id: achievement_mining_level_40
+  name: 挖掘高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_mining
+      level: 40
+
+
+- id: achievement_smelting_level_40
+  name: 冶炼高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smelting
+      level: 40
+
+
+- id: achievement_smithing_level_40
+  name: 锻造高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smithing
+      level: 40
+
+
+- id: achievement_farming_level_40
+  name: 种地高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_farming
+      level: 40
+
+
+- id: achievement_alchemy_level_40
+  name: 炼金高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_alchemy
+      level: 40
+
+
+- id: achievement_fishing_level_40
+  name: 钓鱼高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_fishing
+      level: 40
+
+
+- id: achievement_cooking_level_40
+  name: 烹饪高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_cooking
+      level: 40
+
+
+- id: achievement_hunting_level_40
+  name: 狩猎高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_hunting
+      level: 40
+
+
+- id: achievement_charting_level_40
+  name: 制图高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_charting
+      level: 40
+
+
+- id: achievement_archaeology_level_40
+  name: 考古高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_archaeology
+      level: 40
+
+
+- id: achievement_one_handed_level_40
+  name: 单手武器高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_one_handed
+      level: 40
+
+
+- id: achievement_two_handed_level_40
+  name: 双手武器高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_two_handed
+      level: 40
+
+
+- id: achievement_ranged_level_40
+  name: 远程武器高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_ranged
+      level: 40
+
+
+- id: achievement_defense_level_40
+  name: 防御高手
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_defense
+      level: 40
+

@@ -1,0 +1,365 @@
+- id: 'archaeology_2'
+  name: '老洞穴'
+  skillId: 'skill_archaeology'
+  tier: 1
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Helmet_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Helmet_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Helmet_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_red_blood'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_torchlight'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_vial'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_phone'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_computer'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_red_pills'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_cave'
+    count: 1
+  tags: []
+  neededMapId: 'map_cave'
+- id: 'archaeology_3'
+  name: '泡菜厂'
+  skillId: 'skill_archaeology'
+  tier: 2
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Helmet_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Helmet_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Armor_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_conch'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_blue_pen'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_injector'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_dialogue_bubble'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_blue_human'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_music_icon'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_pickle'
+    count: 1
+  tags: []
+  neededMapId: 'map_pickle'
+- id: 'archaeology_4'
+  name: '老学校'
+  skillId: 'skill_archaeology'
+  tier: 3
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Armor_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Armor_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Armor_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_rist'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_drugs'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_gunpowder'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_butterfly'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_cheatsheet'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_loathing'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_oldschool'
+    count: 1
+  tags: []
+  neededMapId: 'map_oldschool'
+- id: 'archaeology_5'
+  name: '啤酒厂'
+  skillId: 'skill_archaeology'
+  tier: 4
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Armor_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_goggle'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_coins'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_necklace'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_ring'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_bagpack'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'relic_bag'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_beer'
+    count: 1
+  tags: []
+  neededMapId: 'map_beer'
+- id: 'archaeology_6'
+  name: '大香蕉'
+  skillId: 'skill_archaeology'
+  tier: 5
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_LegArmor_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_candle'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_chest'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_cross'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_tombstone'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_hammer'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'relic_muji'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_big_banana'
+    count: 1
+  tags: []
+  neededMapId: 'map_big_banana'
+- id: 'archaeology_7'
+  name: '藏身处'
+  skillId: 'skill_archaeology'
+  tier: 6
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Boots_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Boots_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Boots_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_fish'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_garlic_crusher'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_escape_rope'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_mirror'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_belt'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'relic_sandclock'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_shelter'
+    count: 1
+  tags: []
+  neededMapId: 'map_shelter'
+- id: 'archaeology_8'
+  name: '木地'
+  skillId: 'skill_archaeology'
+  tier: 7
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'equip_Boots_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Boots_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'relic_onino'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_redheart'
+      chance: 40
+      min: 1
+      max: 1
+    - itemId: 'relic_fire'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_bread'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'relic_letter'
+      chance: 10
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'relic_god_of_flower'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_cemetery'
+    count: 1
+  tags: []
+  neededMapId: 'map_cemetery'
+...

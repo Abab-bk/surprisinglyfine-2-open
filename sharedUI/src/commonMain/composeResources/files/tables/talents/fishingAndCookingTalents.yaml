@@ -1,0 +1,146 @@
+# 钓鱼技能树
+- id: talent_fishing_root
+  name: 垂钓高手
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_fishing_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_fishing_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_fishing_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_fishing_xp
+    - talent_fishing_loot
+
+- id: talent_fishing_xp
+  name: 渔夫智慧
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_fishing_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_fishing_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_fishing_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_fishing_another_lucky
+    - talent_fishing_another_speed
+
+- id: talent_fishing_loot
+  name: 丰收之网
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_fishing_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_fishing_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_fishing_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_fishing_another_xp
+    - talent_fishing_another_loot
+
+- id: talent_fishing_another_lucky
+  name: 厨师的运气
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_cooking_lucky
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_cooking_lucky
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_cooking_lucky
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_fishing_another_speed
+  name: 快速烹饪
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_cooking_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_cooking_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_cooking_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_fishing_another_xp
+  name: 烹饪学识
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_cooking_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_cooking_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_cooking_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_fishing_another_loot
+  name: 丰盛料理
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_cooking_lootMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_cooking_lootMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_cooking_lootMultiplier
+          value: 0.24
+          type: Percent
+  connections: []

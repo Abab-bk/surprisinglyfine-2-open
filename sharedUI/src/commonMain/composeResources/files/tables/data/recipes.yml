@@ -1,0 +1,169 @@
+- id: 'charcoal_1'
+  product:
+    itemId: 'charcoal'
+    count: 1
+  required:
+    itemId: 'pine_wood'
+    count: 1
+- id: 'charcoal_2'
+  product:
+    itemId: 'charcoal'
+    count: 2
+  required:
+    itemId: 'spruce_wood'
+    count: 1
+- id: 'charcoal_3'
+  product:
+    itemId: 'charcoal'
+    count: 3
+  required:
+    itemId: 'birch_wood'
+    count: 1
+- id: 'charcoal_4'
+  product:
+    itemId: 'charcoal'
+    count: 4
+  required:
+    itemId: 'teak_wood'
+    count: 1
+- id: 'charcoal_5'
+  product:
+    itemId: 'charcoal'
+    count: 5
+  required:
+    itemId: 'mahogany_wood'
+    count: 1
+- id: 'charcoal_6'
+  product:
+    itemId: 'charcoal'
+    count: 6
+  required:
+    itemId: 'ironbark_wood'
+    count: 1
+- id: 'charcoal_7'
+  product:
+    itemId: 'charcoal'
+    count: 7
+  required:
+    itemId: 'redwood_wood'
+    count: 1
+- id: 'charcoal_8'
+  product:
+    itemId: 'charcoal'
+    count: 8
+  required:
+    itemId: 'ancient_wood'
+    count: 1
+- id: 'compost_1'
+  product:
+    itemId: 'compost'
+    count: 20
+  required:
+    itemId: 'apple'
+    count: 1
+- id: 'compost_2'
+  product:
+    itemId: 'compost'
+    count: 40
+  required:
+    itemId: 'strawberry'
+    count: 1
+- id: 'compost_3'
+  product:
+    itemId: 'compost'
+    count: 60
+  required:
+    itemId: 'banana'
+    count: 1
+- id: 'compost_4'
+  product:
+    itemId: 'compost'
+    count: 80
+  required:
+    itemId: 'blue_berry'
+    count: 1
+- id: 'compost_5'
+  product:
+    itemId: 'compost'
+    count: 100
+  required:
+    itemId: 'cherry'
+    count: 1
+- id: 'compost_6'
+  product:
+    itemId: 'compost'
+    count: 120
+  required:
+    itemId: 'orange'
+    count: 1
+- id: 'compost_7'
+  product:
+    itemId: 'compost'
+    count: 140
+  required:
+    itemId: 'peach'
+    count: 1
+- id: 'compost_8'
+  product:
+    itemId: 'compost'
+    count: 160
+  required:
+    itemId: 'coconut'
+    count: 1
+- id: 'gem_powder_recipe_1'
+  product:
+    itemId: 'gem_powder'
+    count: 50
+  required:
+    itemId: 'gem_ruby'
+    count: 1
+- id: 'gem_powder_recipe_2'
+  product:
+    itemId: 'gem_powder'
+    count: 100
+  required:
+    itemId: 'gem_yellow'
+    count: 1
+- id: 'gem_powder_recipe_3'
+  product:
+    itemId: 'gem_powder'
+    count: 150
+  required:
+    itemId: 'gem_green'
+    count: 1
+- id: 'gem_powder_recipe_4'
+  product:
+    itemId: 'gem_powder'
+    count: 200
+  required:
+    itemId: 'gem_moon'
+    count: 1
+- id: 'gem_powder_recipe_5'
+  product:
+    itemId: 'gem_powder'
+    count: 250
+  required:
+    itemId: 'gem_crystal'
+    count: 1
+- id: 'gem_powder_recipe_6'
+  product:
+    itemId: 'gem_powder'
+    count: 300
+  required:
+    itemId: 'gem_star'
+    count: 1
+- id: 'gem_powder_recipe_7'
+  product:
+    itemId: 'gem_powder'
+    count: 350
+  required:
+    itemId: 'gem_onyx'
+    count: 1
+- id: 'gem_powder_recipe_8'
+  product:
+    itemId: 'gem_powder'
+    count: 400
+  required:
+    itemId: 'gem_rainbow'
+    count: 1
+...

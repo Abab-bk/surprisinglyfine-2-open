@@ -1,0 +1,66 @@
+- id: quest_stage_3_1
+  name: 花匠
+  conditions:
+    - !<itemCollected>
+      itemId: orchid
+      need: 5
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_alchemy
+
+
+- id: quest_stage_3_2
+  name: 炼金师
+  conditions:
+    - !<itemCollected>
+      itemId: basic_health_potion
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_hunting
+
+
+- id: quest_stage_3_3
+  name: 猎户
+  conditions:
+    - !<itemCollected>
+      itemId: leather
+      need: 5
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_charting
+
+
+- id: quest_stage_3_4
+  name: 考古时刻
+  conditions:
+    - !<itemCollected>
+      itemId: map_cave
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_archaeology
+
+
+- id: quest_stage_3_5
+  name: 考古时刻2
+  conditions:
+    - !<finishSkillAction>
+      skillId: skill_archaeology
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10

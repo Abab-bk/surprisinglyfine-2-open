@@ -1,0 +1,295 @@
+# 单手武器与双手武器技能树
+- id: talent_oneHanded_root
+  name: 单手速攻
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_oneHanded_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_oneHanded_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_oneHanded_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_oneHanded_xp
+    - talent_oneHanded_loot
+
+- id: talent_oneHanded_xp
+  name: 单手精通
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_oneHanded_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_oneHanded_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_oneHanded_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_oneHanded_twoHanded_speed
+    - talent_oneHanded_twoHanded_xp
+
+- id: talent_oneHanded_loot
+  name: 战利品猎手
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_oneHanded_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_oneHanded_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_oneHanded_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_oneHanded_slash_damage
+    - talent_oneHanded_impact_damage
+
+- id: talent_oneHanded_twoHanded_speed
+  name: 双手速度
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_twoHanded_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_twoHanded_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_twoHanded_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_oneHanded_twoHanded_xp
+  name: 双手精通
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_twoHanded_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_twoHanded_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_twoHanded_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_oneHanded_slash_damage
+  name: 斩击强化
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_slashDamage
+          value: 3
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_slashDamage
+          value: 6
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_slashDamage
+          value: 10
+          type: Flat
+  connections: []
+
+- id: talent_oneHanded_impact_damage
+  name: 冲击强化
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_impactDamage
+          value: 3
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_impactDamage
+          value: 6
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_impactDamage
+          value: 10
+          type: Flat
+  connections: []
+
+
+# 远程武器与防御技能树
+- id: talent_ranged_root
+  name: 远程速射
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_ranged_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_ranged_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_ranged_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_ranged_xp
+    - talent_ranged_loot
+
+- id: talent_ranged_xp
+  name: 远程精通
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_ranged_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_ranged_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_ranged_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_ranged_defense_speed
+    - talent_ranged_defense_xp
+
+- id: talent_ranged_loot
+  name: 远程收获
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_ranged_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_ranged_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_ranged_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_ranged_puncture_damage
+    - talent_ranged_attack_speed
+
+
+- id: talent_ranged_defense_speed
+  name: 防御训练
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_defense_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_defense_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_defense_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_ranged_defense_xp
+  name: 防御精通
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_defense_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_defense_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_defense_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_ranged_puncture_damage
+  name: 穿刺强化
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_punctureDamage
+          value: 3
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_punctureDamage
+          value: 6
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_punctureDamage
+          value: 10
+          type: Flat
+  connections: []
+
+- id: talent_ranged_attack_speed
+  name: 攻击速度
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_attackSpeed
+          value: 0.03
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: actor_attackSpeed
+          value: 0.06
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: actor_attackSpeed
+          value: 0.1
+          type: Percent
+  connections: []

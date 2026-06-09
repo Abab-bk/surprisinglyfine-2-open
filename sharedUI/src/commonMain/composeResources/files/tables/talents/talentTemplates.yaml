@@ -1,0 +1,7 @@
+- id: root_talent
+  name: 潜能激发
+  initialUnlock: true
+  effects:
+    - cost: 0
+      effects: []
+  connections: []

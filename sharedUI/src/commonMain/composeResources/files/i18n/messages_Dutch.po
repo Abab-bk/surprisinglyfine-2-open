@@ -1,0 +1,4821 @@
+msgid ""
+msgstr ""
+"Language: Dutch\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 uur +100% vaardigheidservaring"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 uur +100% offline-opbrengst"
+
+msgid "炼金实验室"
+msgstr "Alchemy Laboratory"
+
+msgid "铁砧"
+msgstr "Anvil"
+
+msgid "制图台"
+msgstr "Cartography Table"
+
+msgid "烹饪锅"
+msgstr "Cooking Pot"
+
+msgid "熔炉"
+msgstr "Furnace"
+
+msgid "投资政策"
+msgstr "Investeringsbeleid"
+
+msgid "建筑建造费用 {0}"
+msgstr "Bouwkosten {0}"
+
+msgid "财政改革"
+msgstr "Financiële hervormingen"
+
+msgid "全城维护费 {0}"
+msgstr "Onderhoudskosten stad {0}"
+
+msgid "关税壁垒"
+msgstr "Tariefmuren"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Herstelsnelheid verzadiging {0}"
+
+msgid "自动化生产"
+msgstr "Geautomatiseerde productie"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Productiesnelheid {0}, Arbeidsvraag {1}"
+
+msgid "标准化作业"
+msgstr "Standaardisatie"
+
+msgid "生产速度 {0}"
+msgstr "Productiesnelheid {0}"
+
+msgid "强制加班"
+msgstr "Gedwongen overwerk"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Productiesnelheid {0}, Onderhoudskosten {1}"
+
+msgid "福利国家"
+msgstr "Verzorgingsstaat"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Onderhoud woongebouwen {0}"
+
+msgid "公共住房"
+msgstr "Sociale woningbouw"
+
+msgid "住宅容量 {0}"
+msgstr "Wooncapaciteit {0}"
+
+msgid "第一步"
+msgstr "Eerste stap"
+
+msgid "让我们挖掘"
+msgstr "Laten we graven"
+
+msgid "让我们冶炼"
+msgstr "Laten we smelten"
+
+msgid "想吃点鱼"
+msgstr "Wil wat vis eten"
+
+msgid "想吃点鱼2"
+msgstr "Wil wat vis eten 2"
+
+msgid "整装待发"
+msgstr "Klaar voor de start"
+
+msgid "击杀邪恶哥布林"
+msgstr "Dood de kwaadaardige goblin"
+
+msgid "花匠"
+msgstr "Bloemist"
+
+msgid "炼金师"
+msgstr "Alchemist"
+
+msgid "猎户"
+msgstr "Jager"
+
+msgid "考古时刻"
+msgstr "Archeologisch moment"
+
+msgid "考古时刻2"
+msgstr "Archeologisch moment 2"
+
+msgid "工人住宅"
+msgstr "Arbeiderswoning"
+
+msgid "黏土坑"
+msgstr "Kleigroeve"
+
+msgid "砖厂"
+msgstr "Steenfabriek"
+
+msgid "猪场"
+msgstr "Varkenshouderij"
+
+msgid "屠宰场"
+msgstr "Slachthuis"
+
+msgid "谷物农场"
+msgstr "Graanboerderij"
+
+msgid "面粉厂"
+msgstr "Meelfabriek"
+
+msgid "面包厂"
+msgstr "Bakkerij"
+
+msgid "铁矿"
+msgstr "IJzermijn"
+
+msgid "石油矿"
+msgstr "Olieveld"
+
+msgid "炼铁厂"
+msgstr "IJzergieterij"
+
+msgid "钢铁厂"
+msgstr "Staalwalserij"
+
+msgid "炼脂厂"
+msgstr "Vetfabriek"
+
+msgid "肥皂厂"
+msgstr "Zeepfabriek"
+
+msgid "武器厂"
+msgstr "Wapenfabriek"
+
+msgid "麦芽厂"
+msgstr "Mouterij"
+
+msgid "啤酒花厂"
+msgstr "Hopkwekerij"
+
+msgid "啤酒厂"
+msgstr "Brouwerij"
+
+msgid "农民住宅"
+msgstr "Boerenwoning"
+
+msgid "树厂"
+msgstr "Boomkwekerij"
+
+msgid "锯木厂"
+msgstr "Zagerij"
+
+msgid "渔场"
+msgstr "Viskwekerij"
+
+msgid "土豆农场"
+msgstr "Aardappelboerderij"
+
+msgid "伏特加酒厂"
+msgstr "Wodkastokerij"
+
+msgid "羊毛厂"
+msgstr "Wolspinnerij"
+
+msgid "服装厂"
+msgstr "Kledingfabriek"
+
+msgid "占星学家别墅"
+msgstr "Villa van de astroloog"
+
+msgid "西瓜农场"
+msgstr "Watermeloenboerderij"
+
+msgid "鸡蛋厂"
+msgstr "Eierboerderij"
+
+msgid "曲奇厂"
+msgstr "Koekjesfabriek"
+
+msgid "曲奇罐头厂"
+msgstr "Koekjesblikfabriek"
+
+msgid "沙矿场"
+msgstr "Zandgroeve"
+
+msgid "硅厂"
+msgstr "Siliciumfabriek"
+
+msgid "电子厂"
+msgstr "Elektronicafabriek"
+
+msgid "放大镜厂"
+msgstr "Vergrootglasfabriek"
+
+msgid "颜料厂"
+msgstr "Verffabriek"
+
+msgid "笔厂"
+msgstr "Penfabriek"
+
+msgid "绘图纸厂"
+msgstr "Tekenpapierfabriek"
+
+msgid "绘图厂"
+msgstr "Tekentafel"
+
+msgid "炼金术士别墅"
+msgstr "Alchemistenwoning"
+
+msgid "采石场"
+msgstr "Steengroeve"
+
+msgid "混凝土厂"
+msgstr "Betoncentrale"
+
+msgid "锌矿厂"
+msgstr "Zinkmijn"
+
+msgid "石英矿场"
+msgstr "Kwartsmijn"
+
+msgid "轴矿场"
+msgstr "Uraniummijn"
+
+msgid "红酒厂"
+msgstr "Wijnmakerij"
+
+msgid "注射器厂"
+msgstr "Injectiespuitfabriek"
+
+msgid "橡胶农场"
+msgstr "Rubberplantage"
+
+msgid "生化服厂"
+msgstr "Fabriek voor biohazardpakken"
+
+msgid "硝石工厂"
+msgstr "Salpeterfabriek"
+
+msgid "炸药工厂"
+msgstr "Explosievenfabriek"
+
+msgid "炼药锅"
+msgstr "Alchemistische ketel"
+
+msgid "镍矿厂"
+msgstr "Nikkelmijn"
+
+msgid "镍锭厂"
+msgstr "Nikkelgieterij"
+
+msgid "磁带厂"
+msgstr "Cassettefabriek"
+
+msgid "纤维厂"
+msgstr "Vezelfabriek"
+
+msgid "光盘厂"
+msgstr "CD-fabriek"
+
+msgid "要号码宝箱"
+msgstr "Nummer-kist"
+
+msgid "对抗纨绔宝箱"
+msgstr "Kist tegen de dandy's"
+
+msgid "美颜参数宝箱"
+msgstr "Schoonheidsparameter-kist"
+
+msgid "说梦话宝箱"
+msgstr "Slaapwandel-kist"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Kist met openende kattenmond"
+
+msgid "傻子太多宝箱"
+msgstr "Kist voor te veel dwazen"
+
+msgid "生活太难宝箱"
+msgstr "Het leven is te moeilijk-kist"
+
+msgid "生活太难宝箱 2"
+msgstr "Het leven is te moeilijk-kist 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Ambitie-kist"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Ambitie-kist 2"
+
+msgid "喝水宝箱"
+msgstr "Water drinken-kist"
+
+msgid "礼貌宝箱"
+msgstr "Beleefdheids-kist"
+
+msgid "礼貌宝箱 2"
+msgstr "Beleefdheids-kist 2"
+
+msgid "厉害宝箱"
+msgstr "Kracht-kist"
+
+msgid "厉害宝箱 2"
+msgstr "Kracht-kist 2"
+
+msgid "厉害宝箱 3"
+msgstr "Kracht-kist 3"
+
+msgid "奢侈品宝箱"
+msgstr "Luxeproducten-kist"
+
+msgid "奢侈品宝箱 2"
+msgstr "Luxeproducten-kist 2"
+
+msgid "不可战胜宝箱"
+msgstr "Onoverwinnelijkheids-kist"
+
+msgid "不可战胜宝箱 2"
+msgstr "Onoverwinnelijkheids-kist 2"
+
+msgid "帅哥宝箱"
+msgstr "Knappe man-kist"
+
+msgid "镇静宝箱"
+msgstr "Kalmerings-kist"
+
+msgid "生活方式宝箱"
+msgstr "Levensstijl-kist"
+
+msgid "生活方式宝箱 2"
+msgstr "Levensstijl-kist 2"
+
+msgid "爱情故事宝箱"
+msgstr "Liefdesverhaal-kist"
+
+msgid "爱情故事宝箱 2"
+msgstr "Liefdesverhaal-kist 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Liefdesverhaal-kist 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Liefdesverhaal-kist 4"
+
+msgid "硬币"
+msgstr "Munt"
+
+msgid "星星"
+msgstr "Ster"
+
+msgid "瓶子"
+msgstr "Fles"
+
+msgid "蚯蚓"
+msgstr "Regenworm"
+
+msgid "皮革"
+msgstr "Leer"
+
+msgid "羽毛"
+msgstr "Veder"
+
+msgid "墨水"
+msgstr "Inkt"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Staal"
+
+msgid "啤酒"
+msgstr "Bier"
+
+msgid "麦芽"
+msgstr "Mout"
+
+msgid "啤酒花"
+msgstr "Hop"
+
+msgid "好猪肉"
+msgstr "Varkensvlees (kwaliteit)"
+
+msgid "谷物"
+msgstr "Graan"
+
+msgid "面粉"
+msgstr "Meel"
+
+msgid "面包"
+msgstr "Brood"
+
+msgid "油脂"
+msgstr "Vet"
+
+msgid "肥皂"
+msgstr "Zeep"
+
+msgid "武器"
+msgstr "Wapens"
+
+msgid "砖块"
+msgstr "Baksteen"
+
+msgid "猪肉"
+msgstr "Varkensvlees"
+
+msgid "粘土"
+msgstr "Klei"
+
+msgid "石油"
+msgstr "Olie"
+
+msgid "铁锭"
+msgstr "IJzer"
+
+msgid "木板"
+msgstr "Planken"
+
+msgid "土豆"
+msgstr "Aardappelen"
+
+msgid "鱼"
+msgstr "Vis"
+
+msgid "伏特加"
+msgstr "Wodka"
+
+msgid "羊毛"
+msgstr "Wol"
+
+msgid "衣服"
+msgstr "Kleding"
+
+msgid "原木"
+msgstr "Hout"
+
+msgid "西瓜"
+msgstr "Watermeloen"
+
+msgid "鸡蛋"
+msgstr "Eieren"
+
+msgid "曲奇"
+msgstr "Koekjes"
+
+msgid "曲奇罐头"
+msgstr "Koekjes in blik"
+
+msgid "沙子"
+msgstr "Zand"
+
+msgid "硅"
+msgstr "Silicium"
+
+msgid "电路板"
+msgstr "Printplaat"
+
+msgid "放大镜"
+msgstr "Vergrootglas"
+
+msgid "颜料"
+msgstr "Verf"
+
+msgid "笔"
+msgstr "Pen"
+
+msgid "绘图纸"
+msgstr "Tekenpapier"
+
+msgid "星图"
+msgstr "Sterrenkaart"
+
+msgid "石头"
+msgstr "Steen"
+
+msgid "混凝土"
+msgstr "Beton"
+
+msgid "锌"
+msgstr "Zink"
+
+msgid "石英"
+msgstr "Kwarts"
+
+msgid "铀"
+msgstr "Uranium"
+
+msgid "红酒"
+msgstr "Wijn"
+
+msgid "注射器"
+msgstr "Spuit"
+
+msgid "橡胶"
+msgstr "Rubber"
+
+msgid "生化服"
+msgstr "Biohazardpak"
+
+msgid "硝石"
+msgstr "Salpeter"
+
+msgid "炸药"
+msgstr "Explosieven"
+
+msgid "炼金锅"
+msgstr "Alchemieketel"
+
+msgid "镍"
+msgstr "Nikkel"
+
+msgid "镍锭"
+msgstr "Nikkelstaaf"
+
+msgid "磁带"
+msgstr "Cassette"
+
+msgid "纤维"
+msgstr "Vezel"
+
+msgid "光盘"
+msgstr "CD"
+
+msgid "邪恶虾兵"
+msgstr "Kwaadaardige Garnalensoldaat"
+
+msgid "邪恶蟹将"
+msgstr "Kwaadaardige Krabgeneraal"
+
+msgid "邪恶史莱姆"
+msgstr "Kwaadaardig Slijm"
+
+msgid "邪恶秃头"
+msgstr "Kwaadaardige Kale"
+
+msgid "邪恶龙骨"
+msgstr "Kwaadaardig Drakenbot"
+
+msgid "邪恶泰坦"
+msgstr "Kwaadaardige Titaan"
+
+msgid "邪恶将军"
+msgstr "Kwaadaardige Generaal"
+
+msgid "邪恶大王"
+msgstr "Kwaadaardige Koning"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elite Kwaadaardig Slijm"
+
+msgid "精英邪恶秃头"
+msgstr "Elite Kwaadaardige Kale"
+
+msgid "精英邪恶龙骨"
+msgstr "Elite Kwaadaardig Drakenbot"
+
+msgid "精英邪恶泰坦"
+msgstr "Elite Kwaadaardige Titaan"
+
+msgid "精英邪恶将军"
+msgstr "Elite Kwaadaardige Generaal"
+
+msgid "精英邪恶大王"
+msgstr "Elite Kwaadaardige Koning"
+
+msgid "邪恶死人"
+msgstr "Kwaadaardige Dode"
+
+msgid "邪恶蛇蛇"
+msgstr "Kwaadaardige Slang"
+
+msgid "邪恶小偷"
+msgstr "Kwaadaardige Dief"
+
+msgid "邪恶外星人"
+msgstr "Kwaadaardig Buitenaards Wezen"
+
+msgid "邪恶大象"
+msgstr "Kwaadaardige Olifant"
+
+msgid "邪恶野人"
+msgstr "Kwaadaardige Wilde"
+
+msgid "邪恶三头龙"
+msgstr "Kwaadaardige Driekoppige Draak"
+
+msgid "邪恶邪神"
+msgstr "Kwaadaardige Kwade God"
+
+msgid "精英邪恶小偷"
+msgstr "Elite Kwaadaardige Dief"
+
+msgid "精英邪恶外星人"
+msgstr "Elite Kwaadaardig Buitenaards Wezen"
+
+msgid "精英邪恶大象"
+msgstr "Elite Kwaadaardige Olifant"
+
+msgid "精英邪恶野人"
+msgstr "Elite boosaardige wilde"
+
+msgid "精英邪恶三头龙"
+msgstr "Elite Kwaadaardige Driekoppige Draak"
+
+msgid "精英邪恶邪神"
+msgstr "Elite Kwaadaardige Kwade God"
+
+msgid "邪恶螃蟹"
+msgstr "Kwaadaardige Krab"
+
+msgid "邪恶太阳花"
+msgstr "Kwaadaardige Zonnebloem"
+
+msgid "邪恶小鸡"
+msgstr "Kwaadaardig Kuiken"
+
+msgid "邪恶蜘蛛"
+msgstr "Kwaadaardige Spin"
+
+msgid "邪恶蜜蜂"
+msgstr "Kwaadaardige Bij"
+
+msgid "邪恶笑脸男"
+msgstr "Boosaardige lachende man"
+
+msgid "邪恶骑士"
+msgstr "Kwaadaardige Ridder"
+
+msgid "邪恶巫婆"
+msgstr "Kwaadaardige Heks"
+
+msgid "精英邪恶小鸡"
+msgstr "Elite Kwaadaardig Kuiken"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elite Kwaadaardige Spin"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elite Kwaadaardige Bij"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elite Evil Smiling Man"
+
+msgid "精英邪恶骑士"
+msgstr "Elite Kwaadaardige Ridder"
+
+msgid "精英邪恶巫婆"
+msgstr "Elite Kwaadaardige Heks"
+
+msgid "祭坛"
+msgstr "Altar"
+
+msgid "铜剑"
+msgstr "Copper Sword"
+
+msgid "铜锤"
+msgstr "Copper Hammer"
+
+msgid "铜镰刀"
+msgstr "Copper Sickle"
+
+msgid "铜矛"
+msgstr "Copper Spear"
+
+msgid "铜飞镖"
+msgstr "Copper Dart"
+
+msgid "银剑"
+msgstr "Silver Sword"
+
+msgid "银锤"
+msgstr "Silver Hammer"
+
+msgid "银镰刀"
+msgstr "Silver Sickle"
+
+msgid "银矛"
+msgstr "Silver Spear"
+
+msgid "银飞镖"
+msgstr "Silver Dart"
+
+msgid "金剑"
+msgstr "Gold Sword"
+
+msgid "金锤"
+msgstr "Gouden hamer"
+
+msgid "金镰刀"
+msgstr "Gouden zeis"
+
+msgid "金矛"
+msgstr "Gouden speer"
+
+msgid "金飞镖"
+msgstr "Gouden werpster"
+
+msgid "霜冻剑"
+msgstr "Vrieszwaard"
+
+msgid "霜冻锤"
+msgstr "Vrieshamer"
+
+msgid "霜冻镰刀"
+msgstr "Vrieszeis"
+
+msgid "霜冻矛"
+msgstr "Vriesspeer"
+
+msgid "霜冻飞镖"
+msgstr "Vrieswerpster"
+
+msgid "翡翠剑"
+msgstr "Jadezwaard"
+
+msgid "翡翠锤"
+msgstr "Jadehamer"
+
+msgid "翡翠镰刀"
+msgstr "Jadezeis"
+
+msgid "翡翠矛"
+msgstr "Jadespeer"
+
+msgid "翡翠飞镖"
+msgstr "Jadewerpster"
+
+msgid "熔岩剑"
+msgstr "Lavazwaard"
+
+msgid "熔岩锤"
+msgstr "Lavahamer"
+
+msgid "熔岩镰刀"
+msgstr "Lavazeis"
+
+msgid "熔岩矛"
+msgstr "Lavaspeer"
+
+msgid "熔岩飞镖"
+msgstr "Lavawerpster"
+
+msgid "星辰剑"
+msgstr "Sterrenzwaard"
+
+msgid "星辰锤"
+msgstr "Sterrenhamer"
+
+msgid "星辰镰刀"
+msgstr "Sterrensikkel"
+
+msgid "星辰矛"
+msgstr "Sterrenspeer"
+
+msgid "星辰飞镖"
+msgstr "Sterrenwerpster"
+
+msgid "彩虹剑"
+msgstr "Regenboogzwaard"
+
+msgid "彩虹锤"
+msgstr "Regenbooghamer"
+
+msgid "彩虹镰刀"
+msgstr "Regenboogsikkel"
+
+msgid "彩虹矛"
+msgstr "Regenboogspeer"
+
+msgid "彩虹飞镖"
+msgstr "Regenboogwerpster"
+
+msgid "铜靴子"
+msgstr "Koperen laarzen"
+
+msgid "铜腿甲"
+msgstr "Koperen beenplaten"
+
+msgid "铜头盔"
+msgstr "Koperen helm"
+
+msgid "铜盾牌"
+msgstr "Koperen schild"
+
+msgid "铜护甲"
+msgstr "Koperen harnas"
+
+msgid "铜披风"
+msgstr "Koperen mantel"
+
+msgid "银靴子"
+msgstr "Zilveren laarzen"
+
+msgid "银腿甲"
+msgstr "Zilveren beenplaten"
+
+msgid "银头盔"
+msgstr "Zilveren helm"
+
+msgid "银盾牌"
+msgstr "Zilveren schild"
+
+msgid "银护甲"
+msgstr "Zilveren harnas"
+
+msgid "银披风"
+msgstr "Zilveren Mantel"
+
+msgid "金靴子"
+msgstr "Gouden Laarzen"
+
+msgid "金腿甲"
+msgstr "Gouden Scheenplaten"
+
+msgid "金头盔"
+msgstr "Gouden Helm"
+
+msgid "金盾牌"
+msgstr "Gouden Schild"
+
+msgid "金护甲"
+msgstr "Gouden Harnas"
+
+msgid "金披风"
+msgstr "Gouden Mantel"
+
+msgid "霜冻靴子"
+msgstr "Vorst Laarzen"
+
+msgid "霜冻腿甲"
+msgstr "Vorst Scheenplaten"
+
+msgid "霜冻头盔"
+msgstr "Vorst Helm"
+
+msgid "霜冻盾牌"
+msgstr "Vorst Schild"
+
+msgid "霜冻护甲"
+msgstr "Vorst Harnas"
+
+msgid "霜冻披风"
+msgstr "Vorst Mantel"
+
+msgid "翡翠靴子"
+msgstr "Jade Laarzen"
+
+msgid "翡翠腿甲"
+msgstr "Jade Scheenplaten"
+
+msgid "翡翠头盔"
+msgstr "Jade Helm"
+
+msgid "翡翠盾牌"
+msgstr "Jade Schild"
+
+msgid "翡翠护甲"
+msgstr "Jade Harnas"
+
+msgid "翡翠披风"
+msgstr "Jade Mantel"
+
+msgid "熔岩靴子"
+msgstr "Lava Laarzen"
+
+msgid "熔岩腿甲"
+msgstr "Lava Leggings"
+
+msgid "熔岩头盔"
+msgstr "Lava Helmet"
+
+msgid "熔岩盾牌"
+msgstr "Lava Shield"
+
+msgid "熔岩护甲"
+msgstr "Lava Armor"
+
+msgid "熔岩披风"
+msgstr "Lava Cloak"
+
+msgid "星辰靴子"
+msgstr "Stellar Boots"
+
+msgid "星辰腿甲"
+msgstr "Stellar Leggings"
+
+msgid "星辰头盔"
+msgstr "Stellar Helmet"
+
+msgid "星辰盾牌"
+msgstr "Stellar Shield"
+
+msgid "星辰护甲"
+msgstr "Stellar Armor"
+
+msgid "星辰披风"
+msgstr "Stellar Cloak"
+
+msgid "彩虹靴子"
+msgstr "Rainbow Boots"
+
+msgid "彩虹腿甲"
+msgstr "Rainbow Leggings"
+
+msgid "彩虹头盔"
+msgstr "Rainbow Helmet"
+
+msgid "彩虹盾牌"
+msgstr "Rainbow Shield"
+
+msgid "彩虹护甲"
+msgstr "Rainbow Armor"
+
+msgid "彩虹披风"
+msgstr "Rainbow Cloak"
+
+msgid "红宝石戒指"
+msgstr "Ruby Ring"
+
+msgid "黄宝石戒指"
+msgstr "Topaz Ring"
+
+msgid "绿宝石戒指"
+msgstr "Emerald Ring"
+
+msgid "月亮宝石戒指"
+msgstr "Maanstenen Ring"
+
+msgid "水晶宝石戒指"
+msgstr "Kristallen Ring"
+
+msgid "星星宝石戒指"
+msgstr "Sterrenstenen Ring"
+
+msgid "玛瑙宝石戒指"
+msgstr "Onyx Ring"
+
+msgid "彩虹宝石戒指"
+msgstr "Regenboogstenen Ring"
+
+msgid "红宝石项链"
+msgstr "Robijn Halsketting"
+
+msgid "黄宝石项链"
+msgstr "Topaas Halsketting"
+
+msgid "绿宝石项链"
+msgstr "Smaragd Halsketting"
+
+msgid "月亮宝石项链"
+msgstr "Maanstenen Halsketting"
+
+msgid "水晶宝石项链"
+msgstr "Kristallen Halsketting"
+
+msgid "星星宝石项链"
+msgstr "Sterrenstenen Halsketting"
+
+msgid "玛瑙宝石项链"
+msgstr "Onyx Halsketting"
+
+msgid "彩虹宝石项链"
+msgstr "Regenboogstenen Halsketting"
+
+msgid "红宝石手环"
+msgstr "Robijn Armband"
+
+msgid "黄宝石手环"
+msgstr "Topaas Armband"
+
+msgid "绿宝石手环"
+msgstr "Smaragd Armband"
+
+msgid "月亮宝石手环"
+msgstr "Maanstenen Armband"
+
+msgid "水晶宝石手环"
+msgstr "Kristallen Armband"
+
+msgid "星星宝石手环"
+msgstr "Sterrenstenen Armband"
+
+msgid "玛瑙宝石手环"
+msgstr "Onyx Armband"
+
+msgid "彩虹宝石手环"
+msgstr "Regenboogstenen armband"
+
+msgid "铜鱼竿"
+msgstr "Koperen visstok"
+
+msgid "铜铲"
+msgstr "Koperen schop"
+
+msgid "铜斧"
+msgstr "Koperen bijl"
+
+msgid "铜镐"
+msgstr "Koperen houweel"
+
+msgid "铜陷阱"
+msgstr "Koperen val"
+
+msgid "银鱼竿"
+msgstr "Zilveren visstok"
+
+msgid "银铲"
+msgstr "Zilveren schop"
+
+msgid "银斧"
+msgstr "Zilveren bijl"
+
+msgid "银镐"
+msgstr "Zilveren houweel"
+
+msgid "银陷阱"
+msgstr "Zilveren val"
+
+msgid "金鱼竿"
+msgstr "Gouden visstok"
+
+msgid "金铲"
+msgstr "Gouden schop"
+
+msgid "金斧"
+msgstr "Gouden bijl"
+
+msgid "金镐"
+msgstr "Gouden houweel"
+
+msgid "金陷阱"
+msgstr "Gouden val"
+
+msgid "霜冻鱼竿"
+msgstr "Vorstvisstok"
+
+msgid "霜冻铲"
+msgstr "Vorstschoop"
+
+msgid "霜冻斧"
+msgstr "Vorstbijl"
+
+msgid "霜冻镐"
+msgstr "Vorsthouweel"
+
+msgid "霜冻陷阱"
+msgstr "Vriesval"
+
+msgid "翡翠鱼竿"
+msgstr "Jade hengel"
+
+msgid "翡翠铲"
+msgstr "Jade schop"
+
+msgid "翡翠斧"
+msgstr "Jade bijl"
+
+msgid "翡翠镐"
+msgstr "Jade pikhouweel"
+
+msgid "翡翠陷阱"
+msgstr "Jade val"
+
+msgid "熔岩鱼竿"
+msgstr "Lava hengel"
+
+msgid "熔岩铲"
+msgstr "Lava schop"
+
+msgid "熔岩斧"
+msgstr "Lava bijl"
+
+msgid "熔岩镐"
+msgstr "Lava pikhouweel"
+
+msgid "熔岩陷阱"
+msgstr "Lava val"
+
+msgid "星辰鱼竿"
+msgstr "Sterren hengel"
+
+msgid "星辰铲"
+msgstr "Sterren schop"
+
+msgid "星辰斧"
+msgstr "Sterren bijl"
+
+msgid "星辰镐"
+msgstr "Sterren pikhouweel"
+
+msgid "星辰陷阱"
+msgstr "Sterren val"
+
+msgid "彩虹鱼竿"
+msgstr "Regenboog hengel"
+
+msgid "彩虹铲"
+msgstr "Regenboog schop"
+
+msgid "彩虹斧"
+msgstr "Regenboog bijl"
+
+msgid "彩虹镐"
+msgstr "Regenboog pikhouweel"
+
+msgid "彩虹陷阱"
+msgstr "Regenboogval"
+
+msgid "苹果"
+msgstr "Appel"
+
+msgid "草莓"
+msgstr "Aardbei"
+
+msgid "香蕉"
+msgstr "Banaan"
+
+msgid "蓝莓"
+msgstr "Bosbes"
+
+msgid "樱桃"
+msgstr "Kers"
+
+msgid "橙子"
+msgstr "Sinaasappel"
+
+msgid "桃子"
+msgstr "Perzik"
+
+msgid "椰子"
+msgstr "Kokosnoot"
+
+msgid "铜矿石"
+msgstr "Kopererts"
+
+msgid "银矿石"
+msgstr "Zilvererts"
+
+msgid "金矿石"
+msgstr "Gouderts"
+
+msgid "霜冻矿石"
+msgstr "Vorsterts"
+
+msgid "翡翠矿石"
+msgstr "Jadeerts"
+
+msgid "熔岩矿石"
+msgstr "Lavaerts"
+
+msgid "星辰矿石"
+msgstr "Sterrenerts"
+
+msgid "彩虹矿石"
+msgstr "Regenboogerts"
+
+msgid "眼睛"
+msgstr "Oog"
+
+msgid "牙"
+msgstr "Tand"
+
+msgid "黄色眼睛"
+msgstr "Geel oog"
+
+msgid "锋利的牙"
+msgstr "Scherpe tanden"
+
+msgid "绿色眼睛"
+msgstr "Groene ogen"
+
+msgid "恐怖金牙"
+msgstr "Angstaanjagende gouden tanden"
+
+msgid "红色眼睛"
+msgstr "Rode ogen"
+
+msgid "骷髅头"
+msgstr "Schedel"
+
+msgid "炭"
+msgstr "Houtskool"
+
+msgid "铜锭"
+msgstr "Koperen staaf"
+
+msgid "银锭"
+msgstr "Zilveren staaf"
+
+msgid "金锭"
+msgstr "Gouden staaf"
+
+msgid "霜冻锭"
+msgstr "Vorststaaf"
+
+msgid "翡翠锭"
+msgstr "Jade staaf"
+
+msgid "熔岩锭"
+msgstr "Lava staaf"
+
+msgid "星辰锭"
+msgstr "Sterrenstaaf"
+
+msgid "彩虹锭"
+msgstr "Regenboogstaaf"
+
+msgid "松木"
+msgstr "Dennenbos"
+
+msgid "云杉木"
+msgstr "Sparrenhout"
+
+msgid "桦木"
+msgstr "Berkenhout"
+
+msgid "柚木"
+msgstr "Teakhout"
+
+msgid "桃花心木"
+msgstr "Mahoniehout"
+
+msgid "铁皮木"
+msgstr "IJzeren hout"
+
+msgid "红木"
+msgstr "Mahonie"
+
+msgid "古木"
+msgstr "Oud hout"
+
+msgid "鲤鱼"
+msgstr "Karper"
+
+msgid "鳟鱼"
+msgstr "Forel"
+
+msgid "三文鱼"
+msgstr "Zalm"
+
+msgid "鲈鱼"
+msgstr "Baars"
+
+msgid "罗非鱼"
+msgstr "Tilapia"
+
+msgid "鲭鱼"
+msgstr "Makreel"
+
+msgid "沙丁鱼"
+msgstr "Sardine"
+
+msgid "鲱鱼"
+msgstr "Haring"
+
+msgid "鲤鱼料理"
+msgstr "Karpergerecht"
+
+msgid "鳟鱼料理"
+msgstr "Forelgerecht"
+
+msgid "三文鱼料理"
+msgstr "Zalmgerecht"
+
+msgid "鲈鱼料理"
+msgstr "Baarsgerecht"
+
+msgid "罗非鱼料理"
+msgstr "Tilapiagerecht"
+
+msgid "鲭鱼料理"
+msgstr "Makreelgerecht"
+
+msgid "沙丁鱼料理"
+msgstr "Sardinegerecht"
+
+msgid "鲱鱼料理"
+msgstr "Haringgerecht"
+
+msgid "鲤鱼豪华料理"
+msgstr "Luxe karpergerecht"
+
+msgid "鳟鱼豪华料理"
+msgstr "Luxe forelgerecht"
+
+msgid "三文鱼豪华料理"
+msgstr "Zalm Luxe Maaltijd"
+
+msgid "鲈鱼豪华料理"
+msgstr "Baars Luxe Maaltijd"
+
+msgid "罗非鱼豪华料理"
+msgstr "Tilapia Luxe Maaltijd"
+
+msgid "鲭鱼豪华料理"
+msgstr "Makreel Luxe Maaltijd"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Sardine Luxe Maaltijd"
+
+msgid "鲱鱼豪华料理"
+msgstr "Haring Luxe Maaltijd"
+
+msgid "红宝石"
+msgstr "Robijn"
+
+msgid "黄宝石"
+msgstr "Topaas"
+
+msgid "绿宝石"
+msgstr "Smaragd"
+
+msgid "月亮宝石"
+msgstr "Maansteen"
+
+msgid "水晶宝石"
+msgstr "Kristal"
+
+msgid "星星宝石"
+msgstr "Sterrensteen"
+
+msgid "玛瑙宝石"
+msgstr "Agate"
+
+msgid "彩虹宝石"
+msgstr "Regenboogsteen"
+
+msgid "红宝石精华"
+msgstr "Robijn Essentie"
+
+msgid "黄宝石精华"
+msgstr "Topaas Essentie"
+
+msgid "绿宝石精华"
+msgstr "Smaragd Essentie"
+
+msgid "月亮精华"
+msgstr "Maan Essentie"
+
+msgid "水晶精华"
+msgstr "Kristal Essentie"
+
+msgid "星星精华"
+msgstr "Sterren Essentie"
+
+msgid "玛瑙精华"
+msgstr "Onyx Essence"
+
+msgid "彩虹精华"
+msgstr "Rainbow Essence"
+
+msgid "宝石粉末"
+msgstr "Gem Powder"
+
+msgid "种子"
+msgstr "Seed"
+
+msgid "肥料"
+msgstr "Fertilizer"
+
+msgid "兰花"
+msgstr "Orchid"
+
+msgid "雏菊"
+msgstr "Daisy"
+
+msgid "郁金香"
+msgstr "Tulip"
+
+msgid "玫瑰"
+msgstr "Rose"
+
+msgid "金盏花"
+msgstr "Marigold"
+
+msgid "牡丹"
+msgstr "Peony"
+
+msgid "风铃草"
+msgstr "Canterbury Bells"
+
+msgid "向日葵"
+msgstr "Sunflower"
+
+msgid "玉米"
+msgstr "Corn"
+
+msgid "白菜"
+msgstr "Cabbage"
+
+msgid "辣椒"
+msgstr "Chili Pepper"
+
+msgid "萝卜"
+msgstr "Radish"
+
+msgid "蘑菇"
+msgstr "Mushroom"
+
+msgid "番茄"
+msgstr "Tomato"
+
+msgid "茄子"
+msgstr "Eggplant"
+
+msgid "黄瓜"
+msgstr "Komkommer"
+
+msgid "精英怪物地图"
+msgstr "Kaart van Elite Monsters"
+
+msgid "老洞穴地图"
+msgstr "Kaart van Oude Grotten"
+
+msgid "泡菜厂地图"
+msgstr "Kaart van Kimchi Fabriek"
+
+msgid "老学校地图"
+msgstr "Kaart van Oude School"
+
+msgid "啤酒厂地图"
+msgstr "Kaart van Brouwerij"
+
+msgid "大香蕉地图"
+msgstr "Kaart van Grote Banaan"
+
+msgid "藏身处地图"
+msgstr "Kaart van Schuilplaats"
+
+msgid "木地地图"
+msgstr "Kaart van Houten Land"
+
+msgid "红色血包"
+msgstr "Rode Bloedzak"
+
+msgid "大电池手电筒"
+msgstr "Grote Batterij Zaklamp"
+
+msgid "空空瓶"
+msgstr "Lege Fles"
+
+msgid "大哥大"
+msgstr "Grote Mobiele Telefoon"
+
+msgid "卡姆PIU特"
+msgstr "Kam PIU Special"
+
+msgid "红药丸瓶"
+msgstr "Rode Pil Fles"
+
+msgid "神奇海螺"
+msgstr "Magische Zeeschelp"
+
+msgid "蓝色笔"
+msgstr "Blauwe Pen"
+
+msgid "对话气泡"
+msgstr "Sprekende Wolk"
+
+msgid "蓝色小人"
+msgstr "Blauw Poppetje"
+
+msgid "音药"
+msgstr "Muziekmedicijn"
+
+msgid "拳头！"
+msgstr "Veer!"
+
+msgid "叶子~"
+msgstr "Blad~"
+
+msgid "火药球"
+msgstr "Kruitbal"
+
+msgid "蝴蝶蝶"
+msgstr "Vlinder"
+
+msgid "考试小抄"
+msgstr "Cheatbriefje"
+
+msgid "下头！"
+msgstr "Saai!"
+
+msgid "护目镜"
+msgstr "Veiligheidsbril"
+
+msgid "硬币？"
+msgstr "Munt?"
+
+msgid "贵项链"
+msgstr "Dure Halsketting"
+
+msgid "贵戒指"
+msgstr "Dure Ring"
+
+msgid "经典背包经典"
+msgstr "Klassieke Rugzak"
+
+msgid "经典小包经典"
+msgstr "Klassieke Zak"
+
+msgid "烛蜡"
+msgstr "Kaarsvet"
+
+msgid "经典宝箱经典"
+msgstr "Klassieke Kist"
+
+msgid "经典十字经典"
+msgstr "Klassiek Kruis"
+
+msgid "神秘墓碑"
+msgstr "Mystiek Grafsteen"
+
+msgid "神秘铁锤"
+msgstr "Mystieke Hamer"
+
+msgid "无良印品"
+msgstr "Slechte Drukkerij"
+
+msgid "鱼鱼"
+msgstr "Vis"
+
+msgid "捣蒜器"
+msgstr "Knoflookstamper"
+
+msgid "离洞绳"
+msgstr "Grot touw"
+
+msgid "美容镜"
+msgstr "Schoonheidsspiegel"
+
+msgid "八匹狼"
+msgstr "Acht Wolven"
+
+msgid "神秘沙漏"
+msgstr "Mystieke Zandloper"
+
+msgid "红心"
+msgstr "Rood Hart"
+
+msgid "火焰"
+msgstr "Vuur"
+
+msgid "全麦面包"
+msgstr "Volkoren Brood"
+
+msgid "没寄出的信"
+msgstr "Niet Verzonden Brief"
+
+msgid "花生之神"
+msgstr "God van de Pinda"
+
+msgid "威风堂堂"
+msgstr "Majestueus"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr ""
+"Bij elke succesvolle ontwijking van een aanval, is je volgende aanval een "
+"guaranteed critical hit."
+
+msgid "百折不挠的真诚"
+msgstr "Oprechte volharding"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Bij aanval is er een 3% kans dat de schade twee keer wordt toegepast."
+
+msgid "直言不讳的勇敢"
+msgstr "Onbeschaamd moedig"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"Activeert willekeurig 1 effect per gevecht: +50% schade / +30% verdediging / "
+"dubbele ervaring"
+
+msgid "空想家"
+msgstr "Dromer"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Na het doden van een vijand, +1% kans op zeldzame voorwerpen, stapelbaar, "
+"maar werkt niet als het leven onder de 50% is."
+
+msgid "令人震惊的"
+msgstr "Schokkend"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Als het leven onder de 20% is, activeer automatisch 'Regeneratie', herstel 5% "
+"leven per seconde (duurt 10 seconden, afkoeling 2 minuten)."
+
+msgid "恐慌的"
+msgstr "Panisch"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"Bij een treffer, 5% kans om de vijand 5 seconden niet te kunnen acteren. Kan "
+"niet opnieuw worden geactiveerd."
+
+msgid "无法忍受的"
+msgstr "Onverdraagzaam"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Bij het oplopen van snijwonden, 10% kans om 50% schade terug te geven aan de "
+"aanvaller."
+
+msgid "邪恶的"
+msgstr "Kwaadaardig"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr "Vissnelheid +15%, maar 10% kans om niets te krijgen."
+
+msgid "难以置信的"
+msgstr "Ongelooflijk"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Bij het kappen van bomen, 5% kans om 1 houtskool te krijgen."
+
+msgid "搞点货"
+msgstr "Verdien iets"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"Verkregen gevechtservaring -30%, maar 50% van dit bedrag wordt gelijkmatig "
+"verdeeld over alle niet-gevechtsvaardigheden."
+
+msgid "空间管理"
+msgstr "Ruimtebeheer"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Voor elke lege plek in de rugzak, +0.2% globale schade; voor elke bezette "
+"plek, +0.2% globale vermindering van schade."
+
+msgid "麻烦的"
+msgstr "Vervelend"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"Gevechtsbeloningen geven geen goud meer, maar kiezen een ander voorwerp als "
+"vervanging."
+
+msgid "一心二用的"
+msgstr "Tweehandig"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Verhoogt de archeologiesnelheid met 10% tijdens het dragen en vechten."
+
+msgid "底子很好的"
+msgstr "Goede basis"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "Voor elke 2 seconden aanvalstussenpoos, +10% eindschade."
+
+msgid "主角般的"
+msgstr "Hoofdpersonage-achtig"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"De vijand heeft 20% hogere kans om jou te raken, maar als beloning heeft de "
+"vijand 1,5 keer hogere kans om zeldzame items te laten vallen."
+
+msgid "形容词的"
+msgstr "Bijvoeglijk naamwoord"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"Je trefferkans daalt met 20%, maar de opbrengstvermenigvuldiger van al je "
+"vaardigheden stijgt met 10%."
+
+msgid "哈哈哈"
+msgstr "Hahaha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr ""
+"10% kans om een lachende 'haha' te spelen tijdens het trainen van "
+"vaardigheden."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr ""
+"Verdien 1 goudstuk elke keer dat je de Steam-overlay opent tijdens het dragen."
+
+msgid "基础健康药水"
+msgstr "Basis Gezondheidsdrank"
+
+msgid "基础战斗经验药水"
+msgstr "Basis Gevechtservaringsdrank"
+
+msgid "基础拾取药水"
+msgstr "Basis Verzamelingsdrank"
+
+msgid "基础采集速度药水"
+msgstr "Basis Verzamelsnelheidsdrank"
+
+msgid "基础采集经验药水"
+msgstr "Basis Verzamelervaringsdrank"
+
+msgid "基础采集产量药水"
+msgstr "Basis Verzamelopbrengstdrank"
+
+msgid "基础制造速度药水"
+msgstr "Basis Productiesnelheidsdrank"
+
+msgid "基础多件制造药水"
+msgstr "Basis Meerdere Productiedrank"
+
+msgid "基础制造经验药水"
+msgstr "Basis Productieervaringsdrank"
+
+msgid "常规健康药水"
+msgstr "Standaard Gezondheidsdrank"
+
+msgid "常规战斗经验药水"
+msgstr "Normale Gevechtservaringsdrank"
+
+msgid "常规拾取药水"
+msgstr "Normale Verzamelingsdrank"
+
+msgid "常规采集速度药水"
+msgstr "Normale Oogstsnelheidsdrank"
+
+msgid "常规采集经验药水"
+msgstr "Normale Oogstervaringsdrank"
+
+msgid "常规采集产量药水"
+msgstr "Normale Oogstopbrengstdrank"
+
+msgid "常规制造速度药水"
+msgstr "Normale Productiesnelheidsdrank"
+
+msgid "常规多件制造药水"
+msgstr "Normale Meervoudige Productiedrank"
+
+msgid "常规制造经验药水"
+msgstr "Normale Productieervaringsdrank"
+
+msgid "高级健康药水"
+msgstr "Geavanceerde Gezondheidsdrank"
+
+msgid "高级战斗经验药水"
+msgstr "Geavanceerde Gevechtservaringsdrank"
+
+msgid "高级拾取药水"
+msgstr "Geavanceerde Verzamelingsdrank"
+
+msgid "高级采集速度药水"
+msgstr "Geavanceerde Oogstsnelheidsdrank"
+
+msgid "高级采集经验药水"
+msgstr "Geavanceerde Oogstervaringsdrank"
+
+msgid "高级采集产量药水"
+msgstr "Geavanceerde Oogstopbrengstdrank"
+
+msgid "高级制造速度药水"
+msgstr "Geavanceerde Productiesnelheidsdrank"
+
+msgid "高级多件制造药水"
+msgstr "Geavanceerde Meervoudige Productiedrank"
+
+msgid "高级制造经验药水"
+msgstr "Geavanceerde Productieervaringsdrank"
+
+msgid "超级健康药水"
+msgstr "Super Gezondheidsdrank"
+
+msgid "超级战斗经验药水"
+msgstr "Super Gevechtservaringsdrank"
+
+msgid "超级拾取药水"
+msgstr "Super Verzamelingsdrank"
+
+msgid "超级采集速度药水"
+msgstr "Superieure oogstsnelheidspotion"
+
+msgid "超级采集经验药水"
+msgstr "Superieure oogstervaringspotion"
+
+msgid "超级采集产量药水"
+msgstr "Superieure oogstopbrengstpotion"
+
+msgid "超级制造速度药水"
+msgstr "Superieure productiesnelheidspotion"
+
+msgid "超级多件制造药水"
+msgstr "Superieure meervoudige productiepotion"
+
+msgid "超级制造经验药水"
+msgstr "Superieure productievaringspotion"
+
+msgid "老洞穴"
+msgstr "Oude grot"
+
+msgid "normal"
+msgstr "Normaal"
+
+msgid "泡菜厂"
+msgstr "Kimchifabriek"
+
+msgid "老学校"
+msgstr "Oude school"
+
+msgid "大香蕉"
+msgstr "Grote banaan"
+
+msgid "藏身处"
+msgstr "Schuilplaats"
+
+msgid "木地"
+msgstr "Houten vloer"
+
+msgid "龙虾巢穴"
+msgstr "Kreeftenhol"
+
+msgid "ocean"
+msgstr "Oceaan"
+
+msgid "深海洞窟"
+msgstr "Diepzeegrot"
+
+msgid "黏黏洞窟"
+msgstr "Slijmgrot"
+
+msgid "决斗洞窟"
+msgstr "Duelgrot"
+
+msgid "海底坟墓"
+msgstr "Zeegraf"
+
+msgid "海底大坑"
+msgstr "Oceaanput"
+
+msgid "神秘小路"
+msgstr "Mysterieus pad"
+
+msgid "海底皇宫"
+msgstr "Onderwaterpaleis"
+
+msgid "危险黏黏洞窟"
+msgstr "Gevaarlijke slijmgrot"
+
+msgid "elite"
+msgstr "Elite"
+
+msgid "危险决斗洞窟"
+msgstr "Gevaarlijke duelgrot"
+
+msgid "危险海底坟墓"
+msgstr "Gevaarlijk zeegraf"
+
+msgid "危险海底大坑"
+msgstr "Gevaarlijke oceaanput"
+
+msgid "危险海底小路"
+msgstr "Gevaarlijk mysterieus pad"
+
+msgid "危险海底皇宫"
+msgstr "Gevaarlijk onderwaterpaleis"
+
+msgid "墓地"
+msgstr "Begraafplaats"
+
+msgid "mountain"
+msgstr "Berg"
+
+msgid "蛇蛇巢穴"
+msgstr "Slangenhol"
+
+msgid "下水道"
+msgstr "Riolering"
+
+msgid "外星基地"
+msgstr "Buitenaardse basis"
+
+msgid "大象巢穴"
+msgstr "Olifantenhol"
+
+msgid "野人小屋"
+msgstr "Wildemanshut"
+
+msgid "地狱"
+msgstr "Hel"
+
+msgid "邪恶国度"
+msgstr "Rijk van het kwaad"
+
+msgid "危险下水道"
+msgstr "Gevaarlijke riolering"
+
+msgid "危险外星基地"
+msgstr "Gevaarlijke buitenaardse basis"
+
+msgid "危险大象巢穴"
+msgstr "Gevaarlijk olifantenhol"
+
+msgid "危险野人小屋"
+msgstr "Gevaarlijke wildemanshut"
+
+msgid "危险地狱"
+msgstr "Gevaarlijke hel"
+
+msgid "危险邪恶国度"
+msgstr "Gevaarlijk rijk van het kwaad"
+
+msgid "螃蟹巢穴"
+msgstr "Krabbenhol"
+
+msgid "forest"
+msgstr "bos"
+
+msgid "种植园"
+msgstr "Plantage"
+
+msgid "鸡圈"
+msgstr "Kippenhok"
+
+msgid "蜘蛛巢穴"
+msgstr "Spinnenhol"
+
+msgid "蜂巢"
+msgstr "Bijenkorf"
+
+msgid "开心乐园"
+msgstr "Pretpark"
+
+msgid "城堡"
+msgstr "Kasteel"
+
+msgid "魔法城堡"
+msgstr "Magisch kasteel"
+
+msgid "危险鸡圈"
+msgstr "Gevaarlijk kippenhok"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Gevaarlijk spinnenhol"
+
+msgid "危险蜂巢"
+msgstr "Gevaarlijke bijenkorf"
+
+msgid "危险开心乐园"
+msgstr "Gevaarlijk pretpark"
+
+msgid "危险城堡"
+msgstr "Gevaarlijk kasteel"
+
+msgid "危险魔法城堡"
+msgstr "Gevaarlijk magisch kasteel"
+
+msgid "village"
+msgstr "dorp"
+
+msgid "优质三文鱼"
+msgstr "Premium Zalm"
+
+msgid "outskirts"
+msgstr "buitengebied"
+
+msgid "优质鲈鱼"
+msgstr "Premium Baars"
+
+msgid "优质罗非鱼"
+msgstr "Premium Tilapia"
+
+msgid "优质鲭鱼"
+msgstr "Premium Makreel"
+
+msgid "优质沙丁鱼"
+msgstr "Premium Sardine"
+
+msgid "优质鲱鱼"
+msgstr "Premium Haring"
+
+msgid "铜矿脉"
+msgstr "Koperader"
+
+msgid "银矿脉"
+msgstr "Zilverader"
+
+msgid "金矿脉"
+msgstr "Goudader"
+
+msgid "霜冻矿脉"
+msgstr "Vorstader"
+
+msgid "翡翠矿脉"
+msgstr "Jadeader"
+
+msgid "熔岩矿脉"
+msgstr "Lavaader"
+
+msgid "星辰矿脉"
+msgstr "Sterrenader"
+
+msgid "彩虹矿脉"
+msgstr "Regenboogader"
+
+msgid "优质金矿脉"
+msgstr "Kwalitatieve Goudader"
+
+msgid "优质霜冻矿脉"
+msgstr "Kwalitatieve Vriesader"
+
+msgid "优质翡翠矿脉"
+msgstr "Kwalitatieve Jaspisader"
+
+msgid "优质熔岩矿脉"
+msgstr "Kwalitatieve Lavaader"
+
+msgid "优质星辰矿脉"
+msgstr "Kwalitatieve Sterrenader"
+
+msgid "优质彩虹矿脉"
+msgstr "Kwalitatieve Regenboogader"
+
+msgid "松树"
+msgstr "Den"
+
+msgid "云杉树"
+msgstr "Spar"
+
+msgid "桦树"
+msgstr "Berk"
+
+msgid "柚木树"
+msgstr "Teak"
+
+msgid "桃花心木树"
+msgstr "Mahonie"
+
+msgid "铁皮树"
+msgstr "IJzerhout"
+
+msgid "红木树"
+msgstr "Roodhout"
+
+msgid "古树"
+msgstr "Oude Boom"
+
+msgid "优质桦树"
+msgstr "Kwalitatieve Berk"
+
+msgid "优质柚木树"
+msgstr "Kwalitatieve Teak"
+
+msgid "优质桃花心木树"
+msgstr "Kwalitatieve Mahonie"
+
+msgid "优质铁皮树"
+msgstr "Kwalitatieve IJzerhout"
+
+msgid "优质红木树"
+msgstr "Kwalitatieve Roodhout"
+
+msgid "优质古树"
+msgstr "Kwalitatieve Oude Boom"
+
+msgid "ores"
+msgstr "ertsen"
+
+msgid "gems"
+msgstr "edelstenen"
+
+msgid "月亮宝石精华"
+msgstr "Maansteen Essentie"
+
+msgid "水晶宝石精华"
+msgstr "Kristallen Essentie"
+
+msgid "星星宝石精华"
+msgstr "Sterrensteen Essentie"
+
+msgid "玛瑙宝石精华"
+msgstr "Onyx Essentie"
+
+msgid "彩虹宝石精华"
+msgstr "Regenboogsteen Essentie"
+
+msgid "flower"
+msgstr "bloem"
+
+msgid "vegetable"
+msgstr "groente"
+
+msgid "basics"
+msgstr "basis"
+
+msgid "regular"
+msgstr "regelmatig"
+
+msgid "advance"
+msgstr "geavanceerd"
+
+msgid "hyper"
+msgstr "hyper"
+
+msgid "cuisine"
+msgstr "keuken"
+
+msgid "good_cuisine"
+msgstr "goede keuken"
+
+msgid "猪猪"
+msgstr "varken"
+
+msgid "小鸡"
+msgstr "kip"
+
+msgid "鹅鹅"
+msgstr "gans"
+
+msgid "羊羊"
+msgstr "schaap"
+
+msgid "狼狼"
+msgstr "wolf"
+
+msgid "乌龟"
+msgstr "Schildpad"
+
+msgid "猫猫"
+msgstr "Kat"
+
+msgid "螃蟹"
+msgstr "Krab"
+
+msgid "蓝皮猪猪"
+msgstr "Blauwe varken"
+
+msgid "blue_skin"
+msgstr "Blauwe huid"
+
+msgid "蓝皮小鸡"
+msgstr "Blauwe kip"
+
+msgid "蓝皮鹅鹅"
+msgstr "Blauwe gans"
+
+msgid "蓝皮羊羊"
+msgstr "Blauwe schaap"
+
+msgid "蓝皮狼狼"
+msgstr "Blauwe wolf"
+
+msgid "蓝皮乌龟"
+msgstr "Blauwe schildpad"
+
+msgid "蓝皮猫猫"
+msgstr "Blauwe kat"
+
+msgid "蓝皮螃蟹"
+msgstr "Blauwe krab"
+
+msgid "map_crafting"
+msgstr "Kaart crafting"
+
+msgid "copper"
+msgstr "Koper"
+
+msgid "armor"
+msgstr "Harnas"
+
+msgid "tool"
+msgstr "Gereedschap"
+
+msgid "铜铲子"
+msgstr "Koperen schop"
+
+msgid "铜斧头"
+msgstr "Koperen bijl"
+
+msgid "weapons"
+msgstr "Wapens"
+
+msgid "铜弓"
+msgstr "Koperen boog"
+
+msgid "accessories"
+msgstr "Accessoires"
+
+msgid "silver"
+msgstr "Zilver"
+
+msgid "银铲子"
+msgstr "Zilveren schop"
+
+msgid "银斧头"
+msgstr "Zilveren bijl"
+
+msgid "银弓"
+msgstr "Zilveren boog"
+
+msgid "gold"
+msgstr "Goud"
+
+msgid "黄金披风"
+msgstr "Gouden mantel"
+
+msgid "金铲子"
+msgstr "Gouden schop"
+
+msgid "金斧头"
+msgstr "Gouden bijl"
+
+msgid "金弓"
+msgstr "Gouden boog"
+
+msgid "frost"
+msgstr "Vorst"
+
+msgid "霜冻铲子"
+msgstr "Vorstschop"
+
+msgid "霜冻斧头"
+msgstr "Vorstbijl"
+
+msgid "霜冻弓"
+msgstr "Vorstboog"
+
+msgid "jade"
+msgstr "Jade"
+
+msgid "翡翠铲子"
+msgstr "Jade schop"
+
+msgid "翡翠斧头"
+msgstr "Jade bijl"
+
+msgid "翡翠弓"
+msgstr "Jade boog"
+
+msgid "molten"
+msgstr "Smeltend"
+
+msgid "熔岩铲子"
+msgstr "Smeltende schop"
+
+msgid "熔岩斧头"
+msgstr "Lava Axe"
+
+msgid "熔岩弓"
+msgstr "Lava Bow"
+
+msgid "stellar"
+msgstr "Stellar"
+
+msgid "星辰铲子"
+msgstr "Stellar Shovel"
+
+msgid "星辰斧头"
+msgstr "Stellar Axe"
+
+msgid "星辰弓"
+msgstr "Stellar Bow"
+
+msgid "rainbow"
+msgstr "Rainbow"
+
+msgid "彩虹铲子"
+msgstr "Rainbow Shovel"
+
+msgid "彩虹斧头"
+msgstr "Rainbow Axe"
+
+msgid "彩虹弓"
+msgstr "Rainbow Bow"
+
+msgid "伐木"
+msgstr "Woodcutting"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Primary Output: Logs, Fruit\n"
+"\n"
+"Uses:\n"
+"- Logs → Convert to Charcoal (required for Smelting, Cooking)\n"
+"- Logs → Build Community Infrastructure\n"
+"- Fruit → Convert to Fertilizer (required for Farming)\n"
+"\n"
+"Skill Bonus: +0.25% Woodcutting efficiency per level (provides a chance to "
+"instantly complete an action)\n"
+"Core Tool: Axe (increases Woodcutting speed)"
+
+msgid "采矿"
+msgstr "Mining"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Primary Output: Ore, Gems\n"
+"\n"
+"Uses:\n"
+"- Ore → Smelt into Ingots\n"
+"- Gems → Smelt into Gem Essence\n"
+"\n"
+"Skill Bonus: +0.25% Mining efficiency per level (provides a chance to "
+"instantly complete an action)\n"
+"Core Tool: Pickaxe (increases Mining speed)"
+
+msgid "冶炼"
+msgstr "Smelting"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Crafting:\n"
+"- Ore + Charcoal → Ingots\n"
+"- Gems + Charcoal → Gem Essence\n"
+"\n"
+"Uses:\n"
+"- Ingots and Gem Essence → Forge Weapons, Tools, Armor, Accessories\n"
+"- Ingots and Gem Essence → Build Community Infrastructure\n"
+"\n"
+"Skill Bonus: +0.25% Smelting efficiency per level (provides a chance to "
+"instantly complete an action)\n"
+"Core Building: Furnace (increases Smelting speed)"
+
+msgid "锻造"
+msgstr "Smithing"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Crafting: Weapons, Tools, Armor, Accessories\n"
+"Required Materials: Ingots, Gem Essence\n"
+"Skill Bonus: +0.25% Smithing efficiency per level (provides a chance to "
+"instantly complete an action)\n"
+"Core Building: Anvil (increases Smithing speed)"
+
+msgid "农业"
+msgstr "Farming"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Primary Output: Flowers, Vegetables\n"
+"\n"
+"Uses:\n"
+"- Flowers → Alchemy for Potions\n"
+"- Vegetables → Cooking for Luxurious Meals (Combat Healing)\n"
+"\n"
+"Required Materials:\n"
+"- Seeds (Purchased from Shop)\n"
+"- Fertilizer (Converted from Fruit)\n"
+"\n"
+"Skill Bonus: +0.25% Farming efficiency per level (provides a chance to "
+"instantly complete an action)\n"
+"Core Tool: Shovel (increases Farming speed)"
+
+msgid "炼金"
+msgstr "Alchemie"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Geproduceerde inhoud: diverse drankjes\n"
+"\n"
+"Benodigde materialen:\n"
+"- Bloemen (Landbouw)\n"
+"- Botten (Gevecht)\n"
+"- Flessen (Winkel)\n"
+"\n"
+"Drankje-effect: Biedt diverse buff-effecten, standaard duur 180 "
+"seconden\n"
+"Vaardigheidsbonus: +0,25% alchemie-efficiëntie per niveau (biedt kans op "
+"onmiddellijke voltooiing van acties)\n"
+"Kerngebouw: Alchemielab (verhoogt alchemiesnelheid)"
+
+msgid "钓鱼"
+msgstr "Vissen"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Hoofdproduct: Vis\n"
+"Gebruik: Koken (gevechtsgenezing)\n"
+"Vaardigheidsbonus: +0,25% visserij-efficiëntie per niveau (biedt kans op "
+"onmiddellijke voltooiing van acties)\n"
+"Kerngereedschap: Vislijn (verhoogt visserijsnelheid)"
+
+msgid "烹饪"
+msgstr "Koken"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Geproduceerde inhoud: diverse gerechten\n"
+"Benodigde materialen: Ingrediënten (vis en groenten) + Kolen\n"
+"Gerecht-effect: Automatisch gebruikt wanneer levenspunten in gevecht onder "
+"33% zijn, herstelt levenspunten (afkoeltijd 15 seconden)\n"
+"Vaardigheidsbonus: +0,25% kook-efficiëntie per niveau (biedt kans op "
+"onmiddellijke voltooiing van acties)\n"
+"Kerngebouw: Kookpot (verhoogt kooksnelheid)"
+
+msgid "狩猎"
+msgstr "Jagen"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Hoofdproduct: Leer, Inkt, Veren\n"
+"Gebruik: Kaarten maken (vereist voor cartografievaardigheid)\n"
+"Benodigde materialen: Regenwormen (verkregen via vissen)\n"
+"Vaardigheidsbonus: +0,25% jacht-efficiëntie per niveau (biedt kans op "
+"onmiddellijke voltooiing van acties)\n"
+"Kerngereedschap: Val (verhoogt jachtsnelheid)"
+
+msgid "制图"
+msgstr "Cartografie"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Geproduceerde inhoud: Kaart\n"
+"Benodigde materialen: Leer, Inkt, Veren\n"
+"\n"
+"Gebruik:\n"
+"- Verbruiksgoed voor archeologievaardigheid\n"
+"- Vereist voor uitdagingen tegen elite monsters\n"
+"\n"
+"Vaardigheidsbonus: +0,25% cartografie-efficiëntie per niveau (biedt kans op "
+"onmiddellijke voltooiing van acties)\n"
+"Kerngebouw: Cartografietafel (verhoogt cartografiesnelheid)"
+
+msgid "考古"
+msgstr "Archeologie"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Speciaal mechanisme: Passieve vaardigheid, kan tegelijkertijd met andere "
+"vaardigheden worden uitgevoerd\n"
+"Benodigde materialen: Kaart\n"
+"Hoofdproduct: Artefacten\n"
+"\n"
+"Artefactsysteem:\n"
+"- Bouw een 'altaar' om artefacten te activeren\n"
+"- Maximaal 3 artefacten tegelijkertijd activeren\n"
+"- Activering vereist het verbruik van bronnen\n"
+"\n"
+"Versnelling: Gebruik sterren om archeologievoortgang te versnellen"
+
+msgid "单手武器"
+msgstr "Eenhandig wapen"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Wapentype: Zwaard, Hamer\n"
+"Vaardigheidsbonus: +0,25% eenhandige-efficiëntie per niveau (training geeft "
+"kans op dubbele gevechtservaring en buit)\n"
+"\n"
+"Trefkansmechanisme:\n"
+"Basis trefkans: 75% (bij gelijk niveau)\n"
+"Per niveau hoger dan monster: +0,5% trefkans (limiet 90%)\n"
+"Per niveau lager dan monster: -0,5% trefkans"
+
+msgid "双手武器"
+msgstr "Tweehandig wapen"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Wapentype: Speer, Zeis\n"
+"Vaardigheidsbonus: +0,25% tweehandige-efficiëntie per niveau (training geeft "
+"kans op dubbele gevechtservaring en buit)\n"
+"\n"
+"Trefkansmechanisme:\n"
+"Basis trefkans: 75% (bij gelijk niveau)\n"
+"Per niveau hoger dan monster: +0,5% trefkans (limiet 90%)\n"
+"Per niveau lager dan monster: -0,5% trefkans"
+
+msgid "远程武器"
+msgstr "Afstandswapen"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Wapentype: Boog, Bumerang\n"
+"Vaardigheidsbonus: +0,25% afstands-efficiëntie per niveau (training geeft "
+"kans op dubbele gevechtservaring en buit)\n"
+"\n"
+"Trefkansmechanisme:\n"
+"Basis trefkans: 75% (bij gelijk niveau)\n"
+"Per niveau hoger dan monster: +0,5% trefkans (limiet 90%)\n"
+"Per niveau lager dan monster: -0,5% trefkans"
+
+msgid "防御"
+msgstr "Verdediging"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Vaardigheidsbonus: +0,25% verdedigings-efficiëntie per niveau (training geeft "
+"kans op dubbele gevechtservaring en buit)\n"
+"\n"
+"Verdedigingsmechanisme: Verlaagt monster-trefkans\n"
+"Per niveau hoger dan monster: Monster-trefkans -0,5%\n"
+"Per niveau lager dan monster: Monster-trefkans +0,5%"
+
+msgid "把你踹开"
+msgstr "Je schopt me weg"
+
+msgid "他想要"
+msgstr "Hij wil"
+
+msgid "我的号码"
+msgstr "Mijn nummer"
+
+msgid "我不给"
+msgstr "Ik geef niet"
+
+msgid "对抗纨绔"
+msgstr "Tegen de verwende"
+
+msgid "美颜参数"
+msgstr "Schoonheidsparameters"
+
+msgid "值得学习"
+msgstr "De moeite waard om te leren"
+
+msgid "说梦话"
+msgstr "In zijn slaap praten"
+
+msgid "肌肉大"
+msgstr "Grote spieren"
+
+msgid "生活总是"
+msgstr "Het leven is altijd"
+
+msgid "太多波折"
+msgstr "Te veel tegenslagen"
+
+msgid "猫咪"
+msgstr "Kat"
+
+msgid "张嘴"
+msgstr "Open je mond"
+
+msgid "这个地方"
+msgstr "Deze plek"
+
+msgid "傻子太多"
+msgstr "Te veel domme mensen"
+
+msgid "我的生活"
+msgstr "Mijn leven"
+
+msgid "特别难过"
+msgstr "Heel verdrietig"
+
+msgid "希望你"
+msgstr "Ik hoop dat jij"
+
+msgid "知道这个"
+msgstr "Weet dit"
+
+msgid "我不想"
+msgstr "Ik wil niet"
+
+msgid "当小人物"
+msgstr "Wanneer ik een kleine ben"
+
+msgid "地下的"
+msgstr "Ondergronds"
+
+msgid "皇帝"
+msgstr "Keizer"
+
+msgid "我想当"
+msgstr "Ik wil zijn"
+
+msgid "三根一起抽"
+msgstr "Drie tegelijkertijd trekken"
+
+msgid "喝很多水"
+msgstr "Veel water drinken"
+
+msgid "和我作对"
+msgstr "Tegen mij zijn"
+
+msgid "出人头地"
+msgstr "Naar de top stijgen"
+
+msgid "就在今天"
+msgstr "Precies vandaag"
+
+msgid "当我看见"
+msgstr "Wanneer ik zie"
+
+msgid "外国友人"
+msgstr "Buitenlandse vrienden"
+
+msgid "我不问好"
+msgstr "Ik groet niet"
+
+msgid "因为我太"
+msgstr "Omdat ik te"
+
+msgid "高冷了"
+msgstr "Koud ben"
+
+msgid "质疑我的"
+msgstr "Mijn twijfels"
+
+msgid "嘲笑我的"
+msgstr "Mijn spot"
+
+msgid "都是一群"
+msgstr "Zijn allemaal een groep"
+
+msgid "大傻子"
+msgstr "Grote dommerikken"
+
+msgid "我就是"
+msgstr "Ik ben"
+
+msgid "全世界"
+msgstr "De hele wereld"
+
+msgid "最牛的！"
+msgstr "De allerbeste!"
+
+msgid "你的炫耀"
+msgstr "Jouw opschepperij"
+
+msgid "名牌包包"
+msgstr "Designertas"
+
+msgid "名牌手表"
+msgstr "Designhorloge"
+
+msgid "说实话"
+msgstr "Om eerlijk te zijn"
+
+msgid "我不在乎"
+msgstr "Het kan me niets schelen"
+
+msgid "想打败我"
+msgstr "Wil me verslaan"
+
+msgid "那你惨了"
+msgstr "Dan ben je de sjaak"
+
+msgid "我需要个"
+msgstr "Ik heb een"
+
+msgid "赚快钱"
+msgstr "Snel geld verdienen"
+
+msgid "的方法"
+msgstr "methode"
+
+msgid "你可以叫我"
+msgstr "Je mag me noemen"
+
+msgid "小帅"
+msgstr "Knappe vent"
+
+msgid "面临"
+msgstr "Geconfronteerd met"
+
+msgid "指控"
+msgstr "beschuldiging"
+
+msgid "从不会"
+msgstr "Zal nooit"
+
+msgid "求神拜佛"
+msgstr "God aanbidden"
+
+msgid "我只穿"
+msgstr "Ik draag alleen"
+
+msgid "一次性的"
+msgstr "Wegwerp-"
+
+msgid "袜子"
+msgstr "sokken"
+
+msgid "洗衣服"
+msgstr "Wassen"
+
+msgid "太麻烦"
+msgstr "Te veel moeite"
+
+msgid "她画了"
+msgstr "Zij tekende"
+
+msgid "美丽的妆"
+msgstr "Mooie make-up"
+
+msgid "但是她"
+msgstr "Maar zij"
+
+msgid "喜欢女的"
+msgstr "Houdt van vrouwen"
+
+msgid "我是那个"
+msgstr "Ik ben diegene"
+
+msgid "第三者"
+msgstr "De derde persoon"
+
+msgid "特别伤心"
+msgstr "Heel verdrietig"
+
+msgid "我哭了"
+msgstr "Ik huilde"
+
+msgid "自给自足者"
+msgstr "Zelfvoorzienend"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 200 is, vaardigheidssnelheid +20%\n"
+"Wanneer de voorraad minder dan 50 is, vaardigheidssnelheid -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 300 is, vaardigheidsexperience multiplier "
+"+20%\n"
+"Wanneer de voorraad minder dan 100 is, vaardigheidsexperience multiplier -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 320 is, vaardigheidssnelheid +24%\n"
+"Wanneer de voorraad minder dan 80 is, vaardigheidssnelheid -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 420 is, vaardigheidsexperience multiplier "
+"+24%\n"
+"Wanneer de voorraad minder dan 140 is, vaardigheidsexperience multiplier -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 500 is, vaardigheidssnelheid +30%\n"
+"Wanneer de voorraad minder dan 180 is, vaardigheidssnelheid -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Bij het uitvoeren van een actie, controleer de vereiste drop items voor die "
+"actie:\n"
+"Wanneer de voorraad meer dan 650 is, vaardigheidsexperience multiplier "
+"+30%\n"
+"Wanneer de voorraad minder dan 220 is, vaardigheidsexperience multiplier -4%"
+
+msgid "Z 世代"
+msgstr "Generatie Z"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Tussen 22:00–6:00, alle verzamelvaardigheidssnelheid +18%.\n"
+"Andere tijd snelheid -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"Tussen 22:00–6:00, alle productievaardigheidssnelheid +18%.\n"
+"Andere tijd snelheid -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Tussen 22:00–6:00, alle verzamelvaardigheidssnelheid +24%.\n"
+"Andere tijd snelheid -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"Tussen 22:00–6:00, alle productievaardigheidssnelheid +24%.\n"
+"Andere tijd snelheid -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Tussen 22:00–6:00, alle verzamelvaardigheidssnelheid +28%.\n"
+"Andere tijd snelheid -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"Tussen 22:00–6:00, alle productievaardigheidssnelheid +28%.\n"
+"Andere tijd snelheid -8%"
+
+msgid "赌徒"
+msgstr "Gokker"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Bij voltooiing van elke actie: 13% kans dat de opbrengst van deze actie op "
+"nul wordt gezet, 13% kans dat de opbrengst van deze actie x3 wordt.\n"
+"Maar verzamel-, productie- en gevechtsvaardigheid items opbrengst -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Bij voltooiing van elke actie: 4% kans dat de opbrengst van deze actie op nul "
+"wordt gezet, 6% kans dat de opbrengst van deze actie x3 wordt."
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Bij voltooiing van elke actie: 10% kans dat de opbrengst van deze actie op "
+"nul wordt gezet, 20% kans dat de opbrengst van deze actie x3 wordt.\n"
+"Maar verzamel-, productie- en gevechtsvaardigheid items opbrengst -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Bij voltooiing van elke actie: 5% kans dat de opbrengst van deze actie op nul "
+"wordt gezet, 9% kans dat de opbrengst van deze actie x3 wordt."
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Bij elke actie: 8% kans dat de opbrengst van deze actie op nul wordt gezet, "
+"26% kans dat de opbrengst wordt vermenigvuldigd met 3.\n"
+"Maar voor verzamelen, craften en gevechten: -10% opbrengst voor items."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Bij elke actie: 2% kans dat de opbrengst van deze actie op nul wordt gezet, "
+"10% kans dat de opbrengst wordt vermenigvuldigd met 3."
+
+msgid "番茄钟"
+msgstr "Tomatenklok"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 10 minuten dat je je op één enkele craftvaardigheid richt, stijgt "
+"de itemopbrengst van die vaardigheid cumulatief met 5% (max +30%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 10 minuten dat je je op één enkele craftvaardigheid richt, stijgt "
+"de ervaringsmultiplier van die vaardigheid cumulatief met 5% (max "
+"+30%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 8 minuten dat je je op één enkele craftvaardigheid richt, stijgt de "
+"itemopbrengst van die vaardigheid cumulatief met 4% (max +36%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 8 minuten dat je je op één enkele craftvaardigheid richt, stijgt de "
+"ervaringsmultiplier van die vaardigheid cumulatief met 4% (max "
+"+36%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 6 minuten dat je je op één enkele craftvaardigheid richt, stijgt de "
+"itemopbrengst van die vaardigheid cumulatief met 4% (max +48%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Voor elke 6 minuten dat je je op één enkele craftvaardigheid richt, stijgt de "
+"ervaringsmultiplier van die vaardigheid cumulatief met 4% (max "
+"+48%).\n"
+"Wanneer je van craftvaardigheid wisselt, wordt de cumulatieve waarde gereset "
+"naar 0."
+
+msgid "万岁"
+msgstr "Hoera"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Bij het opeenvolgend verslaan van monsters, stijgt de schade en trefferkans "
+"cumulatief met 2.5% per monster (max +25%).\n"
+"Zodra je geraakt wordt door een monster, wordt de teller gereset naar 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Na elke schade die je oploopt, stijgt de schade van je volgende aanval met "
+"18% en de trefferkans met 8%.\n"
+"Maar de maximale levenspunten dalen met 12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Bij het opeenvolgend verslaan van monsters, stijgt de schade en trefferkans "
+"cumulatief met 3% per monster (max +36%).\n"
+"Zodra je geraakt wordt door een monster, wordt de teller gereset naar 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Na elke schade die je oploopt, stijgt de schade van je volgende aanval met "
+"24% en de trefferkans met 12%.\n"
+"Maar de maximale levenspunten dalen met 12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Bij het opeenvolgend verslaan van monsters, stijgt de schade en trefferkans "
+"cumulatief met 3.5% per monster (max +45%).\n"
+"Zodra je geraakt wordt door een monster, wordt de teller gereset naar 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Na elke schade die je oploopt, stijgt de schade van je volgende aanval met "
+"30% en de trefferkans met 15%.\n"
+"Maar de maximale levenspunten dalen met 10%."
+
+msgid "伐木菜鸟"
+msgstr "Houtkap beginner"
+
+msgid "挖掘菜鸟"
+msgstr "Graven beginner"
+
+msgid "冶炼菜鸟"
+msgstr "Smelten beginner"
+
+msgid "锻造菜鸟"
+msgstr "Smeden beginner"
+
+msgid "种地菜鸟"
+msgstr "Landbouw beginner"
+
+msgid "炼金菜鸟"
+msgstr "Alchemie beginner"
+
+msgid "钓鱼菜鸟"
+msgstr "Vissen beginner"
+
+msgid "烹饪菜鸟"
+msgstr "Koken beginner"
+
+msgid "狩猎菜鸟"
+msgstr "Jagen beginner"
+
+msgid "制图菜鸟"
+msgstr "Kaarten maken beginner"
+
+msgid "考古菜鸟"
+msgstr "Archeologie beginner"
+
+msgid "单手武器菜鸟"
+msgstr "Eenhandige wapens beginner"
+
+msgid "双手武器菜鸟"
+msgstr "Tweehandige wapens beginner"
+
+msgid "远程武器菜鸟"
+msgstr "Afstandswapens beginner"
+
+msgid "防御菜鸟"
+msgstr "Verdediging beginner"
+
+msgid "伐木高手"
+msgstr "Houtkap expert"
+
+msgid "挖掘高手"
+msgstr "Graven expert"
+
+msgid "冶炼高手"
+msgstr "Smelten expert"
+
+msgid "锻造高手"
+msgstr "Smeden expert"
+
+msgid "种地高手"
+msgstr "Landbouw expert"
+
+msgid "炼金高手"
+msgstr "Alchemie-expert"
+
+msgid "钓鱼高手"
+msgstr "Vis-expert"
+
+msgid "烹饪高手"
+msgstr "Kook-expert"
+
+msgid "狩猎高手"
+msgstr "Jacht-expert"
+
+msgid "制图高手"
+msgstr "Kaart-expert"
+
+msgid "考古高手"
+msgstr "Archeologie-expert"
+
+msgid "单手武器高手"
+msgstr "Eenhandwapen-expert"
+
+msgid "双手武器高手"
+msgstr "Tweehandwapen-expert"
+
+msgid "远程武器高手"
+msgstr "Afstandswapen-expert"
+
+msgid "防御高手"
+msgstr "Verdediging-expert"
+
+msgid "伐木大王"
+msgstr "Houtkap-koning"
+
+msgid "挖掘大王"
+msgstr "Graven-koning"
+
+msgid "冶炼大王"
+msgstr "Smelten-koning"
+
+msgid "锻造大王"
+msgstr "Smeden-koning"
+
+msgid "种地大王"
+msgstr "Landbouw-koning"
+
+msgid "炼金大王"
+msgstr "Alchemie-koning"
+
+msgid "钓鱼大王"
+msgstr "Vis-koning"
+
+msgid "烹饪大王"
+msgstr "Kook-koning"
+
+msgid "狩猎大王"
+msgstr "Jacht-koning"
+
+msgid "制图大王"
+msgstr "Kaart-koning"
+
+msgid "考古大王"
+msgstr "Koning van de Oudheid"
+
+msgid "单手武器大王"
+msgstr "Koning van de Eenhandwapens"
+
+msgid "双手武器大王"
+msgstr "Koning van de Tweehandwapens"
+
+msgid "远程武器大王"
+msgstr "Koning van de Afstandswapens"
+
+msgid "防御大王"
+msgstr "Koning van de Verdediging"
+
+msgid "Tutorial"
+msgstr "Zelfstudie"
+
+msgid "Loadout"
+msgstr "Uitrusting"
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Inventory"
+msgstr "Inventaris"
+
+msgid "Journey"
+msgstr "Reis"
+
+msgid "Quests"
+msgstr "Quests"
+
+msgid "Community"
+msgstr "Gemeenschap"
+
+msgid "Cheat"
+msgstr "Cheats"
+
+msgid "Dev"
+msgstr "Ontwikkelaar"
+
+msgid "Shop"
+msgstr "Winkel"
+
+msgid "StarStore"
+msgstr "Sterrenwinkel"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Codex"
+msgstr "Codex"
+
+msgid "Leaderboard"
+msgstr "Ranglijst"
+
+msgid "Achievements"
+msgstr "Prestaties"
+
+msgid "Talents"
+msgstr "Talenten"
+
+msgid "Traits"
+msgstr "Kenmerken"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Skills"
+msgstr "Vaardigheden"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Skill unlocked: {0}"
+msgstr "Vaardigheid ontgrendeld: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Advertentie Mogelijkheid"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Beschrijving Advertentie Mogelijkheid"
+
+msgid "Ad Opportunity Finished"
+msgstr "Advertentie Mogelijkheid Voltooid"
+
+msgid "Ad Failed"
+msgstr "Advertentie Mislukt"
+
+msgid "Activated Modifiers"
+msgstr "GeactiveerdeModifiers"
+
+msgid "Completed"
+msgstr "Voltooid"
+
+msgid "Bankrupted"
+msgstr "Gefailleerd"
+
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+msgid "Decline"
+msgstr "Afwijzen"
+
+msgid "Accept"
+msgstr "Accepteren"
+
+msgid "Skills Total Level"
+msgstr "Vaardigheden Totaal Niveau"
+
+msgid "Formater"
+msgstr "Formater"
+
+msgid "✦ First selection is free"
+msgstr "✦ Eerste selectie is gratis"
+
+msgid "Switch cooldown: {0}"
+msgstr "Schakel afkoeling: {0}"
+
+msgid "● ACTIVE"
+msgstr "● ACTIEF"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Inspect"
+msgstr "Inspecteren"
+
+msgid "← Back"
+msgstr "← Terug"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● ACTIEF KENMERK"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid "Switch  (1× Formater)"
+msgstr "Wisselen (1× Formater)"
+
+msgid "Select"
+msgstr "Selecteren"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Bereik totale vaardigheidsniveau {0} om deze perk-sleuf te ontgrendelen. "
+"(Momenteel: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "Veranderen perk kost 1× Formater"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Activate"
+msgstr "Activeren"
+
+msgid "Loading"
+msgstr "Laden"
+
+msgid "Buy"
+msgstr "Kopen"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "Bekijk {0} advertentie voor {1}?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "Besteed {0} sterren voor {1}?"
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Successfully purchased %s"
+msgstr "%s succesvol gekocht"
+
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "Failed to purchase %s"
+msgstr "Kon %s niet kopen"
+
+msgid "Consumes"
+msgstr "Verbruikt"
+
+msgid "Drops"
+msgstr "Valt"
+
+msgid "Loot"
+msgstr "Buit"
+
+msgid "Props"
+msgstr "Voorwerpen"
+
+msgid "Auto Equip"
+msgstr "Automatisch Uitrusten"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Versnelling 10 minuten: 1 ster"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Dungeon: {0} - {1} golven"
+
+msgid "Last wave is BOSS!"
+msgstr "De laatste golf is een BAAS!"
+
+msgid "Monster Pool:"
+msgstr "Monstergroep:"
+
+msgid "Equipped"
+msgstr "Uitgerust"
+
+msgid "No Prop Selected"
+msgstr "Geen voorwerp geselecteerd"
+
+msgid "Item is not a prop"
+msgstr "Het item is geen voorwerp"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Amount"
+msgstr "Aantal"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Not enough coins"
+msgstr "Niet genoeg munten"
+
+msgid "About"
+msgstr "Over"
+
+msgid "Game Version"
+msgstr "Spelversie"
+
+msgid "Theme Preference"
+msgstr "Thema-voorkeur"
+
+msgid "Theme Style"
+msgstr "Themastijl"
+
+msgid "Seed Color"
+msgstr "Zaadkleur"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "UI Scale"
+msgstr "UI-schaal"
+
+msgid "Scale: {0}"
+msgstr "Schaal: {0}"
+
+msgid "Sound Volume"
+msgstr "Geluidsvolume"
+
+msgid "Volume: {0}"
+msgstr "Volume: {0}"
+
+msgid "Music Volume"
+msgstr "Muziekvolume"
+
+msgid "Confirm"
+msgstr "Bevestigen"
+
+msgid "Stock"
+msgstr "Voorraad"
+
+msgid "Materials"
+msgstr "Materialen"
+
+msgid "Empty"
+msgstr "Leeg"
+
+msgid "Item"
+msgstr "Voorwerp"
+
+msgid "Select a material"
+msgstr "Selecteer een materiaal"
+
+msgid "Not enough materials"
+msgstr "Niet genoeg materialen"
+
+msgid "Create"
+msgstr "Maak"
+
+msgid "Quest"
+msgstr "Quest"
+
+msgid "Rewards"
+msgstr "Beloningen"
+
+msgid "Claim Reward"
+msgstr "Claim Beloning"
+
+msgid "Reward Claimed"
+msgstr "Beloning Geclaimd"
+
+msgid "In Progress"
+msgstr "In Uitvoering"
+
+msgid "Daily Quests"
+msgstr "Dagelijkse Quests"
+
+msgid "Requirements"
+msgstr "Vereisten"
+
+msgid "Saving..."
+msgstr "Opslaan..."
+
+msgid "Saved"
+msgstr "Opgeslagen"
+
+msgid "Creating save"
+msgstr "Opslag aanmaken"
+
+msgid "Deleting save"
+msgstr "Opslag verwijderen"
+
+msgid "Entering save"
+msgstr "Opslag openen"
+
+msgid "Refreshing"
+msgstr "Verversen"
+
+msgid "Syncing cloud"
+msgstr "Cloud synchroniseren"
+
+msgid "New save"
+msgstr "Nieuwe opslag"
+
+msgid "No modified time"
+msgstr "Geen gewijzigde tijd"
+
+msgid "Character name"
+msgstr "Karakternaam"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Saves"
+msgstr "Opgeslagen bestanden"
+
+msgid "Delete save"
+msgstr "Verwijder opgeslagen bestand"
+
+msgid "Delete {0} ?"
+msgstr "{0} verwijderen?"
+
+msgid "Onboarding"
+msgstr "Introductie"
+
+msgid "Total Mastery"
+msgstr "Totaal Meesterschap"
+
+msgid "{0} mastered"
+msgstr "{0} meester"
+
+msgid "Progress Rank"
+msgstr "Voortgang Rang"
+
+msgid "Collect items to start"
+msgstr "Verzamel items om te beginnen"
+
+msgid "Mastery Level"
+msgstr "Meesterschap Niveau"
+
+msgid "Locked"
+msgstr "Vergrendeld"
+
+msgid "Friends Only"
+msgstr "Alleen Vrienden"
+
+msgid "Your Rank"
+msgstr "Jouw Rang"
+
+msgid "Total Mastery XP"
+msgstr "Totaal Meesterschap XP"
+
+msgid "Loading leaderboard..."
+msgstr "Ranglijst aan het laden..."
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Retry"
+msgstr "Probeer opnieuw"
+
+msgid "No Data Available"
+msgstr "Geen gegevens beschikbaar"
+
+msgid "Add friends to see rankings"
+msgstr "Voeg vrienden toe om ranglijsten te zien"
+
+msgid "Slots"
+msgstr "Slots"
+
+msgid "Open Results"
+msgstr "Open Resultaten"
+
+msgid "Nothing obtained."
+msgstr "Niets verkregen."
+
+msgid "Inventory full"
+msgstr "Inventaris vol"
+
+msgid "Item is locked"
+msgstr "Voorwerp is vergrendeld"
+
+msgid "Sell"
+msgstr "Verkopen"
+
+msgid "Purchase Slot"
+msgstr "Koop slot"
+
+msgid "Max Slots"
+msgstr "Max slots"
+
+msgid "Selections"
+msgstr "Selecties"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Remove the relic?"
+msgstr "Het relic verwijderen?"
+
+msgid "Place Relic"
+msgstr "Plaats relic"
+
+msgid "Enchanting"
+msgstr "Verzilveren"
+
+msgid "Square"
+msgstr "Vierkant"
+
+msgid "Altar"
+msgstr "Altaar"
+
+msgid "Stop Enchanting"
+msgstr "Stop met verzilveren"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Stoppen met verzilveren? Materialen worden niet terugbetaald."
+
+msgid "Enchanting Result"
+msgstr "Verzilveringsresultaat"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr ""
+"Kies het item om in de inventaris te plaatsen, de andere wordt weggegooid."
+
+msgid "Put in Inventory"
+msgstr "In inventaris plaatsen"
+
+msgid "Select Item"
+msgstr "Selecteer item"
+
+msgid "Original"
+msgstr "Origineel"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "Click to Keep"
+msgstr "Klik om te behouden"
+
+msgid "Remaining"
+msgstr "Resterend"
+
+msgid "Possible Modifiers"
+msgstr "Mogelijke modifiers"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Zal willekeurig 1-2 modifiers verkrijgen."
+
+msgid "Capacity"
+msgstr "Capaciteit"
+
+msgid "Upgrade"
+msgstr "Upgraden"
+
+msgid "Occupying"
+msgstr "Bezet"
+
+msgid "Unlocked"
+msgstr "Vergrendeld"
+
+msgid "Layers"
+msgstr "Lagen"
+
+msgid "Not Built"
+msgstr "Niet gebouwd"
+
+msgid "Max Level Reached"
+msgstr "Max niveau bereikt"
+
+msgid "Decrease Tier"
+msgstr "Verlaag tier"
+
+msgid "Increase Tier"
+msgstr "Verhoog Niveau"
+
+msgid "Tier"
+msgstr "Niveau"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Offline Rewards"
+msgstr "Offline beloningen"
+
+msgid "You have been offline for {0}."
+msgstr "Je bent offline geweest voor {0}."
+
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+msgid "Max Count"
+msgstr "Maximaal aantal"
+
+msgid "1 Left"
+msgstr "1 over"
+
+msgid "Owned"
+msgstr "In bezit"
+
+msgid "Unit Price"
+msgstr "Stuksprijs"
+
+msgid "Total Price"
+msgstr "Totale prijs"
+
+msgid "Current Item"
+msgstr "Huidig item"
+
+msgid "Count"
+msgstr "Aantal"
+
+msgid "{0} missed {1}"
+msgstr "{0} miste {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} raakte {1}, schade: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} is verslagen"
+
+msgid "Trait triggered: {0}"
+msgstr "Kenmerk geactiveerd: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Gevecht beëindigd: {0}"
+
+msgid "Combat started"
+msgstr "Gevecht gestart"
+
+msgid "Reviving..."
+msgstr "Aan het herleven..."
+
+msgid "Combat Log"
+msgstr "Gevechtslog"
+
+msgid "No combat events yet."
+msgstr "Nog geen gevechtsgebeurtenissen."
+
+msgid "No trait activations yet."
+msgstr "Nog geen eigenschapactivaties."
+
+msgid "Attack Speed"
+msgstr "Aanvalssnelheid"
+
+msgid "Slash Damage"
+msgstr "Snijdschade"
+
+msgid "Puncture Damage"
+msgstr "Prik schade"
+
+msgid "Impact Damage"
+msgstr "Stootschade"
+
+msgid "Slash Resistance"
+msgstr "Snijdweerstand"
+
+msgid "Puncture Resistance"
+msgstr "Prikweerstand"
+
+msgid "Impact Resistance"
+msgstr "Stootweerstand"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Beheersingsvoortgang: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Uitrusting"
+
+msgid "Farming"
+msgstr "Landbouw"
+
+msgid "Material"
+msgstr "Materiaal"
+
+msgid "Misc"
+msgstr "Divers"
+
+msgid "Relics"
+msgstr "Relieken"
+
+msgid "Item Mastered"
+msgstr "Item Meester"
+
+msgid "Mastery Complete"
+msgstr "Meesterschap Voltooid"
+
+msgid "Mastery Rank"
+msgstr "Meesterschap Rang"
+
+msgid "Rank Advanced"
+msgstr "Rang Gepromoveerd"
+
+msgid "Your mastery continues to grow"
+msgstr "Je meesterschap blijft groeien"
+
+msgid "Finished"
+msgstr "Klaar"
+
+msgid "Fee: {0}"
+msgstr "Vergoeding: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Marktdruk: {0}"
+
+msgid "You Pay"
+msgstr "Jij betaalt"
+
+msgid "You Receive"
+msgstr "Jij ontvangt"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"Marktdruk vertegenwoordigt het niveau van marktverzadiging. Hoe hoger de "
+"marktdruk, hoe slechter de wisselkoers voor aankoop. Marktdruk neemt na "
+"verloop van tijd op natuurlijke wijze af."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "Het omwisselen van munten voor Isle Bucks verhoogt de marktdruk."
+
+msgid "Confirm Exchange"
+msgstr "Wisselkoers bevestigen"
+
+msgid "Enter Amount"
+msgstr "Voer aantal in"
+
+msgid "Insufficient Balance"
+msgstr "Onvoldoende saldo"
+
+msgid "Balance: {0}"
+msgstr "Saldo: {0}"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Als je denkt dat je een klein foutje hebt gemaakt, klik dan op de knop "
+"hieronder om opnieuw te beginnen! Geen zorgen, dit is slechts een klein "
+"hobbeltje op weg naar grootsheid."
+
+msgid "Start Over"
+msgstr "Opnieuw beginnen"
+
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+msgid "Port"
+msgstr "Haven"
+
+msgid "Next Trade In: {0}"
+msgstr "Volgende handel over: {0}"
+
+msgid "Current Stats"
+msgstr "Huidige Statistieken"
+
+msgid "Capacity (per trade)"
+msgstr "Capaciteit (per handel)"
+
+msgid "Trade Interval"
+msgstr "Handelsinterval"
+
+msgid "Saturation Speed"
+msgstr "Verzadigingssnelheid"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/item, -{1}/sec"
+
+msgid "Upgrades"
+msgstr "Upgrades"
+
+msgid "How many items can be sold per trade."
+msgstr "Hoeveel items kunnen per handel worden verkocht."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Hoe vaak handel plaatsvindt. Lager is beter."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "Verzadiging stijgt langzamer en neemt sneller af."
+
+msgid "Now"
+msgstr "Nu"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Cost"
+msgstr "Kosten"
+
+msgid "Last Trade"
+msgstr "Laatste handel"
+
+msgid "Trade Rule"
+msgstr "Handelsregel"
+
+msgid "Stock: {0}"
+msgstr "Voorraad: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Verzadiging: {0}% (Prijs x{1})"
+
+msgid "Trade Mode"
+msgstr "Handelsmodus"
+
+msgid "Min Stock"
+msgstr "Minimale voorraad"
+
+msgid "Saturation"
+msgstr "Verzadiging"
+
+msgid "Policies"
+msgstr "Beleid"
+
+msgid "Banking"
+msgstr "Bankieren"
+
+msgid "Repository"
+msgstr "Opslagplaats"
+
+msgid "Farmers"
+msgstr "Boeren"
+
+msgid "Workers"
+msgstr "Arbeiders"
+
+msgid "Astrologers"
+msgstr "Astrologen"
+
+msgid "Alchemists"
+msgstr "Alchemisten"
+
+msgid "GreatToken"
+msgstr "Grootse Token"
+
+msgid "The Office"
+msgstr "Het kantoor"
+
+msgid "Productivity"
+msgstr "Productiviteit"
+
+msgid "Population"
+msgstr "Bevolking"
+
+msgid "Insufficient Resources"
+msgstr "Onvoldoende middelen"
+
+msgid "Insufficient Workforce"
+msgstr "Onvoldoende personeel"
+
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+msgid "Production Period"
+msgstr "Productieperiode"
+
+msgid "Building..."
+msgstr "Aan het bouwen..."
+
+msgid "Build"
+msgstr "Bouwen"
+
+msgid "Build Cost"
+msgstr "Bouwkosten"
+
+msgid "Period Costs"
+msgstr "Periodieke kosten"
+
+msgid "Period Yields"
+msgstr "Periodieke opbrengsten"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Maintenance: {0}s"
+msgstr "Onderhoud: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Handel: {0}"
+
+msgid "Available: {0}"
+msgstr "Beschikbaar: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Nog nodig: {0}"
+
+msgid "Done"
+msgstr "Klaar"
+
+msgid "Already completed."
+msgstr "Al voltooid."
+
+msgid "No available items."
+msgstr "Geen beschikbare items."
+
+msgid "Add Items."
+msgstr "Items toevoegen."
+
+msgid "Amount: {0}"
+msgstr "Aantal: {0}"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Needed"
+msgstr "Nodig"
+
+msgid "Progress"
+msgstr "Voortgang"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Great Token"
+msgstr "Grootse Token"
+
+msgid "Total Progress"
+msgstr "Totale voortgang"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Sleep kaarten naar de slots en druk op Bevestigen om toe te passen. Alleen "
+"ontgrendelde kaarten kunnen worden geselecteerd."
+
+msgid "Unlocked: {0}"
+msgstr "Ontgrendeld: {0}"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Unequip"
+msgstr "Uitrusting verwijderen"
+
+msgid "Cards"
+msgstr "Kaarten"
+
+msgid "{0} Policies"
+msgstr "{0} Beleidsregels"
+
+msgid "Equipped: {0}"
+msgstr "Uitgerust: {0}"
+
+msgid "Not equipped"
+msgstr "Niet uitgerust"
+
+msgid "Equip"
+msgstr "Uitrusten"
+
+msgid "Costs"
+msgstr "Kosten"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Economic"
+msgstr "Economisch"
+
+msgid "Labor"
+msgstr "Arbeid"
+
+msgid "Social"
+msgstr "Sociaal"
+
+msgid "Wildcard"
+msgstr "Joker"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Ik ken je! De beroemde, veelzijdige meester van meesterschap. Ik weet dat je "
+"met jouw intelligentie al weet hoe de stad werkt, maar ik moet je "
+"introduceren! Je hebt geen keuze!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"Je eerste stap is het verkrijgen van bevolking, wat kan door boerenwoningen "
+"te bouwen. Selecteer het tabblad Boeren."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Geweldige poging! Bouw nu wat bomenkwekerijen en zagerijen om planken te "
+"produceren."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Geweldig, laten we deze dingen nu verkopen. Ga eerst naar de haven. Zoek de "
+"planken, stel de handelsmodus in op verkopen, en het zal automatisch worden "
+"verkocht wanneer de tijd rijp is. Zo simpel is het!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Geweldig werk! Jouw ultieme doel is om de Grootse Token te smeden, wat jouw "
+"buitengewone vaardigheden in stadsbeheer aantoont. Blijf streven naar dit "
+"doel!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "Je bent klaar! Ga eropuit en realiseer je ambities!"
+
+msgid "Skill level too low"
+msgstr "Vaardigheidsniveau te laag"
+
+msgid "Not enough items"
+msgstr "Niet genoeg items"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Acteur"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maximale gezondheid"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Gezondheid"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Aanvalssnelheid"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Pantser"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Schadevermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Ontvangen schadevermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Slagschade"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Prikkende schade"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Impactschade"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Bonus trefkans"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Bonus ontwijkkans"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Slagweerstand"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Prikweerstand"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Impactweerstand"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Speler"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Voedseleffect"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Offline beloningsvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Vaardigheden"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Houthakkers-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Mijnbouw-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Smelt-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Smeed-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Landbouw-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Alchemie-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Vis-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Kook-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Jacht-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Kaart-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Archeologie-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Eenhandige-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Tweehandige-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Afstand-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Defensie-efficiëntie"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Houthakkers-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Mijnbouw-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Smelt-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Smeed-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Landbouw-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Alchemie-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Vis-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Kook-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Jacht-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Kaart-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Archeologie-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Eenhandige-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Tweehandige-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Afstand-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Defensie-snelheid"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "Houthakkers XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "Mijnbouw XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "Smelt XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "Smeed XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "Landbouw XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "Alchemie XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "Vis XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "Kook XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "Jacht XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "Kaart XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "Archeologie XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "Eenhandige XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "Tweehandige XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "Afstand XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "Defensie XP-vermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Houthakkers buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Mijnbouw buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Smelt buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Smeed buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Landbouw buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Alchemie buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Vis buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Kook buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Jacht buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Kaart buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Archeologie buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Eenhandige buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Tweehandige buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Afstand buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Defensie buitvermenigvuldiger"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Houthakkers geluk"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Mijnbouw geluk"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Smelt geluk"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Smeed geluk"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Landbouw geluk"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Alchemie geluk"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Vis geluk"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Kook geluk"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Jacht geluk"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Kaart geluk"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Archeologie geluk"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "Gevechts-XP"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Gevechtsopbrengst"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "Verzamel-XP"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Verzamelopbrengst"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Verzamelsnelheid"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "Ambacht-XP"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Ambachtopbrengst"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Ambachtsnelheid"
+
+msgid "Skill {0} level up to {1}"
+msgstr "Vaardigheid {0} niveau {1}"
+
+msgid "Food"
+msgstr "Voedsel"
+
+msgid "Combat Potion"
+msgstr "Gevechtspotie"
+
+msgid "Gather Potion"
+msgstr "Verzamelpotie"
+
+msgid "Craft Potion"
+msgstr "Bereidingspotie"
+
+msgid "Inventory Slots"
+msgstr "Inventarisplaatsen"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "Systeem"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Licht"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Donker"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "TonalSpot"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Neutraal"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Levendig"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Expressief"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Regenboog"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "FruitSalad"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Monochroom"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Fidelity"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Unlock {0}"
+msgstr "Ontgrendel {0}"
+
+msgid "No requirement"
+msgstr "Geen vereisten"
+
+msgid "{0} reach level {1}"
+msgstr "{0} bereikt niveau {1}"
+
+msgid "Unknown skill"
+msgstr "Onbekende vaardigheid"
+
+msgid "{0} completed"
+msgstr "{0} voltooid"
+
+msgid "Error Quest"
+msgstr "Fout Quest"
+
+msgid "Kill {0} {1}"
+msgstr "Vernietig {0} {1}"
+
+msgid "Collect {0} {1}"
+msgstr "Verzamel {0} {1}"
+
+msgid "Finish {0} {1}"
+msgstr "Voltooi {0} {1}"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "Bouw {0} {1}"
+
+msgid "Quest {0} completed"
+msgstr "Quest {0} voltooid"
+
+msgid "Weapon"
+msgstr "Wapen"
+
+msgid "Shield"
+msgstr "Schild"
+
+msgid "Helmet"
+msgstr "Helm"
+
+msgid "Armor"
+msgstr "Harnas"
+
+msgid "LegArmor"
+msgstr "Beenbescherming"
+
+msgid "Boots"
+msgstr "Laarzen"
+
+msgid "Accessories"
+msgstr "Accessoires"
+
+msgid "Necklace"
+msgstr "Ketting"
+
+msgid "Ring"
+msgstr "Ring"
+
+msgid "Bracelet"
+msgstr "Armband"
+
+msgid "Cape"
+msgstr "Mantel"
+
+msgid "Tools"
+msgstr "Gereedschap"
+
+msgid "Axe"
+msgstr "Bijl"
+
+msgid "Pickaxe"
+msgstr "Houweel"
+
+msgid "Spade"
+msgstr "Schop"
+
+msgid "Rod"
+msgstr "Hengel"
+
+msgid "Trap"
+msgstr "Vangst"
+
+msgid "{0} Completed"
+msgstr "{0} Voltooid"
+
+msgid "Items not enough"
+msgstr "Niet genoeg items"
+
+msgid "CombatPotion"
+msgstr "Gevechtpotion"
+
+msgid "GatherPotion"
+msgstr "Verzamelpotion"
+
+msgid "CraftPotion"
+msgstr "Bereidingspotion"
+
+msgid "Flower"
+msgstr "Bloem"
+
+msgid "Vegetable"
+msgstr "Groente"
+
+msgid "Fruit"
+msgstr "Vrucht"
+
+msgid "Fish"
+msgstr "Vis"
+
+msgid "Sword"
+msgstr "Zwaard"
+
+msgid "Hammer"
+msgstr "Hammer"
+
+msgid "Scythe"
+msgstr "Zeis"
+
+msgid "Spear"
+msgstr "Speer"
+
+msgid "Bow"
+msgstr "Boog"
+
+msgid "Dart"
+msgstr "Dart"
+
+msgid "Relic"
+msgstr "Reliek"
+
+msgid "%s secs"
+msgstr "%s seconden"
+
+msgid "%s mins"
+msgstr "%s minuten"
+
+msgid "%s hours"
+msgstr "%s uren"
+
+msgid "%s days"
+msgstr "%s dagen"
+
+msgid "%s weeks"
+msgstr "%s weken"
+
+msgid "%s months"
+msgstr "%s maanden"
+
+msgid "%s years"
+msgstr "%s jaren"
+
+msgid "Always"
+msgstr "Altijd"
+
+msgid "Common"
+msgstr "Gewoon"
+
+msgid "Uncommon"
+msgstr "Ongebruikelijk"
+
+msgid "Rare"
+msgstr "Zeldzaam"
+
+msgid "Legendary"
+msgstr "Legendarisch"
+
+msgid "Frenzy"
+msgstr "Razernij"
+
+msgid "Tanky"
+msgstr "Robuust"
+
+msgid "Deadly"
+msgstr "Dodelijk"
+
+msgid "Swift"
+msgstr "Snel"
+
+msgid "Precise"
+msgstr "Nauwkeurig"
+
+msgid "Hardened"
+msgstr "Gehard"

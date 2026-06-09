@@ -1,0 +1,4716 @@
+msgid ""
+msgstr ""
+"Language: TraditionalChinese\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 小时 +100% 技能經驗"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 小時 +100% 離線收益"
+
+msgid "炼金实验室"
+msgstr "炼金实验室"
+
+msgid "铁砧"
+msgstr "铁砧"
+
+msgid "制图台"
+msgstr "制图台"
+
+msgid "烹饪锅"
+msgstr "烹饪锅"
+
+msgid "熔炉"
+msgstr "熔炉"
+
+msgid "投资政策"
+msgstr "投資政策"
+
+msgid "建筑建造费用 {0}"
+msgstr "建築建造費用 {0}"
+
+msgid "财政改革"
+msgstr "財政改革"
+
+msgid "全城维护费 {0}"
+msgstr "全城維護費 {0}"
+
+msgid "关税壁垒"
+msgstr "關稅壁壘"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "飽和度恢復速度 {0}"
+
+msgid "自动化生产"
+msgstr "自動化生產"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "生產速度 {0}, 勞動力需求 {1}"
+
+msgid "标准化作业"
+msgstr "標準化作業"
+
+msgid "生产速度 {0}"
+msgstr "生產速度 {0}"
+
+msgid "强制加班"
+msgstr "強制加班"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "生產速度 {0}, 維護費用 {1}"
+
+msgid "福利国家"
+msgstr "福利國家"
+
+msgid "居住建筑维护费 {0}"
+msgstr "居住建築維護費 {0}"
+
+msgid "公共住房"
+msgstr "公共住房"
+
+msgid "住宅容量 {0}"
+msgstr "住宅容量 {0}"
+
+msgid "第一步"
+msgstr "第一步"
+
+msgid "让我们挖掘"
+msgstr "讓我們挖掘"
+
+msgid "让我们冶炼"
+msgstr "讓我們冶煉"
+
+msgid "想吃点鱼"
+msgstr "想吃點魚"
+
+msgid "想吃点鱼2"
+msgstr "想吃點魚2"
+
+msgid "整装待发"
+msgstr "整裝待發"
+
+msgid "击杀邪恶哥布林"
+msgstr "擊殺邪惡哥布林"
+
+msgid "花匠"
+msgstr "花匠"
+
+msgid "炼金师"
+msgstr "煉金師"
+
+msgid "猎户"
+msgstr "獵戶"
+
+msgid "考古时刻"
+msgstr "考古時刻"
+
+msgid "考古时刻2"
+msgstr "考古時刻2"
+
+msgid "工人住宅"
+msgstr "工人住宅"
+
+msgid "黏土坑"
+msgstr "黏土坑"
+
+msgid "砖厂"
+msgstr "磚廠"
+
+msgid "猪场"
+msgstr "豬場"
+
+msgid "屠宰场"
+msgstr "屠宰場"
+
+msgid "谷物农场"
+msgstr "穀物農場"
+
+msgid "面粉厂"
+msgstr "麵粉廠"
+
+msgid "面包厂"
+msgstr "麵包廠"
+
+msgid "铁矿"
+msgstr "鐵礦"
+
+msgid "石油矿"
+msgstr "石油礦"
+
+msgid "炼铁厂"
+msgstr "煉鐵廠"
+
+msgid "钢铁厂"
+msgstr "鋼鐵廠"
+
+msgid "炼脂厂"
+msgstr "煉脂廠"
+
+msgid "肥皂厂"
+msgstr "肥皂廠"
+
+msgid "武器厂"
+msgstr "武器廠"
+
+msgid "麦芽厂"
+msgstr "麥芽廠"
+
+msgid "啤酒花厂"
+msgstr "啤酒花廠"
+
+msgid "啤酒厂"
+msgstr "啤酒廠"
+
+msgid "农民住宅"
+msgstr "農民住宅"
+
+msgid "树厂"
+msgstr "樹廠"
+
+msgid "锯木厂"
+msgstr "鋸木廠"
+
+msgid "渔场"
+msgstr "漁場"
+
+msgid "土豆农场"
+msgstr "馬鈴薯農場"
+
+msgid "伏特加酒厂"
+msgstr "伏特加酒廠"
+
+msgid "羊毛厂"
+msgstr "羊毛廠"
+
+msgid "服装厂"
+msgstr "服裝廠"
+
+msgid "占星学家别墅"
+msgstr "占星學家別墅"
+
+msgid "西瓜农场"
+msgstr "西瓜農場"
+
+msgid "鸡蛋厂"
+msgstr "雞蛋廠"
+
+msgid "曲奇厂"
+msgstr "餅乾廠"
+
+msgid "曲奇罐头厂"
+msgstr "餅乾罐頭廠"
+
+msgid "沙矿场"
+msgstr "沙礦場"
+
+msgid "硅厂"
+msgstr "矽廠"
+
+msgid "电子厂"
+msgstr "電子廠"
+
+msgid "放大镜厂"
+msgstr "放大鏡廠"
+
+msgid "颜料厂"
+msgstr "顏料廠"
+
+msgid "笔厂"
+msgstr "筆廠"
+
+msgid "绘图纸厂"
+msgstr "繪圖紙廠"
+
+msgid "绘图厂"
+msgstr "繪圖廠"
+
+msgid "炼金术士别墅"
+msgstr "煉金術士別墅"
+
+msgid "采石场"
+msgstr "採石場"
+
+msgid "混凝土厂"
+msgstr "混凝土廠"
+
+msgid "锌矿厂"
+msgstr "鋅礦廠"
+
+msgid "石英矿场"
+msgstr "石英礦場"
+
+msgid "轴矿场"
+msgstr "鈾礦場"
+
+msgid "红酒厂"
+msgstr "紅酒廠"
+
+msgid "注射器厂"
+msgstr "注射器廠"
+
+msgid "橡胶农场"
+msgstr "橡膠農場"
+
+msgid "生化服厂"
+msgstr "生化服廠"
+
+msgid "硝石工厂"
+msgstr "硝石工廠"
+
+msgid "炸药工厂"
+msgstr "炸藥工廠"
+
+msgid "炼药锅"
+msgstr "煉藥鍋"
+
+msgid "镍矿厂"
+msgstr "鎳礦廠"
+
+msgid "镍锭厂"
+msgstr "鎳錠廠"
+
+msgid "磁带厂"
+msgstr "磁帶廠"
+
+msgid "纤维厂"
+msgstr "纖維廠"
+
+msgid "光盘厂"
+msgstr "光碟廠"
+
+msgid "要号码宝箱"
+msgstr "號碼箱"
+
+msgid "对抗纨绔宝箱"
+msgstr "對抗紈絝箱"
+
+msgid "美颜参数宝箱"
+msgstr "美顏參數箱"
+
+msgid "说梦话宝箱"
+msgstr "夢囈箱"
+
+msgid "猫咪张嘴宝箱"
+msgstr "貓咪張嘴箱"
+
+msgid "傻子太多宝箱"
+msgstr "傻子太多箱"
+
+msgid "生活太难宝箱"
+msgstr "生活太難箱"
+
+msgid "生活太难宝箱 2"
+msgstr "生活太難箱 2"
+
+msgid "雄心壮志宝箱"
+msgstr "雄心壯志箱"
+
+msgid "雄心壮志宝箱 2"
+msgstr "雄心壯志箱 2"
+
+msgid "喝水宝箱"
+msgstr "喝水箱"
+
+msgid "礼貌宝箱"
+msgstr "禮貌箱"
+
+msgid "礼貌宝箱 2"
+msgstr "禮貌箱 2"
+
+msgid "厉害宝箱"
+msgstr "厲害箱"
+
+msgid "厉害宝箱 2"
+msgstr "厲害箱 2"
+
+msgid "厉害宝箱 3"
+msgstr "厲害箱 3"
+
+msgid "奢侈品宝箱"
+msgstr "奢侈品箱"
+
+msgid "奢侈品宝箱 2"
+msgstr "奢侈品箱 2"
+
+msgid "不可战胜宝箱"
+msgstr "不可戰勝箱"
+
+msgid "不可战胜宝箱 2"
+msgstr "不可戰勝箱 2"
+
+msgid "帅哥宝箱"
+msgstr "帥哥箱"
+
+msgid "镇静宝箱"
+msgstr "鎮靜箱"
+
+msgid "生活方式宝箱"
+msgstr "生活方式箱"
+
+msgid "生活方式宝箱 2"
+msgstr "生活方式箱 2"
+
+msgid "爱情故事宝箱"
+msgstr "愛情故事箱"
+
+msgid "爱情故事宝箱 2"
+msgstr "愛情故事箱 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "愛情故事箱 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "愛情故事箱 4"
+
+msgid "硬币"
+msgstr "硬幣"
+
+msgid "星星"
+msgstr "星星"
+
+msgid "瓶子"
+msgstr "瓶子"
+
+msgid "蚯蚓"
+msgstr "蚯蚓"
+
+msgid "皮革"
+msgstr "皮革"
+
+msgid "羽毛"
+msgstr "羽毛"
+
+msgid "墨水"
+msgstr "墨水"
+
+msgid "岛民券"
+msgstr "島民券"
+
+msgid "塑形器"
+msgstr "塑形器"
+
+msgid "钢铁"
+msgstr "鋼鐵"
+
+msgid "啤酒"
+msgstr "啤酒"
+
+msgid "麦芽"
+msgstr "麥芽"
+
+msgid "啤酒花"
+msgstr "啤酒花"
+
+msgid "好猪肉"
+msgstr "高級豬肉"
+
+msgid "谷物"
+msgstr "穀物"
+
+msgid "面粉"
+msgstr "麵粉"
+
+msgid "面包"
+msgstr "麵包"
+
+msgid "油脂"
+msgstr "油脂"
+
+msgid "肥皂"
+msgstr "肥皂"
+
+msgid "武器"
+msgstr "武器"
+
+msgid "砖块"
+msgstr "磚塊"
+
+msgid "猪肉"
+msgstr "豬肉"
+
+msgid "粘土"
+msgstr "黏土"
+
+msgid "石油"
+msgstr "石油"
+
+msgid "铁锭"
+msgstr "鐵錠"
+
+msgid "木板"
+msgstr "木板"
+
+msgid "土豆"
+msgstr "馬鈴薯"
+
+msgid "鱼"
+msgstr "魚"
+
+msgid "伏特加"
+msgstr "伏特加"
+
+msgid "羊毛"
+msgstr "羊毛"
+
+msgid "衣服"
+msgstr "衣服"
+
+msgid "原木"
+msgstr "原木"
+
+msgid "西瓜"
+msgstr "西瓜"
+
+msgid "鸡蛋"
+msgstr "雞蛋"
+
+msgid "曲奇"
+msgstr "餅乾"
+
+msgid "曲奇罐头"
+msgstr "餅乾罐頭"
+
+msgid "沙子"
+msgstr "沙子"
+
+msgid "硅"
+msgstr "矽"
+
+msgid "电路板"
+msgstr "電路板"
+
+msgid "放大镜"
+msgstr "放大鏡"
+
+msgid "颜料"
+msgstr "顏料"
+
+msgid "笔"
+msgstr "筆"
+
+msgid "绘图纸"
+msgstr "繪圖紙"
+
+msgid "星图"
+msgstr "星圖"
+
+msgid "石头"
+msgstr "石頭"
+
+msgid "混凝土"
+msgstr "混凝土"
+
+msgid "锌"
+msgstr "鋅"
+
+msgid "石英"
+msgstr "石英"
+
+msgid "铀"
+msgstr "鈾"
+
+msgid "红酒"
+msgstr "紅酒"
+
+msgid "注射器"
+msgstr "注射器"
+
+msgid "橡胶"
+msgstr "橡膠"
+
+msgid "生化服"
+msgstr "生化服"
+
+msgid "硝石"
+msgstr "硝石"
+
+msgid "炸药"
+msgstr "炸藥"
+
+msgid "炼金锅"
+msgstr "煉金鍋"
+
+msgid "镍"
+msgstr "鎳"
+
+msgid "镍锭"
+msgstr "鎳錠"
+
+msgid "磁带"
+msgstr "磁帶"
+
+msgid "纤维"
+msgstr "纖維"
+
+msgid "光盘"
+msgstr "光碟"
+
+msgid "邪恶虾兵"
+msgstr "邪惡蝦兵"
+
+msgid "邪恶蟹将"
+msgstr "邪惡蟹將"
+
+msgid "邪恶史莱姆"
+msgstr "邪惡史萊姆"
+
+msgid "邪恶秃头"
+msgstr "邪惡禿頭"
+
+msgid "邪恶龙骨"
+msgstr "邪惡龍骨"
+
+msgid "邪恶泰坦"
+msgstr "邪惡泰坦"
+
+msgid "邪恶将军"
+msgstr "邪惡將軍"
+
+msgid "邪恶大王"
+msgstr "邪惡大王"
+
+msgid "精英邪恶史莱姆"
+msgstr "菁英邪惡史萊姆"
+
+msgid "精英邪恶秃头"
+msgstr "菁英邪惡禿頭"
+
+msgid "精英邪恶龙骨"
+msgstr "菁英邪惡龍骨"
+
+msgid "精英邪恶泰坦"
+msgstr "菁英邪惡泰坦"
+
+msgid "精英邪恶将军"
+msgstr "菁英邪惡將軍"
+
+msgid "精英邪恶大王"
+msgstr "菁英邪惡大王"
+
+msgid "邪恶死人"
+msgstr "邪惡死人"
+
+msgid "邪恶蛇蛇"
+msgstr "邪惡蛇蛇"
+
+msgid "邪恶小偷"
+msgstr "邪惡小偷"
+
+msgid "邪恶外星人"
+msgstr "邪惡外星人"
+
+msgid "邪恶大象"
+msgstr "邪惡大象"
+
+msgid "邪恶野人"
+msgstr "邪惡野人"
+
+msgid "邪恶三头龙"
+msgstr "邪惡三頭龍"
+
+msgid "邪恶邪神"
+msgstr "邪惡邪神"
+
+msgid "精英邪恶小偷"
+msgstr "菁英邪惡小偷"
+
+msgid "精英邪恶外星人"
+msgstr "菁英邪惡外星人"
+
+msgid "精英邪恶大象"
+msgstr "菁英邪惡大象"
+
+msgid "精英邪恶野人"
+msgstr "精英邪惡野人"
+
+msgid "精英邪恶三头龙"
+msgstr "菁英邪惡三頭龍"
+
+msgid "精英邪恶邪神"
+msgstr "菁英邪惡邪神"
+
+msgid "邪恶螃蟹"
+msgstr "邪惡螃蟹"
+
+msgid "邪恶太阳花"
+msgstr "邪惡太陽花"
+
+msgid "邪恶小鸡"
+msgstr "邪惡小雞"
+
+msgid "邪恶蜘蛛"
+msgstr "邪惡蜘蛛"
+
+msgid "邪恶蜜蜂"
+msgstr "邪惡蜜蜂"
+
+msgid "邪恶笑脸男"
+msgstr "邪惡笑臉男"
+
+msgid "邪恶骑士"
+msgstr "邪惡騎士"
+
+msgid "邪恶巫婆"
+msgstr "邪惡巫婆"
+
+msgid "精英邪恶小鸡"
+msgstr "精英邪惡小雞"
+
+msgid "精英邪恶蜘蛛"
+msgstr "菁英邪惡蜘蛛"
+
+msgid "精英邪恶蜜蜂"
+msgstr "菁英邪惡蜜蜂"
+
+msgid "精英邪恶笑脸男"
+msgstr "精英邪恶笑脸男"
+
+msgid "精英邪恶骑士"
+msgstr "菁英邪惡騎士"
+
+msgid "精英邪恶巫婆"
+msgstr "菁英邪惡巫婆"
+
+msgid "祭坛"
+msgstr "祭坛"
+
+msgid "铜剑"
+msgstr "铜剑"
+
+msgid "铜锤"
+msgstr "铜锤"
+
+msgid "铜镰刀"
+msgstr "铜镰刀"
+
+msgid "铜矛"
+msgstr "铜矛"
+
+msgid "铜飞镖"
+msgstr "铜飞镖"
+
+msgid "银剑"
+msgstr "银剑"
+
+msgid "银锤"
+msgstr "银锤"
+
+msgid "银镰刀"
+msgstr "银镰刀"
+
+msgid "银矛"
+msgstr "银矛"
+
+msgid "银飞镖"
+msgstr "银飞镖"
+
+msgid "金剑"
+msgstr "金剑"
+
+msgid "金锤"
+msgstr "金錘"
+
+msgid "金镰刀"
+msgstr "金鐮刀"
+
+msgid "金矛"
+msgstr "金矛"
+
+msgid "金飞镖"
+msgstr "金飛鏢"
+
+msgid "霜冻剑"
+msgstr "霜凍劍"
+
+msgid "霜冻锤"
+msgstr "霜凍錘"
+
+msgid "霜冻镰刀"
+msgstr "霜凍鐮刀"
+
+msgid "霜冻矛"
+msgstr "霜凍矛"
+
+msgid "霜冻飞镖"
+msgstr "霜凍飛鏢"
+
+msgid "翡翠剑"
+msgstr "翡翠劍"
+
+msgid "翡翠锤"
+msgstr "翡翠錘"
+
+msgid "翡翠镰刀"
+msgstr "翡翠鐮刀"
+
+msgid "翡翠矛"
+msgstr "翡翠矛"
+
+msgid "翡翠飞镖"
+msgstr "翡翠飛鏢"
+
+msgid "熔岩剑"
+msgstr "熔岩劍"
+
+msgid "熔岩锤"
+msgstr "熔岩錘"
+
+msgid "熔岩镰刀"
+msgstr "熔岩鐮刀"
+
+msgid "熔岩矛"
+msgstr "熔岩矛"
+
+msgid "熔岩飞镖"
+msgstr "熔岩飛鏢"
+
+msgid "星辰剑"
+msgstr "星辰劍"
+
+msgid "星辰锤"
+msgstr "星辰錘"
+
+msgid "星辰镰刀"
+msgstr "星辰鐮刀"
+
+msgid "星辰矛"
+msgstr "星辰矛"
+
+msgid "星辰飞镖"
+msgstr "星辰飛鏢"
+
+msgid "彩虹剑"
+msgstr "彩虹劍"
+
+msgid "彩虹锤"
+msgstr "彩虹錘"
+
+msgid "彩虹镰刀"
+msgstr "彩虹鐮刀"
+
+msgid "彩虹矛"
+msgstr "彩虹矛"
+
+msgid "彩虹飞镖"
+msgstr "彩虹飛鏢"
+
+msgid "铜靴子"
+msgstr "銅靴子"
+
+msgid "铜腿甲"
+msgstr "銅腿甲"
+
+msgid "铜头盔"
+msgstr "銅頭盔"
+
+msgid "铜盾牌"
+msgstr "銅盾牌"
+
+msgid "铜护甲"
+msgstr "銅護甲"
+
+msgid "铜披风"
+msgstr "銅披風"
+
+msgid "银靴子"
+msgstr "銀靴子"
+
+msgid "银腿甲"
+msgstr "銀腿甲"
+
+msgid "银头盔"
+msgstr "銀頭盔"
+
+msgid "银盾牌"
+msgstr "銀盾牌"
+
+msgid "银护甲"
+msgstr "銀護甲"
+
+msgid "银披风"
+msgstr "銀披風"
+
+msgid "金靴子"
+msgstr "金靴子"
+
+msgid "金腿甲"
+msgstr "金腿甲"
+
+msgid "金头盔"
+msgstr "金頭盔"
+
+msgid "金盾牌"
+msgstr "金盾牌"
+
+msgid "金护甲"
+msgstr "金護甲"
+
+msgid "金披风"
+msgstr "金披風"
+
+msgid "霜冻靴子"
+msgstr "霜凍靴子"
+
+msgid "霜冻腿甲"
+msgstr "霜凍腿甲"
+
+msgid "霜冻头盔"
+msgstr "霜凍頭盔"
+
+msgid "霜冻盾牌"
+msgstr "霜凍盾牌"
+
+msgid "霜冻护甲"
+msgstr "霜凍護甲"
+
+msgid "霜冻披风"
+msgstr "霜凍披風"
+
+msgid "翡翠靴子"
+msgstr "翡翠靴子"
+
+msgid "翡翠腿甲"
+msgstr "翡翠腿甲"
+
+msgid "翡翠头盔"
+msgstr "翡翠頭盔"
+
+msgid "翡翠盾牌"
+msgstr "翡翠盾牌"
+
+msgid "翡翠护甲"
+msgstr "翡翠護甲"
+
+msgid "翡翠披风"
+msgstr "翡翠披風"
+
+msgid "熔岩靴子"
+msgstr "熔岩靴子"
+
+msgid "熔岩腿甲"
+msgstr "熔岩腿甲"
+
+msgid "熔岩头盔"
+msgstr "熔岩頭盔"
+
+msgid "熔岩盾牌"
+msgstr "熔岩盾牌"
+
+msgid "熔岩护甲"
+msgstr "熔岩護甲"
+
+msgid "熔岩披风"
+msgstr "熔岩披風"
+
+msgid "星辰靴子"
+msgstr "星辰靴子"
+
+msgid "星辰腿甲"
+msgstr "星辰腿甲"
+
+msgid "星辰头盔"
+msgstr "星辰頭盔"
+
+msgid "星辰盾牌"
+msgstr "星辰盾牌"
+
+msgid "星辰护甲"
+msgstr "星辰護甲"
+
+msgid "星辰披风"
+msgstr "星辰披風"
+
+msgid "彩虹靴子"
+msgstr "彩虹靴子"
+
+msgid "彩虹腿甲"
+msgstr "彩虹腿甲"
+
+msgid "彩虹头盔"
+msgstr "彩虹頭盔"
+
+msgid "彩虹盾牌"
+msgstr "彩虹盾牌"
+
+msgid "彩虹护甲"
+msgstr "彩虹護甲"
+
+msgid "彩虹披风"
+msgstr "彩虹披風"
+
+msgid "红宝石戒指"
+msgstr "紅寶石戒指"
+
+msgid "黄宝石戒指"
+msgstr "黃寶石戒指"
+
+msgid "绿宝石戒指"
+msgstr "綠寶石戒指"
+
+msgid "月亮宝石戒指"
+msgstr "月亮寶石戒指"
+
+msgid "水晶宝石戒指"
+msgstr "水晶寶石戒指"
+
+msgid "星星宝石戒指"
+msgstr "星星寶石戒指"
+
+msgid "玛瑙宝石戒指"
+msgstr "瑪瑙寶石戒指"
+
+msgid "彩虹宝石戒指"
+msgstr "彩虹寶石戒指"
+
+msgid "红宝石项链"
+msgstr "紅寶石項鍊"
+
+msgid "黄宝石项链"
+msgstr "黃寶石項鍊"
+
+msgid "绿宝石项链"
+msgstr "綠寶石項鍊"
+
+msgid "月亮宝石项链"
+msgstr "月亮寶石項鍊"
+
+msgid "水晶宝石项链"
+msgstr "水晶寶石項鍊"
+
+msgid "星星宝石项链"
+msgstr "星星寶石項鍊"
+
+msgid "玛瑙宝石项链"
+msgstr "瑪瑙寶石項鍊"
+
+msgid "彩虹宝石项链"
+msgstr "彩虹寶石項鍊"
+
+msgid "红宝石手环"
+msgstr "紅寶石手環"
+
+msgid "黄宝石手环"
+msgstr "黃寶石手環"
+
+msgid "绿宝石手环"
+msgstr "綠寶石手環"
+
+msgid "月亮宝石手环"
+msgstr "月亮寶石手環"
+
+msgid "水晶宝石手环"
+msgstr "水晶寶石手環"
+
+msgid "星星宝石手环"
+msgstr "星星寶石手環"
+
+msgid "玛瑙宝石手环"
+msgstr "瑪瑙寶石手環"
+
+msgid "彩虹宝石手环"
+msgstr "彩虹寶石手環"
+
+msgid "铜鱼竿"
+msgstr "銅魚竿"
+
+msgid "铜铲"
+msgstr "銅鏟"
+
+msgid "铜斧"
+msgstr "銅斧"
+
+msgid "铜镐"
+msgstr "銅鎬"
+
+msgid "铜陷阱"
+msgstr "銅陷阱"
+
+msgid "银鱼竿"
+msgstr "銀魚竿"
+
+msgid "银铲"
+msgstr "銀鏟"
+
+msgid "银斧"
+msgstr "銀斧"
+
+msgid "银镐"
+msgstr "銀鎬"
+
+msgid "银陷阱"
+msgstr "銀陷阱"
+
+msgid "金鱼竿"
+msgstr "金魚竿"
+
+msgid "金铲"
+msgstr "金鏟"
+
+msgid "金斧"
+msgstr "金斧"
+
+msgid "金镐"
+msgstr "金鎬"
+
+msgid "金陷阱"
+msgstr "金陷阱"
+
+msgid "霜冻鱼竿"
+msgstr "霜凍魚竿"
+
+msgid "霜冻铲"
+msgstr "霜凍鏟"
+
+msgid "霜冻斧"
+msgstr "霜凍斧"
+
+msgid "霜冻镐"
+msgstr "霜凍鎬"
+
+msgid "霜冻陷阱"
+msgstr "霜冻陷阱"
+
+msgid "翡翠鱼竿"
+msgstr "翡翠魚竿"
+
+msgid "翡翠铲"
+msgstr "翡翠鏟"
+
+msgid "翡翠斧"
+msgstr "翡翠斧"
+
+msgid "翡翠镐"
+msgstr "翡翠鎬"
+
+msgid "翡翠陷阱"
+msgstr "翡翠陷阱"
+
+msgid "熔岩鱼竿"
+msgstr "熔岩魚竿"
+
+msgid "熔岩铲"
+msgstr "熔岩鏟"
+
+msgid "熔岩斧"
+msgstr "熔岩斧"
+
+msgid "熔岩镐"
+msgstr "熔岩鎬"
+
+msgid "熔岩陷阱"
+msgstr "熔岩陷阱"
+
+msgid "星辰鱼竿"
+msgstr "星辰魚竿"
+
+msgid "星辰铲"
+msgstr "星辰鏟"
+
+msgid "星辰斧"
+msgstr "星辰斧"
+
+msgid "星辰镐"
+msgstr "星辰鎬"
+
+msgid "星辰陷阱"
+msgstr "星辰陷阱"
+
+msgid "彩虹鱼竿"
+msgstr "彩虹魚竿"
+
+msgid "彩虹铲"
+msgstr "彩虹鏟"
+
+msgid "彩虹斧"
+msgstr "彩虹斧"
+
+msgid "彩虹镐"
+msgstr "彩虹鎬"
+
+msgid "彩虹陷阱"
+msgstr "彩虹陷阱"
+
+msgid "苹果"
+msgstr "蘋果"
+
+msgid "草莓"
+msgstr "草莓"
+
+msgid "香蕉"
+msgstr "香蕉"
+
+msgid "蓝莓"
+msgstr "藍莓"
+
+msgid "樱桃"
+msgstr "櫻桃"
+
+msgid "橙子"
+msgstr "橙子"
+
+msgid "桃子"
+msgstr "桃子"
+
+msgid "椰子"
+msgstr "椰子"
+
+msgid "铜矿石"
+msgstr "銅礦石"
+
+msgid "银矿石"
+msgstr "銀礦石"
+
+msgid "金矿石"
+msgstr "金礦石"
+
+msgid "霜冻矿石"
+msgstr "霜凍礦石"
+
+msgid "翡翠矿石"
+msgstr "翡翠礦石"
+
+msgid "熔岩矿石"
+msgstr "熔岩礦石"
+
+msgid "星辰矿石"
+msgstr "星辰礦石"
+
+msgid "彩虹矿石"
+msgstr "彩虹礦石"
+
+msgid "眼睛"
+msgstr "眼睛"
+
+msgid "牙"
+msgstr "牙"
+
+msgid "黄色眼睛"
+msgstr "黃色眼睛"
+
+msgid "锋利的牙"
+msgstr "鋒利的牙"
+
+msgid "绿色眼睛"
+msgstr "綠色眼睛"
+
+msgid "恐怖金牙"
+msgstr "恐怖金牙"
+
+msgid "红色眼睛"
+msgstr "紅色眼睛"
+
+msgid "骷髅头"
+msgstr "骷髏頭"
+
+msgid "炭"
+msgstr "炭"
+
+msgid "铜锭"
+msgstr "銅錠"
+
+msgid "银锭"
+msgstr "銀錠"
+
+msgid "金锭"
+msgstr "金錠"
+
+msgid "霜冻锭"
+msgstr "霜凍錠"
+
+msgid "翡翠锭"
+msgstr "翡翠錠"
+
+msgid "熔岩锭"
+msgstr "熔岩錠"
+
+msgid "星辰锭"
+msgstr "星辰錠"
+
+msgid "彩虹锭"
+msgstr "彩虹錠"
+
+msgid "松木"
+msgstr "松木"
+
+msgid "云杉木"
+msgstr "雲杉木"
+
+msgid "桦木"
+msgstr "樺木"
+
+msgid "柚木"
+msgstr "柚木"
+
+msgid "桃花心木"
+msgstr "桃花心木"
+
+msgid "铁皮木"
+msgstr "鐵皮木"
+
+msgid "红木"
+msgstr "紅木"
+
+msgid "古木"
+msgstr "古木"
+
+msgid "鲤鱼"
+msgstr "鯉魚"
+
+msgid "鳟鱼"
+msgstr "鱒魚"
+
+msgid "三文鱼"
+msgstr "鮭魚"
+
+msgid "鲈鱼"
+msgstr "鱸魚"
+
+msgid "罗非鱼"
+msgstr "吳郭魚"
+
+msgid "鲭鱼"
+msgstr "鯖魚"
+
+msgid "沙丁鱼"
+msgstr "沙丁魚"
+
+msgid "鲱鱼"
+msgstr "鯡魚"
+
+msgid "鲤鱼料理"
+msgstr "鯉魚料理"
+
+msgid "鳟鱼料理"
+msgstr "鱒魚料理"
+
+msgid "三文鱼料理"
+msgstr "鮭魚料理"
+
+msgid "鲈鱼料理"
+msgstr "鱸魚料理"
+
+msgid "罗非鱼料理"
+msgstr "吳郭魚料理"
+
+msgid "鲭鱼料理"
+msgstr "鯖魚料理"
+
+msgid "沙丁鱼料理"
+msgstr "沙丁魚料理"
+
+msgid "鲱鱼料理"
+msgstr "鯡魚料理"
+
+msgid "鲤鱼豪华料理"
+msgstr "鯉魚豪華料理"
+
+msgid "鳟鱼豪华料理"
+msgstr "鱒魚豪華料理"
+
+msgid "三文鱼豪华料理"
+msgstr "三文鮭豪華料理"
+
+msgid "鲈鱼豪华料理"
+msgstr "鱸魚豪華料理"
+
+msgid "罗非鱼豪华料理"
+msgstr "羅非魚豪華料理"
+
+msgid "鲭鱼豪华料理"
+msgstr "鯖魚豪華料理"
+
+msgid "沙丁鱼豪华料理"
+msgstr "沙丁魚豪華料理"
+
+msgid "鲱鱼豪华料理"
+msgstr "鯡魚豪華料理"
+
+msgid "红宝石"
+msgstr "紅寶石"
+
+msgid "黄宝石"
+msgstr "黃寶石"
+
+msgid "绿宝石"
+msgstr "綠寶石"
+
+msgid "月亮宝石"
+msgstr "月亮寶石"
+
+msgid "水晶宝石"
+msgstr "水晶寶石"
+
+msgid "星星宝石"
+msgstr "星星寶石"
+
+msgid "玛瑙宝石"
+msgstr "瑪瑙寶石"
+
+msgid "彩虹宝石"
+msgstr "彩虹寶石"
+
+msgid "红宝石精华"
+msgstr "紅寶石精華"
+
+msgid "黄宝石精华"
+msgstr "黃寶石精華"
+
+msgid "绿宝石精华"
+msgstr "綠寶石精華"
+
+msgid "月亮精华"
+msgstr "月亮精華"
+
+msgid "水晶精华"
+msgstr "水晶精華"
+
+msgid "星星精华"
+msgstr "星星精華"
+
+msgid "玛瑙精华"
+msgstr "瑪瑙精華"
+
+msgid "彩虹精华"
+msgstr "彩虹精華"
+
+msgid "宝石粉末"
+msgstr "寶石粉末"
+
+msgid "种子"
+msgstr "種子"
+
+msgid "肥料"
+msgstr "肥料"
+
+msgid "兰花"
+msgstr "蘭花"
+
+msgid "雏菊"
+msgstr "雛菊"
+
+msgid "郁金香"
+msgstr "鬱金香"
+
+msgid "玫瑰"
+msgstr "玫瑰"
+
+msgid "金盏花"
+msgstr "金盞花"
+
+msgid "牡丹"
+msgstr "牡丹"
+
+msgid "风铃草"
+msgstr "風鈴草"
+
+msgid "向日葵"
+msgstr "向日葵"
+
+msgid "玉米"
+msgstr "玉米"
+
+msgid "白菜"
+msgstr "白菜"
+
+msgid "辣椒"
+msgstr "辣椒"
+
+msgid "萝卜"
+msgstr "蘿蔔"
+
+msgid "蘑菇"
+msgstr "蘑菇"
+
+msgid "番茄"
+msgstr "番茄"
+
+msgid "茄子"
+msgstr "茄子"
+
+msgid "黄瓜"
+msgstr "黃瓜"
+
+msgid "精英怪物地图"
+msgstr "精英怪物地圖"
+
+msgid "老洞穴地图"
+msgstr "古老洞穴地圖"
+
+msgid "泡菜厂地图"
+msgstr "泡菜廠地圖"
+
+msgid "老学校地图"
+msgstr "古老學校地圖"
+
+msgid "啤酒厂地图"
+msgstr "啤酒廠地圖"
+
+msgid "大香蕉地图"
+msgstr "大香蕉地圖"
+
+msgid "藏身处地图"
+msgstr "藏身處地圖"
+
+msgid "木地地图"
+msgstr "木地地圖"
+
+msgid "红色血包"
+msgstr "紅色血包"
+
+msgid "大电池手电筒"
+msgstr "大電池手電筒"
+
+msgid "空空瓶"
+msgstr "空瓶"
+
+msgid "大哥大"
+msgstr "大哥大"
+
+msgid "卡姆PIU特"
+msgstr "卡姆PIU特"
+
+msgid "红药丸瓶"
+msgstr "紅藥丸瓶"
+
+msgid "神奇海螺"
+msgstr "神奇海螺"
+
+msgid "蓝色笔"
+msgstr "藍色筆"
+
+msgid "对话气泡"
+msgstr "對話氣泡"
+
+msgid "蓝色小人"
+msgstr "藍色小人"
+
+msgid "音药"
+msgstr "音藥"
+
+msgid "拳头！"
+msgstr "拳頭！"
+
+msgid "叶子~"
+msgstr "葉子~"
+
+msgid "火药球"
+msgstr "火藥球"
+
+msgid "蝴蝶蝶"
+msgstr "蝴蝶蝶"
+
+msgid "考试小抄"
+msgstr "考試小抄"
+
+msgid "下头！"
+msgstr "下頭！"
+
+msgid "护目镜"
+msgstr "護目鏡"
+
+msgid "硬币？"
+msgstr "硬幣？"
+
+msgid "贵项链"
+msgstr "貴項鍊"
+
+msgid "贵戒指"
+msgstr "貴戒指"
+
+msgid "经典背包经典"
+msgstr "經典背包經典"
+
+msgid "经典小包经典"
+msgstr "經典小包經典"
+
+msgid "烛蜡"
+msgstr "燭蠟"
+
+msgid "经典宝箱经典"
+msgstr "經典寶箱經典"
+
+msgid "经典十字经典"
+msgstr "經典十字經典"
+
+msgid "神秘墓碑"
+msgstr "神秘墓碑"
+
+msgid "神秘铁锤"
+msgstr "神秘鐵錘"
+
+msgid "无良印品"
+msgstr "無良印品"
+
+msgid "鱼鱼"
+msgstr "魚魚"
+
+msgid "捣蒜器"
+msgstr "搗蒜器"
+
+msgid "离洞绳"
+msgstr "離洞繩"
+
+msgid "美容镜"
+msgstr "美容鏡"
+
+msgid "八匹狼"
+msgstr "八匹狼"
+
+msgid "神秘沙漏"
+msgstr "神秘沙漏"
+
+msgid "红心"
+msgstr "紅心"
+
+msgid "火焰"
+msgstr "火焰"
+
+msgid "全麦面包"
+msgstr "全麥麵包"
+
+msgid "没寄出的信"
+msgstr "沒寄出的信"
+
+msgid "花生之神"
+msgstr "花生之神"
+
+msgid "威风堂堂"
+msgstr "威風堂堂"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr "每成功閃避一次攻擊，下一次攻擊必定暴擊。"
+
+msgid "百折不挠的真诚"
+msgstr "百折不撓的真誠"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "攻擊時有 3% 的概率觸發兩次傷害。"
+
+msgid "直言不讳的勇敢"
+msgstr "直言不諱的勇敢"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr "每場戰鬥隨機啟動 1 個效果：+50% 傷害 / +30% 防禦 / 雙倍經驗"
+
+msgid "空想家"
+msgstr "空想家"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr "擊殺一名敵人後，掉落稀有物品的機率 +1%，可疊加，但是生命值低於 50% 時失效。"
+
+msgid "令人震惊的"
+msgstr "令人震驚的"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr "生命低於 20% 時，自動觸發「再生」，每秒回復 5% 生命（持續 10 秒，CD 2 分鐘）。"
+
+msgid "恐慌的"
+msgstr "恐慌的"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr "命中時，5% 幾率使敵人無法行動 5 秒。不可重複觸發。"
+
+msgid "无法忍受的"
+msgstr "無法忍受的"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr "承受切割傷害時，10% 幾率反彈 50% 傷害給攻擊者。"
+
+msgid "邪恶的"
+msgstr "邪惡的"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr "釣魚速度提升 15%，但 10% 機率什麼也不獲得。"
+
+msgid "难以置信的"
+msgstr "難以置信的"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "砍樹時，5% 的機率獲得 1 木炭。"
+
+msgid "搞点货"
+msgstr "搞點貨"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr "獲得的戰鬥經驗降低 30%，但將這部分的 50% 均分給所有非戰鬥技能。"
+
+msgid "空间管理"
+msgstr "空間管理"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr "背包格子每空出一格，獲得 0.2% 的全局傷害加成；每佔用一格，獲得 0.2% 的全局減傷。"
+
+msgid "麻烦的"
+msgstr "麻煩的"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr "戰鬥獎勵不會再掉落金幣，會選擇其他掉落物作為替代。"
+
+msgid "一心二用的"
+msgstr "一心二用的"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "佩戴并战斗时，考古的速度提升 10%。"
+
+msgid "底子很好的"
+msgstr "底子很好的"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "攻击间隔每有 2s，最终伤害 +10%。"
+
+msgid "主角般的"
+msgstr "主角般的"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+
+msgid "形容词的"
+msgstr "形容词的"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+
+msgid "哈哈哈"
+msgstr "哈哈哈"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr "训练技能时有 10% 概率播放哈哈的笑声。"
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+
+msgid "基础健康药水"
+msgstr "基礎健康藥水"
+
+msgid "基础战斗经验药水"
+msgstr "基礎戰鬥經驗藥水"
+
+msgid "基础拾取药水"
+msgstr "基礎拾取藥水"
+
+msgid "基础采集速度药水"
+msgstr "基礎採集速度藥水"
+
+msgid "基础采集经验药水"
+msgstr "基礎採集經驗藥水"
+
+msgid "基础采集产量药水"
+msgstr "基礎採集產量藥水"
+
+msgid "基础制造速度药水"
+msgstr "基礎製造速度藥水"
+
+msgid "基础多件制造药水"
+msgstr "基礎多件製造藥水"
+
+msgid "基础制造经验药水"
+msgstr "基礎製造經驗藥水"
+
+msgid "常规健康药水"
+msgstr "常規健康藥水"
+
+msgid "常规战斗经验药水"
+msgstr "常規戰鬥經驗藥水"
+
+msgid "常规拾取药水"
+msgstr "常規拾取藥水"
+
+msgid "常规采集速度药水"
+msgstr "常規採集速度藥水"
+
+msgid "常规采集经验药水"
+msgstr "常規採集經驗藥水"
+
+msgid "常规采集产量药水"
+msgstr "常規採集產量藥水"
+
+msgid "常规制造速度药水"
+msgstr "常規製造速度藥水"
+
+msgid "常规多件制造药水"
+msgstr "常規多件製造藥水"
+
+msgid "常规制造经验药水"
+msgstr "常規製造經驗藥水"
+
+msgid "高级健康药水"
+msgstr "高級健康藥水"
+
+msgid "高级战斗经验药水"
+msgstr "高級戰鬥經驗藥水"
+
+msgid "高级拾取药水"
+msgstr "高級拾取藥水"
+
+msgid "高级采集速度药水"
+msgstr "高級採集速度藥水"
+
+msgid "高级采集经验药水"
+msgstr "高級採集經驗藥水"
+
+msgid "高级采集产量药水"
+msgstr "高級採集產量藥水"
+
+msgid "高级制造速度药水"
+msgstr "高級製造速度藥水"
+
+msgid "高级多件制造药水"
+msgstr "高級多件製造藥水"
+
+msgid "高级制造经验药水"
+msgstr "高級製造經驗藥水"
+
+msgid "超级健康药水"
+msgstr "超級健康藥水"
+
+msgid "超级战斗经验药水"
+msgstr "超級戰鬥經驗藥水"
+
+msgid "超级拾取药水"
+msgstr "超級拾取藥水"
+
+msgid "超级采集速度药水"
+msgstr "超級採集速度藥水"
+
+msgid "超级采集经验药水"
+msgstr "超級採集經驗藥水"
+
+msgid "超级采集产量药水"
+msgstr "超級採集產量藥水"
+
+msgid "超级制造速度药水"
+msgstr "超級製造速度藥水"
+
+msgid "超级多件制造药水"
+msgstr "超級多件製造藥水"
+
+msgid "超级制造经验药水"
+msgstr "超級製造經驗藥水"
+
+msgid "老洞穴"
+msgstr "老洞穴"
+
+msgid "normal"
+msgstr "普通"
+
+msgid "泡菜厂"
+msgstr "泡菜廠"
+
+msgid "老学校"
+msgstr "老學校"
+
+msgid "大香蕉"
+msgstr "大香蕉"
+
+msgid "藏身处"
+msgstr "藏身處"
+
+msgid "木地"
+msgstr "木地"
+
+msgid "龙虾巢穴"
+msgstr "龍蝦巢穴"
+
+msgid "ocean"
+msgstr "海洋"
+
+msgid "深海洞窟"
+msgstr "深海洞窟"
+
+msgid "黏黏洞窟"
+msgstr "黏黏洞窟"
+
+msgid "决斗洞窟"
+msgstr "決鬥洞窟"
+
+msgid "海底坟墓"
+msgstr "海底墳墓"
+
+msgid "海底大坑"
+msgstr "海底大坑"
+
+msgid "神秘小路"
+msgstr "神秘小路"
+
+msgid "海底皇宫"
+msgstr "海底皇宮"
+
+msgid "危险黏黏洞窟"
+msgstr "危險黏黏洞窟"
+
+msgid "elite"
+msgstr "精英"
+
+msgid "危险决斗洞窟"
+msgstr "危險決鬥洞窟"
+
+msgid "危险海底坟墓"
+msgstr "危險海底墳墓"
+
+msgid "危险海底大坑"
+msgstr "危險海底大坑"
+
+msgid "危险海底小路"
+msgstr "危險海底小路"
+
+msgid "危险海底皇宫"
+msgstr "危險海底皇宮"
+
+msgid "墓地"
+msgstr "墓地"
+
+msgid "mountain"
+msgstr "山脈"
+
+msgid "蛇蛇巢穴"
+msgstr "蛇蛇巢穴"
+
+msgid "下水道"
+msgstr "下水道"
+
+msgid "外星基地"
+msgstr "外星基地"
+
+msgid "大象巢穴"
+msgstr "大象巢穴"
+
+msgid "野人小屋"
+msgstr "野人小屋"
+
+msgid "地狱"
+msgstr "地獄"
+
+msgid "邪恶国度"
+msgstr "邪惡國度"
+
+msgid "危险下水道"
+msgstr "危險下水道"
+
+msgid "危险外星基地"
+msgstr "危險外星基地"
+
+msgid "危险大象巢穴"
+msgstr "危險大象巢穴"
+
+msgid "危险野人小屋"
+msgstr "危險野人小屋"
+
+msgid "危险地狱"
+msgstr "危險地獄"
+
+msgid "危险邪恶国度"
+msgstr "危險邪惡國度"
+
+msgid "螃蟹巢穴"
+msgstr "螃蟹巢穴"
+
+msgid "forest"
+msgstr "森林"
+
+msgid "种植园"
+msgstr "種植園"
+
+msgid "鸡圈"
+msgstr "雞圈"
+
+msgid "蜘蛛巢穴"
+msgstr "蜘蛛巢穴"
+
+msgid "蜂巢"
+msgstr "蜂巢"
+
+msgid "开心乐园"
+msgstr "開心樂園"
+
+msgid "城堡"
+msgstr "城堡"
+
+msgid "魔法城堡"
+msgstr "魔法城堡"
+
+msgid "危险鸡圈"
+msgstr "危險雞圈"
+
+msgid "危险蜘蛛巢穴"
+msgstr "危險蜘蛛巢穴"
+
+msgid "危险蜂巢"
+msgstr "危險蜂巢"
+
+msgid "危险开心乐园"
+msgstr "危險開心樂園"
+
+msgid "危险城堡"
+msgstr "危險城堡"
+
+msgid "危险魔法城堡"
+msgstr "危險魔法城堡"
+
+msgid "village"
+msgstr "村莊"
+
+msgid "优质三文鱼"
+msgstr "優質三文魚"
+
+msgid "outskirts"
+msgstr "郊區"
+
+msgid "优质鲈鱼"
+msgstr "優質鱸魚"
+
+msgid "优质罗非鱼"
+msgstr "優質羅非魚"
+
+msgid "优质鲭鱼"
+msgstr "優質鯖魚"
+
+msgid "优质沙丁鱼"
+msgstr "優質沙丁魚"
+
+msgid "优质鲱鱼"
+msgstr "優質鯡魚"
+
+msgid "铜矿脉"
+msgstr "銅礦脈"
+
+msgid "银矿脉"
+msgstr "銀礦脈"
+
+msgid "金矿脉"
+msgstr "金礦脈"
+
+msgid "霜冻矿脉"
+msgstr "霜凍礦脈"
+
+msgid "翡翠矿脉"
+msgstr "翡翠礦脈"
+
+msgid "熔岩矿脉"
+msgstr "熔岩礦脈"
+
+msgid "星辰矿脉"
+msgstr "星辰礦脈"
+
+msgid "彩虹矿脉"
+msgstr "彩虹礦脈"
+
+msgid "优质金矿脉"
+msgstr "優質金礦脈"
+
+msgid "优质霜冻矿脉"
+msgstr "優質霜凍礦脈"
+
+msgid "优质翡翠矿脉"
+msgstr "優質翡翠礦脈"
+
+msgid "优质熔岩矿脉"
+msgstr "優質熔岩礦脈"
+
+msgid "优质星辰矿脉"
+msgstr "優質星辰礦脈"
+
+msgid "优质彩虹矿脉"
+msgstr "優質彩虹礦脈"
+
+msgid "松树"
+msgstr "松樹"
+
+msgid "云杉树"
+msgstr "雲杉樹"
+
+msgid "桦树"
+msgstr "樺樹"
+
+msgid "柚木树"
+msgstr "柚木樹"
+
+msgid "桃花心木树"
+msgstr "桃花心木樹"
+
+msgid "铁皮树"
+msgstr "鐵皮樹"
+
+msgid "红木树"
+msgstr "紅木樹"
+
+msgid "古树"
+msgstr "古樹"
+
+msgid "优质桦树"
+msgstr "優質樺樹"
+
+msgid "优质柚木树"
+msgstr "優質柚木樹"
+
+msgid "优质桃花心木树"
+msgstr "優質桃花心木樹"
+
+msgid "优质铁皮树"
+msgstr "優質鐵皮樹"
+
+msgid "优质红木树"
+msgstr "優質紅木樹"
+
+msgid "优质古树"
+msgstr "優質古樹"
+
+msgid "ores"
+msgstr "礦石"
+
+msgid "gems"
+msgstr "寶石"
+
+msgid "月亮宝石精华"
+msgstr "月亮寶石精華"
+
+msgid "水晶宝石精华"
+msgstr "水晶寶石精華"
+
+msgid "星星宝石精华"
+msgstr "星星寶石精華"
+
+msgid "玛瑙宝石精华"
+msgstr "瑪瑙寶石精華"
+
+msgid "彩虹宝石精华"
+msgstr "彩虹寶石精華"
+
+msgid "flower"
+msgstr "花卉"
+
+msgid "vegetable"
+msgstr "蔬菜"
+
+msgid "basics"
+msgstr "基礎"
+
+msgid "regular"
+msgstr "普通"
+
+msgid "advance"
+msgstr "進階"
+
+msgid "hyper"
+msgstr "超級"
+
+msgid "cuisine"
+msgstr "料理"
+
+msgid "good_cuisine"
+msgstr "美味料理"
+
+msgid "猪猪"
+msgstr "豬豬"
+
+msgid "小鸡"
+msgstr "小雞"
+
+msgid "鹅鹅"
+msgstr "鵝鵝"
+
+msgid "羊羊"
+msgstr "羊羊"
+
+msgid "狼狼"
+msgstr "狼狼"
+
+msgid "乌龟"
+msgstr "乌龟"
+
+msgid "猫猫"
+msgstr "猫猫"
+
+msgid "螃蟹"
+msgstr "螃蟹"
+
+msgid "蓝皮猪猪"
+msgstr "藍皮豬豬"
+
+msgid "blue_skin"
+msgstr "藍色皮膚"
+
+msgid "蓝皮小鸡"
+msgstr "藍皮小雞"
+
+msgid "蓝皮鹅鹅"
+msgstr "藍皮鵝鵝"
+
+msgid "蓝皮羊羊"
+msgstr "藍皮羊羊"
+
+msgid "蓝皮狼狼"
+msgstr "藍皮狼狼"
+
+msgid "蓝皮乌龟"
+msgstr "藍皮烏龜"
+
+msgid "蓝皮猫猫"
+msgstr "藍皮貓貓"
+
+msgid "蓝皮螃蟹"
+msgstr "藍皮螃蟹"
+
+msgid "map_crafting"
+msgstr "地圖製作"
+
+msgid "copper"
+msgstr "銅"
+
+msgid "armor"
+msgstr "護甲"
+
+msgid "tool"
+msgstr "工具"
+
+msgid "铜铲子"
+msgstr "銅鏟子"
+
+msgid "铜斧头"
+msgstr "銅斧頭"
+
+msgid "weapons"
+msgstr "武器"
+
+msgid "铜弓"
+msgstr "銅弓"
+
+msgid "accessories"
+msgstr "配件"
+
+msgid "silver"
+msgstr "銀"
+
+msgid "银铲子"
+msgstr "銀鏟子"
+
+msgid "银斧头"
+msgstr "銀斧頭"
+
+msgid "银弓"
+msgstr "銀弓"
+
+msgid "gold"
+msgstr "黃金"
+
+msgid "黄金披风"
+msgstr "黃金披風"
+
+msgid "金铲子"
+msgstr "金鏟子"
+
+msgid "金斧头"
+msgstr "金斧頭"
+
+msgid "金弓"
+msgstr "金弓"
+
+msgid "frost"
+msgstr "霜凍"
+
+msgid "霜冻铲子"
+msgstr "霜凍鏟子"
+
+msgid "霜冻斧头"
+msgstr "霜凍斧頭"
+
+msgid "霜冻弓"
+msgstr "霜凍弓"
+
+msgid "jade"
+msgstr "翡翠"
+
+msgid "翡翠铲子"
+msgstr "翡翠鏟子"
+
+msgid "翡翠斧头"
+msgstr "翡翠斧頭"
+
+msgid "翡翠弓"
+msgstr "翡翠弓"
+
+msgid "molten"
+msgstr "熔岩"
+
+msgid "熔岩铲子"
+msgstr "熔岩鏟子"
+
+msgid "熔岩斧头"
+msgstr "熔岩斧頭"
+
+msgid "熔岩弓"
+msgstr "熔岩弓"
+
+msgid "stellar"
+msgstr "星塵"
+
+msgid "星辰铲子"
+msgstr "星辰鏟子"
+
+msgid "星辰斧头"
+msgstr "星辰斧頭"
+
+msgid "星辰弓"
+msgstr "星辰弓"
+
+msgid "rainbow"
+msgstr "彩虹"
+
+msgid "彩虹铲子"
+msgstr "彩虹鏟子"
+
+msgid "彩虹斧头"
+msgstr "彩虹斧頭"
+
+msgid "彩虹弓"
+msgstr "彩虹弓"
+
+msgid "伐木"
+msgstr "伐木"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"主要產出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 轉化為炭（冶煉、烹飪所需）\n"
+"- 原木 → 建造社區基礎設施\n"
+"- 水果 → 轉化為肥料（農業所需）\n"
+"\n"
+"技能加成：每級 +0.25% 伐木效率（提供立即完成行動的機率）\n"
+"核心工具：斧頭（提高伐木速度）"
+
+msgid "采矿"
+msgstr "採礦"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"主要產出：礦石、寶石\n"
+"\n"
+"用途：\n"
+"- 礦石 → 冶煉成錠\n"
+"- 寶石 → 冶煉成寶石精華\n"
+"\n"
+"技能加成：每級 +0.25% 採礦效率（提供立即完成行動的機率）\n"
+"核心工具：鎬子（提高採礦速度）"
+
+msgid "冶炼"
+msgstr "冶煉"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"製作內容：\n"
+"- 礦石 + 炭 → 錠\n"
+"- 寶石 + 炭 → 寶石精華\n"
+"\n"
+"用途：\n"
+"- 錠和寶石精華 → 鍛造武器、工具、盔甲、飾品\n"
+"- 錠和寶石精華 → 建造社區基礎設施\n"
+"\n"
+"技能加成：每級 +0.25% 冶煉效率（提供立即完成行動的機率）\n"
+"核心建築：熔爐（提高冶煉速度）"
+
+msgid "锻造"
+msgstr "鍛造"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"製作內容：武器、工具、盔甲、飾品\n"
+"所需材料：錠、寶石精華\n"
+"技能加成：每級 +0.25% 鍛造效率（提供立即完成行動的機率）\n"
+"核心建築：鐵砧（提高鍛造速度）"
+
+msgid "农业"
+msgstr "農業"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"主要產出：鮮花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鮮花 → 煉金術製作藥水\n"
+"- 蔬菜 → 烹飪豪華料理（戰鬥治療）\n"
+"\n"
+"所需材料：\n"
+"- 種子（商店購買）\n"
+"- 肥料（由水果轉化）\n"
+"\n"
+"技能加成：每級 +0.25% 農業效率（提供立即完成行動的機率）\n"
+"核心工具：鏟子（提高農業速度）"
+
+msgid "炼金"
+msgstr "炼金"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"製作內容：各類藥水\n"
+"\n"
+"所需材料：\n"
+"- 鮮花（農業）\n"
+"- 骨頭（戰鬥）\n"
+"- 瓶子（商店）\n"
+"\n"
+"藥水效果：提供多種增益效果，預設持續 180 秒\n"
+"技能加成：每級 +0.25% 煉金效率（提供立即完成行動的機率）\n"
+"核心建築：煉金實驗室（提高煉金速度）"
+
+msgid "钓鱼"
+msgstr "钓鱼"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"主要產出：魚\n"
+"用途：烹飪料理（戰鬥治療）\n"
+"技能加成：每級 +0.25% 釣魚效率（提供立即完成行動的機率）\n"
+"核心工具：魚竿（提高釣魚速度）"
+
+msgid "烹饪"
+msgstr "烹饪"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"製作內容：各類料理\n"
+"所需材料：食材（魚和蔬菜）+ 炭\n"
+"料理效果：戰鬥中生命值低於 33% 時自動使用，恢復生命值（冷卻時間 15 秒）\n"
+"技能加成：每級 +0.25% 烹飪效率（提供立即完成行動的機率）\n"
+"核心建築：烹飪鍋（提高烹飪速度）"
+
+msgid "狩猎"
+msgstr "狩猎"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+
+msgid "制图"
+msgstr "制图"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+
+msgid "考古"
+msgstr "考古"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造\"祭坛\"后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+
+msgid "单手武器"
+msgstr "单手武器"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+
+msgid "双手武器"
+msgstr "双手武器"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+
+msgid "远程武器"
+msgstr "远程武器"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+
+msgid "防御"
+msgstr "防御"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+
+msgid "把你踹开"
+msgstr "把你踹開"
+
+msgid "他想要"
+msgstr "他想要"
+
+msgid "我的号码"
+msgstr "我的號碼"
+
+msgid "我不给"
+msgstr "我不給"
+
+msgid "对抗纨绔"
+msgstr "對抗紈褲"
+
+msgid "美颜参数"
+msgstr "美顏參數"
+
+msgid "值得学习"
+msgstr "值得學習"
+
+msgid "说梦话"
+msgstr "說夢話"
+
+msgid "肌肉大"
+msgstr "肌肉大"
+
+msgid "生活总是"
+msgstr "生活總是"
+
+msgid "太多波折"
+msgstr "太多波折"
+
+msgid "猫咪"
+msgstr "貓咪"
+
+msgid "张嘴"
+msgstr "張嘴"
+
+msgid "这个地方"
+msgstr "這個地方"
+
+msgid "傻子太多"
+msgstr "傻子太多"
+
+msgid "我的生活"
+msgstr "我的生活"
+
+msgid "特别难过"
+msgstr "特別難過"
+
+msgid "希望你"
+msgstr "希望你"
+
+msgid "知道这个"
+msgstr "知道這個"
+
+msgid "我不想"
+msgstr "我不想"
+
+msgid "当小人物"
+msgstr "當小人物"
+
+msgid "地下的"
+msgstr "地下的"
+
+msgid "皇帝"
+msgstr "皇帝"
+
+msgid "我想当"
+msgstr "我想當"
+
+msgid "三根一起抽"
+msgstr "三根一起抽"
+
+msgid "喝很多水"
+msgstr "喝很多水"
+
+msgid "和我作对"
+msgstr "和我作對"
+
+msgid "出人头地"
+msgstr "出人頭地"
+
+msgid "就在今天"
+msgstr "就在今天"
+
+msgid "当我看见"
+msgstr "當我看見"
+
+msgid "外国友人"
+msgstr "外國友人"
+
+msgid "我不问好"
+msgstr "我不問好"
+
+msgid "因为我太"
+msgstr "因為我太"
+
+msgid "高冷了"
+msgstr "高冷了"
+
+msgid "质疑我的"
+msgstr "質疑我的"
+
+msgid "嘲笑我的"
+msgstr "嘲笑我的"
+
+msgid "都是一群"
+msgstr "都是一群"
+
+msgid "大傻子"
+msgstr "大傻子"
+
+msgid "我就是"
+msgstr "我就是"
+
+msgid "全世界"
+msgstr "全世界"
+
+msgid "最牛的！"
+msgstr "最牛的！"
+
+msgid "你的炫耀"
+msgstr "你的炫耀"
+
+msgid "名牌包包"
+msgstr "名牌包包"
+
+msgid "名牌手表"
+msgstr "名牌手表"
+
+msgid "说实话"
+msgstr "说实话"
+
+msgid "我不在乎"
+msgstr "我不在乎"
+
+msgid "想打败我"
+msgstr "想打败我"
+
+msgid "那你惨了"
+msgstr "那你惨了"
+
+msgid "我需要个"
+msgstr "我需要个"
+
+msgid "赚快钱"
+msgstr "赚快钱"
+
+msgid "的方法"
+msgstr "的方法"
+
+msgid "你可以叫我"
+msgstr "你可以叫我"
+
+msgid "小帅"
+msgstr "小帅"
+
+msgid "面临"
+msgstr "面临"
+
+msgid "指控"
+msgstr "指控"
+
+msgid "从不会"
+msgstr "从不会"
+
+msgid "求神拜佛"
+msgstr "求神拜佛"
+
+msgid "我只穿"
+msgstr "我只穿"
+
+msgid "一次性的"
+msgstr "一次性的"
+
+msgid "袜子"
+msgstr "袜子"
+
+msgid "洗衣服"
+msgstr "洗衣服"
+
+msgid "太麻烦"
+msgstr "太麻煩"
+
+msgid "她画了"
+msgstr "她畫了"
+
+msgid "美丽的妆"
+msgstr "美麗的妝"
+
+msgid "但是她"
+msgstr "但是她"
+
+msgid "喜欢女的"
+msgstr "喜歡女的"
+
+msgid "我是那个"
+msgstr "我是那個"
+
+msgid "第三者"
+msgstr "第三者"
+
+msgid "特别伤心"
+msgstr "特別傷心"
+
+msgid "我哭了"
+msgstr "我哭了"
+
+msgid "自给自足者"
+msgstr "自給自足者"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過200個時，技能速度+20%\n"
+"庫存低於50個時，技能速度-12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過300個時，技能經驗倍率+20%\n"
+"庫存低於100個時，技能經驗倍率-8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過320個時，技能速度+24%\n"
+"庫存低於80個時，技能速度-8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過420個時，技能經驗倍率+24%\n"
+"庫存低於140個時，技能經驗倍率-6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過500個時，技能速度+30%\n"
+"庫存低於180個時，技能速度-4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"執行行動時，對該行動的必掉落物品進行檢查：\n"
+"庫存超過650個時，技能經驗倍率+30%\n"
+"庫存低於220個時，技能經驗倍率-4%"
+
+msgid "Z 世代"
+msgstr "Z 世代"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00期間，所有採集技能速度+18%。\n"
+"其他時間速度-12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00期間，所有製造技能速度+18%。\n"
+"其他時間速度-12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00期間，所有採集技能速度+24%。\n"
+"其他時間速度-10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00期間，所有製造技能速度+24%。\n"
+"其他時間速度-10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00期間，所有採集技能速度+28%。\n"
+"其他時間速度-8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00期間，所有製造技能速度+28%。\n"
+"其他時間速度-8%"
+
+msgid "赌徒"
+msgstr "賭徒"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"任意行動完成時：有13%機率本次產出清零，有13%機率本次產出×3。\n"
+"但採集、製作、戰鬥技能物品產出-18%。"
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr "任意行動完成時：有4%機率本次產出清零，有6%機率本次產出×3"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"任意行動完成時：有10%機率本次產出清零，有20%機率本次產出×3。\n"
+"但採集、製作、戰鬥技能物品產出-12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr "任意行動完成時：有5%機率本次產出清零，有9%機率本次產出×3"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+
+msgid "番茄钟"
+msgstr "番茄鐘"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+
+msgid "万岁"
+msgstr "萬歲"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"連續擊敗怪物時，每次累計+2.5%傷害和命中率（上限+25%）。\n"
+"一旦被怪物擊中，從0計數。"
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"每次受到傷害後，下一次攻擊傷害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"連續擊敗怪物時，每次累計+3%傷害和命中率（上限+36%）。\n"
+"一旦被怪物擊中，從0計數。"
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"每次受到傷害後，下一次攻擊傷害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"連續擊敗怪物時，每次累計+3.5%傷害和命中率（上限+45%）。\n"
+"一旦被怪物擊中，從0計數。"
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"每次受到傷害後，下一次攻擊傷害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+
+msgid "伐木菜鸟"
+msgstr "伐木新手"
+
+msgid "挖掘菜鸟"
+msgstr "挖掘新手"
+
+msgid "冶炼菜鸟"
+msgstr "冶炼新手"
+
+msgid "锻造菜鸟"
+msgstr "锻造新手"
+
+msgid "种地菜鸟"
+msgstr "種植新手"
+
+msgid "炼金菜鸟"
+msgstr "煉金新手"
+
+msgid "钓鱼菜鸟"
+msgstr "釣魚新手"
+
+msgid "烹饪菜鸟"
+msgstr "烹飪新手"
+
+msgid "狩猎菜鸟"
+msgstr "狩獵新手"
+
+msgid "制图菜鸟"
+msgstr "製圖新手"
+
+msgid "考古菜鸟"
+msgstr "考古新手"
+
+msgid "单手武器菜鸟"
+msgstr "單手武器新手"
+
+msgid "双手武器菜鸟"
+msgstr "雙手武器新手"
+
+msgid "远程武器菜鸟"
+msgstr "遠程武器新手"
+
+msgid "防御菜鸟"
+msgstr "防禦新手"
+
+msgid "伐木高手"
+msgstr "伐木高手"
+
+msgid "挖掘高手"
+msgstr "挖掘高手"
+
+msgid "冶炼高手"
+msgstr "冶炼高手"
+
+msgid "锻造高手"
+msgstr "锻造高手"
+
+msgid "种地高手"
+msgstr "種植高手"
+
+msgid "炼金高手"
+msgstr "炼金高手"
+
+msgid "钓鱼高手"
+msgstr "钓鱼高手"
+
+msgid "烹饪高手"
+msgstr "烹饪高手"
+
+msgid "狩猎高手"
+msgstr "狩猎高手"
+
+msgid "制图高手"
+msgstr "制图高手"
+
+msgid "考古高手"
+msgstr "考古高手"
+
+msgid "单手武器高手"
+msgstr "单手武器高手"
+
+msgid "双手武器高手"
+msgstr "双手武器高手"
+
+msgid "远程武器高手"
+msgstr "远程武器高手"
+
+msgid "防御高手"
+msgstr "防御高手"
+
+msgid "伐木大王"
+msgstr "伐木大王"
+
+msgid "挖掘大王"
+msgstr "挖掘大王"
+
+msgid "冶炼大王"
+msgstr "冶炼大王"
+
+msgid "锻造大王"
+msgstr "锻造大王"
+
+msgid "种地大王"
+msgstr "种地大王"
+
+msgid "炼金大王"
+msgstr "炼金大王"
+
+msgid "钓鱼大王"
+msgstr "钓鱼大王"
+
+msgid "烹饪大王"
+msgstr "烹饪大王"
+
+msgid "狩猎大王"
+msgstr "狩猎大王"
+
+msgid "制图大王"
+msgstr "制图大王"
+
+msgid "考古大王"
+msgstr "考古大王"
+
+msgid "单手武器大王"
+msgstr "單手武器大王"
+
+msgid "双手武器大王"
+msgstr "雙手武器大王"
+
+msgid "远程武器大王"
+msgstr "遠程武器大王"
+
+msgid "防御大王"
+msgstr "防禦大王"
+
+msgid "Tutorial"
+msgstr "教學"
+
+msgid "Loadout"
+msgstr "配裝"
+
+msgid "Character"
+msgstr "角色"
+
+msgid "Inventory"
+msgstr "背包"
+
+msgid "Journey"
+msgstr "旅程"
+
+msgid "Quests"
+msgstr "任務"
+
+msgid "Community"
+msgstr "社群"
+
+msgid "Cheat"
+msgstr "作弊"
+
+msgid "Dev"
+msgstr "開發者"
+
+msgid "Shop"
+msgstr "商店"
+
+msgid "StarStore"
+msgstr "星幣商店"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Profile"
+msgstr "個人資料"
+
+msgid "Codex"
+msgstr "圖鑑"
+
+msgid "Leaderboard"
+msgstr "排行榜"
+
+msgid "Achievements"
+msgstr "成就"
+
+msgid "Talents"
+msgstr "天賦"
+
+msgid "Traits"
+msgstr "特質"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Skills"
+msgstr "技能"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Skill unlocked: {0}"
+msgstr "技能已解鎖：{0}"
+
+msgid "Ad Opportunity"
+msgstr "廣告機會"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "廣告機會對話描述"
+
+msgid "Ad Opportunity Finished"
+msgstr "廣告機會已完成"
+
+msgid "Ad Failed"
+msgstr "廣告失敗"
+
+msgid "Activated Modifiers"
+msgstr "已啟用的修飾符"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Bankrupted"
+msgstr "已破產"
+
+msgid "Privacy Policy"
+msgstr "隱私政策"
+
+msgid "Decline"
+msgstr "拒絕"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Skills Total Level"
+msgstr "技能總等級"
+
+msgid "Formater"
+msgstr "塑形器"
+
+msgid "✦ First selection is free"
+msgstr "✦ 首次選擇免費"
+
+msgid "Switch cooldown: {0}"
+msgstr "切換冷卻時間：{0}"
+
+msgid "● ACTIVE"
+msgstr "● 活動中"
+
+msgid "Details"
+msgstr "詳情"
+
+msgid "Inspect"
+msgstr "檢視"
+
+msgid "← Back"
+msgstr "← 返回"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● 活動特質"
+
+msgid "Selected"
+msgstr "已選擇"
+
+msgid "Switch  (1× Formater)"
+msgstr "切換 (1× 塑形器)"
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr "達到總技能等級 {0} 以解鎖此特質欄位。（目前：{1}）"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "更改特質需消耗 1× 塑形器"
+
+msgid "Active"
+msgstr "活動"
+
+msgid "Activate"
+msgstr "啟動"
+
+msgid "Loading"
+msgstr "載入中"
+
+msgid "Buy"
+msgstr "購買"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "觀看 {0} 則廣告以獲得 {1}？"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "花費 {0} 顆星以獲得 {1}？"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Successfully purchased %s"
+msgstr "成功購買 %s"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "Failed to purchase %s"
+msgstr "購買 %s 失敗"
+
+msgid "Consumes"
+msgstr "消耗"
+
+msgid "Drops"
+msgstr "掉落"
+
+msgid "Loot"
+msgstr "戰利品"
+
+msgid "Props"
+msgstr "道具"
+
+msgid "Auto Equip"
+msgstr "自動裝備"
+
+msgid "Actions"
+msgstr "行動"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "加速 10 分鐘：1 顆星"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "地下城：{0} - {1} 波"
+
+msgid "Last wave is BOSS!"
+msgstr "最后一波是首領！"
+
+msgid "Monster Pool:"
+msgstr "怪物池："
+
+msgid "Equipped"
+msgstr "已裝備"
+
+msgid "No Prop Selected"
+msgstr "未選擇道具"
+
+msgid "Item is not a prop"
+msgstr "該物品不是道具"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Amount"
+msgstr "數量"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Price"
+msgstr "價格"
+
+msgid "Not enough coins"
+msgstr "金幣不足"
+
+msgid "About"
+msgstr "關於"
+
+msgid "Game Version"
+msgstr "遊戲版本"
+
+msgid "Theme Preference"
+msgstr "主題偏好"
+
+msgid "Theme Style"
+msgstr "主題樣式"
+
+msgid "Seed Color"
+msgstr "種子顏色"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "UI Scale"
+msgstr "UI 縮放"
+
+msgid "Scale: {0}"
+msgstr "縮放：{0}"
+
+msgid "Sound Volume"
+msgstr "音效音量"
+
+msgid "Volume: {0}"
+msgstr "音量：{0}"
+
+msgid "Music Volume"
+msgstr "音樂音量"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Stock"
+msgstr "庫存"
+
+msgid "Materials"
+msgstr "材料"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "Item"
+msgstr "物品"
+
+msgid "Select a material"
+msgstr "選擇材料"
+
+msgid "Not enough materials"
+msgstr "材料不足"
+
+msgid "Create"
+msgstr "創建"
+
+msgid "Quest"
+msgstr "任務"
+
+msgid "Rewards"
+msgstr "獎勵"
+
+msgid "Claim Reward"
+msgstr "領取獎勵"
+
+msgid "Reward Claimed"
+msgstr "獎勵已領取"
+
+msgid "In Progress"
+msgstr "進行中"
+
+msgid "Daily Quests"
+msgstr "每日任務"
+
+msgid "Requirements"
+msgstr "需求"
+
+msgid "Saving..."
+msgstr "儲存中..."
+
+msgid "Saved"
+msgstr "已儲存"
+
+msgid "Creating save"
+msgstr "建立存檔"
+
+msgid "Deleting save"
+msgstr "刪除存檔"
+
+msgid "Entering save"
+msgstr "載入存檔"
+
+msgid "Refreshing"
+msgstr "重新整理"
+
+msgid "Syncing cloud"
+msgstr "同步雲端"
+
+msgid "New save"
+msgstr "新存檔"
+
+msgid "No modified time"
+msgstr "無修改時間"
+
+msgid "Character name"
+msgstr "角色名稱"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Saves"
+msgstr "存檔"
+
+msgid "Delete save"
+msgstr "刪除存檔"
+
+msgid "Delete {0} ?"
+msgstr "刪除 {0} ？"
+
+msgid "Onboarding"
+msgstr "新手教學"
+
+msgid "Total Mastery"
+msgstr "總精通"
+
+msgid "{0} mastered"
+msgstr "已精通 {0}"
+
+msgid "Progress Rank"
+msgstr "進度排名"
+
+msgid "Collect items to start"
+msgstr "收集物品以開始"
+
+msgid "Mastery Level"
+msgstr "精通等級"
+
+msgid "Locked"
+msgstr "已鎖定"
+
+msgid "Friends Only"
+msgstr "僅限好友"
+
+msgid "Your Rank"
+msgstr "您的排名"
+
+msgid "Total Mastery XP"
+msgstr "總精通經驗值"
+
+msgid "Loading leaderboard..."
+msgstr "載入排行榜中..."
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "Retry"
+msgstr "重試"
+
+msgid "No Data Available"
+msgstr "無可用資料"
+
+msgid "Add friends to see rankings"
+msgstr "新增好友以查看排名"
+
+msgid "Slots"
+msgstr "欄位"
+
+msgid "Open Results"
+msgstr "開啟結果"
+
+msgid "Nothing obtained."
+msgstr "未獲得任何物品。"
+
+msgid "Inventory full"
+msgstr "背包已滿"
+
+msgid "Item is locked"
+msgstr "物品已鎖定"
+
+msgid "Sell"
+msgstr "出售"
+
+msgid "Purchase Slot"
+msgstr "購買欄位"
+
+msgid "Max Slots"
+msgstr "最大欄位"
+
+msgid "Selections"
+msgstr "選擇"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove the relic?"
+msgstr "要移除遺物嗎？"
+
+msgid "Place Relic"
+msgstr "放置遺物"
+
+msgid "Enchanting"
+msgstr "附魔"
+
+msgid "Square"
+msgstr "廣場"
+
+msgid "Altar"
+msgstr "祭壇"
+
+msgid "Stop Enchanting"
+msgstr "停止附魔"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "停止附魔？材料不會退還。"
+
+msgid "Enchanting Result"
+msgstr "附魔結果"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr "選擇要放入背包的物品，另一個將會被丟棄。"
+
+msgid "Put in Inventory"
+msgstr "放入背包"
+
+msgid "Select Item"
+msgstr "選擇物品"
+
+msgid "Original"
+msgstr "原始"
+
+msgid "New"
+msgstr "新"
+
+msgid "Click to Keep"
+msgstr "點擊保留"
+
+msgid "Remaining"
+msgstr "剩餘"
+
+msgid "Possible Modifiers"
+msgstr "可能的修飾詞"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "將隨機獲得 1-2 個修飾詞。"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Upgrade"
+msgstr "升級"
+
+msgid "Occupying"
+msgstr "佔用中"
+
+msgid "Unlocked"
+msgstr "已解鎖"
+
+msgid "Layers"
+msgstr "層數"
+
+msgid "Not Built"
+msgstr "未建造"
+
+msgid "Max Level Reached"
+msgstr "已達最大等級"
+
+msgid "Decrease Tier"
+msgstr "降低階級"
+
+msgid "Increase Tier"
+msgstr "提升階級"
+
+msgid "Tier"
+msgstr "階級"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Offline Rewards"
+msgstr "離線獎勵"
+
+msgid "You have been offline for {0}."
+msgstr "您已離線 {0}。"
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Max Count"
+msgstr "最大數量"
+
+msgid "1 Left"
+msgstr "剩餘 1"
+
+msgid "Owned"
+msgstr "擁有"
+
+msgid "Unit Price"
+msgstr "單價"
+
+msgid "Total Price"
+msgstr "總價"
+
+msgid "Current Item"
+msgstr "當前物品"
+
+msgid "Count"
+msgstr "數量"
+
+msgid "{0} missed {1}"
+msgstr "{0} 遺漏了 {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} 擊中了 {1}，傷害：{2}"
+
+msgid "{0} was defeated"
+msgstr "{0} 被擊敗"
+
+msgid "Trait triggered: {0}"
+msgstr "特質觸發：{0}"
+
+msgid "Combat ended: {0}"
+msgstr "戰鬥結束：{0}"
+
+msgid "Combat started"
+msgstr "戰鬥開始"
+
+msgid "Reviving..."
+msgstr "復活中..."
+
+msgid "Combat Log"
+msgstr "戰鬥日誌"
+
+msgid "No combat events yet."
+msgstr "尚無戰鬥事件。"
+
+msgid "No trait activations yet."
+msgstr "尚無特質啟動。"
+
+msgid "Attack Speed"
+msgstr "攻擊速度"
+
+msgid "Slash Damage"
+msgstr "斬擊傷害"
+
+msgid "Puncture Damage"
+msgstr "刺擊傷害"
+
+msgid "Impact Damage"
+msgstr "衝擊傷害"
+
+msgid "Slash Resistance"
+msgstr "斬擊抗性"
+
+msgid "Puncture Resistance"
+msgstr "刺擊抗性"
+
+msgid "Impact Resistance"
+msgstr "衝擊抗性"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "精通進度：{0}/{1}"
+
+msgid "Equipment"
+msgstr "裝備"
+
+msgid "Farming"
+msgstr "農耕"
+
+msgid "Material"
+msgstr "材料"
+
+msgid "Misc"
+msgstr "雜項"
+
+msgid "Relics"
+msgstr "遺物"
+
+msgid "Item Mastered"
+msgstr "物品精通"
+
+msgid "Mastery Complete"
+msgstr "精通完成"
+
+msgid "Mastery Rank"
+msgstr "精通等級"
+
+msgid "Rank Advanced"
+msgstr "等級提升"
+
+msgid "Your mastery continues to grow"
+msgstr "你的精通持續成長"
+
+msgid "Finished"
+msgstr "完成"
+
+msgid "Fee: {0}"
+msgstr "費用：{0}"
+
+msgid "Market Pressure: {0}"
+msgstr "市場壓力：{0}"
+
+msgid "You Pay"
+msgstr "支付"
+
+msgid "You Receive"
+msgstr "獲得"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr "市場壓力代表市場飽和程度。市場壓力越高，買入匯率越差。市場壓力會隨時間自然衰減。"
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "將硬幣兌換為島民券會增加市場壓力。"
+
+msgid "Confirm Exchange"
+msgstr "確認兌換"
+
+msgid "Enter Amount"
+msgstr "輸入數量"
+
+msgid "Insufficient Balance"
+msgstr "餘額不足"
+
+msgid "Balance: {0}"
+msgstr "餘額：{0}"
+
+msgid "MAX"
+msgstr "最大值"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr "如果你覺得出了一點小錯，只需點擊下方的按鈕即可重新開始！別擔心，這只是邁向偉大之路中的一點小插曲。"
+
+msgid "Start Over"
+msgstr "重新開始"
+
+msgid "Are you sure?"
+msgstr "你確定嗎？"
+
+msgid "Port"
+msgstr "港口"
+
+msgid "Next Trade In: {0}"
+msgstr "下一次交易時間：{0}"
+
+msgid "Current Stats"
+msgstr "當前屬性"
+
+msgid "Capacity (per trade)"
+msgstr "容量（單次交易）"
+
+msgid "Trade Interval"
+msgstr "交易間隔"
+
+msgid "Saturation Speed"
+msgstr "飽和速度"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/物品, -{1}/秒"
+
+msgid "Upgrades"
+msgstr "升級"
+
+msgid "How many items can be sold per trade."
+msgstr "每次交易可出售的物品數量。"
+
+msgid "How often trades happen. Lower is better."
+msgstr "交易發生的頻率。數值越低越好。"
+
+msgid "Saturation rises slower and decays faster."
+msgstr "飽和度上升更慢，衰減更快。"
+
+msgid "Now"
+msgstr "現在"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "Last Trade"
+msgstr "上一次交易"
+
+msgid "Trade Rule"
+msgstr "交易規則"
+
+msgid "Stock: {0}"
+msgstr "庫存：{0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "飽和度：{0}%（價格 x{1}）"
+
+msgid "Trade Mode"
+msgstr "交易模式"
+
+msgid "Min Stock"
+msgstr "最低庫存"
+
+msgid "Saturation"
+msgstr "飽和度"
+
+msgid "Policies"
+msgstr "政策"
+
+msgid "Banking"
+msgstr "銀行"
+
+msgid "Repository"
+msgstr "倉庫"
+
+msgid "Farmers"
+msgstr "農夫"
+
+msgid "Workers"
+msgstr "工人"
+
+msgid "Astrologers"
+msgstr "占星師"
+
+msgid "Alchemists"
+msgstr "煉金術士"
+
+msgid "GreatToken"
+msgstr "偉大代幣"
+
+msgid "The Office"
+msgstr "辦公室"
+
+msgid "Productivity"
+msgstr "生產力"
+
+msgid "Population"
+msgstr "人口"
+
+msgid "Insufficient Resources"
+msgstr "資源不足"
+
+msgid "Insufficient Workforce"
+msgstr "勞動力不足"
+
+msgid "Maintenance"
+msgstr "維護"
+
+msgid "Production Period"
+msgstr "生產週期"
+
+msgid "Building..."
+msgstr "建造中..."
+
+msgid "Build"
+msgstr "建造"
+
+msgid "Build Cost"
+msgstr "建築成本"
+
+msgid "Period Costs"
+msgstr "週期成本"
+
+msgid "Period Yields"
+msgstr "週期收益"
+
+msgid "Balance"
+msgstr "餘額"
+
+msgid "Maintenance: {0}s"
+msgstr "維護費：{0} 秒"
+
+msgid "Trade: {0}"
+msgstr "貿易：{0}"
+
+msgid "Available: {0}"
+msgstr "可用：{0}"
+
+msgid "Still needed: {0}"
+msgstr "尚需：{0}"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Already completed."
+msgstr "已完成。"
+
+msgid "No available items."
+msgstr "沒有可用項目。"
+
+msgid "Add Items."
+msgstr "新增項目。"
+
+msgid "Amount: {0}"
+msgstr "數量：{0}"
+
+msgid "Add"
+msgstr "新增"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Needed"
+msgstr "需求"
+
+msgid "Progress"
+msgstr "進度"
+
+msgid "Action"
+msgstr "行動"
+
+msgid "Great Token"
+msgstr "偉大代幣"
+
+msgid "Total Progress"
+msgstr "總進度"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr "將卡片拖曳至插槽，然後按下確認以套用。僅能選取已解鎖的卡片。"
+
+msgid "Unlocked: {0}"
+msgstr "已解鎖：{0}"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Unequip"
+msgstr "卸下"
+
+msgid "Cards"
+msgstr "卡片"
+
+msgid "{0} Policies"
+msgstr "{0} 條政策"
+
+msgid "Equipped: {0}"
+msgstr "已裝備：{0}"
+
+msgid "Not equipped"
+msgstr "未裝備"
+
+msgid "Equip"
+msgstr "裝備"
+
+msgid "Costs"
+msgstr "成本"
+
+msgid "None"
+msgstr "無"
+
+msgid "Economic"
+msgstr "經濟"
+
+msgid "Labor"
+msgstr "勞工"
+
+msgid "Social"
+msgstr "社會"
+
+msgid "Wildcard"
+msgstr "萬能牌"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr "我知道你！大名鼎鼎、多才多藝的精通大師。我知道以你的聰明才智，想必已經掌握了城市的運作方式，但我仍必須向你介紹！你別無選擇！"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr "你的第一步是獲取人口，這可以通過建造農民住宅來達成。請選取農民標籤。"
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr "偉大的嘗試！現在，建造一些樹木工廠和鋸木廠來生產木板。"
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr "太棒了，現在讓我們把這些東西賣掉。請前往港口。找到木板，然後將交易模式設為出售，時機合適時系統會自動售出。就這麼簡單！"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr "幹得好！你的終極目標是合成出偉大代幣，彰顯你超脫凡俗的城市治理能力，朝這個目標努力吧！"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "你已經完成了教學！去實現你的宏圖大志吧！"
+
+msgid "Skill level too low"
+msgstr "技能等級過低"
+
+msgid "Not enough items"
+msgstr "物品不足"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "角色"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "最大生命值"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "生命值"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "攻擊速度"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "護甲"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "傷害倍率"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "受傷倍率"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "劈砍傷害"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "穿刺傷害"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "衝擊傷害"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "命中率加成"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "閃避率加成"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "劈砍抗性"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "穿刺抗性"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "衝擊抗性"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "玩家"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "食物效果"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "離線獎勵倍率"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "技能"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "伐木效率"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "採礦效率"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "冶煉效率"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "鍛造效率"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "農業效率"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "鍊金效率"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "釣魚效率"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "烹飪效率"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "狩獵效率"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "製圖效率"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "考古效率"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "單手武器效率"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "雙手武器效率"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "遠程武器效率"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "防禦效率"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "伐木速度"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "採礦速度"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "冶煉速度"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "鍛造速度"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "農業速度"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "鍊金速度"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "釣魚速度"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "烹飪速度"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "狩獵速度"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "製圖速度"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "考古速度"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "單手武器速度"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "雙手武器速度"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "遠程武器速度"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "防禦速度"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "伐木經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "採礦經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "冶煉經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "鍛造經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "農業經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "鍊金經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "釣魚經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "烹飪經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "狩獵經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "製圖經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "考古經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "單手武器經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "雙手武器經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "遠程武器經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "防禦經驗倍率"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "伐木掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "採礦掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "冶煉掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "鍛造掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "農業掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "鍊金掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "釣魚掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "烹飪掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "狩獵掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "製圖掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "考古掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "單手武器掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "雙手武器掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "遠程武器掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "防禦掉落倍率"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "伐木幸運值"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "採礦幸運值"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "冶煉幸運值"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "鍛造幸運值"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "農業幸運值"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "鍊金幸運值"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "釣魚幸運值"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "烹飪幸運值"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "狩獵幸運值"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "製圖幸運值"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "考古幸運值"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "戰鬥經驗"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "戰鬥產出"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "採集經驗"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "採集產出"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "採集速度"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "製作經驗"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "製作產出"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "製作速度"
+
+msgid "Skill {0} level up to {1}"
+msgstr "技能 {0} 升級至 {1}"
+
+msgid "Food"
+msgstr "食物"
+
+msgid "Combat Potion"
+msgstr "戰鬥藥水"
+
+msgid "Gather Potion"
+msgstr "採集藥水"
+
+msgid "Craft Potion"
+msgstr "製作藥水"
+
+msgid "Inventory Slots"
+msgstr "背包欄位"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "系統"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "淺色"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "深色"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "色調"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "中性"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "鮮豔"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "表現力"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "彩虹"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "水果沙拉"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "單色"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "高保真"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "內容"
+
+msgid "Unlock {0}"
+msgstr "解鎖 {0}"
+
+msgid "No requirement"
+msgstr "無需求"
+
+msgid "{0} reach level {1}"
+msgstr "{0} 達到等級 {1}"
+
+msgid "Unknown skill"
+msgstr "未知技能"
+
+msgid "{0} completed"
+msgstr "{0} 已完成"
+
+msgid "Error Quest"
+msgstr "錯誤任務"
+
+msgid "Kill {0} {1}"
+msgstr "擊殺 {0} {1}"
+
+msgid "Collect {0} {1}"
+msgstr "收集 {0} {1}"
+
+msgid "Finish {0} {1}"
+msgstr "完成 {0} {1}"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "建造 {0} {1}"
+
+msgid "Quest {0} completed"
+msgstr "任務 {0} 已完成"
+
+msgid "Weapon"
+msgstr "武器"
+
+msgid "Shield"
+msgstr "盾牌"
+
+msgid "Helmet"
+msgstr "頭盔"
+
+msgid "Armor"
+msgstr "鎧甲"
+
+msgid "LegArmor"
+msgstr "腿甲"
+
+msgid "Boots"
+msgstr "靴子"
+
+msgid "Accessories"
+msgstr "飾品"
+
+msgid "Necklace"
+msgstr "項鍊"
+
+msgid "Ring"
+msgstr "戒指"
+
+msgid "Bracelet"
+msgstr "手環"
+
+msgid "Cape"
+msgstr "披風"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Axe"
+msgstr "斧頭"
+
+msgid "Pickaxe"
+msgstr "鎬子"
+
+msgid "Spade"
+msgstr "鏟子"
+
+msgid "Rod"
+msgstr "釣竿"
+
+msgid "Trap"
+msgstr "陷阱"
+
+msgid "{0} Completed"
+msgstr "{0} 已完成"
+
+msgid "Items not enough"
+msgstr "物品不足"
+
+msgid "CombatPotion"
+msgstr "戰鬥藥水"
+
+msgid "GatherPotion"
+msgstr "採集藥水"
+
+msgid "CraftPotion"
+msgstr "製作藥水"
+
+msgid "Flower"
+msgstr "花朵"
+
+msgid "Vegetable"
+msgstr "蔬菜"
+
+msgid "Fruit"
+msgstr "水果"
+
+msgid "Fish"
+msgstr "魚類"
+
+msgid "Sword"
+msgstr "劍"
+
+msgid "Hammer"
+msgstr "錘"
+
+msgid "Scythe"
+msgstr "鐮刀"
+
+msgid "Spear"
+msgstr "矛"
+
+msgid "Bow"
+msgstr "弓"
+
+msgid "Dart"
+msgstr "飛鏢"
+
+msgid "Relic"
+msgstr "遺物"
+
+msgid "%s secs"
+msgstr "%s 秒"
+
+msgid "%s mins"
+msgstr "%s 分鐘"
+
+msgid "%s hours"
+msgstr "%s 小時"
+
+msgid "%s days"
+msgstr "%s 天"
+
+msgid "%s weeks"
+msgstr "%s 週"
+
+msgid "%s months"
+msgstr "%s 個月"
+
+msgid "%s years"
+msgstr "%s 年"
+
+msgid "Always"
+msgstr "總是"
+
+msgid "Common"
+msgstr "普通"
+
+msgid "Uncommon"
+msgstr "不常見"
+
+msgid "Rare"
+msgstr "稀有"
+
+msgid "Legendary"
+msgstr "傳奇"
+
+msgid "Frenzy"
+msgstr "狂暴"
+
+msgid "Tanky"
+msgstr "堅韌"
+
+msgid "Deadly"
+msgstr "致命"
+
+msgid "Swift"
+msgstr "迅捷"
+
+msgid "Precise"
+msgstr "精準"
+
+msgid "Hardened"
+msgstr "硬化"

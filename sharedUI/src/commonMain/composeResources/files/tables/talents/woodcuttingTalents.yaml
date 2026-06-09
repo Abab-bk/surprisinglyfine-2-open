@@ -1,0 +1,152 @@
+- id: talent_woodcutting_root
+  name: 快速砍树
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_woodcutting_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_woodcutting_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_woodcutting_speed
+          value: 0.15
+          type: Percent
+
+  connections:
+    - talent_woodcutting_xp
+    - talent_woodcutting_loot
+
+
+- id: talent_woodcutting_xp
+  name: 机智地砍树
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_woodcutting_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_woodcutting_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_woodcutting_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_woodcutting_another_lucky
+    - talent_woodcutting_another_speed
+
+
+- id: talent_woodcutting_loot
+  name: 经济地砍树
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_woodcutting_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_woodcutting_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_woodcutting_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_woodcutting_another_xp
+    - talent_woodcutting_another_loot
+
+
+- id: talent_woodcutting_another_lucky
+  name: 幸运农民
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.24
+          type: Percent
+  connections: []
+
+
+- id: talent_woodcutting_another_speed
+  name: 熟练农民
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+
+- id: talent_woodcutting_another_xp
+  name: 智慧农民
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+
+- id: talent_woodcutting_another_loot
+  name: 经济农民
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_lootMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_lootMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_lootMultiplier
+          value: 0.24
+          type: Percent
+  connections: []

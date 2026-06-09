@@ -1,0 +1,2625 @@
+- id: 'smithing_copper_boots'
+  name: '铜靴子'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_leg_armor'
+  name: '铜腿甲'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_helmet'
+  name: '铜头盔'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_shield'
+  name: '铜盾牌'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_armor'
+  name: '铜护甲'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_cape'
+  name: '铜披风'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'copper_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_copper_rod'
+  name: '铜鱼竿'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'copper_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_spade'
+  name: '铜铲子'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'copper_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_axe'
+  name: '铜斧头'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'copper_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_pickaxe'
+  name: '铜镐'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'copper_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_trap'
+  name: '铜陷阱'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'copper_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_sword'
+  name: '铜剑'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_hammer'
+  name: '铜锤'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_scythe'
+  name: '铜镰刀'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_spear'
+  name: '铜矛'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_bow'
+  name: '铜弓'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_dart'
+  name: '铜飞镖'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'copper_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  tags: []
+- id: 'smithing_copper_ring'
+  name: '红宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_ruby'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  - itemId: 'essence_ruby'
+    count: 2
+  tags: []
+- id: 'smithing_copper_necklace'
+  name: '红宝石项链'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_ruby'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  - itemId: 'essence_ruby'
+    count: 2
+  tags: []
+- id: 'smithing_copper_bracelet'
+  name: '红宝石手环'
+  skillId: 'skill_smithing'
+  tier: 1
+  category: 'copper'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_ruby'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_bar'
+    count: 1
+  - itemId: 'essence_ruby'
+    count: 2
+  tags: []
+- id: 'smithing_silver_boots'
+  name: '银靴子'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_leg_armor'
+  name: '银腿甲'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_helmet'
+  name: '银头盔'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_shield'
+  name: '银盾牌'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_armor'
+  name: '银护甲'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_cape'
+  name: '银披风'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'silver_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_silver_rod'
+  name: '银鱼竿'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'silver_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_spade'
+  name: '银铲子'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'silver_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_axe'
+  name: '银斧头'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'silver_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_pickaxe'
+  name: '银镐'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'silver_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_trap'
+  name: '银陷阱'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'silver_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_sword'
+  name: '银剑'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_hammer'
+  name: '银锤'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_scythe'
+  name: '银镰刀'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_spear'
+  name: '银矛'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_bow'
+  name: '银弓'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_dart'
+  name: '银飞镖'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'silver_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  tags: []
+- id: 'smithing_silver_ring'
+  name: '黄宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_yellow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  - itemId: 'essence_yellow'
+    count: 2
+  tags: []
+- id: 'smithing_silver_necklace'
+  name: '黄宝石项链'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_yellow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  - itemId: 'essence_yellow'
+    count: 2
+  tags: []
+- id: 'smithing_silver_bracelet'
+  name: '黄宝石手环'
+  skillId: 'skill_smithing'
+  tier: 2
+  category: 'silver'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_yellow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_bar'
+    count: 1
+  - itemId: 'essence_yellow'
+    count: 2
+  tags: []
+- id: 'smithing_gold_boots'
+  name: '金靴子'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_leg_armor'
+  name: '金腿甲'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_helmet'
+  name: '金头盔'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_shield'
+  name: '金盾牌'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_armor'
+  name: '金护甲'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_cape'
+  name: '黄金披风'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'gold_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_gold_rod'
+  name: '金鱼竿'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'gold_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_spade'
+  name: '金铲子'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'gold_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_axe'
+  name: '金斧头'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'gold_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_pickaxe'
+  name: '金镐'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'gold_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_trap'
+  name: '金陷阱'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'gold_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_sword'
+  name: '金剑'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_hammer'
+  name: '金锤'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_scythe'
+  name: '金镰刀'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_spear'
+  name: '金矛'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_bow'
+  name: '金弓'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_dart'
+  name: '金飞镖'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'gold_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  tags: []
+- id: 'smithing_gold_ring'
+  name: '绿宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_green'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  - itemId: 'essence_green'
+    count: 2
+  tags: []
+- id: 'smithing_gold_necklace'
+  name: '绿宝石项链'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_green'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  - itemId: 'essence_green'
+    count: 2
+  tags: []
+- id: 'smithing_gold_bracelet'
+  name: '绿宝石手环'
+  skillId: 'skill_smithing'
+  tier: 3
+  category: 'gold'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_green'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_bar'
+    count: 1
+  - itemId: 'essence_green'
+    count: 2
+  tags: []
+- id: 'smithing_frost_boots'
+  name: '霜冻靴子'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_leg_armor'
+  name: '霜冻腿甲'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_helmet'
+  name: '霜冻头盔'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_shield'
+  name: '霜冻盾牌'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_armor'
+  name: '霜冻护甲'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_cape'
+  name: '霜冻披风'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'frost_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_frost_rod'
+  name: '霜冻鱼竿'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'frost_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_spade'
+  name: '霜冻铲子'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'frost_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_axe'
+  name: '霜冻斧头'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'frost_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_pickaxe'
+  name: '霜冻镐'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'frost_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_trap'
+  name: '霜冻陷阱'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'frost_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_sword'
+  name: '霜冻剑'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_hammer'
+  name: '霜冻锤'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_scythe'
+  name: '霜冻镰刀'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_spear'
+  name: '霜冻矛'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_bow'
+  name: '霜冻弓'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_dart'
+  name: '霜冻飞镖'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'frost_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  tags: []
+- id: 'smithing_frost_ring'
+  name: '月亮宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_moon'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  - itemId: 'essence_moon'
+    count: 2
+  tags: []
+- id: 'smithing_frost_necklace'
+  name: '月亮宝石项链'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_moon'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  - itemId: 'essence_moon'
+    count: 2
+  tags: []
+- id: 'smithing_frost_bracelet'
+  name: '月亮宝石手环'
+  skillId: 'skill_smithing'
+  tier: 4
+  category: 'frost'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_moon'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_bar'
+    count: 1
+  - itemId: 'essence_moon'
+    count: 2
+  tags: []
+- id: 'smithing_jade_boots'
+  name: '翡翠靴子'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_leg_armor'
+  name: '翡翠腿甲'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_helmet'
+  name: '翡翠头盔'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_shield'
+  name: '翡翠盾牌'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_armor'
+  name: '翡翠护甲'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_cape'
+  name: '翡翠披风'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'jade_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_jade_rod'
+  name: '翡翠鱼竿'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'jade_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_spade'
+  name: '翡翠铲子'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'jade_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_axe'
+  name: '翡翠斧头'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'jade_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_pickaxe'
+  name: '翡翠镐'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'jade_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_trap'
+  name: '翡翠陷阱'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'jade_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_sword'
+  name: '翡翠剑'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_hammer'
+  name: '翡翠锤'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_scythe'
+  name: '翡翠镰刀'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_spear'
+  name: '翡翠矛'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_bow'
+  name: '翡翠弓'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_dart'
+  name: '翡翠飞镖'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'jade_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  tags: []
+- id: 'smithing_jade_ring'
+  name: '水晶宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_crystal'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  - itemId: 'essence_crystal'
+    count: 2
+  tags: []
+- id: 'smithing_jade_necklace'
+  name: '水晶宝石项链'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_crystal'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  - itemId: 'essence_crystal'
+    count: 2
+  tags: []
+- id: 'smithing_jade_bracelet'
+  name: '水晶宝石手环'
+  skillId: 'skill_smithing'
+  tier: 5
+  category: 'jade'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_crystal'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_bar'
+    count: 1
+  - itemId: 'essence_crystal'
+    count: 2
+  tags: []
+- id: 'smithing_molten_boots'
+  name: '熔岩靴子'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_leg_armor'
+  name: '熔岩腿甲'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_helmet'
+  name: '熔岩头盔'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_shield'
+  name: '熔岩盾牌'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_armor'
+  name: '熔岩护甲'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_cape'
+  name: '熔岩披风'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'molten_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_molten_rod'
+  name: '熔岩鱼竿'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'molten_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_spade'
+  name: '熔岩铲子'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'molten_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_axe'
+  name: '熔岩斧头'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'molten_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_pickaxe'
+  name: '熔岩镐'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'molten_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_trap'
+  name: '熔岩陷阱'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'molten_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_sword'
+  name: '熔岩剑'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_hammer'
+  name: '熔岩锤'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_scythe'
+  name: '熔岩镰刀'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_spear'
+  name: '熔岩矛'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_bow'
+  name: '熔岩弓'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_dart'
+  name: '熔岩飞镖'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'molten_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  tags: []
+- id: 'smithing_molten_ring'
+  name: '星星宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_star'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  - itemId: 'essence_star'
+    count: 2
+  tags: []
+- id: 'smithing_molten_necklace'
+  name: '星星宝石项链'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_star'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  - itemId: 'essence_star'
+    count: 2
+  tags: []
+- id: 'smithing_molten_bracelet'
+  name: '星星宝石手环'
+  skillId: 'skill_smithing'
+  tier: 6
+  category: 'molten'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_star'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_bar'
+    count: 1
+  - itemId: 'essence_star'
+    count: 2
+  tags: []
+- id: 'smithing_stellar_boots'
+  name: '星辰靴子'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_leg_armor'
+  name: '星辰腿甲'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_helmet'
+  name: '星辰头盔'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_shield'
+  name: '星辰盾牌'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_armor'
+  name: '星辰护甲'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_cape'
+  name: '星辰披风'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'stellar_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_rod'
+  name: '星辰鱼竿'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'stellar_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_spade'
+  name: '星辰铲子'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'stellar_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_axe'
+  name: '星辰斧头'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'stellar_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_pickaxe'
+  name: '星辰镐'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'stellar_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_trap'
+  name: '星辰陷阱'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'stellar_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_sword'
+  name: '星辰剑'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_hammer'
+  name: '星辰锤'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_scythe'
+  name: '星辰镰刀'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_spear'
+  name: '星辰矛'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_bow'
+  name: '星辰弓'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_dart'
+  name: '星辰飞镖'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'stellar_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  tags: []
+- id: 'smithing_stellar_ring'
+  name: '玛瑙宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_onyx'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  - itemId: 'essence_onyx'
+    count: 2
+  tags: []
+- id: 'smithing_stellar_necklace'
+  name: '玛瑙宝石项链'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_onyx'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  - itemId: 'essence_onyx'
+    count: 2
+  tags: []
+- id: 'smithing_stellar_bracelet'
+  name: '玛瑙宝石手环'
+  skillId: 'skill_smithing'
+  tier: 7
+  category: 'stellar'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_onyx'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_bar'
+    count: 1
+  - itemId: 'essence_onyx'
+    count: 2
+  tags: []
+- id: 'smithing_rainbow_boots'
+  name: '彩虹靴子'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_boots'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_leg_armor'
+  name: '彩虹腿甲'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_leg_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_helmet'
+  name: '彩虹头盔'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_helmet'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_shield'
+  name: '彩虹盾牌'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_shield'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_armor'
+  name: '彩虹护甲'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_armor'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_cape'
+  name: '彩虹披风'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'armor'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_cape'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  - itemId: 'leather'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_rod'
+  name: '彩虹鱼竿'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_rod'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_spade'
+  name: '彩虹铲子'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_spade'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_axe'
+  name: '彩虹斧头'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_axe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_pickaxe'
+  name: '彩虹镐'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_pickaxe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_trap'
+  name: '彩虹陷阱'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'tool'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_trap'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_sword'
+  name: '彩虹剑'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_sword'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_hammer'
+  name: '彩虹锤'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_hammer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_scythe'
+  name: '彩虹镰刀'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_scythe'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_spear'
+  name: '彩虹矛'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_spear'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_bow'
+  name: '彩虹弓'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_bow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_dart'
+  name: '彩虹飞镖'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'weapons'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_dart'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  tags: []
+- id: 'smithing_rainbow_ring'
+  name: '彩虹宝石戒指'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'ring_gem_rainbow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  - itemId: 'essence_rainbow'
+    count: 2
+  tags: []
+- id: 'smithing_rainbow_necklace'
+  name: '彩虹宝石项链'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'necklace_gem_rainbow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  - itemId: 'essence_rainbow'
+    count: 2
+  tags: []
+- id: 'smithing_rainbow_bracelet'
+  name: '彩虹宝石手环'
+  skillId: 'skill_smithing'
+  tier: 8
+  category: 'rainbow'
+  subCategory: 'accessories'
+  dropTable:
+    entries:
+    - itemId: 'bracelet_gem_rainbow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_bar'
+    count: 1
+  - itemId: 'essence_rainbow'
+    count: 2
+  tags: []
+...

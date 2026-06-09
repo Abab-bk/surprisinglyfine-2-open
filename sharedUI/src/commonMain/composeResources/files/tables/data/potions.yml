@@ -1,0 +1,361 @@
+- id: 'basic_health_potion'
+  name: '基础健康药水'
+  type: 'CombatPotion'
+  tier: 1
+  potionDuration: 0
+  modifiers:
+  - statId: 'actor_health'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_combat_xp_potion'
+  name: '基础战斗经验药水'
+  type: 'CombatPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatXp'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_combat_loot_potion'
+  name: '基础拾取药水'
+  type: 'CombatPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatYield'
+    value: 0.08
+    type: 'Percent'
+    channel: 0
+- id: 'basic_gather_speed_potion'
+  name: '基础采集速度药水'
+  type: 'GatherPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherSpeed'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_gather_xp_potion'
+  name: '基础采集经验药水'
+  type: 'GatherPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherXp'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_gather_yield_potion'
+  name: '基础采集产量药水'
+  type: 'GatherPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherYield'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_craft_speed_potion'
+  name: '基础制造速度药水'
+  type: 'CraftPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftSpeed'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_multi_craft_potion'
+  name: '基础多件制造药水'
+  type: 'CraftPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftYield'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'basic_craft_xp_potion'
+  name: '基础制造经验药水'
+  type: 'CraftPotion'
+  tier: 1
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftXp'
+    value: 0.03
+    type: 'Percent'
+    channel: 0
+- id: 'regular_health_potion'
+  name: '常规健康药水'
+  type: 'CombatPotion'
+  tier: 2
+  potionDuration: 0
+  modifiers:
+  - statId: 'actor_health'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_combat_xp_potion'
+  name: '常规战斗经验药水'
+  type: 'CombatPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatXp'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_combat_loot_potion'
+  name: '常规拾取药水'
+  type: 'CombatPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatYield'
+    value: 0.16
+    type: 'Percent'
+    channel: 0
+- id: 'regular_gather_speed_potion'
+  name: '常规采集速度药水'
+  type: 'GatherPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherSpeed'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_gather_xp_potion'
+  name: '常规采集经验药水'
+  type: 'GatherPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherXp'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_gather_yield_potion'
+  name: '常规采集产量药水'
+  type: 'GatherPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherYield'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_craft_speed_potion'
+  name: '常规制造速度药水'
+  type: 'CraftPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftSpeed'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_multi_craft_potion'
+  name: '常规多件制造药水'
+  type: 'CraftPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftYield'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'regular_craft_xp_potion'
+  name: '常规制造经验药水'
+  type: 'CraftPotion'
+  tier: 2
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftXp'
+    value: 0.06
+    type: 'Percent'
+    channel: 0
+- id: 'advance_health_potion'
+  name: '高级健康药水'
+  type: 'CombatPotion'
+  tier: 3
+  potionDuration: 0
+  modifiers:
+  - statId: 'actor_health'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_combat_xp_potion'
+  name: '高级战斗经验药水'
+  type: 'CombatPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatXp'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_combat_loot_potion'
+  name: '高级拾取药水'
+  type: 'CombatPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatYield'
+    value: 0.24
+    type: 'Percent'
+    channel: 0
+- id: 'advance_gather_speed_potion'
+  name: '高级采集速度药水'
+  type: 'GatherPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherSpeed'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_gather_xp_potion'
+  name: '高级采集经验药水'
+  type: 'GatherPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherXp'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_gather_yield_potion'
+  name: '高级采集产量药水'
+  type: 'GatherPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherYield'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_craft_speed_potion'
+  name: '高级制造速度药水'
+  type: 'CraftPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftSpeed'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_multi_craft_potion'
+  name: '高级多件制造药水'
+  type: 'CraftPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftYield'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'advance_craft_xp_potion'
+  name: '高级制造经验药水'
+  type: 'CraftPotion'
+  tier: 3
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftXp'
+    value: 0.09
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_health_potion'
+  name: '超级健康药水'
+  type: 'CombatPotion'
+  tier: 4
+  potionDuration: 0
+  modifiers:
+  - statId: 'actor_health'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_combat_xp_potion'
+  name: '超级战斗经验药水'
+  type: 'CombatPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatXp'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_combat_loot_potion'
+  name: '超级拾取药水'
+  type: 'CombatPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_combatYield'
+    value: 0.32
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_gather_speed_potion'
+  name: '超级采集速度药水'
+  type: 'GatherPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherSpeed'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_gather_xp_potion'
+  name: '超级采集经验药水'
+  type: 'GatherPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherXp'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_gather_yield_potion'
+  name: '超级采集产量药水'
+  type: 'GatherPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_gatherYield'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_craft_speed_potion'
+  name: '超级制造速度药水'
+  type: 'CraftPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftSpeed'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_multi_craft_potion'
+  name: '超级多件制造药水'
+  type: 'CraftPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftYield'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+- id: 'hyper_craft_xp_potion'
+  name: '超级制造经验药水'
+  type: 'CraftPotion'
+  tier: 4
+  potionDuration: 180
+  modifiers:
+  - statId: 'skill_craftXp'
+    value: 0.12
+    type: 'Percent'
+    channel: 0
+...

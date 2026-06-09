@@ -1,0 +1,40 @@
+- !<modifiersStoreItem>
+  id: star_store_xp_1
+  name: 24 小时 +100% 技能经验
+  price: 10
+  duration: 86400
+  modifiers:
+    - statId: skill_combatXp
+      value: 1
+      type: Percent
+      channel: 0
+    - statId: skill_gatherXp
+      value: 1
+      type: Percent
+      channel: 0
+    - statId: skill_craftXp
+      value: 1
+      type: Percent
+      channel: 0
+
+
+- !<modifiersStoreItem>
+  id: star_store_offline_reward
+  name: 24 小时 +100% 离线收益
+  price: 10
+  duration: 86400
+  modifiers:
+    - statId: player_offlineRewardMultiplier
+      value: 1
+      type: Percent
+      channel: 0
+
+
+#- !<itemStoreItem>
+#  id: star_store_prime_access
+#  name: 日卡
+#  price: 1
+#  isAdNeeded: true
+#  duration: 1
+#  itemId: star
+#  itemCount: 10

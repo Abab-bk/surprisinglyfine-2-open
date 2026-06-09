@@ -1,0 +1,853 @@
+- id: 'infrastructure_alchemy_lab'
+  name: '炼金实验室'
+  type: 'Generic'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.12
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.2
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.3
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.5
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 0.8
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 1
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers:
+    - statId: 'skill_alchemy_speed'
+      value: 1.6
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+- id: 'infrastructure_altar'
+  name: '祭坛'
+  type: 'Altar'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers: []
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+- id: 'infrastructure_anvil'
+  name: '铁砧'
+  type: 'Generic'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.12
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.2
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.3
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.5
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 0.8
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 1
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers:
+    - statId: 'skill_smithing_speed'
+      value: 1.6
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+- id: 'infrastructure_cooking_pot'
+  name: '烹饪锅'
+  type: 'Generic'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.12
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.2
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.3
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.5
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 0.8
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 1
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers:
+    - statId: 'skill_cooking_speed'
+      value: 1.6
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+- id: 'infrastructure_furnace'
+  name: '熔炉'
+  type: 'Generic'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.12
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.2
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.3
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.5
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 0.8
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 1
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers:
+    - statId: 'skill_smelting_speed'
+      value: 1.6
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+- id: 'infrastructure_cartography_table'
+  name: '制图台'
+  type: 'Generic'
+  tiers:
+  - level: 0
+    modifiers: []
+    costs: []
+  - level: 1
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 1000
+    - itemId: 'pine_wood'
+      count: 50
+    - itemId: 'gem_ruby'
+      count: 5
+    - itemId: 'map_cave'
+      count: 50
+  - level: 2
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.12
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 5000
+    - itemId: 'spruce_wood'
+      count: 300
+    - itemId: 'gem_yellow'
+      count: 30
+    - itemId: 'map_cave'
+      count: 200
+  - level: 3
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.2
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.08
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 7000
+    - itemId: 'birch_wood'
+      count: 500
+    - itemId: 'gem_green'
+      count: 60
+    - itemId: 'map_cave'
+      count: 500
+  - level: 4
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.3
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'teak_wood'
+      count: 500
+    - itemId: 'gem_moon'
+      count: 100
+    - itemId: 'map_cave'
+      count: 700
+  - level: 5
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.5
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'mahogany_wood'
+      count: 600
+    - itemId: 'gem_crystal'
+      count: 120
+    - itemId: 'map_cave'
+      count: 900
+  - level: 6
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 0.8
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ironbark_wood'
+      count: 700
+    - itemId: 'gem_star'
+      count: 150
+    - itemId: 'map_cave'
+      count: 1200
+  - level: 7
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 1
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'redwood_wood'
+      count: 900
+    - itemId: 'gem_green'
+      count: 180
+    - itemId: 'leather'
+      count: 1400
+  - level: 8
+    modifiers:
+    - statId: 'skill_charting_speed'
+      value: 1.6
+      type: 'Percent'
+      channel: 0
+    - statId: 'skill_craftXp'
+      value: 0.16
+      type: 'Percent'
+      channel: 0
+    costs:
+    - itemId: 'coins'
+      count: 10000
+    - itemId: 'ancient_wood'
+      count: 1200
+    - itemId: 'gem_onyx'
+      count: 210
+    - itemId: 'leather'
+      count: 1600
+    - itemId: 'map_oldschool'
+      count: 500
+...

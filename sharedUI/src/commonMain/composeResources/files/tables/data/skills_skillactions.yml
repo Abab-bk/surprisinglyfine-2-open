@@ -1,0 +1,2767 @@
+- id: 'fishing1'
+  name: '鲤鱼'
+  skillId: 'skill_fishing'
+  tier: 1
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'carp'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing2'
+  name: '鳟鱼'
+  skillId: 'skill_fishing'
+  tier: 2
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'trout'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing3'
+  name: '三文鱼'
+  skillId: 'skill_fishing'
+  tier: 3
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'salmon'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing4'
+  name: '鲈鱼'
+  skillId: 'skill_fishing'
+  tier: 4
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'bass'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing5'
+  name: '罗非鱼'
+  skillId: 'skill_fishing'
+  tier: 5
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'tilapia'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing6'
+  name: '鲭鱼'
+  skillId: 'skill_fishing'
+  tier: 6
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'mackerel'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing7'
+  name: '沙丁鱼'
+  skillId: 'skill_fishing'
+  tier: 7
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'sardine'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing8'
+  name: '鲱鱼'
+  skillId: 'skill_fishing'
+  tier: 8
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'herring'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+- id: 'fishing9'
+  name: '优质三文鱼'
+  skillId: 'skill_fishing'
+  tier: 3
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'salmon'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'FastAction'
+- id: 'fishing10'
+  name: '优质鲈鱼'
+  skillId: 'skill_fishing'
+  tier: 4
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'bass'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'fishing11'
+  name: '优质罗非鱼'
+  skillId: 'skill_fishing'
+  tier: 5
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'tilapia'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'fishing12'
+  name: '优质鲭鱼'
+  skillId: 'skill_fishing'
+  tier: 6
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'mackerel'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'fishing13'
+  name: '优质沙丁鱼'
+  skillId: 'skill_fishing'
+  tier: 7
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'sardine'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'fishing14'
+  name: '优质鲱鱼'
+  skillId: 'skill_fishing'
+  tier: 8
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'herring'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'worm'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'mining1'
+  name: '铜矿脉'
+  skillId: 'skill_mining'
+  tier: 1
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'copper_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_ruby'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining2'
+  name: '银矿脉'
+  skillId: 'skill_mining'
+  tier: 2
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'silver_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_yellow'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining3'
+  name: '金矿脉'
+  skillId: 'skill_mining'
+  tier: 3
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'gold_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_green'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining4'
+  name: '霜冻矿脉'
+  skillId: 'skill_mining'
+  tier: 4
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'frost_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_moon'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining5'
+  name: '翡翠矿脉'
+  skillId: 'skill_mining'
+  tier: 5
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'jade_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_crystal'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining6'
+  name: '熔岩矿脉'
+  skillId: 'skill_mining'
+  tier: 6
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'molten_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_star'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining7'
+  name: '星辰矿脉'
+  skillId: 'skill_mining'
+  tier: 7
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'stellar_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_onyx'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining8'
+  name: '彩虹矿脉'
+  skillId: 'skill_mining'
+  tier: 8
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_ore'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'gem_rainbow'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'mining9'
+  name: '优质金矿脉'
+  skillId: 'skill_mining'
+  tier: 3
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'gold_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_green'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'FastAction'
+- id: 'mining10'
+  name: '优质霜冻矿脉'
+  skillId: 'skill_mining'
+  tier: 4
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'frost_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_moon'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'mining11'
+  name: '优质翡翠矿脉'
+  skillId: 'skill_mining'
+  tier: 5
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'jade_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_crystal'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'mining12'
+  name: '优质熔岩矿脉'
+  skillId: 'skill_mining'
+  tier: 6
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'molten_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_star'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'mining13'
+  name: '优质星辰矿脉'
+  skillId: 'skill_mining'
+  tier: 7
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'stellar_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_onyx'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'mining14'
+  name: '优质彩虹矿脉'
+  skillId: 'skill_mining'
+  tier: 8
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_ore'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'gem_rainbow'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'woodcutting1'
+  name: '松树'
+  skillId: 'skill_woodcutting'
+  tier: 1
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'pine_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'apple'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting2'
+  name: '云杉树'
+  skillId: 'skill_woodcutting'
+  tier: 2
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'spruce_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'strawberry'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting3'
+  name: '桦树'
+  skillId: 'skill_woodcutting'
+  tier: 3
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'birch_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'banana'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting4'
+  name: '柚木树'
+  skillId: 'skill_woodcutting'
+  tier: 4
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'teak_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'blue_berry'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting5'
+  name: '桃花心木树'
+  skillId: 'skill_woodcutting'
+  tier: 5
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'mahogany_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'cherry'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting6'
+  name: '铁皮树'
+  skillId: 'skill_woodcutting'
+  tier: 6
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'ironbark_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'orange'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting7'
+  name: '红木树'
+  skillId: 'skill_woodcutting'
+  tier: 7
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'redwood_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'peach'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting8'
+  name: '古树'
+  skillId: 'skill_woodcutting'
+  tier: 8
+  category: 'village'
+  dropTable:
+    entries:
+    - itemId: 'ancient_wood'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coconut'
+      chance: 10
+      min: 1
+      max: 1
+  consumeItems: []
+  tags: []
+- id: 'woodcutting9'
+  name: '优质桦树'
+  skillId: 'skill_woodcutting'
+  tier: 3
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'birch_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'banana'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'FastAction'
+- id: 'woodcutting10'
+  name: '优质柚木树'
+  skillId: 'skill_woodcutting'
+  tier: 4
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'teak_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'blue_berry'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'woodcutting11'
+  name: '优质桃花心木树'
+  skillId: 'skill_woodcutting'
+  tier: 5
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'mahogany_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'cherry'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'woodcutting12'
+  name: '优质铁皮树'
+  skillId: 'skill_woodcutting'
+  tier: 6
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'ironbark_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'orange'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'woodcutting13'
+  name: '优质红木树'
+  skillId: 'skill_woodcutting'
+  tier: 7
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'redwood_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'peach'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'woodcutting14'
+  name: '优质古树'
+  skillId: 'skill_woodcutting'
+  tier: 8
+  category: 'outskirts'
+  dropTable:
+    entries:
+    - itemId: 'ancient_wood'
+      chance: 0
+      min: 1
+      max: 2
+    - itemId: 'coconut'
+      chance: 10
+      min: 1
+      max: 2
+  consumeItems: []
+  tags:
+  - 'XpFocus'
+- id: 'smelting1'
+  name: '铜锭'
+  skillId: 'skill_smelting'
+  tier: 1
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'copper_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'copper_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting2'
+  name: '银锭'
+  skillId: 'skill_smelting'
+  tier: 2
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'silver_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'silver_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting3'
+  name: '金锭'
+  skillId: 'skill_smelting'
+  tier: 3
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'gold_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gold_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting4'
+  name: '霜冻锭'
+  skillId: 'skill_smelting'
+  tier: 4
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'frost_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'frost_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting5'
+  name: '翡翠锭'
+  skillId: 'skill_smelting'
+  tier: 5
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'jade_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'jade_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting6'
+  name: '熔岩锭'
+  skillId: 'skill_smelting'
+  tier: 6
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'molten_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'molten_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting7'
+  name: '星辰锭'
+  skillId: 'skill_smelting'
+  tier: 7
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'stellar_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'stellar_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelting8'
+  name: '彩虹锭'
+  skillId: 'skill_smelting'
+  tier: 8
+  category: 'ores'
+  dropTable:
+    entries:
+    - itemId: 'rainbow_bar'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'rainbow_ore'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'smelthing_gem1'
+  name: '红宝石精华'
+  skillId: 'skill_smelting'
+  tier: 1
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_ruby'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_ruby'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem2'
+  name: '黄宝石精华'
+  skillId: 'skill_smelting'
+  tier: 2
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_yellow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_yellow'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem3'
+  name: '绿宝石精华'
+  skillId: 'skill_smelting'
+  tier: 3
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_green'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_green'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem4'
+  name: '月亮宝石精华'
+  skillId: 'skill_smelting'
+  tier: 4
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_moon'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_moon'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem5'
+  name: '水晶宝石精华'
+  skillId: 'skill_smelting'
+  tier: 5
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_crystal'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_crystal'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem6'
+  name: '星星宝石精华'
+  skillId: 'skill_smelting'
+  tier: 6
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_star'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_star'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem7'
+  name: '玛瑙宝石精华'
+  skillId: 'skill_smelting'
+  tier: 7
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_onyx'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_onyx'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'smelthing_gem8'
+  name: '彩虹宝石精华'
+  skillId: 'skill_smelting'
+  tier: 8
+  category: 'gems'
+  dropTable:
+    entries:
+    - itemId: 'essence_rainbow'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'gem_rainbow'
+    count: 1
+  - itemId: 'gem_powder'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  tags: []
+- id: 'farming_flower1'
+  name: '兰花'
+  skillId: 'skill_farming'
+  tier: 1
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'orchid'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower2'
+  name: '郁金香'
+  skillId: 'skill_farming'
+  tier: 2
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'tulip'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower3'
+  name: '玫瑰'
+  skillId: 'skill_farming'
+  tier: 3
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'rose'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower4'
+  name: '金盏花'
+  skillId: 'skill_farming'
+  tier: 4
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'calendula'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower5'
+  name: '牡丹'
+  skillId: 'skill_farming'
+  tier: 5
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'peony'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower6'
+  name: '风铃草'
+  skillId: 'skill_farming'
+  tier: 6
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'bellflower'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower7'
+  name: '雏菊'
+  skillId: 'skill_farming'
+  tier: 7
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'daisy'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_flower8'
+  name: '向日葵'
+  skillId: 'skill_farming'
+  tier: 8
+  category: 'flower'
+  dropTable:
+    entries:
+    - itemId: 'sunflower'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable1'
+  name: '玉米'
+  skillId: 'skill_farming'
+  tier: 1
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'corn'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable2'
+  name: '白菜'
+  skillId: 'skill_farming'
+  tier: 2
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'cabbage'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable3'
+  name: '辣椒'
+  skillId: 'skill_farming'
+  tier: 3
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'pepper'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable4'
+  name: '萝卜'
+  skillId: 'skill_farming'
+  tier: 4
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'radish'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable5'
+  name: '蘑菇'
+  skillId: 'skill_farming'
+  tier: 5
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'mushroom'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable6'
+  name: '番茄'
+  skillId: 'skill_farming'
+  tier: 6
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'tomato'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable7'
+  name: '茄子'
+  skillId: 'skill_farming'
+  tier: 7
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'eggplant'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'farming_vegetable8'
+  name: '黄瓜'
+  skillId: 'skill_farming'
+  tier: 8
+  category: 'vegetable'
+  dropTable:
+    entries:
+    - itemId: 'cuke'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'compost'
+    count: 1
+  - itemId: 'seeds'
+    count: 1
+  tags: []
+- id: 'alchemy_basic1'
+  name: '基础健康药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_health_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'orchid'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic2'
+  name: '基础拾取药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_combat_loot_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic3'
+  name: '基础采集速度药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_gather_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic4'
+  name: '基础采集产量药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_gather_yield_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'calendula'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic5'
+  name: '基础制造速度药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_craft_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'peony'
+    count: 1
+  - itemId: 'eye'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic6'
+  name: '基础多件制造药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_multi_craft_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bellflower'
+    count: 1
+  - itemId: 'fang'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic7'
+  name: '基础战斗经验药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_combat_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 1
+  - itemId: 'fang'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic8'
+  name: '基础采集经验药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_gather_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'daisy'
+    count: 1
+  - itemId: 'fang'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_basic9'
+  name: '基础制造经验药水'
+  skillId: 'skill_alchemy'
+  tier: 1
+  category: 'basics'
+  dropTable:
+    entries:
+    - itemId: 'basic_craft_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sunflower'
+    count: 1
+  - itemId: 'fang'
+    count: 1
+  - itemId: 'vial'
+    count: 1
+  tags: []
+- id: 'alchemy_regular1'
+  name: '常规健康药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_health_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'orchid'
+    count: 3
+  - itemId: 'yellow_eye'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular2'
+  name: '常规拾取药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_combat_loot_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 3
+  - itemId: 'yellow_eye'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular3'
+  name: '常规采集速度药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_gather_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 3
+  - itemId: 'yellow_eye'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular4'
+  name: '常规采集产量药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_gather_yield_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'calendula'
+    count: 3
+  - itemId: 'yellow_eye'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular5'
+  name: '常规制造速度药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_craft_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'peony'
+    count: 3
+  - itemId: 'yellow_eye'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular6'
+  name: '常规多件制造药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_multi_craft_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bellflower'
+    count: 3
+  - itemId: 'sharp_fang'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular7'
+  name: '常规战斗经验药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_combat_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 3
+  - itemId: 'sharp_fang'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular8'
+  name: '常规采集经验药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_gather_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'daisy'
+    count: 3
+  - itemId: 'sharp_fang'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_regular9'
+  name: '常规制造经验药水'
+  skillId: 'skill_alchemy'
+  tier: 2
+  category: 'regular'
+  dropTable:
+    entries:
+    - itemId: 'regular_craft_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sunflower'
+    count: 3
+  - itemId: 'sharp_fang'
+    count: 3
+  - itemId: 'vial'
+    count: 3
+  tags: []
+- id: 'alchemy_advance1'
+  name: '高级健康药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_health_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'orchid'
+    count: 6
+  - itemId: 'green_eye'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance2'
+  name: '高级拾取药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_combat_loot_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 6
+  - itemId: 'green_eye'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance3'
+  name: '高级采集速度药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_gather_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 6
+  - itemId: 'green_eye'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance4'
+  name: '高级采集产量药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_gather_yield_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'calendula'
+    count: 6
+  - itemId: 'green_eye'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance5'
+  name: '高级制造速度药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_craft_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'peony'
+    count: 6
+  - itemId: 'green_eye'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance6'
+  name: '高级多件制造药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_multi_craft_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bellflower'
+    count: 6
+  - itemId: 'golden_fang'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance7'
+  name: '高级战斗经验药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_combat_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 6
+  - itemId: 'golden_fang'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance8'
+  name: '高级采集经验药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_gather_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'daisy'
+    count: 6
+  - itemId: 'golden_fang'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_advance9'
+  name: '高级制造经验药水'
+  skillId: 'skill_alchemy'
+  tier: 3
+  category: 'advance'
+  dropTable:
+    entries:
+    - itemId: 'advance_craft_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sunflower'
+    count: 6
+  - itemId: 'golden_fang'
+    count: 6
+  - itemId: 'vial'
+    count: 6
+  tags: []
+- id: 'alchemy_hyper1'
+  name: '超级健康药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_health_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'orchid'
+    count: 9
+  - itemId: 'red_eye'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper2'
+  name: '超级拾取药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_combat_loot_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 9
+  - itemId: 'red_eye'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper3'
+  name: '超级采集速度药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_gather_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 9
+  - itemId: 'red_eye'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper4'
+  name: '超级采集产量药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_gather_yield_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'calendula'
+    count: 9
+  - itemId: 'red_eye'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper5'
+  name: '超级制造速度药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_craft_speed_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'peony'
+    count: 9
+  - itemId: 'red_eye'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper6'
+  name: '超级多件制造药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_multi_craft_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bellflower'
+    count: 9
+  - itemId: 'skull'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper7'
+  name: '超级战斗经验药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_combat_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tulip'
+    count: 9
+  - itemId: 'skull'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper8'
+  name: '超级采集经验药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_gather_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'daisy'
+    count: 9
+  - itemId: 'skull'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'alchemy_hyper9'
+  name: '超级制造经验药水'
+  skillId: 'skill_alchemy'
+  tier: 4
+  category: 'hyper'
+  dropTable:
+    entries:
+    - itemId: 'hyper_craft_xp_potion'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sunflower'
+    count: 9
+  - itemId: 'skull'
+    count: 9
+  - itemId: 'vial'
+    count: 9
+  tags: []
+- id: 'cooking1'
+  name: '鲤鱼料理'
+  skillId: 'skill_cooking'
+  tier: 1
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'carp_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'carp'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking2'
+  name: '鳟鱼料理'
+  skillId: 'skill_cooking'
+  tier: 2
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'trout_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'trout'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking3'
+  name: '三文鱼料理'
+  skillId: 'skill_cooking'
+  tier: 3
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'salmon_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'salmon'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking4'
+  name: '鲈鱼料理'
+  skillId: 'skill_cooking'
+  tier: 4
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'bass_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bass'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking5'
+  name: '罗非鱼料理'
+  skillId: 'skill_cooking'
+  tier: 5
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'tilapia_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tilapia'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking6'
+  name: '鲭鱼料理'
+  skillId: 'skill_cooking'
+  tier: 6
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'mackerel_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'mackerel'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking7'
+  name: '沙丁鱼料理'
+  skillId: 'skill_cooking'
+  tier: 7
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'sardine_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sardine'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking8'
+  name: '鲱鱼料理'
+  skillId: 'skill_cooking'
+  tier: 8
+  category: 'cuisine'
+  dropTable:
+    entries:
+    - itemId: 'herring_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'herring'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good1'
+  name: '鲤鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 2
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'carp_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'carp'
+    count: 1
+  - itemId: 'corn'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good2'
+  name: '鳟鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 3
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'trout_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'trout'
+    count: 1
+  - itemId: 'cabbage'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good3'
+  name: '三文鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 4
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'salmon_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'salmon'
+    count: 1
+  - itemId: 'pepper'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good4'
+  name: '鲈鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 5
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'bass_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'bass'
+    count: 1
+  - itemId: 'radish'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good5'
+  name: '罗非鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 6
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'tilapia_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'tilapia'
+    count: 1
+  - itemId: 'mushroom'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good6'
+  name: '鲭鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 7
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'mackerel_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'mackerel'
+    count: 1
+  - itemId: 'tomato'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good7'
+  name: '沙丁鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 8
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'sardine_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'sardine'
+    count: 1
+  - itemId: 'eggplant'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'cooking_good8'
+  name: '鲱鱼豪华料理'
+  skillId: 'skill_cooking'
+  tier: 8
+  category: 'good_cuisine'
+  dropTable:
+    entries:
+    - itemId: 'herring_good_cook'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'herring'
+    count: 1
+  - itemId: 'cuke'
+    count: 1
+  - itemId: 'charcoal'
+    count: 1
+  tags: []
+- id: 'hunting_pig'
+  name: '猪猪'
+  skillId: 'skill_hunting'
+  tier: 1
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_chicken'
+  name: '小鸡'
+  skillId: 'skill_hunting'
+  tier: 2
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'feather'
+      chance: 0
+      min: 1
+      max: 3
+    - itemId: 'leather'
+      chance: 60
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_gooes'
+  name: '鹅鹅'
+  skillId: 'skill_hunting'
+  tier: 3
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 2
+      max: 4
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 2
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 2
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_sheep'
+  name: '羊羊'
+  skillId: 'skill_hunting'
+  tier: 4
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 3
+      max: 6
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 3
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 3
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_wolf'
+  name: '狼狼'
+  skillId: 'skill_hunting'
+  tier: 5
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 3
+      max: 6
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 3
+    - itemId: 'fang'
+      chance: 60
+      min: 2
+      max: 4
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_turtle'
+  name: '乌龟'
+  skillId: 'skill_hunting'
+  tier: 6
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 4
+      max: 8
+    - itemId: 'feather'
+      chance: 60
+      min: 2
+      max: 4
+    - itemId: 'fang'
+      chance: 60
+      min: 1
+      max: 3
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_cat'
+  name: '猫猫'
+  skillId: 'skill_hunting'
+  tier: 7
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 6
+      max: 8
+    - itemId: 'feather'
+      chance: 60
+      min: 4
+      max: 4
+    - itemId: 'fang'
+      chance: 60
+      min: 4
+      max: 6
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_carb'
+  name: '螃蟹'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 8
+      max: 10
+    - itemId: 'feather'
+      chance: 60
+      min: 6
+      max: 8
+    - itemId: 'ink'
+      chance: 60
+      min: 4
+      max: 6
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_pig'
+  name: '蓝皮猪猪'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_chicken'
+  name: '蓝皮小鸡'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'feather'
+      chance: 0
+      min: 1
+      max: 3
+    - itemId: 'leather'
+      chance: 60
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_gooes'
+  name: '蓝皮鹅鹅'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 2
+      max: 4
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 2
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 2
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_sheep'
+  name: '蓝皮羊羊'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 3
+      max: 6
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 3
+    - itemId: 'ink'
+      chance: 60
+      min: 1
+      max: 3
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_wolf'
+  name: '蓝皮狼狼'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 3
+      max: 6
+    - itemId: 'feather'
+      chance: 60
+      min: 1
+      max: 3
+    - itemId: 'fang'
+      chance: 60
+      min: 2
+      max: 4
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_turtle'
+  name: '蓝皮乌龟'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 4
+      max: 8
+    - itemId: 'feather'
+      chance: 60
+      min: 2
+      max: 4
+    - itemId: 'fang'
+      chance: 60
+      min: 1
+      max: 3
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_cat'
+  name: '蓝皮猫猫'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 6
+      max: 8
+    - itemId: 'feather'
+      chance: 60
+      min: 4
+      max: 4
+    - itemId: 'fang'
+      chance: 60
+      min: 4
+      max: 6
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'hunting_blue_carb'
+  name: '蓝皮螃蟹'
+  skillId: 'skill_hunting'
+  tier: 8
+  category: 'blue_skin'
+  dropTable:
+    entries:
+    - itemId: 'leather'
+      chance: 0
+      min: 8
+      max: 10
+    - itemId: 'feather'
+      chance: 60
+      min: 6
+      max: 8
+    - itemId: 'ink'
+      chance: 60
+      min: 4
+      max: 6
+  consumeItems:
+  - itemId: 'worm'
+    count: 1
+  tags: []
+- id: 'charting_1'
+  name: '精英怪物地图'
+  skillId: 'skill_charting'
+  tier: 1
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_elite_enemy'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 10
+  - itemId: 'ink'
+    count: 10
+  - itemId: 'feather'
+    count: 10
+  tags: []
+- id: 'charting_2'
+  name: '老洞穴地图'
+  skillId: 'skill_charting'
+  tier: 1
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_cave'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 1
+  - itemId: 'ink'
+    count: 1
+  tags: []
+- id: 'charting_3'
+  name: '泡菜厂地图'
+  skillId: 'skill_charting'
+  tier: 2
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_pickle'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 3
+  - itemId: 'ink'
+    count: 3
+  - itemId: 'feather'
+    count: 3
+  tags: []
+- id: 'charting_4'
+  name: '老学校地图'
+  skillId: 'skill_charting'
+  tier: 3
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_oldschool'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 9
+  - itemId: 'ink'
+    count: 9
+  - itemId: 'feather'
+    count: 9
+  tags: []
+- id: 'charting_5'
+  name: '啤酒厂地图'
+  skillId: 'skill_charting'
+  tier: 4
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_beer'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 12
+  - itemId: 'ink'
+    count: 12
+  - itemId: 'feather'
+    count: 12
+  tags: []
+- id: 'charting_6'
+  name: '大香蕉地图'
+  skillId: 'skill_charting'
+  tier: 5
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_big_banana'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 20
+  - itemId: 'ink'
+    count: 20
+  - itemId: 'feather'
+    count: 20
+  tags: []
+- id: 'charting_7'
+  name: '藏身处地图'
+  skillId: 'skill_charting'
+  tier: 6
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_shelter'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 40
+  - itemId: 'ink'
+    count: 40
+  - itemId: 'feather'
+    count: 40
+  tags: []
+- id: 'charting_8'
+  name: '木地地图'
+  skillId: 'skill_charting'
+  tier: 7
+  category: 'map_crafting'
+  dropTable:
+    entries:
+    - itemId: 'map_cemetery'
+      chance: 0
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'leather'
+    count: 60
+  - itemId: 'ink'
+    count: 60
+  - itemId: 'feather'
+    count: 60
+  tags: []
+...

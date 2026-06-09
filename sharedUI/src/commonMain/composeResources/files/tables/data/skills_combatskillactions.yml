@@ -1,0 +1,2015 @@
+- id: 'combat_impact_1'
+  name: '龙虾巢穴'
+  skillId: 'skill_one_handed'
+  tier: 1
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 5
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 2
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_lobster_1'
+  - 'impact_lobster_2'
+  - 'impact_lobster_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_2'
+  name: '深海洞窟'
+  skillId: 'skill_one_handed'
+  tier: 2
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 10
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_lobster2_1'
+  - 'impact_lobster2_2'
+  - 'impact_lobster2_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_3'
+  name: '黏黏洞窟'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 25
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_slime_1'
+  - 'impact_slime_2'
+  - 'impact_slime_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_4'
+  name: '决斗洞窟'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_swordman_1'
+  - 'impact_swordman_2'
+  - 'impact_swordman_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_5'
+  name: '海底坟墓'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_bone_1'
+  - 'impact_bone_2'
+  - 'impact_bone_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_6'
+  name: '海底大坑'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_giant_1'
+  - 'impact_giant_2'
+  - 'impact_giant_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_7'
+  name: '神秘小路'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_general_1'
+  - 'impact_general_2'
+  - 'impact_general_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_8'
+  name: '海底皇宫'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'ocean'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'star'
+      chance: 10
+      min: 1
+      max: 5
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'impact_lord_1'
+  - 'impact_lord_2'
+  - 'impact_lord_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_impact_elite_3'
+  name: '危险黏黏洞窟'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 25
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Cape_HighPunctureResistance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighImpactResistance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_majesty'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_pickle'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_slime_1_elite'
+  - 'impact_slime_2_elite'
+  - 'impact_slime_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_impact_elite_4'
+  name: '危险决斗洞窟'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Cape_HighMaxHealth'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighArmor'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_evil'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_oldschool'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_swordman_1_elite'
+  - 'impact_swordman_2_elite'
+  - 'impact_swordman_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_impact_elite_5'
+  name: '危险海底坟墓'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Necklace_HighGatherYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Necklace_HighCraftYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_good'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_beer'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_bone_1_elite'
+  - 'impact_bone_2_elite'
+  - 'impact_bone_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_impact_elite_6'
+  name: '危险海底大坑'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Necklace_HighLootMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Ring_HighGatherYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_sincerely'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_big_banana'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_giant_1_elite'
+  - 'impact_giant_2_elite'
+  - 'impact_giant_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_impact_elite_7'
+  name: '危险海底小路'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Ring_HighCraftYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Ring_HighLootMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_unbelieve'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_shelter'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_general_1_elite'
+  - 'impact_general_2_elite'
+  - 'impact_general_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_impact_elite_8'
+  name: '危险海底皇宫'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'ocean'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Bracelet_HighGatherYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bracelet_HighCraftYield'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_main_role'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_cemetery'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'impact_lord_1_elite'
+  - 'impact_lord_2_elite'
+  - 'impact_lord_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_1'
+  name: '墓地'
+  skillId: 'skill_one_handed'
+  tier: 1
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 5
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 2
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_deadman_1'
+  - 'puncture_deadman_2'
+  - 'puncture_deadman_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_2'
+  name: '蛇蛇巢穴'
+  skillId: 'skill_one_handed'
+  tier: 2
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 10
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_snake_1'
+  - 'puncture_snake_2'
+  - 'puncture_snake_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_3'
+  name: '下水道'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 25
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_thief_1'
+  - 'puncture_thief_2'
+  - 'puncture_thief_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_4'
+  name: '外星基地'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_alien_1'
+  - 'puncture_alien_2'
+  - 'puncture_alien_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_5'
+  name: '大象巢穴'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_ele_1'
+  - 'puncture_ele_2'
+  - 'puncture_ele_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_6'
+  name: '野人小屋'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_savege_1'
+  - 'puncture_savege_2'
+  - 'puncture_savege_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_7'
+  name: '地狱'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_head_1'
+  - 'puncture_head_2'
+  - 'puncture_head_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_8'
+  name: '邪恶国度'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'mountain'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'puncture_demon_1'
+  - 'puncture_demon_2'
+  - 'puncture_demon_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_puncture_elite_3'
+  name: '危险下水道'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 25
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Bracelet_HighLootMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_brave'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_pickle'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_thief_1_elite'
+  - 'puncture_thief_2_elite'
+  - 'puncture_thief_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_elite_4'
+  name: '危险外星基地'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Sword_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_get_some_work'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_oldschool'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_alien_1_elite'
+  - 'puncture_alien_2_elite'
+  - 'puncture_alien_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_elite_5'
+  name: '危险大象巢穴'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Sword_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_adj'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_beer'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_ele_1_elite'
+  - 'puncture_ele_2_elite'
+  - 'puncture_ele_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_elite_6'
+  name: '危险野人小屋'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Sword_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_thinker'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_big_banana'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_savege_1_elite'
+  - 'puncture_savege_2_elite'
+  - 'puncture_savege_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_elite_7'
+  name: '危险地狱'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Hammer_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_space_management'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_shelter'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_head_1_elite'
+  - 'puncture_head_2_elite'
+  - 'puncture_head_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_puncture_elite_8'
+  name: '危险邪恶国度'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'mountain'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Hammer_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_lol'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_cemetery'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'puncture_demon_1_elite'
+  - 'puncture_demon_2_elite'
+  - 'puncture_demon_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_1'
+  name: '螃蟹巢穴'
+  skillId: 'skill_one_handed'
+  tier: 1
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 5
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 2
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 2
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_carb_1'
+  - 'slash_carb_2'
+  - 'slash_carb_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_2'
+  name: '种植园'
+  skillId: 'skill_one_handed'
+  tier: 2
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 10
+    - itemId: 'pine_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'orchid'
+      chance: 40
+      min: 1
+      max: 4
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 4
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_sunflower_1'
+  - 'slash_sunflower_2'
+  - 'slash_sunflower_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_3'
+  name: '鸡圈'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 25
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_chicken_1'
+  - 'slash_chicken_2'
+  - 'slash_chicken_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_4'
+  name: '蜘蛛巢穴'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_spider_1'
+  - 'slash_spider_2'
+  - 'slash_spider_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_5'
+  name: '蜂巢'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_bee_1'
+  - 'slash_bee_2'
+  - 'slash_bee_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_6'
+  name: '开心乐园'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_smile_1'
+  - 'slash_smile_2'
+  - 'slash_smile_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_7'
+  name: '城堡'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_knight_1'
+  - 'slash_knight_2'
+  - 'slash_knight_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_8'
+  name: '魔法城堡'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'forest'
+  subCategory: 'normal'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+  consumeItems: []
+  tags: []
+  enemyIds:
+  - 'slash_wizard_1'
+  - 'slash_wizard_2'
+  - 'slash_wizard_3'
+  minWaves: 5
+  maxWaves: 5
+  isLastWaveBoss: false
+- id: 'combat_slash_elite_3'
+  name: '危险鸡圈'
+  skillId: 'skill_one_handed'
+  tier: 3
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'yellow_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 50
+    - itemId: 'spruce_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'daisy'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Hammer_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_shockly'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_pickle'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_chicken_1_elite'
+  - 'slash_chicken_2_elite'
+  - 'slash_chicken_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_elite_4'
+  name: '危险蜘蛛巢穴'
+  skillId: 'skill_one_handed'
+  tier: 4
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'sharp_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 75
+    - itemId: 'birch_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'tulip'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Scythe_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_trouble'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_oldschool'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_spider_1_elite'
+  - 'slash_spider_2_elite'
+  - 'slash_spider_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_elite_5'
+  name: '危险蜂巢'
+  skillId: 'skill_one_handed'
+  tier: 5
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'green_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 100
+    - itemId: 'teak_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'rose'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Scythe_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_distraction'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_beer'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_bee_1_elite'
+  - 'slash_bee_2_elite'
+  - 'slash_bee_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_elite_6'
+  name: '危险开心乐园'
+  skillId: 'skill_one_handed'
+  tier: 6
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'golden_fang'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 125
+    - itemId: 'mahogany_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'calendula'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Scythe_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_steam'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_big_banana'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_smile_1_elite'
+  - 'slash_smile_2_elite'
+  - 'slash_smile_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_elite_7'
+  name: '危险城堡'
+  skillId: 'skill_one_handed'
+  tier: 7
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'red_eye'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'ironbark_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'peony'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Spear_HighPunctureDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighImpactDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_panic'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_shelter'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_knight_1_elite'
+  - 'slash_knight_2_elite'
+  - 'slash_knight_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+- id: 'combat_slash_elite_8'
+  name: '危险魔法城堡'
+  skillId: 'skill_one_handed'
+  tier: 8
+  category: 'forest'
+  subCategory: 'elite'
+  dropTable:
+    entries:
+    - itemId: 'skull'
+      chance: 0
+      min: 1
+      max: 1
+    - itemId: 'coins'
+      chance: 60
+      min: 1
+      max: 250
+    - itemId: 'redwood_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'ancient_wood'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'bellflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'sunflower'
+      chance: 40
+      min: 1
+      max: 8
+    - itemId: 'equip_Spear_HighHitChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighDodgeChance'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighDamageMultiplier'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighSlashDamage'
+      chance: 1
+      min: 1
+      max: 1
+    - itemId: 'pe_unbearable'
+      chance: 1
+      min: 1
+      max: 1
+  consumeItems:
+  - itemId: 'map_elite_enemy'
+    count: 1
+  - itemId: 'map_cemetery'
+    count: 1
+  tags: []
+  enemyIds:
+  - 'slash_wizard_1_elite'
+  - 'slash_wizard_2_elite'
+  - 'slash_wizard_3_elite'
+  minWaves: 10
+  maxWaves: 10
+  isLastWaveBoss: true
+...

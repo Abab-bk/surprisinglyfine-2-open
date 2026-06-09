@@ -1,0 +1,4726 @@
+msgid ""
+msgstr ""
+"Language: Korean\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24시간 +100% 스킬 경험치"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24시간 +100% 오프라인 수익"
+
+msgid "炼金实验室"
+msgstr "연금술 실험실"
+
+msgid "铁砧"
+msgstr "모루"
+
+msgid "制图台"
+msgstr "제도 테이블"
+
+msgid "烹饪锅"
+msgstr "요리 냄비"
+
+msgid "熔炉"
+msgstr "용광로"
+
+msgid "投资政策"
+msgstr "투자 정책"
+
+msgid "建筑建造费用 {0}"
+msgstr "건축 건설 비용 {0}"
+
+msgid "财政改革"
+msgstr "재정 개혁"
+
+msgid "全城维护费 {0}"
+msgstr "도시 전체 유지비 {0}"
+
+msgid "关税壁垒"
+msgstr "관세 장벽"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "포만감 회복 속도 {0}"
+
+msgid "自动化生产"
+msgstr "자동화 생산"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "생산 속도 {0}, 노동력 수요 {1}"
+
+msgid "标准化作业"
+msgstr "표준화 작업"
+
+msgid "生产速度 {0}"
+msgstr "생산 속도 {0}"
+
+msgid "强制加班"
+msgstr "강제 야근"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "생산 속도 {0}, 유지 비용 {1}"
+
+msgid "福利国家"
+msgstr "복지 국가"
+
+msgid "居住建筑维护费 {0}"
+msgstr "거주 건물 유지비 {0}"
+
+msgid "公共住房"
+msgstr "공공 주택"
+
+msgid "住宅容量 {0}"
+msgstr "주거 수용량 {0}"
+
+msgid "第一步"
+msgstr "첫 번째 단계"
+
+msgid "让我们挖掘"
+msgstr "채굴을 시작하자"
+
+msgid "让我们冶炼"
+msgstr "제련을 시작하자"
+
+msgid "想吃点鱼"
+msgstr "생선 먹고 싶어"
+
+msgid "想吃点鱼2"
+msgstr "생선 먹고 싶어 2"
+
+msgid "整装待发"
+msgstr "출격 준비"
+
+msgid "击杀邪恶哥布林"
+msgstr "사악한 고블린 처치"
+
+msgid "花匠"
+msgstr "정원사"
+
+msgid "炼金师"
+msgstr "연금술사"
+
+msgid "猎户"
+msgstr "사냥꾼"
+
+msgid "考古时刻"
+msgstr "고고학의 시간"
+
+msgid "考古时刻2"
+msgstr "고고학의 시간 2"
+
+msgid "工人住宅"
+msgstr "노동자 주택"
+
+msgid "黏土坑"
+msgstr "점토 채굴장"
+
+msgid "砖厂"
+msgstr "벽돌 공장"
+
+msgid "猪场"
+msgstr "양돈장"
+
+msgid "屠宰场"
+msgstr "도축장"
+
+msgid "谷物农场"
+msgstr "곡물 농장"
+
+msgid "面粉厂"
+msgstr "제분소"
+
+msgid "面包厂"
+msgstr "빵집"
+
+msgid "铁矿"
+msgstr "철광산"
+
+msgid "石油矿"
+msgstr "유전"
+
+msgid "炼铁厂"
+msgstr "제철소"
+
+msgid "钢铁厂"
+msgstr "강철 공장"
+
+msgid "炼脂厂"
+msgstr "지방 추출 공장"
+
+msgid "肥皂厂"
+msgstr "비누 공장"
+
+msgid "武器厂"
+msgstr "무기 공장"
+
+msgid "麦芽厂"
+msgstr "맥아 공장"
+
+msgid "啤酒花厂"
+msgstr "홉 농장"
+
+msgid "啤酒厂"
+msgstr "양조장"
+
+msgid "农民住宅"
+msgstr "농부 주택"
+
+msgid "树厂"
+msgstr "수목원"
+
+msgid "锯木厂"
+msgstr "제재소"
+
+msgid "渔场"
+msgstr "양식장"
+
+msgid "土豆农场"
+msgstr "감자 농장"
+
+msgid "伏特加酒厂"
+msgstr "보드카 증류소"
+
+msgid "羊毛厂"
+msgstr "양모 공장"
+
+msgid "服装厂"
+msgstr "의류 공장"
+
+msgid "占星学家别墅"
+msgstr "점성술사 별장"
+
+msgid "西瓜农场"
+msgstr "수박 농장"
+
+msgid "鸡蛋厂"
+msgstr "계란 농장"
+
+msgid "曲奇厂"
+msgstr "쿠키 공장"
+
+msgid "曲奇罐头厂"
+msgstr "쿠키 통조림 공장"
+
+msgid "沙矿场"
+msgstr "모래 채석장"
+
+msgid "硅厂"
+msgstr "실리콘 공장"
+
+msgid "电子厂"
+msgstr "전자제품 공장"
+
+msgid "放大镜厂"
+msgstr "확대경 공장"
+
+msgid "颜料厂"
+msgstr "안료 공장"
+
+msgid "笔厂"
+msgstr "펜 공장"
+
+msgid "绘图纸厂"
+msgstr "도면 용지 공장"
+
+msgid "绘图厂"
+msgstr "제도 공장"
+
+msgid "炼金术士别墅"
+msgstr "연금술사 별장"
+
+msgid "采石场"
+msgstr "채석장"
+
+msgid "混凝土厂"
+msgstr "콘크리트 공장"
+
+msgid "锌矿厂"
+msgstr "아연 광산"
+
+msgid "石英矿场"
+msgstr "석영 광산"
+
+msgid "轴矿场"
+msgstr "우라늄 광산"
+
+msgid "红酒厂"
+msgstr "와이너리"
+
+msgid "注射器厂"
+msgstr "주사기 공장"
+
+msgid "橡胶农场"
+msgstr "고무 농장"
+
+msgid "生化服厂"
+msgstr "생화학 방호복 공장"
+
+msgid "硝石工厂"
+msgstr "초석 공장"
+
+msgid "炸药工厂"
+msgstr "폭약 공장"
+
+msgid "炼药锅"
+msgstr "연금술 가마"
+
+msgid "镍矿厂"
+msgstr "니켈 광산"
+
+msgid "镍锭厂"
+msgstr "니켈 제련소"
+
+msgid "磁带厂"
+msgstr "카세트 테이프 공장"
+
+msgid "纤维厂"
+msgstr "섬유 공장"
+
+msgid "光盘厂"
+msgstr "광학 디스크 공장"
+
+msgid "要号码宝箱"
+msgstr "번호 상자"
+
+msgid "对抗纨绔宝箱"
+msgstr "망나니 상자"
+
+msgid "美颜参数宝箱"
+msgstr "미모 상자"
+
+msgid "说梦话宝箱"
+msgstr "잠꼬대 상자"
+
+msgid "猫咪张嘴宝箱"
+msgstr "고양이 입 상자"
+
+msgid "傻子太多宝箱"
+msgstr "바보 상자"
+
+msgid "生活太难宝箱"
+msgstr "고단한 삶 상자"
+
+msgid "生活太难宝箱 2"
+msgstr "고단한 삶 상자 2"
+
+msgid "雄心壮志宝箱"
+msgstr "야망 상자"
+
+msgid "雄心壮志宝箱 2"
+msgstr "야망 상자 2"
+
+msgid "喝水宝箱"
+msgstr "물 마시기 상자"
+
+msgid "礼貌宝箱"
+msgstr "예의 상자"
+
+msgid "礼貌宝箱 2"
+msgstr "예의 상자 2"
+
+msgid "厉害宝箱"
+msgstr "강력한 상자"
+
+msgid "厉害宝箱 2"
+msgstr "강력한 상자 2"
+
+msgid "厉害宝箱 3"
+msgstr "강력한 상자 3"
+
+msgid "奢侈品宝箱"
+msgstr "사치품 상자"
+
+msgid "奢侈品宝箱 2"
+msgstr "사치품 상자 2"
+
+msgid "不可战胜宝箱"
+msgstr "불패 상자"
+
+msgid "不可战胜宝箱 2"
+msgstr "불패 상자 2"
+
+msgid "帅哥宝箱"
+msgstr "미남 상자"
+
+msgid "镇静宝箱"
+msgstr "진정 상자"
+
+msgid "生活方式宝箱"
+msgstr "라이프스타일 상자"
+
+msgid "生活方式宝箱 2"
+msgstr "라이프스타일 상자 2"
+
+msgid "爱情故事宝箱"
+msgstr "러브 스토리 상자"
+
+msgid "爱情故事宝箱 2"
+msgstr "러브 스토리 상자 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "러브 스토리 상자 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "러브 스토리 상자 4"
+
+msgid "硬币"
+msgstr "코인"
+
+msgid "星星"
+msgstr "별"
+
+msgid "瓶子"
+msgstr "병"
+
+msgid "蚯蚓"
+msgstr "지렁이"
+
+msgid "皮革"
+msgstr "가죽"
+
+msgid "羽毛"
+msgstr "깃털"
+
+msgid "墨水"
+msgstr "잉크"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "강철"
+
+msgid "啤酒"
+msgstr "맥주"
+
+msgid "麦芽"
+msgstr "맥아"
+
+msgid "啤酒花"
+msgstr "홉"
+
+msgid "好猪肉"
+msgstr "고품질 돼지고기"
+
+msgid "谷物"
+msgstr "곡물"
+
+msgid "面粉"
+msgstr "밀가루"
+
+msgid "面包"
+msgstr "빵"
+
+msgid "油脂"
+msgstr "지방"
+
+msgid "肥皂"
+msgstr "비누"
+
+msgid "武器"
+msgstr "무기"
+
+msgid "砖块"
+msgstr "벽돌"
+
+msgid "猪肉"
+msgstr "돼지고기"
+
+msgid "粘土"
+msgstr "점토"
+
+msgid "石油"
+msgstr "석유"
+
+msgid "铁锭"
+msgstr "철괴"
+
+msgid "木板"
+msgstr "판자"
+
+msgid "土豆"
+msgstr "감자"
+
+msgid "鱼"
+msgstr "생선"
+
+msgid "伏特加"
+msgstr "보드카"
+
+msgid "羊毛"
+msgstr "양모"
+
+msgid "衣服"
+msgstr "의류"
+
+msgid "原木"
+msgstr "원목"
+
+msgid "西瓜"
+msgstr "수박"
+
+msgid "鸡蛋"
+msgstr "계란"
+
+msgid "曲奇"
+msgstr "쿠키"
+
+msgid "曲奇罐头"
+msgstr "쿠키 통조림"
+
+msgid "沙子"
+msgstr "모래"
+
+msgid "硅"
+msgstr "실리콘"
+
+msgid "电路板"
+msgstr "회로 기판"
+
+msgid "放大镜"
+msgstr "확대경"
+
+msgid "颜料"
+msgstr "안료"
+
+msgid "笔"
+msgstr "펜"
+
+msgid "绘图纸"
+msgstr "도면 용지"
+
+msgid "星图"
+msgstr "성도"
+
+msgid "石头"
+msgstr "돌"
+
+msgid "混凝土"
+msgstr "콘크리트"
+
+msgid "锌"
+msgstr "아연"
+
+msgid "石英"
+msgstr "석영"
+
+msgid "铀"
+msgstr "우라늄"
+
+msgid "红酒"
+msgstr "와인"
+
+msgid "注射器"
+msgstr "주사기"
+
+msgid "橡胶"
+msgstr "고무"
+
+msgid "生化服"
+msgstr "생화학 방호복"
+
+msgid "硝石"
+msgstr "초석"
+
+msgid "炸药"
+msgstr "폭약"
+
+msgid "炼金锅"
+msgstr "연금술 가마"
+
+msgid "镍"
+msgstr "니켈"
+
+msgid "镍锭"
+msgstr "니켈괴"
+
+msgid "磁带"
+msgstr "카세트 테이프"
+
+msgid "纤维"
+msgstr "섬유"
+
+msgid "光盘"
+msgstr "광학 디스크"
+
+msgid "邪恶虾兵"
+msgstr "사악한 새우 병사"
+
+msgid "邪恶蟹将"
+msgstr "사악한 게 장군"
+
+msgid "邪恶史莱姆"
+msgstr "사악한 슬라임"
+
+msgid "邪恶秃头"
+msgstr "사악한 대머리"
+
+msgid "邪恶龙骨"
+msgstr "사악한 용뼈"
+
+msgid "邪恶泰坦"
+msgstr "사악한 타이탄"
+
+msgid "邪恶将军"
+msgstr "사악한 장군"
+
+msgid "邪恶大王"
+msgstr "사악한 왕"
+
+msgid "精英邪恶史莱姆"
+msgstr "엘리트 사악한 슬라임"
+
+msgid "精英邪恶秃头"
+msgstr "엘리트 사악한 대머리"
+
+msgid "精英邪恶龙骨"
+msgstr "엘리트 사악한 용뼈"
+
+msgid "精英邪恶泰坦"
+msgstr "엘리트 사악한 타이탄"
+
+msgid "精英邪恶将军"
+msgstr "엘리트 사악한 장군"
+
+msgid "精英邪恶大王"
+msgstr "엘리트 사악한 왕"
+
+msgid "邪恶死人"
+msgstr "사악한 시체"
+
+msgid "邪恶蛇蛇"
+msgstr "사악한 뱀"
+
+msgid "邪恶小偷"
+msgstr "사악한 도둑"
+
+msgid "邪恶外星人"
+msgstr "사악한 외계인"
+
+msgid "邪恶大象"
+msgstr "사악한 코끼리"
+
+msgid "邪恶野人"
+msgstr "사악한 야만인"
+
+msgid "邪恶三头龙"
+msgstr "사악한 히드라"
+
+msgid "邪恶邪神"
+msgstr "사악한 마신"
+
+msgid "精英邪恶小偷"
+msgstr "엘리트 사악한 도둑"
+
+msgid "精英邪恶外星人"
+msgstr "엘리트 사악한 외계인"
+
+msgid "精英邪恶大象"
+msgstr "엘리트 사악한 코끼리"
+
+msgid "精英邪恶野人"
+msgstr "엘리트 사악한 야만인"
+
+msgid "精英邪恶三头龙"
+msgstr "엘리트 사악한 히드라"
+
+msgid "精英邪恶邪神"
+msgstr "엘리트 사악한 마신"
+
+msgid "邪恶螃蟹"
+msgstr "사악한 게"
+
+msgid "邪恶太阳花"
+msgstr "사악한 해바라기"
+
+msgid "邪恶小鸡"
+msgstr "사악한 병아리"
+
+msgid "邪恶蜘蛛"
+msgstr "사악한 거미"
+
+msgid "邪恶蜜蜂"
+msgstr "사악한 벌"
+
+msgid "邪恶笑脸男"
+msgstr "사악한 스마일맨"
+
+msgid "邪恶骑士"
+msgstr "사악한 기사"
+
+msgid "邪恶巫婆"
+msgstr "사악한 마녀"
+
+msgid "精英邪恶小鸡"
+msgstr "엘리트 사악한 병아리"
+
+msgid "精英邪恶蜘蛛"
+msgstr "엘리트 사악한 거미"
+
+msgid "精英邪恶蜜蜂"
+msgstr "엘리트 사악한 벌"
+
+msgid "精英邪恶笑脸男"
+msgstr "엘리트 사악한 스마일맨"
+
+msgid "精英邪恶骑士"
+msgstr "엘리트 사악한 기사"
+
+msgid "精英邪恶巫婆"
+msgstr "엘리트 사악한 마녀"
+
+msgid "祭坛"
+msgstr "제단"
+
+msgid "铜剑"
+msgstr "구리 검"
+
+msgid "铜锤"
+msgstr "구리 망치"
+
+msgid "铜镰刀"
+msgstr "구리 낫"
+
+msgid "铜矛"
+msgstr "구리 창"
+
+msgid "铜飞镖"
+msgstr "구리 표창"
+
+msgid "银剑"
+msgstr "은 검"
+
+msgid "银锤"
+msgstr "은 망치"
+
+msgid "银镰刀"
+msgstr "은 낫"
+
+msgid "银矛"
+msgstr "은 창"
+
+msgid "银飞镖"
+msgstr "은 표창"
+
+msgid "金剑"
+msgstr "금 검"
+
+msgid "金锤"
+msgstr "금 망치"
+
+msgid "金镰刀"
+msgstr "금 낫"
+
+msgid "金矛"
+msgstr "금 창"
+
+msgid "金飞镖"
+msgstr "금 표창"
+
+msgid "霜冻剑"
+msgstr "프로스트 검"
+
+msgid "霜冻锤"
+msgstr "프로스트 망치"
+
+msgid "霜冻镰刀"
+msgstr "프로스트 낫"
+
+msgid "霜冻矛"
+msgstr "프로스트 창"
+
+msgid "霜冻飞镖"
+msgstr "프로스트 표창"
+
+msgid "翡翠剑"
+msgstr "에메랄드 검"
+
+msgid "翡翠锤"
+msgstr "에메랄드 망치"
+
+msgid "翡翠镰刀"
+msgstr "에메랄드 낫"
+
+msgid "翡翠矛"
+msgstr "에메랄드 창"
+
+msgid "翡翠飞镖"
+msgstr "에메랄드 표창"
+
+msgid "熔岩剑"
+msgstr "용암 검"
+
+msgid "熔岩锤"
+msgstr "용암 망치"
+
+msgid "熔岩镰刀"
+msgstr "용암 낫"
+
+msgid "熔岩矛"
+msgstr "용암 창"
+
+msgid "熔岩飞镖"
+msgstr "용암 표창"
+
+msgid "星辰剑"
+msgstr "별 검"
+
+msgid "星辰锤"
+msgstr "별 망치"
+
+msgid "星辰镰刀"
+msgstr "별 낫"
+
+msgid "星辰矛"
+msgstr "별 창"
+
+msgid "星辰飞镖"
+msgstr "별 표창"
+
+msgid "彩虹剑"
+msgstr "무지개 검"
+
+msgid "彩虹锤"
+msgstr "무지개 망치"
+
+msgid "彩虹镰刀"
+msgstr "무지개 낫"
+
+msgid "彩虹矛"
+msgstr "무지개 창"
+
+msgid "彩虹飞镖"
+msgstr "무지개 표창"
+
+msgid "铜靴子"
+msgstr "구리 장화"
+
+msgid "铜腿甲"
+msgstr "구리 각반"
+
+msgid "铜头盔"
+msgstr "구리 투구"
+
+msgid "铜盾牌"
+msgstr "구리 방패"
+
+msgid "铜护甲"
+msgstr "구리 갑옷"
+
+msgid "铜披风"
+msgstr "구리 망토"
+
+msgid "银靴子"
+msgstr "은 장화"
+
+msgid "银腿甲"
+msgstr "은 각반"
+
+msgid "银头盔"
+msgstr "은 투구"
+
+msgid "银盾牌"
+msgstr "은 방패"
+
+msgid "银护甲"
+msgstr "은 갑옷"
+
+msgid "银披风"
+msgstr "은 망토"
+
+msgid "金靴子"
+msgstr "금 장화"
+
+msgid "金腿甲"
+msgstr "금 각반"
+
+msgid "金头盔"
+msgstr "금 투구"
+
+msgid "金盾牌"
+msgstr "금 방패"
+
+msgid "金护甲"
+msgstr "금 갑옷"
+
+msgid "金披风"
+msgstr "금 망토"
+
+msgid "霜冻靴子"
+msgstr "프로스트 장화"
+
+msgid "霜冻腿甲"
+msgstr "프로스트 각반"
+
+msgid "霜冻头盔"
+msgstr "프로스트 투구"
+
+msgid "霜冻盾牌"
+msgstr "프로스트 방패"
+
+msgid "霜冻护甲"
+msgstr "프로스트 갑옷"
+
+msgid "霜冻披风"
+msgstr "프로스트 망토"
+
+msgid "翡翠靴子"
+msgstr "에메랄드 장화"
+
+msgid "翡翠腿甲"
+msgstr "에메랄드 각반"
+
+msgid "翡翠头盔"
+msgstr "에메랄드 투구"
+
+msgid "翡翠盾牌"
+msgstr "에메랄드 방패"
+
+msgid "翡翠护甲"
+msgstr "에메랄드 갑옷"
+
+msgid "翡翠披风"
+msgstr "에메랄드 망토"
+
+msgid "熔岩靴子"
+msgstr "용암 장화"
+
+msgid "熔岩腿甲"
+msgstr "용암 각반"
+
+msgid "熔岩头盔"
+msgstr "용암 투구"
+
+msgid "熔岩盾牌"
+msgstr "용암 방패"
+
+msgid "熔岩护甲"
+msgstr "용암 갑옷"
+
+msgid "熔岩披风"
+msgstr "용암 망토"
+
+msgid "星辰靴子"
+msgstr "별 장화"
+
+msgid "星辰腿甲"
+msgstr "별 각반"
+
+msgid "星辰头盔"
+msgstr "별 투구"
+
+msgid "星辰盾牌"
+msgstr "별 방패"
+
+msgid "星辰护甲"
+msgstr "별 갑옷"
+
+msgid "星辰披风"
+msgstr "별 망토"
+
+msgid "彩虹靴子"
+msgstr "무지개 장화"
+
+msgid "彩虹腿甲"
+msgstr "무지개 각반"
+
+msgid "彩虹头盔"
+msgstr "무지개 투구"
+
+msgid "彩虹盾牌"
+msgstr "무지개 방패"
+
+msgid "彩虹护甲"
+msgstr "무지개 갑옷"
+
+msgid "彩虹披风"
+msgstr "무지개 망토"
+
+msgid "红宝石戒指"
+msgstr "루비 반지"
+
+msgid "黄宝石戒指"
+msgstr "토파즈 반지"
+
+msgid "绿宝石戒指"
+msgstr "에메랄드 반지"
+
+msgid "月亮宝石戒指"
+msgstr "문스톤 반지"
+
+msgid "水晶宝石戒指"
+msgstr "수정 반지"
+
+msgid "星星宝石戒指"
+msgstr "스타스톤 반지"
+
+msgid "玛瑙宝石戒指"
+msgstr "오닉스 반지"
+
+msgid "彩虹宝石戒指"
+msgstr "무지개 보석 반지"
+
+msgid "红宝石项链"
+msgstr "루비 목걸이"
+
+msgid "黄宝石项链"
+msgstr "토파즈 목걸이"
+
+msgid "绿宝石项链"
+msgstr "에메랄드 목걸이"
+
+msgid "月亮宝石项链"
+msgstr "문스톤 목걸이"
+
+msgid "水晶宝石项链"
+msgstr "수정 목걸이"
+
+msgid "星星宝石项链"
+msgstr "스타스톤 목걸이"
+
+msgid "玛瑙宝石项链"
+msgstr "오닉스 목걸이"
+
+msgid "彩虹宝石项链"
+msgstr "무지개 보석 목걸이"
+
+msgid "红宝石手环"
+msgstr "루비 팔찌"
+
+msgid "黄宝石手环"
+msgstr "토파즈 팔찌"
+
+msgid "绿宝石手环"
+msgstr "에메랄드 팔찌"
+
+msgid "月亮宝石手环"
+msgstr "문스톤 팔찌"
+
+msgid "水晶宝石手环"
+msgstr "수정 팔찌"
+
+msgid "星星宝石手环"
+msgstr "스타스톤 팔찌"
+
+msgid "玛瑙宝石手环"
+msgstr "오닉스 팔찌"
+
+msgid "彩虹宝石手环"
+msgstr "무지개 보석 팔찌"
+
+msgid "铜鱼竿"
+msgstr "구리 낚싯대"
+
+msgid "铜铲"
+msgstr "구리 삽"
+
+msgid "铜斧"
+msgstr "구리 도끼"
+
+msgid "铜镐"
+msgstr "구리 곡괭이"
+
+msgid "铜陷阱"
+msgstr "구리 덫"
+
+msgid "银鱼竿"
+msgstr "은 낚싯대"
+
+msgid "银铲"
+msgstr "은 삽"
+
+msgid "银斧"
+msgstr "은 도끼"
+
+msgid "银镐"
+msgstr "은 곡괭이"
+
+msgid "银陷阱"
+msgstr "은 덫"
+
+msgid "金鱼竿"
+msgstr "금 낚싯대"
+
+msgid "金铲"
+msgstr "금 삽"
+
+msgid "金斧"
+msgstr "금 도끼"
+
+msgid "金镐"
+msgstr "금 곡괭이"
+
+msgid "金陷阱"
+msgstr "금 덫"
+
+msgid "霜冻鱼竿"
+msgstr "프로스트 낚싯대"
+
+msgid "霜冻铲"
+msgstr "프로스트 삽"
+
+msgid "霜冻斧"
+msgstr "프로스트 도끼"
+
+msgid "霜冻镐"
+msgstr "프로스트 곡괭이"
+
+msgid "霜冻陷阱"
+msgstr "프로스트 덫"
+
+msgid "翡翠鱼竿"
+msgstr "에메랄드 낚싯대"
+
+msgid "翡翠铲"
+msgstr "에메랄드 삽"
+
+msgid "翡翠斧"
+msgstr "에메랄드 도끼"
+
+msgid "翡翠镐"
+msgstr "에메랄드 곡괭이"
+
+msgid "翡翠陷阱"
+msgstr "에메랄드 덫"
+
+msgid "熔岩鱼竿"
+msgstr "용암 낚싯대"
+
+msgid "熔岩铲"
+msgstr "용암 삽"
+
+msgid "熔岩斧"
+msgstr "용암 도끼"
+
+msgid "熔岩镐"
+msgstr "용암 곡괭이"
+
+msgid "熔岩陷阱"
+msgstr "용암 덫"
+
+msgid "星辰鱼竿"
+msgstr "별 낚싯대"
+
+msgid "星辰铲"
+msgstr "별 삽"
+
+msgid "星辰斧"
+msgstr "별 도끼"
+
+msgid "星辰镐"
+msgstr "별 곡괭이"
+
+msgid "星辰陷阱"
+msgstr "별 덫"
+
+msgid "彩虹鱼竿"
+msgstr "무지개 낚싯대"
+
+msgid "彩虹铲"
+msgstr "무지개 삽"
+
+msgid "彩虹斧"
+msgstr "무지개 도끼"
+
+msgid "彩虹镐"
+msgstr "무지개 곡괭이"
+
+msgid "彩虹陷阱"
+msgstr "무지개 덫"
+
+msgid "苹果"
+msgstr "사과"
+
+msgid "草莓"
+msgstr "딸기"
+
+msgid "香蕉"
+msgstr "바나나"
+
+msgid "蓝莓"
+msgstr "블루베리"
+
+msgid "樱桃"
+msgstr "체리"
+
+msgid "橙子"
+msgstr "오렌지"
+
+msgid "桃子"
+msgstr "복숭아"
+
+msgid "椰子"
+msgstr "코코넛"
+
+msgid "铜矿石"
+msgstr "구리 광석"
+
+msgid "银矿石"
+msgstr "은 광석"
+
+msgid "金矿石"
+msgstr "금 광석"
+
+msgid "霜冻矿石"
+msgstr "프로스트 광석"
+
+msgid "翡翠矿石"
+msgstr "에메랄드 광석"
+
+msgid "熔岩矿石"
+msgstr "용암 광석"
+
+msgid "星辰矿石"
+msgstr "별 광석"
+
+msgid "彩虹矿石"
+msgstr "무지개 광석"
+
+msgid "眼睛"
+msgstr "눈"
+
+msgid "牙"
+msgstr "이빨"
+
+msgid "黄色眼睛"
+msgstr "노란 눈"
+
+msgid "锋利的牙"
+msgstr "날카로운 이빨"
+
+msgid "绿色眼睛"
+msgstr "초록색 눈"
+
+msgid "恐怖金牙"
+msgstr "공포의 금니"
+
+msgid "红色眼睛"
+msgstr "빨간 눈"
+
+msgid "骷髅头"
+msgstr "해골"
+
+msgid "炭"
+msgstr "숯"
+
+msgid "铜锭"
+msgstr "구리 주괴"
+
+msgid "银锭"
+msgstr "은 주괴"
+
+msgid "金锭"
+msgstr "금 주괴"
+
+msgid "霜冻锭"
+msgstr "프로스트 주괴"
+
+msgid "翡翠锭"
+msgstr "에메랄드 주괴"
+
+msgid "熔岩锭"
+msgstr "용암 주괴"
+
+msgid "星辰锭"
+msgstr "별 주괴"
+
+msgid "彩虹锭"
+msgstr "무지개 주괴"
+
+msgid "松木"
+msgstr "소나무"
+
+msgid "云杉木"
+msgstr "가문비나무"
+
+msgid "桦木"
+msgstr "자작나무"
+
+msgid "柚木"
+msgstr "티크"
+
+msgid "桃花心木"
+msgstr "마호가니"
+
+msgid "铁皮木"
+msgstr "아이언우드"
+
+msgid "红木"
+msgstr "레드우드"
+
+msgid "古木"
+msgstr "고목"
+
+msgid "鲤鱼"
+msgstr "잉어"
+
+msgid "鳟鱼"
+msgstr "송어"
+
+msgid "三文鱼"
+msgstr "연어"
+
+msgid "鲈鱼"
+msgstr "농어"
+
+msgid "罗非鱼"
+msgstr "틸라피아"
+
+msgid "鲭鱼"
+msgstr "고등어"
+
+msgid "沙丁鱼"
+msgstr "정어리"
+
+msgid "鲱鱼"
+msgstr "청어"
+
+msgid "鲤鱼料理"
+msgstr "잉어 요리"
+
+msgid "鳟鱼料理"
+msgstr "송어 요리"
+
+msgid "三文鱼料理"
+msgstr "연어 요리"
+
+msgid "鲈鱼料理"
+msgstr "농어 요리"
+
+msgid "罗非鱼料理"
+msgstr "틸라피아 요리"
+
+msgid "鲭鱼料理"
+msgstr "고등어 요리"
+
+msgid "沙丁鱼料理"
+msgstr "정어리 요리"
+
+msgid "鲱鱼料理"
+msgstr "청어 요리"
+
+msgid "鲤鱼豪华料理"
+msgstr "잉어 고급 요리"
+
+msgid "鳟鱼豪华料理"
+msgstr "송어 고급 요리"
+
+msgid "三文鱼豪华料理"
+msgstr "연어 고급 요리"
+
+msgid "鲈鱼豪华料理"
+msgstr "농어 고급 요리"
+
+msgid "罗非鱼豪华料理"
+msgstr "틸라피아 고급 요리"
+
+msgid "鲭鱼豪华料理"
+msgstr "고등어 고급 요리"
+
+msgid "沙丁鱼豪华料理"
+msgstr "정어리 고급 요리"
+
+msgid "鲱鱼豪华料理"
+msgstr "청어 고급 요리"
+
+msgid "红宝石"
+msgstr "루비"
+
+msgid "黄宝石"
+msgstr "토파즈"
+
+msgid "绿宝石"
+msgstr "에메랄드"
+
+msgid "月亮宝石"
+msgstr "문스톤"
+
+msgid "水晶宝石"
+msgstr "수정"
+
+msgid "星星宝石"
+msgstr "스타스톤"
+
+msgid "玛瑙宝石"
+msgstr "오닉스"
+
+msgid "彩虹宝石"
+msgstr "무지개 보석"
+
+msgid "红宝石精华"
+msgstr "루비 정수"
+
+msgid "黄宝石精华"
+msgstr "토파즈 정수"
+
+msgid "绿宝石精华"
+msgstr "에메랄드 정수"
+
+msgid "月亮精华"
+msgstr "문스톤 정수"
+
+msgid "水晶精华"
+msgstr "수정 정수"
+
+msgid "星星精华"
+msgstr "스타스톤 정수"
+
+msgid "玛瑙精华"
+msgstr "오닉스 정수"
+
+msgid "彩虹精华"
+msgstr "무지개 정수"
+
+msgid "宝石粉末"
+msgstr "보석 가루"
+
+msgid "种子"
+msgstr "씨앗"
+
+msgid "肥料"
+msgstr "비료"
+
+msgid "兰花"
+msgstr "난초"
+
+msgid "雏菊"
+msgstr "데이지"
+
+msgid "郁金香"
+msgstr "튤립"
+
+msgid "玫瑰"
+msgstr "장미"
+
+msgid "金盏花"
+msgstr "금잔화"
+
+msgid "牡丹"
+msgstr "모란"
+
+msgid "风铃草"
+msgstr "초롱꽃"
+
+msgid "向日葵"
+msgstr "해바라기"
+
+msgid "玉米"
+msgstr "옥수수"
+
+msgid "白菜"
+msgstr "배추"
+
+msgid "辣椒"
+msgstr "고추"
+
+msgid "萝卜"
+msgstr "무"
+
+msgid "蘑菇"
+msgstr "버섯"
+
+msgid "番茄"
+msgstr "토마토"
+
+msgid "茄子"
+msgstr "가지"
+
+msgid "黄瓜"
+msgstr "오이"
+
+msgid "精英怪物地图"
+msgstr "정예 몬스터 지도"
+
+msgid "老洞穴地图"
+msgstr "오래된 동굴 지도"
+
+msgid "泡菜厂地图"
+msgstr "피클 공장 지도"
+
+msgid "老学校地图"
+msgstr "오래된 학교 지도"
+
+msgid "啤酒厂地图"
+msgstr "양조장 지도"
+
+msgid "大香蕉地图"
+msgstr "대형 바나나 지도"
+
+msgid "藏身处地图"
+msgstr "은신처 지도"
+
+msgid "木地地图"
+msgstr "나무 지대 지도"
+
+msgid "红色血包"
+msgstr "빨간 혈액 팩"
+
+msgid "大电池手电筒"
+msgstr "대형 배터리 손전등"
+
+msgid "空空瓶"
+msgstr "빈 병"
+
+msgid "大哥大"
+msgstr "휴대폰"
+
+msgid "卡姆PIU特"
+msgstr "컴퓨터"
+
+msgid "红药丸瓶"
+msgstr "빨간 알약 병"
+
+msgid "神奇海螺"
+msgstr "마법의 소라"
+
+msgid "蓝色笔"
+msgstr "파란 펜"
+
+msgid "对话气泡"
+msgstr "말풍선"
+
+msgid "蓝色小人"
+msgstr "파란 꼬마"
+
+msgid "音药"
+msgstr "음악"
+
+msgid "拳头！"
+msgstr "주먹!"
+
+msgid "叶子~"
+msgstr "잎사귀~"
+
+msgid "火药球"
+msgstr "화약 탄환"
+
+msgid "蝴蝶蝶"
+msgstr "나비"
+
+msgid "考试小抄"
+msgstr "시험 커닝 페이퍼"
+
+msgid "下头！"
+msgstr "내려가!"
+
+msgid "护目镜"
+msgstr "고글"
+
+msgid "硬币？"
+msgstr "동전?"
+
+msgid "贵项链"
+msgstr "귀한 목걸이"
+
+msgid "贵戒指"
+msgstr "귀한 반지"
+
+msgid "经典背包经典"
+msgstr "클래식 배낭"
+
+msgid "经典小包经典"
+msgstr "클래식 작은 가방"
+
+msgid "烛蜡"
+msgstr "양초 왁스"
+
+msgid "经典宝箱经典"
+msgstr "클래식 보물 상자"
+
+msgid "经典十字经典"
+msgstr "클래식 십자가"
+
+msgid "神秘墓碑"
+msgstr "신비로운 묘비"
+
+msgid "神秘铁锤"
+msgstr "신비로운 망치"
+
+msgid "无良印品"
+msgstr "불량 인쇄물"
+
+msgid "鱼鱼"
+msgstr "물고기"
+
+msgid "捣蒜器"
+msgstr "마늘 다지기"
+
+msgid "离洞绳"
+msgstr "탈출 로프"
+
+msgid "美容镜"
+msgstr "미용 거울"
+
+msgid "八匹狼"
+msgstr "여덟 마리의 늑대"
+
+msgid "神秘沙漏"
+msgstr "신비로운 모래시계"
+
+msgid "红心"
+msgstr "하트"
+
+msgid "火焰"
+msgstr "불꽃"
+
+msgid "全麦面包"
+msgstr "통밀 빵"
+
+msgid "没寄出的信"
+msgstr "부치지 못한 편지"
+
+msgid "花生之神"
+msgstr "땅콩의 신"
+
+msgid "威风堂堂"
+msgstr "위풍당당"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr "공격을 성공적으로 회피할 때마다 다음 공격은 반드시 치명타로 적중합니다."
+
+msgid "百折不挠的真诚"
+msgstr "굴하지 않는 진심"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "공격 시 3% 확률로 두 번의 피해를 입힙니다."
+
+msgid "直言不讳的勇敢"
+msgstr "직설적인 용기"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr "전투 시작 시 랜덤하게 한 가지 효과가 활성화됩니다: +50% 피해 / +30% 방어력 / 경험치 2배"
+
+msgid "空想家"
+msgstr "공상가"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr "적을 처치할 때마다 희귀 아이템 획득 확률이 +1%씩 중첩되지만, 생명력이 50% 미만일 때는 효과가 사라집니다."
+
+msgid "令人震惊的"
+msgstr "충격적인"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"생명력이 20% 미만일 때 '재생' 효과가 자동으로 발동하여 10초 동안 초당 5%의 생명력을 회복합니다 (재사용 대기시간 2분)."
+
+msgid "恐慌的"
+msgstr "겁먹은"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr "공격 적중 시 5% 확률로 적을 5초 동안 행동 불가 상태로 만듭니다. 중복 발동되지 않습니다."
+
+msgid "无法忍受的"
+msgstr "참을 수 없는"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr "절단 피해를 입을 때 10% 확률로 피해량의 50%를 공격자에게 반사합니다."
+
+msgid "邪恶的"
+msgstr "사악한"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr "낚시 속도가 15% 증가하지만, 10% 확률로 아무것도 얻지 못합니다."
+
+msgid "难以置信的"
+msgstr "믿을 수 없는"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "나무를 벨 때 5% 확률로 숯 1개를 얻습니다."
+
+msgid "搞点货"
+msgstr "물건 챙기기"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr "획득하는 전투 경험치가 30% 감소하지만, 그중 50%가 비전투 스킬에 균등하게 분배됩니다."
+
+msgid "空间管理"
+msgstr "공간 관리"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"가방 칸이 비어 있을 때마다 전체 피해량이 0.2% 증가하며, 아이템이 들어 있을 때마다 전체 피해 감소율이 0.2% 증가합니다."
+
+msgid "麻烦的"
+msgstr "까다로운"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr "전투 보상으로 금화가 더 이상 드롭되지 않으며, 대신 다른 드롭 아이템이 나옵니다."
+
+msgid "一心二用的"
+msgstr "한눈파는"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "장착하고 전투 시 고고학 속도가 10% 증가합니다."
+
+msgid "底子很好的"
+msgstr "기본기가 탄탄한"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "공격 간격이 2초일 때마다 최종 피해량이 10% 증가합니다."
+
+msgid "主角般的"
+msgstr "주인공 같은"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr "적의 명중률이 20% 증가하지만, 그 대가로 적이 희귀 아이템을 떨어뜨릴 확률이 1.5배 증가합니다."
+
+msgid "形容词的"
+msgstr "형용사의"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr "명중률이 20% 감소하지만, 모든 스킬의 생산 배율이 10% 증가합니다."
+
+msgid "哈哈哈"
+msgstr "하하하"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr "스킬을 훈련할 때 10% 확률로 웃음소리가 재생됩니다."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "장착 시 Steam 오버레이를 열 때마다 금화 +1."
+
+msgid "基础健康药水"
+msgstr "기초 체력 물약"
+
+msgid "基础战斗经验药水"
+msgstr "기초 전투 경험치 물약"
+
+msgid "基础拾取药水"
+msgstr "기초 획득 물약"
+
+msgid "基础采集速度药水"
+msgstr "기초 채집 속도 물약"
+
+msgid "基础采集经验药水"
+msgstr "기초 채집 경험치 물약"
+
+msgid "基础采集产量药水"
+msgstr "기초 채집 생산량 물약"
+
+msgid "基础制造速度药水"
+msgstr "기초 제작 속도 물약"
+
+msgid "基础多件制造药水"
+msgstr "기초 다중 제작 물약"
+
+msgid "基础制造经验药水"
+msgstr "기초 제작 경험치 물약"
+
+msgid "常规健康药水"
+msgstr "일반 체력 물약"
+
+msgid "常规战斗经验药水"
+msgstr "일반 전투 경험치 물약"
+
+msgid "常规拾取药水"
+msgstr "일반 획득 물약"
+
+msgid "常规采集速度药水"
+msgstr "일반 채집 속도 물약"
+
+msgid "常规采集经验药水"
+msgstr "일반 채집 경험치 물약"
+
+msgid "常规采集产量药水"
+msgstr "일반 채집 생산량 물약"
+
+msgid "常规制造速度药水"
+msgstr "일반 제작 속도 물약"
+
+msgid "常规多件制造药水"
+msgstr "일반 다중 제작 물약"
+
+msgid "常规制造经验药水"
+msgstr "일반 제작 경험치 물약"
+
+msgid "高级健康药水"
+msgstr "고급 체력 물약"
+
+msgid "高级战斗经验药水"
+msgstr "고급 전투 경험치 물약"
+
+msgid "高级拾取药水"
+msgstr "고급 획득 물약"
+
+msgid "高级采集速度药水"
+msgstr "고급 채집 속도 물약"
+
+msgid "高级采集经验药水"
+msgstr "고급 채집 경험치 물약"
+
+msgid "高级采集产量药水"
+msgstr "고급 채집 생산량 물약"
+
+msgid "高级制造速度药水"
+msgstr "고급 제작 속도 물약"
+
+msgid "高级多件制造药水"
+msgstr "고급 다중 제작 물약"
+
+msgid "高级制造经验药水"
+msgstr "고급 제작 경험치 물약"
+
+msgid "超级健康药水"
+msgstr "최상급 체력 물약"
+
+msgid "超级战斗经验药水"
+msgstr "최상급 전투 경험치 물약"
+
+msgid "超级拾取药水"
+msgstr "최상급 획득 물약"
+
+msgid "超级采集速度药水"
+msgstr "최상급 채집 속도 물약"
+
+msgid "超级采集经验药水"
+msgstr "최상급 채집 경험치 물약"
+
+msgid "超级采集产量药水"
+msgstr "최상급 채집 생산량 물약"
+
+msgid "超级制造速度药水"
+msgstr "최상급 제작 속도 물약"
+
+msgid "超级多件制造药水"
+msgstr "최상급 다중 제작 물약"
+
+msgid "超级制造经验药水"
+msgstr "최상급 제작 경험치 물약"
+
+msgid "老洞穴"
+msgstr "오래된 동굴"
+
+msgid "normal"
+msgstr "일반"
+
+msgid "泡菜厂"
+msgstr "피클 공장"
+
+msgid "老学校"
+msgstr "오래된 학교"
+
+msgid "大香蕉"
+msgstr "대형 바나나"
+
+msgid "藏身处"
+msgstr "은신처"
+
+msgid "木地"
+msgstr "나무 지대"
+
+msgid "龙虾巢穴"
+msgstr "바닷가재 둥지"
+
+msgid "ocean"
+msgstr "바다"
+
+msgid "深海洞窟"
+msgstr "심해 동굴"
+
+msgid "黏黏洞窟"
+msgstr "끈적이는 동굴"
+
+msgid "决斗洞窟"
+msgstr "결투 동굴"
+
+msgid "海底坟墓"
+msgstr "해저 무덤"
+
+msgid "海底大坑"
+msgstr "해저 대구덩이"
+
+msgid "神秘小路"
+msgstr "신비한 샛길"
+
+msgid "海底皇宫"
+msgstr "해저 왕궁"
+
+msgid "危险黏黏洞窟"
+msgstr "위험한 끈적이는 동굴"
+
+msgid "elite"
+msgstr "정예"
+
+msgid "危险决斗洞窟"
+msgstr "위험한 결투 동굴"
+
+msgid "危险海底坟墓"
+msgstr "위험한 해저 무덤"
+
+msgid "危险海底大坑"
+msgstr "위험한 해저 대구덩이"
+
+msgid "危险海底小路"
+msgstr "위험한 해저 샛길"
+
+msgid "危险海底皇宫"
+msgstr "위험한 해저 왕궁"
+
+msgid "墓地"
+msgstr "묘지"
+
+msgid "mountain"
+msgstr "산"
+
+msgid "蛇蛇巢穴"
+msgstr "뱀 둥지"
+
+msgid "下水道"
+msgstr "하수도"
+
+msgid "外星基地"
+msgstr "외계 기지"
+
+msgid "大象巢穴"
+msgstr "코끼리 둥지"
+
+msgid "野人小屋"
+msgstr "야만인 오두막"
+
+msgid "地狱"
+msgstr "지옥"
+
+msgid "邪恶国度"
+msgstr "사악한 왕국"
+
+msgid "危险下水道"
+msgstr "위험한 하수도"
+
+msgid "危险外星基地"
+msgstr "위험한 외계 기지"
+
+msgid "危险大象巢穴"
+msgstr "위험한 코끼리 둥지"
+
+msgid "危险野人小屋"
+msgstr "위험한 야만인 오두막"
+
+msgid "危险地狱"
+msgstr "위험한 지옥"
+
+msgid "危险邪恶国度"
+msgstr "위험한 사악한 왕국"
+
+msgid "螃蟹巢穴"
+msgstr "게 둥지"
+
+msgid "forest"
+msgstr "숲"
+
+msgid "种植园"
+msgstr "농장"
+
+msgid "鸡圈"
+msgstr "닭장"
+
+msgid "蜘蛛巢穴"
+msgstr "거미 둥지"
+
+msgid "蜂巢"
+msgstr "벌집"
+
+msgid "开心乐园"
+msgstr "행복한 낙원"
+
+msgid "城堡"
+msgstr "성"
+
+msgid "魔法城堡"
+msgstr "마법의 성"
+
+msgid "危险鸡圈"
+msgstr "위험한 닭장"
+
+msgid "危险蜘蛛巢穴"
+msgstr "위험한 거미 둥지"
+
+msgid "危险蜂巢"
+msgstr "위험한 벌집"
+
+msgid "危险开心乐园"
+msgstr "위험한 행복한 낙원"
+
+msgid "危险城堡"
+msgstr "위험한 성"
+
+msgid "危险魔法城堡"
+msgstr "위험한 마법의 성"
+
+msgid "village"
+msgstr "마을"
+
+msgid "优质三文鱼"
+msgstr "고급 연어"
+
+msgid "outskirts"
+msgstr "외곽"
+
+msgid "优质鲈鱼"
+msgstr "고급 농어"
+
+msgid "优质罗非鱼"
+msgstr "고급 틸라피아"
+
+msgid "优质鲭鱼"
+msgstr "고급 고등어"
+
+msgid "优质沙丁鱼"
+msgstr "고급 정어리"
+
+msgid "优质鲱鱼"
+msgstr "고급 청어"
+
+msgid "铜矿脉"
+msgstr "구리 광맥"
+
+msgid "银矿脉"
+msgstr "은 광맥"
+
+msgid "金矿脉"
+msgstr "금 광맥"
+
+msgid "霜冻矿脉"
+msgstr "서리 광맥"
+
+msgid "翡翠矿脉"
+msgstr "비취 광맥"
+
+msgid "熔岩矿脉"
+msgstr "용암 광맥"
+
+msgid "星辰矿脉"
+msgstr "별의 광맥"
+
+msgid "彩虹矿脉"
+msgstr "무지개 광맥"
+
+msgid "优质金矿脉"
+msgstr "고급 금 광맥"
+
+msgid "优质霜冻矿脉"
+msgstr "고급 서리 광맥"
+
+msgid "优质翡翠矿脉"
+msgstr "고급 비취 광맥"
+
+msgid "优质熔岩矿脉"
+msgstr "고급 용암 광맥"
+
+msgid "优质星辰矿脉"
+msgstr "고급 별의 광맥"
+
+msgid "优质彩虹矿脉"
+msgstr "고급 무지개 광맥"
+
+msgid "松树"
+msgstr "소나무"
+
+msgid "云杉树"
+msgstr "가문비나무"
+
+msgid "桦树"
+msgstr "자작나무"
+
+msgid "柚木树"
+msgstr "티크 나무"
+
+msgid "桃花心木树"
+msgstr "마호가니 나무"
+
+msgid "铁皮树"
+msgstr "철피 나무"
+
+msgid "红木树"
+msgstr "레드우드 나무"
+
+msgid "古树"
+msgstr "고대 나무"
+
+msgid "优质桦树"
+msgstr "고급 자작나무"
+
+msgid "优质柚木树"
+msgstr "고급 티크 나무"
+
+msgid "优质桃花心木树"
+msgstr "고급 마호가니 나무"
+
+msgid "优质铁皮树"
+msgstr "고급 철피 나무"
+
+msgid "优质红木树"
+msgstr "고급 레드우드 나무"
+
+msgid "优质古树"
+msgstr "고급 고대 나무"
+
+msgid "ores"
+msgstr "광석"
+
+msgid "gems"
+msgstr "보석"
+
+msgid "月亮宝石精华"
+msgstr "문스톤 정수"
+
+msgid "水晶宝石精华"
+msgstr "수정 정수"
+
+msgid "星星宝石精华"
+msgstr "스타스톤 정수"
+
+msgid "玛瑙宝石精华"
+msgstr "오닉스 정수"
+
+msgid "彩虹宝石精华"
+msgstr "무지개 정수"
+
+msgid "flower"
+msgstr "꽃"
+
+msgid "vegetable"
+msgstr "채소"
+
+msgid "basics"
+msgstr "기초"
+
+msgid "regular"
+msgstr "일반"
+
+msgid "advance"
+msgstr "고급"
+
+msgid "hyper"
+msgstr "최상급"
+
+msgid "cuisine"
+msgstr "요리"
+
+msgid "good_cuisine"
+msgstr "고급 요리"
+
+msgid "猪猪"
+msgstr "돼지"
+
+msgid "小鸡"
+msgstr "병아리"
+
+msgid "鹅鹅"
+msgstr "거위"
+
+msgid "羊羊"
+msgstr "양"
+
+msgid "狼狼"
+msgstr "늑대"
+
+msgid "乌龟"
+msgstr "거북이"
+
+msgid "猫猫"
+msgstr "고양이"
+
+msgid "螃蟹"
+msgstr "게"
+
+msgid "蓝皮猪猪"
+msgstr "파란 돼지"
+
+msgid "blue_skin"
+msgstr "파란색 피부"
+
+msgid "蓝皮小鸡"
+msgstr "파란 병아리"
+
+msgid "蓝皮鹅鹅"
+msgstr "파란 거위"
+
+msgid "蓝皮羊羊"
+msgstr "파란 양"
+
+msgid "蓝皮狼狼"
+msgstr "파란 늑대"
+
+msgid "蓝皮乌龟"
+msgstr "파란 거북이"
+
+msgid "蓝皮猫猫"
+msgstr "파란 고양이"
+
+msgid "蓝皮螃蟹"
+msgstr "파란 게"
+
+msgid "map_crafting"
+msgstr "지도 제작"
+
+msgid "copper"
+msgstr "구리"
+
+msgid "armor"
+msgstr "방어구"
+
+msgid "tool"
+msgstr "도구"
+
+msgid "铜铲子"
+msgstr "구리 삽"
+
+msgid "铜斧头"
+msgstr "구리 도끼"
+
+msgid "weapons"
+msgstr "무기"
+
+msgid "铜弓"
+msgstr "구리 활"
+
+msgid "accessories"
+msgstr "장신구"
+
+msgid "silver"
+msgstr "은"
+
+msgid "银铲子"
+msgstr "은 삽"
+
+msgid "银斧头"
+msgstr "은 도끼"
+
+msgid "银弓"
+msgstr "은 활"
+
+msgid "gold"
+msgstr "금"
+
+msgid "黄金披风"
+msgstr "황금 망토"
+
+msgid "金铲子"
+msgstr "금 삽"
+
+msgid "金斧头"
+msgstr "금 도끼"
+
+msgid "金弓"
+msgstr "금 활"
+
+msgid "frost"
+msgstr "서리"
+
+msgid "霜冻铲子"
+msgstr "서리 삽"
+
+msgid "霜冻斧头"
+msgstr "서리 도끼"
+
+msgid "霜冻弓"
+msgstr "서리 활"
+
+msgid "jade"
+msgstr "비취"
+
+msgid "翡翠铲子"
+msgstr "비취 삽"
+
+msgid "翡翠斧头"
+msgstr "비취 도끼"
+
+msgid "翡翠弓"
+msgstr "비취 활"
+
+msgid "molten"
+msgstr "용암"
+
+msgid "熔岩铲子"
+msgstr "용암 삽"
+
+msgid "熔岩斧头"
+msgstr "용암 도끼"
+
+msgid "熔岩弓"
+msgstr "용암 활"
+
+msgid "stellar"
+msgstr "별"
+
+msgid "星辰铲子"
+msgstr "별의 삽"
+
+msgid "星辰斧头"
+msgstr "별의 도끼"
+
+msgid "星辰弓"
+msgstr "별의 활"
+
+msgid "rainbow"
+msgstr "무지개"
+
+msgid "彩虹铲子"
+msgstr "무지개 삽"
+
+msgid "彩虹斧头"
+msgstr "무지개 도끼"
+
+msgid "彩虹弓"
+msgstr "무지개 활"
+
+msgid "伐木"
+msgstr "벌목"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"주요 생산물: 원목, 과일\n"
+"\n"
+"용도:\n"
+"- 원목 → 숯으로 변환 (제련, 요리에 필요)\n"
+"- 원목 → 커뮤니티 기반 시설 건설\n"
+"- 과일 → 비료로 변환 (농업에 필요)\n"
+"\n"
+"스킬 보너스: 레벨당 +0.25% 벌목 효율 (행동 즉시 완료 확률)\n"
+"핵심 도구: 도끼 (벌목 속도 향상)"
+
+msgid "采矿"
+msgstr "채광"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"주요 생산물: 광석, 보석\n"
+"\n"
+"용도:\n"
+"- 광석 → 광석 주괴로 제련\n"
+"- 보석 → 보석 정수로 제련\n"
+"\n"
+"스킬 보너스: 레벨당 +0.25% 채광 효율 (행동 즉시 완료 확률)\n"
+"핵심 도구: 곡괭이 (채광 속도 향상)"
+
+msgid "冶炼"
+msgstr "제련"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"제작 내용:\n"
+"- 광석 + 숯 → 주괴\n"
+"- 보석 + 숯 → 보석 정수\n"
+"\n"
+"용도:\n"
+"- 주괴와 보석 정수 → 무기, 도구, 갑옷, 장신구 제작\n"
+"- 주괴와 보석 정수 → 커뮤니티 인프라 건설\n"
+"\n"
+"스킬 보너스: 레벨당 +0.25% 제련 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 건축물: 용광로(제련 속도 향상)"
+
+msgid "锻造"
+msgstr "대장기술"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"제작 내용: 무기, 도구, 갑옷, 장신구\n"
+"필요 재료: 주괴, 보석 정수\n"
+"스킬 보너스: 레벨당 +0.25% 대장기술 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 건축물: 모루(대장기술 속도 향상)"
+
+msgid "农业"
+msgstr "농업"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"주요 생산물: 꽃, 채소\n"
+"\n"
+"용도:\n"
+"- 꽃 → 연금술 포션 제작\n"
+"- 채소 → 고급 요리(전투 회복)\n"
+"\n"
+"필요 재료:\n"
+"- 씨앗(상점 구매)\n"
+"- 비료(과일에서 변환)\n"
+"\n"
+"스킬 보너스: 레벨당 +0.25% 농업 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 도구: 삽(농업 속도 향상)"
+
+msgid "炼金"
+msgstr "연금술"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"제작 내용: 각종 포션\n"
+"\n"
+"필요 재료:\n"
+"- 꽃(농업)\n"
+"- 뼈(전투)\n"
+"- 병(상점)\n"
+"\n"
+"포션 효과: 다양한 버프 효과 제공, 기본 지속 시간 180초\n"
+"스킬 보너스: 레벨당 +0.25% 연금술 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 건축물: 연금술 실험실(연금술 속도 향상)"
+
+msgid "钓鱼"
+msgstr "낚시"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"주요 생산물: 물고기\n"
+"용도: 요리(전투 회복)\n"
+"스킬 보너스: 레벨당 +0.25% 낚시 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 도구: 낚싯대(낚시 속도 향상)"
+
+msgid "烹饪"
+msgstr "요리"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"제작 내용: 각종 요리\n"
+"필요 재료: 식재료(물고기 및 채소) + 숯\n"
+"요리 효과: 전투 중 생명력이 33% 미만일 때 자동으로 사용하여 생명력 회복(재사용 대기시간 15초)\n"
+"스킬 보너스: 레벨당 +0.25% 요리 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 건축물: 요리 냄비(요리 속도 향상)"
+
+msgid "狩猎"
+msgstr "사냥"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"주요 생산물: 가죽, 잉크, 깃털\n"
+"용도: 지도 제작(지도 제작 스킬 필요)\n"
+"필요 재료: 지렁이(낚시로 획득)\n"
+"스킬 보너스: 레벨당 +0.25% 사냥 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 도구: 덫(사냥 속도 향상)"
+
+msgid "制图"
+msgstr "지도 제작"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"제작 내용: 지도\n"
+"필요 재료: 가죽, 잉크, 깃털\n"
+"\n"
+"용도:\n"
+"- 고고학 스킬 소모품\n"
+"- 정예 몬스터 도전 필요\n"
+"\n"
+"스킬 보너스: 레벨당 +0.25% 지도 제작 효율(행동 즉시 완료 확률 제공)\n"
+"핵심 건축물: 지도 제작대(지도 제작 속도 향상)"
+
+msgid "考古"
+msgstr "고고학"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"특수 메커니즘: 다른 스킬과 동시에 진행 가능한 패시브 스킬\n"
+"필요 재료: 지도\n"
+"주요 생산물: 유물\n"
+"\n"
+"유물 시스템:\n"
+"- 제단 건설 후 유물 활성화 가능\n"
+"- 최대 3개까지 동시에 활성화 가능\n"
+"- 활성화 시 자원 소모\n"
+"\n"
+"가속 방식: 별을 사용하여 고고학 진행 가속"
+
+msgid "单手武器"
+msgstr "한손 무기"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"무기 유형: 검, 망치\n"
+"스킬 보너스: 레벨당 +0.25% 한손 효율(훈련 시 전투 경험치 및 전리품 2배 획득 기회)\n"
+"\n"
+"명중률 메커니즘:\n"
+"기본 명중률: 75%(레벨이 같을 때)\n"
+"몬스터보다 1레벨 높을 때마다: +0.5% 명중률(최대 90%)\n"
+"몬스터보다 1레벨 낮을 때마다: -0.5% 명중률"
+
+msgid "双手武器"
+msgstr "양손 무기"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"무기 유형: 창, 낫\n"
+"스킬 보너스: 레벨당 +0.25% 양손 효율(훈련 시 전투 경험치 및 전리품 2배 획득 기회)\n"
+"\n"
+"명중률 메커니즘:\n"
+"기본 명중률: 75%(레벨이 같을 때)\n"
+"몬스터보다 1레벨 높을 때마다: +0.5% 명중률(최대 90%)\n"
+"몬스터보다 1레벨 낮을 때마다: -0.5% 명중률"
+
+msgid "远程武器"
+msgstr "원거리 무기"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"무기 유형: 활, 부메랑\n"
+"스킬 보너스: 레벨당 +0.25% 원거리 효율(훈련 시 전투 경험치 및 전리품 2배 획득 기회)\n"
+"\n"
+"명중률 메커니즘:\n"
+"기본 명중률: 75%(레벨이 같을 때)\n"
+"몬스터보다 1레벨 높을 때마다: +0.5% 명중률(최대 90%)\n"
+"몬스터보다 1레벨 낮을 때마다: -0.5% 명중률"
+
+msgid "防御"
+msgstr "방어"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"스킬 보너스: 레벨당 +0.25% 방어 효율(훈련 시 전투 경험치 및 전리품 2배 획득 기회)\n"
+"\n"
+"방어 메커니즘: 몬스터 명중률 감소\n"
+"몬스터보다 1레벨 높을 때마다: 몬스터 명중률 -0.5%\n"
+"몬스터보다 1레벨 낮을 때마다: 몬스터 명중률 +0.5%"
+
+msgid "把你踹开"
+msgstr "너를 차버리겠어"
+
+msgid "他想要"
+msgstr "그가 원해"
+
+msgid "我的号码"
+msgstr "내 번호"
+
+msgid "我不给"
+msgstr "줄 수 없어"
+
+msgid "对抗纨绔"
+msgstr "방탕아에 맞서다"
+
+msgid "美颜参数"
+msgstr "뷰티 파라미터"
+
+msgid "值得学习"
+msgstr "배울 가치가 있어"
+
+msgid "说梦话"
+msgstr "잠꼬대"
+
+msgid "肌肉大"
+msgstr "큰 근육"
+
+msgid "生活总是"
+msgstr "삶은 항상"
+
+msgid "太多波折"
+msgstr "우여곡절이 너무 많아"
+
+msgid "猫咪"
+msgstr "고양이"
+
+msgid "张嘴"
+msgstr "입 열어"
+
+msgid "这个地方"
+msgstr "이곳은"
+
+msgid "傻子太多"
+msgstr "멍청이가 너무 많아"
+
+msgid "我的生活"
+msgstr "내 인생은"
+
+msgid "特别难过"
+msgstr "너무 슬퍼"
+
+msgid "希望你"
+msgstr "네가 알길 바라"
+
+msgid "知道这个"
+msgstr "이것을"
+
+msgid "我不想"
+msgstr "난 원하지 않아"
+
+msgid "当小人物"
+msgstr "작은 인물이 되는 것을"
+
+msgid "地下的"
+msgstr "지하의"
+
+msgid "皇帝"
+msgstr "황제"
+
+msgid "我想当"
+msgstr "나는 되고 싶어"
+
+msgid "三根一起抽"
+msgstr "세 개를 동시에 피워"
+
+msgid "喝很多水"
+msgstr "물을 많이 마셔"
+
+msgid "和我作对"
+msgstr "나와 맞서다"
+
+msgid "出人头地"
+msgstr "출세하다"
+
+msgid "就在今天"
+msgstr "바로 오늘"
+
+msgid "当我看见"
+msgstr "내가 볼 때"
+
+msgid "外国友人"
+msgstr "외국인 친구"
+
+msgid "我不问好"
+msgstr "난 인사 안 해"
+
+msgid "因为我太"
+msgstr "왜냐하면 난 너무"
+
+msgid "高冷了"
+msgstr "차갑거든"
+
+msgid "质疑我的"
+msgstr "나를 의심하고"
+
+msgid "嘲笑我的"
+msgstr "나를 비웃는 건"
+
+msgid "都是一群"
+msgstr "전부 다"
+
+msgid "大傻子"
+msgstr "바보들뿐이야"
+
+msgid "我就是"
+msgstr "내가 바로"
+
+msgid "全世界"
+msgstr "전 세계에서"
+
+msgid "最牛的！"
+msgstr "가장 대단한 사람이야!"
+
+msgid "你的炫耀"
+msgstr "너의 과시"
+
+msgid "名牌包包"
+msgstr "명품 가방"
+
+msgid "名牌手表"
+msgstr "명품 시계"
+
+msgid "说实话"
+msgstr "솔직히 말해서"
+
+msgid "我不在乎"
+msgstr "난 신경 안 써"
+
+msgid "想打败我"
+msgstr "날 이기고 싶어?"
+
+msgid "那你惨了"
+msgstr "그럼 넌 끝장이야"
+
+msgid "我需要个"
+msgstr "난 필요해"
+
+msgid "赚快钱"
+msgstr "빠르게 돈 버는"
+
+msgid "的方法"
+msgstr "방법이"
+
+msgid "你可以叫我"
+msgstr "날 이렇게 불러도 돼"
+
+msgid "小帅"
+msgstr "샤오슈아이"
+
+msgid "面临"
+msgstr "직면하다"
+
+msgid "指控"
+msgstr "고발"
+
+msgid "从不会"
+msgstr "절대 안 해"
+
+msgid "求神拜佛"
+msgstr "신에게 빌기"
+
+msgid "我只穿"
+msgstr "난 입어"
+
+msgid "一次性的"
+msgstr "일회용"
+
+msgid "袜子"
+msgstr "양말"
+
+msgid "洗衣服"
+msgstr "빨래하기"
+
+msgid "太麻烦"
+msgstr "너무 귀찮아"
+
+msgid "她画了"
+msgstr "그녀는 화장했어"
+
+msgid "美丽的妆"
+msgstr "아름답게"
+
+msgid "但是她"
+msgstr "하지만 그녀는"
+
+msgid "喜欢女的"
+msgstr "여자를 좋아해"
+
+msgid "我是那个"
+msgstr "난 그 사람이야"
+
+msgid "第三者"
+msgstr "제3자"
+
+msgid "特别伤心"
+msgstr "너무 슬퍼서"
+
+msgid "我哭了"
+msgstr "난 울었어"
+
+msgid "自给自足者"
+msgstr "자급자족자"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 200개 초과일 때, 스킬 속도 +20%\n"
+"재고가 50개 미만일 때, 스킬 속도 -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 300개 초과일 때, 스킬 경험치 배율 +20%\n"
+"재고가 100개 미만일 때, 스킬 경험치 배율 -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 320개 초과일 때, 스킬 속도 +24%\n"
+"재고가 80개 미만일 때, 스킬 속도 -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 420개 초과일 때, 스킬 경험치 배율 +24%\n"
+"재고가 140개 미만일 때, 스킬 경험치 배율 -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 500개 초과일 때, 스킬 속도 +30%\n"
+"재고가 180개 미만일 때, 스킬 속도 -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"행동 수행 시, 해당 행동의 필수 드롭 아이템을 확인합니다:\n"
+"재고가 650개 초과일 때, 스킬 경험치 배율 +30%\n"
+"재고가 220개 미만일 때, 스킬 경험치 배율 -4%"
+
+msgid "Z 世代"
+msgstr "Z세대"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00 동안, 모든 채집 스킬 속도 +18%.\n"
+"그 외 시간 속도 -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00 동안, 모든 제작 스킬 속도 +18%.\n"
+"그 외 시간 속도 -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00 동안, 모든 채집 스킬 속도 +24%.\n"
+"그 외 시간 속도 -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00 동안, 모든 제작 스킬 속도 +24%.\n"
+"그 외 시간 속도 -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00 동안, 모든 채집 스킬 속도 +28%.\n"
+"그 외 시간 속도 -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00 동안, 모든 제작 스킬 속도 +28%.\n"
+"그 외 시간 속도 -8%"
+
+msgid "赌徒"
+msgstr "도박사"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"행동 완료 시: 13% 확률로 생산물 초기화, 13% 확률로 생산물 3배.\n"
+"단, 채집, 제작, 전투 스킬 아이템 생산량 -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr "행동 완료 시: 4% 확률로 생산물 초기화, 6% 확률로 생산물 3배"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"행동 완료 시: 10% 확률로 생산물 초기화, 20% 확률로 생산물 3배.\n"
+"단, 채집, 제작, 전투 스킬 아이템 생산량 -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr "행동 완료 시: 5% 확률로 생산물 초기화, 9% 확률로 생산물 3배"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"행동 완료 시: 8% 확률로 생산물 초기화, 26% 확률로 생산물 3배.\n"
+"단, 채집, 제작, 전투 스킬 아이템 생산량 -10%."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr "행동 완료 시: 2% 확률로 생산물 초기화, 10% 확률로 생산물 3배"
+
+msgid "番茄钟"
+msgstr "뽀모도로"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 10분 이상 집중 시, 해당 스킬 아이템 생산량 누적 +5%(상한 +30%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 10분 이상 집중 시, 해당 스킬 경험치 배율 누적 +5%(상한 +30%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 8분 이상 집중 시, 해당 스킬 아이템 생산량 누적 +4%(상한 +36%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 8분 이상 집중 시, 해당 스킬 경험치 배율 누적 +4%(상한 +36%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 6분 이상 집중 시, 해당 스킬 아이템 생산량 누적 +4%(상한 +48%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"단일 제작 스킬에 6분 이상 집중 시, 해당 스킬 경험치 배율 누적 +4%(상한 +48%).\n"
+"제작 스킬 변경 시 누적값 0으로 초기화."
+
+msgid "万岁"
+msgstr "만세"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"몬스터를 연속으로 처치할 때마다 데미지와 명중률 +2.5% 누적(상한 +25%).\n"
+"몬스터에게 공격받으면 카운트 초기화."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"피해를 입은 후 다음 공격 데미지 +18%, 명중률 +8%.\n"
+"단, 최대 생명력 -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"몬스터를 연속으로 처치할 때마다 데미지와 명중률 +3% 누적(상한 +36%).\n"
+"몬스터에게 공격받으면 카운트 초기화."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"피해를 입은 후 다음 공격 데미지 +24%, 명중률 +12%.\n"
+"단, 최대 생명력 -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"몬스터를 연속으로 처치할 때마다 데미지와 명중률 +3.5% 누적(상한 +45%).\n"
+"몬스터에게 공격받으면 카운트 초기화."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"피해를 입은 후 다음 공격 데미지 +30%, 명중률 +15%.\n"
+"단, 최대 생명력 -10%."
+
+msgid "伐木菜鸟"
+msgstr "벌목 초보"
+
+msgid "挖掘菜鸟"
+msgstr "채굴 초보"
+
+msgid "冶炼菜鸟"
+msgstr "제련 초보"
+
+msgid "锻造菜鸟"
+msgstr "대장기술 초보"
+
+msgid "种地菜鸟"
+msgstr "농업 초보"
+
+msgid "炼金菜鸟"
+msgstr "연금술 초보"
+
+msgid "钓鱼菜鸟"
+msgstr "낚시 초보"
+
+msgid "烹饪菜鸟"
+msgstr "요리 초보"
+
+msgid "狩猎菜鸟"
+msgstr "사냥 초보"
+
+msgid "制图菜鸟"
+msgstr "지도 제작 초보"
+
+msgid "考古菜鸟"
+msgstr "고고학 초보"
+
+msgid "单手武器菜鸟"
+msgstr "한손 무기 초보"
+
+msgid "双手武器菜鸟"
+msgstr "양손 무기 초보"
+
+msgid "远程武器菜鸟"
+msgstr "원거리 무기 초보"
+
+msgid "防御菜鸟"
+msgstr "방어 초보"
+
+msgid "伐木高手"
+msgstr "벌목 고수"
+
+msgid "挖掘高手"
+msgstr "채굴 고수"
+
+msgid "冶炼高手"
+msgstr "제련 고수"
+
+msgid "锻造高手"
+msgstr "대장기술 고수"
+
+msgid "种地高手"
+msgstr "농업 고수"
+
+msgid "炼金高手"
+msgstr "연금술 고수"
+
+msgid "钓鱼高手"
+msgstr "낚시 고수"
+
+msgid "烹饪高手"
+msgstr "요리 고수"
+
+msgid "狩猎高手"
+msgstr "사냥 고수"
+
+msgid "制图高手"
+msgstr "지도 제작 고수"
+
+msgid "考古高手"
+msgstr "고고학 고수"
+
+msgid "单手武器高手"
+msgstr "한손 무기 고수"
+
+msgid "双手武器高手"
+msgstr "양손 무기 고수"
+
+msgid "远程武器高手"
+msgstr "원거리 무기 고수"
+
+msgid "防御高手"
+msgstr "방어 고수"
+
+msgid "伐木大王"
+msgstr "벌목 대왕"
+
+msgid "挖掘大王"
+msgstr "채굴 대왕"
+
+msgid "冶炼大王"
+msgstr "제련 대왕"
+
+msgid "锻造大王"
+msgstr "대장기술 대왕"
+
+msgid "种地大王"
+msgstr "농업 대왕"
+
+msgid "炼金大王"
+msgstr "연금술 대왕"
+
+msgid "钓鱼大王"
+msgstr "낚시 대왕"
+
+msgid "烹饪大王"
+msgstr "요리 대왕"
+
+msgid "狩猎大王"
+msgstr "사냥 대왕"
+
+msgid "制图大王"
+msgstr "지도 제작 대왕"
+
+msgid "考古大王"
+msgstr "고고학 대왕"
+
+msgid "单手武器大王"
+msgstr "한손 무기 대왕"
+
+msgid "双手武器大王"
+msgstr "양손 무기 대왕"
+
+msgid "远程武器大王"
+msgstr "원거리 무기 대왕"
+
+msgid "防御大王"
+msgstr "방어 대왕"
+
+msgid "Tutorial"
+msgstr "튜토리얼"
+
+msgid "Loadout"
+msgstr "로드아웃"
+
+msgid "Character"
+msgstr "캐릭터"
+
+msgid "Inventory"
+msgstr "인벤토리"
+
+msgid "Journey"
+msgstr "여정"
+
+msgid "Quests"
+msgstr "퀘스트"
+
+msgid "Community"
+msgstr "커뮤니티"
+
+msgid "Cheat"
+msgstr "치트"
+
+msgid "Dev"
+msgstr "개발"
+
+msgid "Shop"
+msgstr "상점"
+
+msgid "StarStore"
+msgstr "별의 상점"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Profile"
+msgstr "프로필"
+
+msgid "Codex"
+msgstr "코덱스"
+
+msgid "Leaderboard"
+msgstr "순위표"
+
+msgid "Achievements"
+msgstr "업적"
+
+msgid "Talents"
+msgstr "재능"
+
+msgid "Traits"
+msgstr "특성"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Skills"
+msgstr "스킬"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Exit"
+msgstr "종료"
+
+msgid "Skill unlocked: {0}"
+msgstr "스킬 잠금 해제됨: {0}"
+
+msgid "Ad Opportunity"
+msgstr "광고 기회"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "광고 기회 다이얼로그 설명"
+
+msgid "Ad Opportunity Finished"
+msgstr "광고 시청 완료"
+
+msgid "Ad Failed"
+msgstr "광고 실패"
+
+msgid "Activated Modifiers"
+msgstr "활성화된 수정자"
+
+msgid "Completed"
+msgstr "완료됨"
+
+msgid "Bankrupted"
+msgstr "파산함"
+
+msgid "Privacy Policy"
+msgstr "개인정보 처리방침"
+
+msgid "Decline"
+msgstr "거절"
+
+msgid "Accept"
+msgstr "수락"
+
+msgid "Skills Total Level"
+msgstr "총 스킬 레벨"
+
+msgid "Formater"
+msgstr "Formater"
+
+msgid "✦ First selection is free"
+msgstr "✦ 첫 번째 선택은 무료입니다"
+
+msgid "Switch cooldown: {0}"
+msgstr "전환 대기시간: {0}"
+
+msgid "● ACTIVE"
+msgstr "● 활성"
+
+msgid "Details"
+msgstr "상세 정보"
+
+msgid "Inspect"
+msgstr "조사"
+
+msgid "← Back"
+msgstr "← 뒤로"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● 활성 특성"
+
+msgid "Selected"
+msgstr "선택됨"
+
+msgid "Switch  (1× Formater)"
+msgstr "전환 (1× Formater)"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr "총 스킬 레벨 {0}에 도달하여 이 특성 슬롯을 잠금 해제하세요. (현재: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "특성 변경 시 1× Formater가 소모됩니다"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Activate"
+msgstr "활성화"
+
+msgid "Loading"
+msgstr "로딩 중"
+
+msgid "Buy"
+msgstr "구매"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "{0} 광고를 시청하고 {1}을(를) 받으시겠습니까?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "별 {0}개를 사용하여 {1}을(를) 얻으시겠습니까?"
+
+msgid "Success"
+msgstr "성공"
+
+msgid "Successfully purchased %s"
+msgstr "%s을(를) 성공적으로 구매했습니다"
+
+msgid "Failed"
+msgstr "실패"
+
+msgid "Failed to purchase %s"
+msgstr "%s 구매에 실패했습니다"
+
+msgid "Consumes"
+msgstr "소모"
+
+msgid "Drops"
+msgstr "드롭 아이템"
+
+msgid "Loot"
+msgstr "전리품"
+
+msgid "Props"
+msgstr "소품"
+
+msgid "Auto Equip"
+msgstr "자동 장착"
+
+msgid "Actions"
+msgstr "행동"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "10분 가속: 별 1개"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "던전: {0} - {1} 웨이브"
+
+msgid "Last wave is BOSS!"
+msgstr "마지막 웨이브는 보스입니다!"
+
+msgid "Monster Pool:"
+msgstr "몬스터 풀:"
+
+msgid "Equipped"
+msgstr "장착됨"
+
+msgid "No Prop Selected"
+msgstr "선택된 소품 없음"
+
+msgid "Item is not a prop"
+msgstr "소품이 아닌 아이템입니다"
+
+msgid "Stop"
+msgstr "정지"
+
+msgid "Amount"
+msgstr "수량"
+
+msgid "Search"
+msgstr "검색"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Price"
+msgstr "가격"
+
+msgid "Not enough coins"
+msgstr "코인이 부족합니다"
+
+msgid "About"
+msgstr "정보"
+
+msgid "Game Version"
+msgstr "게임 버전"
+
+msgid "Theme Preference"
+msgstr "테마 설정"
+
+msgid "Theme Style"
+msgstr "테마 스타일"
+
+msgid "Seed Color"
+msgstr "시드 색상"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "UI Scale"
+msgstr "UI 배율"
+
+msgid "Scale: {0}"
+msgstr "배율: {0}"
+
+msgid "Sound Volume"
+msgstr "효과음 볼륨"
+
+msgid "Volume: {0}"
+msgstr "볼륨: {0}"
+
+msgid "Music Volume"
+msgstr "음악 볼륨"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Stock"
+msgstr "재고"
+
+msgid "Materials"
+msgstr "재료"
+
+msgid "Empty"
+msgstr "비어 있음"
+
+msgid "Item"
+msgstr "아이템"
+
+msgid "Select a material"
+msgstr "재료를 선택하세요"
+
+msgid "Not enough materials"
+msgstr "재료가 부족합니다"
+
+msgid "Create"
+msgstr "제작"
+
+msgid "Quest"
+msgstr "퀘스트"
+
+msgid "Rewards"
+msgstr "보상"
+
+msgid "Claim Reward"
+msgstr "보상 수령"
+
+msgid "Reward Claimed"
+msgstr "보상 수령됨"
+
+msgid "In Progress"
+msgstr "진행 중"
+
+msgid "Daily Quests"
+msgstr "일일 퀘스트"
+
+msgid "Requirements"
+msgstr "요구사항"
+
+msgid "Saving..."
+msgstr "저장 중..."
+
+msgid "Saved"
+msgstr "저장됨"
+
+msgid "Creating save"
+msgstr "저장 파일 생성 중"
+
+msgid "Deleting save"
+msgstr "저장 파일 삭제 중"
+
+msgid "Entering save"
+msgstr "저장 파일 불러오는 중"
+
+msgid "Refreshing"
+msgstr "새로고침 중"
+
+msgid "Syncing cloud"
+msgstr "클라우드 동기화 중"
+
+msgid "New save"
+msgstr "새 저장"
+
+msgid "No modified time"
+msgstr "수정 시간 없음"
+
+msgid "Character name"
+msgstr "캐릭터 이름"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Saves"
+msgstr "저장 파일"
+
+msgid "Delete save"
+msgstr "저장 파일 삭제"
+
+msgid "Delete {0} ?"
+msgstr "{0}을(를) 삭제하시겠습니까?"
+
+msgid "Onboarding"
+msgstr "온보딩"
+
+msgid "Total Mastery"
+msgstr "총 숙련도"
+
+msgid "{0} mastered"
+msgstr "{0} 숙련 완료"
+
+msgid "Progress Rank"
+msgstr "진행 순위"
+
+msgid "Collect items to start"
+msgstr "아이템을 수집하여 시작하세요"
+
+msgid "Mastery Level"
+msgstr "숙련도 레벨"
+
+msgid "Locked"
+msgstr "잠김"
+
+msgid "Friends Only"
+msgstr "친구 전용"
+
+msgid "Your Rank"
+msgstr "내 순위"
+
+msgid "Total Mastery XP"
+msgstr "총 숙련 경험치"
+
+msgid "Loading leaderboard..."
+msgstr "순위표 로딩 중..."
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Retry"
+msgstr "재시도"
+
+msgid "No Data Available"
+msgstr "데이터 없음"
+
+msgid "Add friends to see rankings"
+msgstr "순위를 보려면 친구를 추가하세요"
+
+msgid "Slots"
+msgstr "슬롯"
+
+msgid "Open Results"
+msgstr "결과 확인"
+
+msgid "Nothing obtained."
+msgstr "획득한 아이템이 없습니다."
+
+msgid "Inventory full"
+msgstr "인벤토리가 가득 찼습니다"
+
+msgid "Item is locked"
+msgstr "아이템이 잠겨 있습니다"
+
+msgid "Sell"
+msgstr "판매"
+
+msgid "Purchase Slot"
+msgstr "슬롯 구매"
+
+msgid "Max Slots"
+msgstr "최대 슬롯"
+
+msgid "Selections"
+msgstr "선택 항목"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Remove the relic?"
+msgstr "유물을 제거하시겠습니까?"
+
+msgid "Place Relic"
+msgstr "유물 배치"
+
+msgid "Enchanting"
+msgstr "마법 부여"
+
+msgid "Square"
+msgstr "정사각형"
+
+msgid "Altar"
+msgstr "제단"
+
+msgid "Stop Enchanting"
+msgstr "마법 부여 중단"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "마법 부여를 중단하시겠습니까? 재료는 환불되지 않습니다."
+
+msgid "Enchanting Result"
+msgstr "마법 부여 결과"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr "인벤토리에 넣을 아이템을 선택하세요. 다른 아이템은 버려집니다."
+
+msgid "Put in Inventory"
+msgstr "인벤토리에 넣기"
+
+msgid "Select Item"
+msgstr "아이템 선택"
+
+msgid "Original"
+msgstr "원본"
+
+msgid "New"
+msgstr "새로운 아이템"
+
+msgid "Click to Keep"
+msgstr "클릭하여 유지"
+
+msgid "Remaining"
+msgstr "남은 수량"
+
+msgid "Possible Modifiers"
+msgstr "가능한 수정자"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "무작위로 1-2개의 수정자를 획득합니다."
+
+msgid "Capacity"
+msgstr "용량"
+
+msgid "Upgrade"
+msgstr "업그레이드"
+
+msgid "Occupying"
+msgstr "점유 중"
+
+msgid "Unlocked"
+msgstr "잠금 해제됨"
+
+msgid "Layers"
+msgstr "레이어"
+
+msgid "Not Built"
+msgstr "건설되지 않음"
+
+msgid "Max Level Reached"
+msgstr "최대 레벨 도달"
+
+msgid "Decrease Tier"
+msgstr "티어 감소"
+
+msgid "Increase Tier"
+msgstr "티어 증가"
+
+msgid "Tier"
+msgstr "티어"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Offline Rewards"
+msgstr "오프라인 보상"
+
+msgid "You have been offline for {0}."
+msgstr "{0} 동안 오프라인 상태였습니다."
+
+msgid "Quantity"
+msgstr "수량"
+
+msgid "Max Count"
+msgstr "최대 수량"
+
+msgid "1 Left"
+msgstr "1개 남음"
+
+msgid "Owned"
+msgstr "보유함"
+
+msgid "Unit Price"
+msgstr "단가"
+
+msgid "Total Price"
+msgstr "총 가격"
+
+msgid "Current Item"
+msgstr "현재 아이템"
+
+msgid "Count"
+msgstr "개수"
+
+msgid "{0} missed {1}"
+msgstr "{0}이(가) {1}을(를) 놓쳤습니다"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0}이(가) {1}을(를) 적중시켰습니다, 피해량: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0}이(가) 패배했습니다"
+
+msgid "Trait triggered: {0}"
+msgstr "특성 발동: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "전투 종료: {0}"
+
+msgid "Combat started"
+msgstr "전투 시작"
+
+msgid "Reviving..."
+msgstr "부활 중..."
+
+msgid "Combat Log"
+msgstr "전투 로그"
+
+msgid "No combat events yet."
+msgstr "아직 전투 이벤트가 없습니다."
+
+msgid "No trait activations yet."
+msgstr "아직 발동된 특성이 없습니다."
+
+msgid "Attack Speed"
+msgstr "공격 속도"
+
+msgid "Slash Damage"
+msgstr "베기 피해"
+
+msgid "Puncture Damage"
+msgstr "찌르기 피해"
+
+msgid "Impact Damage"
+msgstr "타격 피해"
+
+msgid "Slash Resistance"
+msgstr "베기 저항"
+
+msgid "Puncture Resistance"
+msgstr "찌르기 저항"
+
+msgid "Impact Resistance"
+msgstr "타격 저항"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "숙련도 진행도: {0}/{1}"
+
+msgid "Equipment"
+msgstr "장비"
+
+msgid "Farming"
+msgstr "농사"
+
+msgid "Material"
+msgstr "재료"
+
+msgid "Misc"
+msgstr "기타"
+
+msgid "Relics"
+msgstr "유물"
+
+msgid "Item Mastered"
+msgstr "아이템 숙련 완료"
+
+msgid "Mastery Complete"
+msgstr "숙련도 완료"
+
+msgid "Mastery Rank"
+msgstr "숙련도 등급"
+
+msgid "Rank Advanced"
+msgstr "등급 상승"
+
+msgid "Your mastery continues to grow"
+msgstr "숙련도가 계속 성장합니다"
+
+msgid "Finished"
+msgstr "완료됨"
+
+msgid "Fee: {0}"
+msgstr "수수료: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "시장 압력: {0}"
+
+msgid "You Pay"
+msgstr "지불 금액"
+
+msgid "You Receive"
+msgstr "수령 금액"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"시장 압력은 시장 포화도를 나타냅니다. 시장 압력이 높을수록 구매 환율이 불리해집니다. 시장 압력은 시간이 지남에 따라 자연적으로 "
+"감소합니다."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "코인을 섬 주민권으로 교환하면 시장 압력이 증가합니다."
+
+msgid "Confirm Exchange"
+msgstr "교환 확인"
+
+msgid "Enter Amount"
+msgstr "수량 입력"
+
+msgid "Insufficient Balance"
+msgstr "잔액 부족"
+
+msgid "Balance: {0}"
+msgstr "잔액: {0}"
+
+msgid "MAX"
+msgstr "최대"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"작은 실수를 했다고 생각되면 아래 버튼을 클릭하여 다시 시작하세요! 걱정 마세요. 위대함을 향한 여정에서 겪는 사소한 문제일 뿐입니다."
+
+msgid "Start Over"
+msgstr "다시 시작"
+
+msgid "Are you sure?"
+msgstr "확실합니까?"
+
+msgid "Port"
+msgstr "항구"
+
+msgid "Next Trade In: {0}"
+msgstr "다음 거래 시간: {0}"
+
+msgid "Current Stats"
+msgstr "현재 능력치"
+
+msgid "Capacity (per trade)"
+msgstr "용량 (거래당)"
+
+msgid "Trade Interval"
+msgstr "거래 간격"
+
+msgid "Saturation Speed"
+msgstr "포화도 증가 속도"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/아이템, -{1}/초"
+
+msgid "Upgrades"
+msgstr "업그레이드"
+
+msgid "How many items can be sold per trade."
+msgstr "거래당 판매할 수 있는 아이템 수입니다."
+
+msgid "How often trades happen. Lower is better."
+msgstr "거래가 발생하는 주기입니다. 낮을수록 좋습니다."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "포화도가 더 느리게 상승하고 더 빠르게 감소합니다."
+
+msgid "Now"
+msgstr "지금"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Cost"
+msgstr "비용"
+
+msgid "Last Trade"
+msgstr "마지막 거래"
+
+msgid "Trade Rule"
+msgstr "거래 규칙"
+
+msgid "Stock: {0}"
+msgstr "재고: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "포화도: {0}% (가격 x{1})"
+
+msgid "Trade Mode"
+msgstr "거래 모드"
+
+msgid "Min Stock"
+msgstr "최소 재고"
+
+msgid "Saturation"
+msgstr "포화도"
+
+msgid "Policies"
+msgstr "정책"
+
+msgid "Banking"
+msgstr "은행"
+
+msgid "Repository"
+msgstr "저장소"
+
+msgid "Farmers"
+msgstr "농부"
+
+msgid "Workers"
+msgstr "노동자"
+
+msgid "Astrologers"
+msgstr "점성가"
+
+msgid "Alchemists"
+msgstr "연금술사"
+
+msgid "GreatToken"
+msgstr "위대한 토큰"
+
+msgid "The Office"
+msgstr "관청"
+
+msgid "Productivity"
+msgstr "생산성"
+
+msgid "Population"
+msgstr "인구"
+
+msgid "Insufficient Resources"
+msgstr "자원 부족"
+
+msgid "Insufficient Workforce"
+msgstr "인력 부족"
+
+msgid "Maintenance"
+msgstr "유지 보수"
+
+msgid "Production Period"
+msgstr "생산 주기"
+
+msgid "Building..."
+msgstr "건설 중..."
+
+msgid "Build"
+msgstr "건설"
+
+msgid "Build Cost"
+msgstr "건설 비용"
+
+msgid "Period Costs"
+msgstr "기간별 비용"
+
+msgid "Period Yields"
+msgstr "기간별 생산량"
+
+msgid "Balance"
+msgstr "잔액"
+
+msgid "Maintenance: {0}s"
+msgstr "유지비: {0}초"
+
+msgid "Trade: {0}"
+msgstr "거래: {0}"
+
+msgid "Available: {0}"
+msgstr "사용 가능: {0}"
+
+msgid "Still needed: {0}"
+msgstr "추가 필요: {0}"
+
+msgid "Done"
+msgstr "완료"
+
+msgid "Already completed."
+msgstr "이미 완료됨."
+
+msgid "No available items."
+msgstr "사용 가능한 항목 없음."
+
+msgid "Add Items."
+msgstr "항목 추가."
+
+msgid "Amount: {0}"
+msgstr "수량: {0}"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "All"
+msgstr "모두"
+
+msgid "Needed"
+msgstr "필요함"
+
+msgid "Progress"
+msgstr "진행도"
+
+msgid "Action"
+msgstr "액션"
+
+msgid "Great Token"
+msgstr "위대한 토큰"
+
+msgid "Total Progress"
+msgstr "전체 진행도"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr "카드를 슬롯으로 드래그한 후 확인을 눌러 적용하세요. 잠금 해제된 카드만 배치할 수 있습니다."
+
+msgid "Unlocked: {0}"
+msgstr "잠금 해제됨: {0}"
+
+msgid "Reset"
+msgstr "재설정"
+
+msgid "Unequip"
+msgstr "장착 해제"
+
+msgid "Cards"
+msgstr "카드"
+
+msgid "{0} Policies"
+msgstr "{0} 정책"
+
+msgid "Equipped: {0}"
+msgstr "장착됨: {0}"
+
+msgid "Not equipped"
+msgstr "장착되지 않음"
+
+msgid "Equip"
+msgstr "장착"
+
+msgid "Costs"
+msgstr "비용"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Economic"
+msgstr "경제"
+
+msgid "Labor"
+msgstr "노동"
+
+msgid "Social"
+msgstr "사회"
+
+msgid "Wildcard"
+msgstr "와일드카드"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"당신이 누구인지 알고 있습니다! 명성이 자자하고 다재다능한 숙련도 마스터시군요. 당신의 뛰어난 지능으로 이미 도시 운영 방식을 파악했으리라 "
+"믿지만, 그래도 소개를 드려야겠습니다! 피할 수는 없습니다!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr "첫 번째 단계는 인구를 확보하는 것입니다. 농부 주택을 건설하면 됩니다. 농부 탭을 선택하세요."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr "훌륭한 시도입니다! 이제 나무 공장과 제재소를 건설하여 판자를 생산하세요."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"좋습니다. 이제 이것들을 팔아봅시다. 먼저 항구로 이동하세요. 판자를 찾은 후 거래 모드를 판매로 설정하면 적절한 시기에 자동으로 "
+"판매됩니다. 정말 간단하죠!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"훌륭합니다! 당신의 궁극적인 목표는 위대한 토큰을 합성하여 범상치 않은 도시 운영 능력을 증명하는 것입니다. 그 목표를 향해 정진하세요!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "모두 완료되었습니다! 이제 당신의 큰 뜻을 펼쳐보세요!"
+
+msgid "Skill level too low"
+msgstr "스킬 레벨이 너무 낮습니다"
+
+msgid "Not enough items"
+msgstr "아이템이 부족합니다"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "행위자"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "최대 체력"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "체력"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "공격 속도"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "방어력"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "피해량 배율"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "피해 감쇄 배율"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "베기 피해"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "찌르기 피해"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "타격 피해"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "명중률 보너스"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "회피율 보너스"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "베기 저항"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "찌르기 저항"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "타격 저항"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "플레이어"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "음식 효과"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "오프라인 보상 배율"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "스킬"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "벌목 효율"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "채광 효율"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "제련 효율"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "대장기술 효율"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "농사 효율"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "연금술 효율"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "낚시 효율"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "요리 효율"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "사냥 효율"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "해도 제작 효율"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "고고학 효율"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "한손 무기 효율"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "양손 무기 효율"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "원거리 무기 효율"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "방어 효율"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "벌목 속도"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "채광 속도"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "제련 속도"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "대장기술 속도"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "농사 속도"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "연금술 속도"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "낚시 속도"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "요리 속도"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "사냥 속도"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "해도 제작 속도"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "고고학 속도"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "한손 무기 속도"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "양손 무기 속도"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "원거리 무기 속도"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "방어 속도"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "벌목 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "채광 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "제련 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "대장기술 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "농사 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "연금술 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "낚시 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "요리 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "사냥 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "해도 제작 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "고고학 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "한손 무기 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "양손 무기 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "원거리 무기 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "방어 경험치 배율"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "벌목 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "채광 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "제련 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "대장기술 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "농사 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "연금술 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "낚시 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "요리 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "사냥 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "해도 제작 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "고고학 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "한손 무기 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "양손 무기 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "원거리 무기 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "방어 획득량 배율"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "벌목 행운"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "채광 행운"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "제련 행운"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "대장기술 행운"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "농사 행운"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "연금술 행운"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "낚시 행운"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "요리 행운"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "사냥 행운"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "해도 제작 행운"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "고고학 행운"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "전투 경험치"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "전투 보상량"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "채집 경험치"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "채집 보상량"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "채집 속도"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "제작 경험치"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "제작 보상량"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "제작 속도"
+
+msgid "Skill {0} level up to {1}"
+msgstr "{0} 스킬 레벨이 {1}로 올랐습니다"
+
+msgid "Food"
+msgstr "음식"
+
+msgid "Combat Potion"
+msgstr "전투 물약"
+
+msgid "Gather Potion"
+msgstr "채집 물약"
+
+msgid "Craft Potion"
+msgstr "제작 물약"
+
+msgid "Inventory Slots"
+msgstr "인벤토리 슬롯"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "시스템"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "라이트"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "다크"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "토널 스팟"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "중립"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "바이브런트"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "익스프레시브"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "무지개"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "과일 샐러드"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "모노크롬"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "피델리티"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "콘텐츠"
+
+msgid "Unlock {0}"
+msgstr "{0} 잠금 해제"
+
+msgid "No requirement"
+msgstr "요구 사항 없음"
+
+msgid "{0} reach level {1}"
+msgstr "{0} 레벨 {1} 도달"
+
+msgid "Unknown skill"
+msgstr "알 수 없는 스킬"
+
+msgid "{0} completed"
+msgstr "{0} 완료됨"
+
+msgid "Error Quest"
+msgstr "오류 퀘스트"
+
+msgid "Kill {0} {1}"
+msgstr "{0} {1} 처치"
+
+msgid "Collect {0} {1}"
+msgstr "{0} {1} 수집"
+
+msgid "Finish {0} {1}"
+msgstr "{0} {1} 완료"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "{1} {0} 건설"
+
+msgid "Quest {0} completed"
+msgstr "퀘스트 {0} 완료됨"
+
+msgid "Weapon"
+msgstr "무기"
+
+msgid "Shield"
+msgstr "방패"
+
+msgid "Helmet"
+msgstr "투구"
+
+msgid "Armor"
+msgstr "갑옷"
+
+msgid "LegArmor"
+msgstr "바지"
+
+msgid "Boots"
+msgstr "장화"
+
+msgid "Accessories"
+msgstr "액세서리"
+
+msgid "Necklace"
+msgstr "목걸이"
+
+msgid "Ring"
+msgstr "반지"
+
+msgid "Bracelet"
+msgstr "팔찌"
+
+msgid "Cape"
+msgstr "망토"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "Axe"
+msgstr "도끼"
+
+msgid "Pickaxe"
+msgstr "곡괭이"
+
+msgid "Spade"
+msgstr "삽"
+
+msgid "Rod"
+msgstr "낚싯대"
+
+msgid "Trap"
+msgstr "덫"
+
+msgid "{0} Completed"
+msgstr "{0} 완료됨"
+
+msgid "Items not enough"
+msgstr "아이템이 부족합니다"
+
+msgid "CombatPotion"
+msgstr "전투 물약"
+
+msgid "GatherPotion"
+msgstr "채집 물약"
+
+msgid "CraftPotion"
+msgstr "제작 물약"
+
+msgid "Flower"
+msgstr "꽃"
+
+msgid "Vegetable"
+msgstr "채소"
+
+msgid "Fruit"
+msgstr "과일"
+
+msgid "Fish"
+msgstr "생선"
+
+msgid "Sword"
+msgstr "검"
+
+msgid "Hammer"
+msgstr "망치"
+
+msgid "Scythe"
+msgstr "낫"
+
+msgid "Spear"
+msgstr "창"
+
+msgid "Bow"
+msgstr "활"
+
+msgid "Dart"
+msgstr "다트"
+
+msgid "Relic"
+msgstr "유물"
+
+msgid "%s secs"
+msgstr "%s 초"
+
+msgid "%s mins"
+msgstr "%s 분"
+
+msgid "%s hours"
+msgstr "%s 시간"
+
+msgid "%s days"
+msgstr "%s 일"
+
+msgid "%s weeks"
+msgstr "%s 주"
+
+msgid "%s months"
+msgstr "%s 개월"
+
+msgid "%s years"
+msgstr "%s 년"
+
+msgid "Always"
+msgstr "항상"
+
+msgid "Common"
+msgstr "일반"
+
+msgid "Uncommon"
+msgstr "고급"
+
+msgid "Rare"
+msgstr "희귀"
+
+msgid "Legendary"
+msgstr "전설"
+
+msgid "Frenzy"
+msgstr "광란"
+
+msgid "Tanky"
+msgstr "튼튼함"
+
+msgid "Deadly"
+msgstr "치명적"
+
+msgid "Swift"
+msgstr "신속"
+
+msgid "Precise"
+msgstr "정밀"
+
+msgid "Hardened"
+msgstr "강화"

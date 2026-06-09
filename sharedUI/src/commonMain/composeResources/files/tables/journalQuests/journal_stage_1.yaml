@@ -1,0 +1,40 @@
+- id: quest_stage_1_1
+  name: 第一步
+  conditions:
+    - !<itemCollected>
+      itemId: pine_wood
+      need: 5
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_mining
+
+
+- id: quest_stage_1_2
+  name: 让我们挖掘
+  conditions:
+    - !<itemCollected>
+      itemId: copper_ore
+      need: 10
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_smelting
+
+
+- id: quest_stage_1_3
+  name: 让我们冶炼
+  conditions:
+    - !<itemCollected>
+      itemId: copper_bar
+      need: 5
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_fishing

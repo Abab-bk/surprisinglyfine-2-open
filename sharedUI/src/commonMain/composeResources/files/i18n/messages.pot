@@ -1,0 +1,5780 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Files: starStoreItems/starStoreItems.yaml
+msgid "24 小时 +100% 技能经验"
+msgstr ""
+
+#. Files: starStoreItems/starStoreItems.yaml
+msgid "24 小时 +100% 离线收益"
+msgstr ""
+
+#. Files: square/square_alchemy_lab.yaml, data/infrastructures.yml
+msgid "炼金实验室"
+msgstr ""
+
+#. Files: square/square_anvil.yaml, data/infrastructures.yml
+msgid "铁砧"
+msgstr ""
+
+#. Files: square/square_cartography.yaml, data/infrastructures.yml
+msgid "制图台"
+msgstr ""
+
+#. Files: square/square_cooking_pot.yaml, data/infrastructures.yml
+msgid "烹饪锅"
+msgstr ""
+
+#. Files: square/square_furnace.yaml, data/infrastructures.yml
+msgid "熔炉"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "投资政策"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "建筑建造费用 {0}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "财政改革"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "全城维护费 {0}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "关税壁垒"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "饱和度恢复速度 {0}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "自动化生产"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "标准化作业"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "生产速度 {0}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "强制加班"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "福利国家"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "居住建筑维护费 {0}"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "公共住房"
+msgstr ""
+
+#. Files: policies/policyCards.yaml
+msgid "住宅容量 {0}"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_1.yaml
+msgid "第一步"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_1.yaml
+msgid "让我们挖掘"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_1.yaml
+msgid "让我们冶炼"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_2.yaml
+msgid "想吃点鱼"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_2.yaml
+msgid "想吃点鱼2"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_2.yaml
+msgid "整装待发"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_2.yaml
+msgid "击杀邪恶哥布林"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_3.yaml
+msgid "花匠"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_3.yaml
+msgid "炼金师"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_3.yaml
+msgid "猎户"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_3.yaml
+msgid "考古时刻"
+msgstr ""
+
+#. Files: journalQuests/journal_stage_3.yaml
+msgid "考古时刻2"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "工人住宅"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "黏土坑"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "砖厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "猪场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "屠宰场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "谷物农场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "面粉厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "面包厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml, data/dlcsocietalitems.yml
+msgid "铁矿"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "石油矿"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "炼铁厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "钢铁厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "炼脂厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "肥皂厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "武器厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "麦芽厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "啤酒花厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml, data/skills_archaeologyskillactions.yml
+msgid "啤酒厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "农民住宅"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "树厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "锯木厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "渔场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "土豆农场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "伏特加酒厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "羊毛厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "服装厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "占星学家别墅"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "西瓜农场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "鸡蛋厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "曲奇厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "曲奇罐头厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "沙矿场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "硅厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "电子厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "放大镜厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "颜料厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "笔厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "绘图纸厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "绘图厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "炼金术士别墅"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "采石场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "混凝土厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "锌矿厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "石英矿场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "轴矿场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "红酒厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "注射器厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "橡胶农场"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "生化服厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "硝石工厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "炸药工厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "炼药锅"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "镍矿厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "镍锭厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "磁带厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "纤维厂"
+msgstr ""
+
+#. Files: data/buildingtemplates.yml
+msgid "光盘厂"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "要号码宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "对抗纨绔宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "美颜参数宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "说梦话宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "猫咪张嘴宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "傻子太多宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "生活太难宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "生活太难宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "雄心壮志宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "雄心壮志宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "喝水宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "礼貌宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "礼貌宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "厉害宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "厉害宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "厉害宝箱 3"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "奢侈品宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "奢侈品宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "不可战胜宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "不可战胜宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "帅哥宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "镇静宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "生活方式宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "生活方式宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "爱情故事宝箱"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "爱情故事宝箱 2"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "爱情故事宝箱 3"
+msgstr ""
+
+#. Files: data/chests.yml
+msgid "爱情故事宝箱 4"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "硬币"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "星星"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "瓶子"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "蚯蚓"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "皮革"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "羽毛"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "墨水"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "岛民券"
+msgstr ""
+
+#. Files: data/commonitems.yml
+msgid "塑形器"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "钢铁"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "啤酒"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "麦芽"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "啤酒花"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "好猪肉"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "谷物"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "面粉"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "面包"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "油脂"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "肥皂"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "武器"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "砖块"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "猪肉"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "粘土"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "石油"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "铁锭"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "木板"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "土豆"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "鱼"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "伏特加"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "羊毛"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "衣服"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "原木"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "西瓜"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "鸡蛋"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "曲奇"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "曲奇罐头"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "沙子"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "硅"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "电路板"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "放大镜"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "颜料"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "笔"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "绘图纸"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "星图"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "石头"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "混凝土"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "锌"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "石英"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "铀"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "红酒"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml, data/items.yml
+msgid "注射器"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "橡胶"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "生化服"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "硝石"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "炸药"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "炼金锅"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "镍"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "镍锭"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "磁带"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "纤维"
+msgstr ""
+
+#. Files: data/dlcsocietalitems.yml
+msgid "光盘"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶虾兵"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶蟹将"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶史莱姆"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶秃头"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶龙骨"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶泰坦"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶将军"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "邪恶大王"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶史莱姆"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶秃头"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶龙骨"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶泰坦"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶将军"
+msgstr ""
+
+#. Files: data/enemies_impact.yml
+msgid "精英邪恶大王"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶死人"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶蛇蛇"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶小偷"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶外星人"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶大象"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶野人"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶三头龙"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "邪恶邪神"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶小偷"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶外星人"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶大象"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶野人"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶三头龙"
+msgstr ""
+
+#. Files: data/enemies_puncture.yml
+msgid "精英邪恶邪神"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶螃蟹"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶太阳花"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶小鸡"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶蜘蛛"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶蜜蜂"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶笑脸男"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶骑士"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "邪恶巫婆"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶小鸡"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶蜘蛛"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶蜜蜂"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶笑脸男"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶骑士"
+msgstr ""
+
+#. Files: data/enemies_slash.yml
+msgid "精英邪恶巫婆"
+msgstr ""
+
+#. Files: data/infrastructures.yml
+msgid "祭坛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹剑"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹锤"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹镰刀"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹矛"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹飞镖"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金护甲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "金披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹靴子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹腿甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹头盔"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹盾牌"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹护甲"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹披风"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "红宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "黄宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "绿宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "月亮宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "水晶宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星星宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "玛瑙宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹宝石戒指"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "红宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "黄宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "绿宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "月亮宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "水晶宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星星宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "玛瑙宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹宝石项链"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "红宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "黄宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "绿宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "月亮宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "水晶宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星星宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "玛瑙宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹宝石手环"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "铜铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "铜斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "铜陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "银铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "银斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "银陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "金铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "金斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "金陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "霜冻铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "霜冻斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "霜冻陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "翡翠铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "翡翠斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "翡翠陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "熔岩铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "熔岩斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "熔岩陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "星辰铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "星辰斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "星辰陷阱"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹鱼竿"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "彩虹铲"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "彩虹斧"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹镐"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_smithingactions.yml
+msgid "彩虹陷阱"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "苹果"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "草莓"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "香蕉"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "蓝莓"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "樱桃"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "橙子"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "桃子"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "椰子"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "铜矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "银矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "金矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "霜冻矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "翡翠矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "熔岩矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "星辰矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "彩虹矿石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "眼睛"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "牙"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "黄色眼睛"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "锋利的牙"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "绿色眼睛"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "恐怖金牙"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红色眼睛"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "骷髅头"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "炭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "铜锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "银锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "金锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "霜冻锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "翡翠锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "熔岩锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "星辰锭"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "彩虹锭"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "松木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "云杉木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "桦木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "柚木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "桃花心木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "铁皮木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红木"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "古木"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲤鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鳟鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "三文鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲈鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "罗非鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲭鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "沙丁鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲱鱼"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲤鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鳟鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "三文鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲈鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "罗非鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲭鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "沙丁鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲱鱼料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲤鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鳟鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "三文鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲈鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "罗非鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲭鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "沙丁鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "鲱鱼豪华料理"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "黄宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "绿宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "月亮宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "水晶宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "星星宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "玛瑙宝石"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "彩虹宝石"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "红宝石精华"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "黄宝石精华"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "绿宝石精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "月亮精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "水晶精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "星星精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "玛瑙精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "彩虹精华"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "宝石粉末"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "种子"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "肥料"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "兰花"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "雏菊"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "郁金香"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "玫瑰"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "金盏花"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "牡丹"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "风铃草"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "向日葵"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "玉米"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "白菜"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "辣椒"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "萝卜"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "蘑菇"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "番茄"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "茄子"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "黄瓜"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "精英怪物地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "老洞穴地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "泡菜厂地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "老学校地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "啤酒厂地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "大香蕉地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "藏身处地图"
+msgstr ""
+
+#. Files: data/items.yml, data/skills_skillactions.yml
+msgid "木地地图"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红色血包"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "大电池手电筒"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "空空瓶"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "大哥大"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "卡姆PIU特"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红药丸瓶"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "神奇海螺"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "蓝色笔"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "对话气泡"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "蓝色小人"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "音药"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "拳头！"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "叶子~"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "火药球"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "蝴蝶蝶"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "考试小抄"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "下头！"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "护目镜"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "硬币？"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "贵项链"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "贵戒指"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "经典背包经典"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "经典小包经典"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "烛蜡"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "经典宝箱经典"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "经典十字经典"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "神秘墓碑"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "神秘铁锤"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "无良印品"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "鱼鱼"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "捣蒜器"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "离洞绳"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "美容镜"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "八匹狼"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "神秘沙漏"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "红心"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "火焰"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "全麦面包"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "没寄出的信"
+msgstr ""
+
+#. Files: data/items.yml
+msgid "花生之神"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "威风堂堂"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "百折不挠的真诚"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "直言不讳的勇敢"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "空想家"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "令人震惊的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "恐慌的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "无法忍受的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "邪恶的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "难以置信的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "搞点货"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "空间管理"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "麻烦的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "一心二用的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "底子很好的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "主角般的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "形容词的"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "哈哈哈"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "Shift+Tab"
+msgstr ""
+
+#. Files: data/perkequipment.yml
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础健康药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础战斗经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础拾取药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础采集速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础采集经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础采集产量药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础制造速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础多件制造药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "基础制造经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规健康药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规战斗经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规拾取药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规采集速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规采集经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规采集产量药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规制造速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规多件制造药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "常规制造经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级健康药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级战斗经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级拾取药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级采集速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级采集经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级采集产量药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级制造速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级多件制造药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "高级制造经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级健康药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级战斗经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级拾取药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级采集速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级采集经验药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级采集产量药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级制造速度药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级多件制造药水"
+msgstr ""
+
+#. Files: data/potions.yml, data/skills_skillactions.yml
+msgid "超级制造经验药水"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "老洞穴"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml, data/skills_combatskillactions.yml, data/skills_skillactions.yml
+msgid "normal"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "泡菜厂"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "老学校"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "大香蕉"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "藏身处"
+msgstr ""
+
+#. Files: data/skills_archaeologyskillactions.yml
+msgid "木地"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "龙虾巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "ocean"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "深海洞窟"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "黏黏洞窟"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "决斗洞窟"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "海底坟墓"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "海底大坑"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "神秘小路"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "海底皇宫"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险黏黏洞窟"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "elite"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险决斗洞窟"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险海底坟墓"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险海底大坑"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险海底小路"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险海底皇宫"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "墓地"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "mountain"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "蛇蛇巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "下水道"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "外星基地"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "大象巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "野人小屋"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "地狱"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "邪恶国度"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险下水道"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险外星基地"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险大象巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险野人小屋"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险地狱"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险邪恶国度"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "螃蟹巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "forest"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "种植园"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "鸡圈"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "蜘蛛巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "蜂巢"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "开心乐园"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "城堡"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "魔法城堡"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险鸡圈"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险蜘蛛巢穴"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险蜂巢"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险开心乐园"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险城堡"
+msgstr ""
+
+#. Files: data/skills_combatskillactions.yml
+msgid "危险魔法城堡"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "village"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质三文鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "outskirts"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质鲈鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质罗非鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质鲭鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质沙丁鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质鲱鱼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "铜矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "银矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "金矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "霜冻矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "翡翠矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "熔岩矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "星辰矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "彩虹矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质金矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质霜冻矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质翡翠矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质熔岩矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质星辰矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质彩虹矿脉"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "松树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "云杉树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "桦树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "柚木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "桃花心木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "铁皮树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "红木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "古树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质桦树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质柚木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质桃花心木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质铁皮树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质红木树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "优质古树"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "ores"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "gems"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "月亮宝石精华"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "水晶宝石精华"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "星星宝石精华"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "玛瑙宝石精华"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "彩虹宝石精华"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "flower"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "vegetable"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "basics"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "regular"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "advance"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "hyper"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "cuisine"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "good_cuisine"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "猪猪"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "小鸡"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "鹅鹅"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "羊羊"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "狼狼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "乌龟"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "猫猫"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "螃蟹"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮猪猪"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "blue_skin"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮小鸡"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮鹅鹅"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮羊羊"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮狼狼"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮乌龟"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮猫猫"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "蓝皮螃蟹"
+msgstr ""
+
+#. Files: data/skills_skillactions.yml
+msgid "map_crafting"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "copper"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "armor"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "tool"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "铜铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "铜斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "weapons"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "铜弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "accessories"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "silver"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "银铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "银斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "银弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "gold"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "黄金披风"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "金铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "金斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "金弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "frost"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "霜冻铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "霜冻斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "霜冻弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "jade"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "翡翠铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "翡翠斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "翡翠弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "molten"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "熔岩铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "熔岩斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "熔岩弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "stellar"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "星辰铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "星辰斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "星辰弓"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "rainbow"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "彩虹铲子"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "彩虹斧头"
+msgstr ""
+
+#. Files: data/skills_smithingactions.yml
+msgid "彩虹弓"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "伐木"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "主要产出：原木、水果\n\n用途：\n- 原木 → 转化为炭（冶炼、烹饪所需）\n- 原木 → 建造社区基础设施\n- 水果 → 转化为肥料（农业所需）\n\n技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n核心工具：斧头（提高伐木速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "采矿"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "主要产出：矿石、宝石\n\n用途：\n- 矿石 → 冶炼成锭\n- 宝石 → 冶炼成宝石精华\n\n技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n核心工具：镐子（提高采矿速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "冶炼"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制作内容：\n- 矿石 + 炭 → 锭\n- 宝石 + 炭 → 宝石精华\n\n用途：\n- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n- 锭和宝石精华 → 建造社区基础设施\n\n技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "锻造"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制作内容：武器、工具、盔甲、饰品\n所需材料：锭、宝石精华\n技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "农业"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "主要产出：鲜花、蔬菜\n\n用途：\n- 鲜花 → 炼金术制作药水\n- 蔬菜 → 烹饪豪华料理（战斗治疗）\n\n所需材料：\n- 种子（商店购买）\n- 肥料（由水果转化）\n\n技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n核心工具：铲子（提高农业速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "炼金"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制作内容：各类药水\n\n所需材料：\n- 鲜花（农业）\n- 骨头（战斗）\n- 瓶子（商店）\n\n药水效果：提供多种增益效果，默认持续 180 秒\n技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "钓鱼"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "主要产出：鱼\n用途：烹饪料理（战斗治疗）\n技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "烹饪"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制作内容：各类料理\n所需材料：食材（鱼和蔬菜）+ 炭\n料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "狩猎"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "主要产出：皮革、墨水、羽毛\n用途：制作地图（制图技能所需）\n所需材料：蚯蚓（钓鱼获得）\n技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制图"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "制作内容：地图\n所需材料：皮革、墨水、羽毛\n\n用途：\n- 考古技能消耗品\n- 挑战精英怪物所需\n\n技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n核心建筑：制图台（提高制图速度）"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "考古"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "特殊机制：被动技能，可与其他技能同时进行\n所需材料：地图\n主要产出：神器\n\n神器系统：\n- 建造祭坛后可激活神器\n- 最多同时激活 3 个神器\n- 激活需要消耗资源\n\n加速方式：使用星星加速考古进度"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "单手武器"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "武器类型：剑、锤子\n技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n\n命中率机制：\n基础命中率：75%（等级匹配时）\n每高于怪物 1 级：+0.5% 命中率（上限 90%）\n每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "双手武器"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "武器类型：长矛、镰刀\n技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n\n命中率机制：\n基础命中率：75%（等级匹配时）\n每高于怪物 1 级：+0.5% 命中率（上限 90%）\n每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "远程武器"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "武器类型：弓、回旋镖\n技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n\n命中率机制：\n基础命中率：75%（等级匹配时）\n每高于怪物 1 级：+0.5% 命中率（上限 90%）\n每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "防御"
+msgstr ""
+
+#. Files: data/skilltemplates.yml
+msgid "技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n\n防御机制：降低怪物命中率\n每高于怪物 1 级：怪物命中率 -0.5%\n每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "把你踹开"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "他想要"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我的号码"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我不给"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "对抗纨绔"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "美颜参数"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "值得学习"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "说梦话"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "肌肉大"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "生活总是"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "太多波折"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "猫咪"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "张嘴"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "这个地方"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "傻子太多"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我的生活"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "特别难过"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "希望你"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "知道这个"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我不想"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "当小人物"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "地下的"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "皇帝"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我想当"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "三根一起抽"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "喝很多水"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "和我作对"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "出人头地"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "就在今天"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "当我看见"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "外国友人"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我不问好"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "因为我太"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "高冷了"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "质疑我的"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "嘲笑我的"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "都是一群"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "大傻子"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我就是"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "全世界"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "最牛的！"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "你的炫耀"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "名牌包包"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "名牌手表"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "说实话"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我不在乎"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "想打败我"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "那你惨了"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我需要个"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "赚快钱"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "的方法"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "你可以叫我"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "小帅"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "面临"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "指控"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "从不会"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "求神拜佛"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我只穿"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "一次性的"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "袜子"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "洗衣服"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "太麻烦"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "她画了"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "美丽的妆"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "但是她"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "喜欢女的"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我是那个"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "第三者"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "特别伤心"
+msgstr ""
+
+#. Files: data/tagsequipment.yml
+msgid "我哭了"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "自给自足者"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过200个时，技能速度+20%\n库存低于50个时，技能速度-12%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过300个时，技能经验倍率+20%\n库存低于100个时，技能经验倍率-8%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过320个时，技能速度+24%\n库存低于80个时，技能速度-8%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过420个时，技能经验倍率+24%\n库存低于140个时，技能经验倍率-6%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过500个时，技能速度+30%\n库存低于180个时，技能速度-4%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "执行行动时，对该行动的必掉落物品进行检查：\n库存超过650个时，技能经验倍率+30%\n库存低于220个时，技能经验倍率-4%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "Z 世代"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有采集技能速度+18%。\n其他时间速度-12%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有制造技能速度+18%。\n其他时间速度-12%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有采集技能速度+24%。\n其他时间速度-10%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有制造技能速度+24%。\n其他时间速度-10%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有采集技能速度+28%。\n其他时间速度-8%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "22:00–6:00期间，所有制造技能速度+28%。\n其他时间速度-8%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "赌徒"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "番茄钟"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n切换制作技能时，累计值重置为0。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "万岁"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n一旦被怪物击中，从0计数。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n但最大生命值-12%。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n一旦被怪物击中，从0计数。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n但最大生命值-12%。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n一旦被怪物击中，从0计数。"
+msgstr ""
+
+#. Files: data/traittemplates.yml
+msgid "每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n但最大生命值-10%。"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "伐木菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "挖掘菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "冶炼菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "锻造菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "种地菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "炼金菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "钓鱼菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "烹饪菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "狩猎菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "制图菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "考古菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "单手武器菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "双手武器菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "远程武器菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_10.yaml
+msgid "防御菜鸟"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "伐木高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "挖掘高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "冶炼高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "锻造高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "种地高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "炼金高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "钓鱼高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "烹饪高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "狩猎高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "制图高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "考古高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "单手武器高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "双手武器高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "远程武器高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_40.yaml
+msgid "防御高手"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "伐木大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "挖掘大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "冶炼大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "锻造大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "种地大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "炼金大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "钓鱼大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "烹饪大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "狩猎大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "制图大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "考古大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "单手武器大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "双手武器大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "远程武器大王"
+msgstr ""
+
+#. Files: achievements/achievements_level_90.yaml
+msgid "防御大王"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/App.kt
+msgid "Tutorial"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyScreen.kt
+msgid "Loadout"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Character"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt, com/rorokaiiworks/goodidlegame/ui/commons/SelectFromPanel.kt
+msgid "Inventory"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Journey"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Quests"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Community"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Cheat"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Dev"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyScreen.kt
+msgid "Shop"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "StarStore"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Settings"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Profile"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Codex"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Leaderboard"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Achievements"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Talents"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt, com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "Traits"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "City"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/AppDestination.kt
+msgid "Skills"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/FakeLoginUi.kt, com/rorokaiiworks/goodidlegame/ui/skills/StartStopButton.kt, com/rorokaiiworks/goodidlegame/core/tasks/TaskStartResult.kt
+msgid "Start"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainMenu.kt
+msgid "Exit"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Skill unlocked: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Ad Opportunity"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Ad Opportunity Dialog Desc"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Ad Opportunity Finished"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Ad Failed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/MainScreen.kt
+msgid "Activated Modifiers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/Notifier.kt
+msgid "Completed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/Notifier.kt
+msgid "Bankrupted"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/PrivacyPolicyScreen.kt
+msgid "Privacy Policy"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/PrivacyPolicyScreen.kt
+msgid "Decline"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/PrivacyPolicyScreen.kt
+msgid "Accept"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Skills Total Level"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Formater"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "✦ First selection is free"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Switch cooldown: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "● ACTIVE"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Details"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Inspect"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "← Back"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "● ACTIVE TRAIT"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Selected"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Switch  (1× Formater)"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Select"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Changing perk costs 1× Formater"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt, com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Active"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/traits/TraitScreen.kt
+msgid "Activate"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt, com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Loading"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt, com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyShopTab.kt
+msgid "Buy"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Watch {0} Ad for {1}?"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Spend {0} stars for {1}?"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Success"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Successfully purchased %s"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Failed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/starStore/StarStoreScreen.kt
+msgid "Failed to purchase %s"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/ConsumeItemsPanel.kt, com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt, com/rorokaiiworks/goodidlegame/ui/commons/ConsumeItemEntry.kt
+msgid "Consumes"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/DropTablePanel.kt
+msgid "Drops"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/LootPanel.kt
+msgid "Loot"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/PropsContainerPanel.kt, com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt
+msgid "Props"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/PropsContainerPanel.kt, com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Auto Equip"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillActionsListPanel.kt
+msgid "Actions"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Speedup 10 mins: 1 star"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Dungeon: {0} - {1} Waves"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Last wave is BOSS!"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Monster Pool:"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "Equipped"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreen.kt
+msgid "No Prop Selected"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/SkillScreenViewModel.kt
+msgid "Item is not a prop"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/StartStopButton.kt
+msgid "Stop"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/skills/StartStopButton.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Amount"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/shop/ShopPanel.kt, com/rorokaiiworks/goodidlegame/ui/inventory/InventoryPanel.kt, com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Search"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/shop/ShopPanel.kt, com/rorokaiiworks/goodidlegame/ui/commons/SortUtils.kt
+msgid "Name"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/shop/ShopPanel.kt, com/rorokaiiworks/goodidlegame/ui/commons/SortUtils.kt
+msgid "Price"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/shop/ShopScreen.kt
+msgid "Not enough coins"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "About"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Game Version"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Theme Preference"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Theme Style"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Seed Color"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Language"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "UI Scale"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Scale: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Sound Volume"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Volume: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt
+msgid "Music Volume"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/settings/SettingsScreen.kt, com/rorokaiiworks/goodidlegame/ui/commons/GameDialog.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Confirm"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Stock"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt
+msgid "Materials"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt, com/rorokaiiworks/goodidlegame/ui/inventory/ItemDetailPanel.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Empty"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Item"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt
+msgid "Select a material"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/ProductScreen.kt
+msgid "Not enough materials"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/recipes/RecipeItemSelectPanel.kt, com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Create"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestPanel.kt
+msgid "Quest"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestRewardsPanel.kt
+msgid "Rewards"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestRewardsPanel.kt
+msgid "Claim Reward"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestRewardsPanel.kt
+msgid "Reward Claimed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestRewardsPanel.kt
+msgid "In Progress"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/QuestScreen.kt
+msgid "Daily Quests"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/quests/RequirementsPanel.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyShopTab.kt
+msgid "Requirements"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveIcon.kt
+msgid "Saving..."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveIcon.kt
+msgid "Saved"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Creating save"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Deleting save"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Entering save"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Refreshing"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Syncing cloud"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "New save"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "No modified time"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Character name"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt, com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt, com/rorokaiiworks/goodidlegame/ui/commons/GameDialog.kt
+msgid "Cancel"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Saves"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Delete save"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/persistent/SaveSystemPanel.kt
+msgid "Delete {0} ?"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/onBoarding/OnboardingScreen.kt
+msgid "Onboarding"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mastery/CodexProgressPanel.kt
+msgid "Total Mastery"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mastery/CodexProgressPanel.kt
+msgid "{0} mastered"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mastery/CodexProgressPanel.kt
+msgid "Progress Rank"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mastery/CodexProgressPanel.kt
+msgid "Collect items to start"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mastery/MasteryLevelPanel.kt
+msgid "Mastery Level"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/mainScreen/MainDrawer.kt
+msgid "Locked"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Friends Only"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Your Rank"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Total Mastery XP"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Loading leaderboard..."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Error"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Retry"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "No Data Available"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/leaderBoard/LeaderboardScreen.kt
+msgid "Add friends to see rankings"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/InventoryPanel.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Slots"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/InventoryScreen.kt
+msgid "Open Results"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/InventoryScreen.kt
+msgid "Nothing obtained."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/InventoryScreen.kt, com/rorokaiiworks/goodidlegame/core/tasks/TaskStartResult.kt
+msgid "Inventory full"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/ItemSellPanel.kt
+msgid "Item is locked"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/inventory/ItemSellPanel.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/game/CityPort.kt
+msgid "Sell"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt
+msgid "Purchase Slot"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt
+msgid "Max Slots"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt, com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Selections"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt
+msgid "Remove"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt
+msgid "Remove the relic?"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/AltarScreen.kt
+msgid "Place Relic"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/CommunityScreen.kt
+msgid "Enchanting"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/CommunityScreen.kt
+msgid "Square"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/CommunityScreen.kt
+msgid "Altar"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Stop Enchanting"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Enchanting Result"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Choose the item to put in the inventory, the other one will be discarded."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Put in Inventory"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Select Item"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Original"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "New"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Click to Keep"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Remaining"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Possible Modifiers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/EnchantingTableScreen.kt
+msgid "Will randomly get 1-2 modifiers."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Capacity"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Upgrade"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Occupying"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyShopTab.kt
+msgid "Unlocked"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Layers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Not Built"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Max Level Reached"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Decrease Tier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Increase Tier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Tier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/community/SquareScreen.kt
+msgid "Size"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/OfflineRewardDialogue.kt
+msgid "Offline Rewards"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/OfflineRewardDialogue.kt
+msgid "You have been offline for {0}."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "Quantity"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "Max Count"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "1 Left"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "Owned"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "Unit Price"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/QuantitySelector.kt
+msgid "Total Price"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/SelectItemPanel.kt
+msgid "Current Item"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/commons/SortUtils.kt
+msgid "Count"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "{0} missed {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "{0} hit {1}, damage: {2}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "{0} was defeated"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt, com/rorokaiiworks/goodidlegame/core/traits/Traits.kt
+msgid "Trait triggered: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "Combat ended: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "Combat started"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "Reviving..."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "Combat Log"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "No combat events yet."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/CombatSessionPanel.kt
+msgid "No trait activations yet."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Attack Speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Slash Damage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Puncture Damage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Impact Damage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Slash Resistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Puncture Resistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/combat/EnemyStatsPanel.kt
+msgid "Impact Resistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt
+msgid "Mastery Progress: {0}/{1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt
+msgid "Equipment"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt
+msgid "Farming"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Material"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Misc"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/CodexScreen.kt
+msgid "Relics"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/ItemMasteredPopup.kt
+msgid "Item Mastered"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/ItemMasteredPopup.kt
+msgid "Mastery Complete"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/ItemMasteredPopup.kt
+msgid "Mastery Rank"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/ItemMasteredPopup.kt
+msgid "Rank Advanced"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/codex/ItemMasteredPopup.kt
+msgid "Your mastery continues to grow"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/ui/achievements/AchievementSystemScreen.kt
+msgid "Finished"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Fee: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Market Pressure: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "You Pay"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "You Receive"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Market pressure represents the level of market saturation. The higher the market pressure, the worse the exchange rate for buying. Market pressure naturally decays over time."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Confirm Exchange"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Enter Amount"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Insufficient Balance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "Balance: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/BankScreen.kt
+msgid "MAX"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityOffice.kt
+msgid "If you think you've made a little mistake, just click the button below to start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityOffice.kt
+msgid "Start Over"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityOffice.kt
+msgid "Are you sure?"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt, com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Port"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Next Trade In: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Current Stats"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Capacity (per trade)"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Trade Interval"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Saturation Speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "+{0}/item, -{1}/sec"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Upgrades"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "How many items can be sold per trade."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "How often trades happen. Lower is better."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Saturation rises slower and decays faster."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Now"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Next"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Cost"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Last Trade"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Trade Rule"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Stock: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Saturation: {0}% (Price x{1})"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Trade Mode"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Min Stock"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityPortScreen.kt
+msgid "Saturation"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Policies"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Banking"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Repository"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Farmers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Workers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Astrologers"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "Alchemists"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "GreatToken"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreen.kt
+msgid "The Office"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Productivity"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Population"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Insufficient Resources"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Insufficient Workforce"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Maintenance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Production Period"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Building..."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Build"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Build Cost"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Period Costs"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityScreenBuildingItem.kt
+msgid "Period Yields"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityTopBar.kt
+msgid "Balance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityTopBar.kt
+msgid "Maintenance: {0}s"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/CityTopBar.kt
+msgid "Trade: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Available: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Still needed: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Done"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Already completed."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "No available items."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Add Items."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Amount: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Add"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "All"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Needed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Progress"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Action"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Great Token"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/GreatTokenScreen.kt
+msgid "Total Progress"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Drag cards to slots, then press Confirm to apply. Only unlocked cards can be drafted."
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Unlocked: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Reset"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Unequip"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Cards"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "{0} Policies"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Equipped: {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Not equipped"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyLoadoutTab.kt
+msgid "Equip"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/ui/policy/PolicyShopTab.kt
+msgid "Costs"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/game/CityPort.kt
+msgid "None"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/game/policies/PolicySystem.kt
+msgid "Economic"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/game/policies/PolicySystem.kt
+msgid "Labor"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/game/policies/PolicySystem.kt
+msgid "Social"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/dlcSocietal/game/policies/PolicySystem.kt
+msgid "Wildcard"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tutorial/tutorial.kt
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tasks/TaskStartResult.kt
+msgid "Skill level too low"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/tasks/TaskStartResult.kt
+msgid "Not enough items"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "player"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skills"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/stats/StatIds.kt
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/skills/Skill.kt
+msgid "Skill {0} level up to {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/skills/Skill.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Food"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/skills/Skill.kt
+msgid "Combat Potion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/skills/Skill.kt
+msgid "Gather Potion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/skills/Skill.kt
+msgid "Craft Potion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/shop/ShopItem.kt
+msgid "Inventory Slots"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Preference"
+msgid "System"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/settings/Settings.kt
+msgctxt "Theme Style"
+msgid "Content"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/rewards/Reward.kt
+msgid "Unlock {0}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "No requirement"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "{0} reach level {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "Unknown skill"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "{0} completed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "Error Quest"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "Kill {0} {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "Collect {0} {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgid "Finish {0} {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/requirements/Requirement.kt
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/quests/QuestSystem.kt
+msgid "Quest {0} completed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt
+msgid "Weapon"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Shield"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Helmet"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Armor"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "LegArmor"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Boots"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt
+msgid "Accessories"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Necklace"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Ring"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Bracelet"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Cape"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt
+msgid "Tools"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Axe"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Pickaxe"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Spade"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Rod"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/loadouts/PlayerLoadouts.kt, com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Trap"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/journey/JourneySystem.kt
+msgid "{0} Completed"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/Inventory.kt
+msgid "Items not enough"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "CombatPotion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "GatherPotion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "CraftPotion"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Flower"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Vegetable"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Fruit"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Fish"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Sword"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Hammer"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Scythe"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Spear"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Bow"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Dart"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/items/ItemType.kt
+msgid "Relic"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s secs"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s mins"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s hours"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s days"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s weeks"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s months"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/humanizer/Humanizer.kt
+msgid "%s years"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/drops/Rarity.kt
+msgid "Always"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/drops/Rarity.kt
+msgid "Common"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/drops/Rarity.kt
+msgid "Uncommon"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/drops/Rarity.kt
+msgid "Rare"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/drops/Rarity.kt
+msgid "Legendary"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Frenzy"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Tanky"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Deadly"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Swift"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Precise"
+msgstr ""
+
+#. Files: com/rorokaiiworks/goodidlegame/core/combat/CombatAffix.kt
+msgid "Hardened"
+msgstr ""
+

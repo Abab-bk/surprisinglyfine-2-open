@@ -1,0 +1,433 @@
+- id: 'chest_helmet1'
+  name: '要号码宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Helmet_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Helmet_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_helmet2'
+  name: '对抗纨绔宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Helmet_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Helmet_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_armor1'
+  name: '美颜参数宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Armor_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Armor_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_armor2'
+  name: '说梦话宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Armor_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Armor_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_legarmor1'
+  name: '猫咪张嘴宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_LegArmor_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_legarmor2'
+  name: '傻子太多宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_LegArmor_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_LegArmor_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_boots1'
+  name: '生活太难宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Boots_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Boots_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_boots2'
+  name: '生活太难宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Boots_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Boots_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_boots3'
+  name: '雄心壮志宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Boots_HighArmor'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighSlashResistance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_cape1'
+  name: '雄心壮志宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Cape_HighPunctureResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighImpactResistance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Cape_HighMaxHealth'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_necklace1'
+  name: '喝水宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Necklace_HighGatherYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Necklace_HighCraftYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Necklace_HighLootMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_ring1'
+  name: '礼貌宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Ring_HighGatherYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Ring_HighCraftYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Ring_HighLootMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_bracelet1'
+  name: '礼貌宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Bracelet_HighGatherYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bracelet_HighCraftYield'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bracelet_HighLootMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_sword1'
+  name: '厉害宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Sword_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_sword2'
+  name: '厉害宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Sword_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Sword_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_hammer1'
+  name: '厉害宝箱 3'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Hammer_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_hammer2'
+  name: '奢侈品宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Hammer_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_hammer3'
+  name: '奢侈品宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Hammer_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Hammer_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_scythe1'
+  name: '不可战胜宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Scythe_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_scythe2'
+  name: '不可战胜宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Scythe_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Scythe_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_scythe3'
+  name: '帅哥宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Scythe_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_spear1'
+  name: '镇静宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Spear_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Spear_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_spear2'
+  name: '生活方式宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Spear_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_bow1'
+  name: '生活方式宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Bow_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_bow2'
+  name: '爱情故事宝箱'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Bow_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Bow_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_dart1'
+  name: '爱情故事宝箱 2'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Dart_HighSlashDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighPunctureDamage'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_dart2'
+  name: '爱情故事宝箱 3'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Dart_HighImpactDamage'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighHitChance'
+      chance: 5
+      min: 1
+      max: 1
+- id: 'chest_dart3'
+  name: '爱情故事宝箱 4'
+  type: 'Misc'
+  tier: -2
+  dropTable:
+    entries:
+    - itemId: 'equip_Dart_HighDodgeChance'
+      chance: 5
+      min: 1
+      max: 1
+    - itemId: 'equip_Dart_HighDamageMultiplier'
+      chance: 5
+      min: 1
+      max: 1
+...

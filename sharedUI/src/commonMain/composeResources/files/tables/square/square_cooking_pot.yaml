@@ -1,0 +1,123 @@
+- id: square_cooking_pot
+  name: 烹饪锅
+  tiers:
+    - size: 1
+      cost:
+        - itemId: copper_bar
+          count: 500
+        - itemId: coins
+          count: 1000
+      modifiers:
+        - - statId: skill_cooking_speed
+            value: 0.1
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 2
+      cost:
+        - itemId: silver_bar
+          count: 600
+        - itemId: coins
+          count: 1000
+      modifiers:
+        - - statId: skill_cooking_speed
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: gold_bar
+          count: 700
+        - itemId: coins
+          count: 1500
+      modifiers:
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_cooking_speed
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: frost_bar
+          count: 800
+        - itemId: coins
+          count: 1500
+      modifiers:
+        - - statId: skill_cooking_speed
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.10
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: jade_bar
+          count: 900
+        - itemId: coins
+          count: 2000
+      modifiers:
+        - - statId: skill_cooking_lootMultiplier
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.14
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: molten_bar
+          count: 1000
+        - itemId: coins
+          count: 2000
+      modifiers:
+        - - statId: skill_cooking_speed
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: stellar_bar
+          count: 1100
+        - itemId: coins
+          count: 2500
+      modifiers:
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.18
+            type: Percent
+
+        - - statId: skill_cooking_lootMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: rainbow_bar
+          count: 1200
+        - itemId: coins
+          count: 3000
+      modifiers:
+        - - statId: skill_cooking_lootMultiplier
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_cooking_XpMultiplier
+            value: 0.20
+            type: Percent
+

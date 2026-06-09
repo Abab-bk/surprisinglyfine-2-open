@@ -1,0 +1,69 @@
+- id: quest_stage_2_1
+  name: 想吃点鱼
+  conditions:
+    - !<itemCollected>
+      itemId: carp
+      need: 5
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_cooking
+
+- id: quest_stage_2_2
+  name: 想吃点鱼2
+  conditions:
+    - !<itemCollected>
+      itemId: carp_cook
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_smithing
+
+- id: quest_stage_2_3
+  name: 整装待发
+  conditions:
+    - !<itemCollected>
+      itemId: copper_sword
+      need: 1
+    - !<itemCollected>
+      itemId: copper_boots
+      need: 1
+    - !<itemCollected>
+      itemId: copper_leg_armor
+      need: 1
+    - !<itemCollected>
+      itemId: copper_shield
+      need: 1
+    - !<itemCollected>
+      itemId: copper_armor
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_one_handed
+
+- id: quest_stage_2_4
+  name: Battle!
+  conditions:
+    - !<enemyKilled>
+      enemyId: slash_carb_1
+      need: 1
+  rewards:
+    - !<itemReward>
+      itemId: coins
+      count: 10
+    - !<unlockSkillReward>
+      skillId: skill_two_handed
+    - !<unlockSkillReward>
+      skillId: skill_ranged
+    - !<unlockSkillReward>
+      skillId: skill_defense
+    - !<unlockSkillReward>
+      skillId: skill_farming

@@ -1,0 +1,946 @@
+- id: 'worker_residences'
+  name: '工人住宅'
+  buildingType: 'Residences'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'plank'
+    count: 2
+  periodYields: []
+  dependencyCount: 0
+  dependedByCount: 0
+  periodCosts: []
+- id: 'worker_clay_farm'
+  name: '黏土坑'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'plank'
+    count: 2
+  periodYields:
+  - itemId: 'clay'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_brick_factory'
+  name: '砖厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 100
+  - itemId: 'plank'
+    count: 8
+  periodYields:
+  - itemId: 'brick'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'clay'
+    count: 1
+- id: 'worker_pig_farm'
+  name: '猪场'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 100
+  - itemId: 'plank'
+    count: 4
+  periodYields:
+  - itemId: 'pork'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 2
+  periodCosts: []
+- id: 'worker_slaughter_house'
+  name: '屠宰场'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'brick'
+    count: 5
+  - itemId: 'plank'
+    count: 4
+  periodYields:
+  - itemId: 'processed_pork'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'pork'
+    count: 2
+- id: 'worker_grain_farm'
+  name: '谷物农场'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'plank'
+    count: 4
+  periodYields:
+  - itemId: 'grain'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_flour_mill'
+  name: '面粉厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'brick'
+    count: 5
+  - itemId: 'plank'
+    count: 4
+  periodYields:
+  - itemId: 'flour'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_bakery'
+  name: '面包厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 1000
+  - itemId: 'brick'
+    count: 4
+  - itemId: 'plank'
+    count: 5
+  periodYields:
+  - itemId: 'bread'
+    count: 2
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_iron_farm'
+  name: '铁矿'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 800
+  - itemId: 'plank'
+    count: 4
+  - itemId: 'brick'
+    count: 5
+  periodYields:
+  - itemId: 'iron'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 2
+  periodCosts: []
+- id: 'worker_oil_farm'
+  name: '石油矿'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'plank'
+    count: 4
+  - itemId: 'brick'
+    count: 5
+  periodYields:
+  - itemId: 'oil'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 2
+  periodCosts: []
+- id: 'worker_iron_bar_farm'
+  name: '炼铁厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'plank'
+    count: 4
+  - itemId: 'brick'
+    count: 5
+  periodYields:
+  - itemId: 'iron_bar'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 5
+  periodCosts: []
+- id: 'worker_steel_works'
+  name: '钢铁厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 100
+  - itemId: 'brick'
+    count: 20
+  - itemId: 'plank'
+    count: 10
+  periodYields:
+  - itemId: 'steel'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'iron'
+    count: 1
+- id: 'worker_rendering_works'
+  name: '炼脂厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 1000
+  - itemId: 'brick'
+    count: 10
+  - itemId: 'plank'
+    count: 8
+  periodYields:
+  - itemId: 'tallow'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_soap_factory'
+  name: '肥皂厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'brick'
+    count: 5
+  - itemId: 'plank'
+    count: 4
+  - itemId: 'steel'
+    count: 4
+  periodYields:
+  - itemId: 'soap'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'tallow'
+    count: 2
+- id: 'worker_weapon_factory'
+  name: '武器厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 700
+  - itemId: 'brick'
+    count: 10
+  - itemId: 'plank'
+    count: 8
+  - itemId: 'steel'
+    count: 8
+  periodYields:
+  - itemId: 'weapon'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'steel'
+    count: 2
+- id: 'worker_malthouse'
+  name: '麦芽厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'brick'
+    count: 5
+  - itemId: 'plank'
+    count: 4
+  - itemId: 'steel'
+    count: 4
+  periodYields:
+  - itemId: 'malt'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 1
+  periodCosts:
+  - itemId: 'grain'
+    count: 2
+- id: 'worker_hop_farm'
+  name: '啤酒花厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 500
+  - itemId: 'plank'
+    count: 4
+  periodYields:
+  - itemId: 'hop'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'worker_brewery'
+  name: '啤酒厂'
+  buildingType: 'Production'
+  buildingTier: 'Worker'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 1600
+  - itemId: 'brick'
+    count: 10
+  - itemId: 'plank'
+    count: 8
+  periodYields:
+  - itemId: 'beer'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'hop'
+    count: 2
+  - itemId: 'malt'
+    count: 2
+- id: 'farmer_residences'
+  name: '农民住宅'
+  buildingType: 'Residences'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'plank'
+    count: 1
+  - itemId: 'isle_bucks'
+    count: 30
+  periodYields: []
+  dependencyCount: 0
+  dependedByCount: 0
+  periodCosts: []
+- id: 'farmer_tree_farm'
+  name: '树厂'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  periodYields:
+  - itemId: 'log'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 3
+  periodCosts: []
+- id: 'farmer_sawmill'
+  name: '锯木厂'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  periodYields:
+  - itemId: 'plank'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'log'
+    count: 1
+- id: 'farmer_fishery'
+  name: '渔场'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  - itemId: 'plank'
+    count: 1
+  periodYields:
+  - itemId: 'fish'
+    count: 4
+  dependencyCount: 0
+  dependedByCount: 0
+  periodCosts: []
+- id: 'farmer_potato_farm'
+  name: '土豆农场'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  - itemId: 'plank'
+    count: 1
+  periodYields:
+  - itemId: 'potato'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'farmer_vodka_farm'
+  name: '伏特加酒厂'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  - itemId: 'plank'
+    count: 1
+  periodYields:
+  - itemId: 'vodka'
+    count: 2
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'potato'
+    count: 1
+- id: 'farmer_wool_farm'
+  name: '羊毛厂'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 50
+  - itemId: 'plank'
+    count: 1
+  periodYields:
+  - itemId: 'wool'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'farmer_clothes_farm'
+  name: '服装厂'
+  buildingType: 'Production'
+  buildingTier: 'Farmer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 100
+  - itemId: 'plank'
+    count: 1
+  periodYields:
+  - itemId: 'clothes'
+    count: 2
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'wool'
+    count: 1
+- id: 'astrologer_residences'
+  name: '占星学家别墅'
+  buildingType: 'Residences'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'brick'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields: []
+  dependencyCount: 0
+  dependedByCount: 0
+  periodCosts: []
+- id: 'astrologer_b_watermelon'
+  name: '西瓜农场'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'watermelon'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_egg'
+  name: '鸡蛋厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'egg'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_cookie'
+  name: '曲奇厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'cookie'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 1
+  periodCosts:
+  - itemId: 'watermelon'
+    count: 1
+  - itemId: 'egg'
+    count: 1
+- id: 'astrologer_b_cookie_can'
+  name: '曲奇罐头厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'cookie_can'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'cookie'
+    count: 1
+  - itemId: 'iron'
+    count: 1
+- id: 'astrologer_b_sand'
+  name: '沙矿场'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'sand'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_silicon'
+  name: '硅厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'silicon'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 4
+  periodCosts: []
+- id: 'astrologer_b_pcb'
+  name: '电子厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'pcb'
+    count: 1
+  dependencyCount: 1
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'silicon'
+    count: 1
+  - itemId: 'log'
+    count: 1
+- id: 'astrologer_b_magnifying_glass'
+  name: '放大镜厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'magnifying_glass'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'iron_bar'
+    count: 1
+  - itemId: 'log'
+    count: 1
+- id: 'astrologer_b_pigments'
+  name: '颜料厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'pigments'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_pen'
+  name: '笔厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'pen'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_paper'
+  name: '绘图纸厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'paper'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'astrologer_b_star_map'
+  name: '绘图厂'
+  buildingType: 'Production'
+  buildingTier: 'Astrologer'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 2000
+  - itemId: 'plank'
+    count: 20
+  periodYields:
+  - itemId: 'star_map'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts: []
+- id: 'alchemist_residences'
+  name: '炼金术士别墅'
+  buildingType: 'Residences'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'brick'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields: []
+  dependencyCount: 0
+  dependedByCount: 0
+  periodCosts: []
+- id: 'alchemist_b_stone'
+  name: '采石场'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'stone'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_concert'
+  name: '混凝土厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'concert'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'stone'
+    count: 1
+  - itemId: 'iron_bar'
+    count: 1
+- id: 'alchemist_b_zinc'
+  name: '锌矿厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'zinc'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_quartz'
+  name: '石英矿场'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'quartz'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_uranium'
+  name: '轴矿场'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'uranium'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 2
+  periodCosts:
+  - itemId: 'quartz'
+    count: 1
+  - itemId: 'zinc'
+    count: 1
+- id: 'alchemist_b_wine'
+  name: '红酒厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'wine'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'silicon'
+    count: 1
+  - itemId: 'uranium'
+    count: 1
+- id: 'alchemist_b_injector'
+  name: '注射器厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'injector'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'uranium'
+    count: 1
+  - itemId: 'iron_bar'
+    count: 1
+- id: 'alchemist_b_rubber'
+  name: '橡胶农场'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'rubber'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_hazmat_suit'
+  name: '生化服厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'hazmat_suit'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'iron_bar'
+    count: 1
+  - itemId: 'rubber'
+    count: 1
+- id: 'alchemist_b_saltpeter'
+  name: '硝石工厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'saltpeter'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_tnt'
+  name: '炸药工厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'tnt'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts:
+  - itemId: 'saltpeter'
+    count: 1
+- id: 'alchemist_b_alchemy_pot'
+  name: '炼药锅'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'alchemy_pot'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'tnt'
+    count: 1
+  - itemId: 'iron_bar'
+    count: 1
+- id: 'alchemist_b_nickel'
+  name: '镍矿厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'nickel'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_nickel_bar'
+  name: '镍锭厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'nickel_bar'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 1
+  periodCosts:
+  - itemId: 'nickel'
+    count: 1
+  - itemId: 'oil'
+    count: 1
+- id: 'alchemist_b_tape'
+  name: '磁带厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'tape'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'silicon'
+    count: 1
+  - itemId: 'nickel'
+    count: 1
+- id: 'alchemist_b_fiber'
+  name: '纤维厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'fiber'
+    count: 1
+  dependencyCount: 0
+  dependedByCount: 1
+  periodCosts: []
+- id: 'alchemist_b_disc'
+  name: '光盘厂'
+  buildingType: 'Production'
+  buildingTier: 'Alchemist'
+  buildCosts:
+  - itemId: 'isle_bucks'
+    count: 10
+  - itemId: 'steel'
+    count: 5
+  periodYields:
+  - itemId: 'disc'
+    count: 1
+  dependencyCount: 2
+  dependedByCount: 0
+  periodCosts:
+  - itemId: 'fiber'
+    count: 1
+  - itemId: 'silicon'
+    count: 1
+...

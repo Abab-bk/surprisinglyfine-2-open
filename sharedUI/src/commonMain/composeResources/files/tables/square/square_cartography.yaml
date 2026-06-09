@@ -1,0 +1,123 @@
+- id: square_cartography
+  name: 制图台
+  tiers:
+    - size: 1
+      cost:
+        - itemId: carp
+          count: 500
+        - itemId: corn
+          count: 300
+      modifiers:
+        - - statId: skill_charting_speed
+            value: 0.1
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 2
+      cost:
+        - itemId: trout
+          count: 600
+        - itemId: cabbage
+          count: 400
+      modifiers:
+        - - statId: skill_charting_speed
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: salmon
+          count: 700
+        - itemId: pepper
+          count: 500
+      modifiers:
+        - - statId: skill_charting_XpMultiplier
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_charting_speed
+            value: 0.08
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: bass
+          count: 800
+        - itemId: radish
+          count: 600
+      modifiers:
+        - - statId: skill_charting_speed
+            value: 0.12
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.10
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: tilapia
+          count: 900
+        - itemId: mushroom
+          count: 700
+      modifiers:
+        - - statId: skill_charting_lootMultiplier
+            value: 0.10
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.14
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: mackerel
+          count: 1000
+        - itemId: tomato
+          count: 800
+      modifiers:
+        - - statId: skill_charting_speed
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: sardine
+          count: 1100
+        - itemId: eggplant
+          count: 900
+      modifiers:
+        - - statId: skill_charting_XpMultiplier
+            value: 0.18
+            type: Percent
+
+        - - statId: skill_charting_lootMultiplier
+            value: 0.12
+            type: Percent
+
+    - size: 3
+      cost:
+        - itemId: herring
+          count: 1200
+        - itemId: cuke
+          count: 1000
+      modifiers:
+        - - statId: skill_charting_lootMultiplier
+            value: 0.15
+            type: Percent
+
+        - - statId: skill_charting_XpMultiplier
+            value: 0.20
+            type: Percent
+

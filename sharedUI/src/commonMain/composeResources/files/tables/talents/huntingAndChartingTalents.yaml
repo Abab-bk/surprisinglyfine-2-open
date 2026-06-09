@@ -1,0 +1,294 @@
+# 狩猎技能树
+- id: talent_hunting_root
+  name: 猎人之速
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_hunting_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_hunting_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_hunting_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_hunting_xp
+    - talent_hunting_loot
+
+- id: talent_hunting_xp
+  name: 狩猎专家
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_hunting_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_hunting_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_hunting_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_hunting_another_lucky
+    - talent_hunting_another_speed
+
+- id: talent_hunting_loot
+  name: 猎物富集
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_hunting_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_hunting_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_hunting_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_hunting_another_xp
+    - talent_hunting_another_loot
+
+- id: talent_hunting_another_lucky
+  name: 制图师的运气
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_charting_lucky
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_charting_lucky
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_charting_lucky
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_hunting_another_speed
+  name: 精密绘图
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_charting_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_charting_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_charting_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_hunting_another_xp
+  name: 制图学识
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_charting_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_charting_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_charting_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_hunting_another_loot
+  name: 优质地图
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_charting_lootMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_charting_lootMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_charting_lootMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+
+# 考古技能树（独立树）
+- id: talent_archaeology_root
+  name: 考古加速
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_archaeology_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_archaeology_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_archaeology_speed
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_archaeology_xp
+    - talent_archaeology_lucky
+
+- id: talent_archaeology_xp
+  name: 古物研究
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_archaeology_XpMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_archaeology_XpMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_archaeology_XpMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_archaeology_gather_speed
+    - talent_archaeology_craft_speed
+
+- id: talent_archaeology_lucky
+  name: 神器之运
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_archaeology_lucky
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_archaeology_lucky
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_archaeology_lucky
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_archaeology_gather_xp
+    - talent_archaeology_craft_xp
+
+- id: talent_archaeology_gather_speed
+  name: 采集加速
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_gatherSpeed
+          value: 0.03
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_gatherSpeed
+          value: 0.06
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_gatherSpeed
+          value: 0.09
+          type: Percent
+  connections: []
+
+- id: talent_archaeology_craft_speed
+  name: 制作加速
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_craftSpeed
+          value: 0.03
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_craftSpeed
+          value: 0.06
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_craftSpeed
+          value: 0.09
+          type: Percent
+  connections: []
+
+- id: talent_archaeology_gather_xp
+  name: 采集精通
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_gatherXp
+          value: 0.03
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_gatherXp
+          value: 0.06
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_gatherXp
+          value: 0.09
+          type: Percent
+  connections: []
+
+- id: talent_archaeology_craft_xp
+  name: 制作精通
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_craftXp
+          value: 0.03
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_craftXp
+          value: 0.06
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_craftXp
+          value: 0.09
+          type: Percent
+  connections: []

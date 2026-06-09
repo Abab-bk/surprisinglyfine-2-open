@@ -1,0 +1,127 @@
+- id: policy_investment
+  name: 投资政策
+  slotType: Economic
+  mechanismId: policy_investment
+  desc: "建筑建造费用 {0}"
+  descArgs: ["-25%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_hunting
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_economicform
+  name: 财政改革
+  slotType: Economic
+  mechanismId: policy_economicform
+  desc: "全城维护费 {0}"
+  descArgs: ["-15%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_charting
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_tariff
+  name: 关税壁垒
+  slotType: Economic
+  mechanismId: policy_tariff
+  desc: "饱和度恢复速度 {0}"
+  descArgs: ["+50%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_smelting
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_automation
+  name: 自动化生产
+  slotType: Labor
+  mechanismId: policy_automation
+  desc: "生产速度 {0}, 劳动力需求 {1}"
+  descArgs: ["+15%", "-20%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_smithing
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_standardization
+  name: 标准化作业
+  slotType: Labor
+  mechanismId: policy_standardization
+  desc: "生产速度 {0}"
+  descArgs: ["+10%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_farming
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_forced_overtime
+  name: 强制加班
+  slotType: Labor
+  mechanismId: policy_forced_overtime
+  desc: "生产速度 {0}, 维护费用 {1}"
+  descArgs: ["+30%", "+25%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_alchemy
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_welfare_state
+  name: 福利国家
+  slotType: Social
+  mechanismId: policy_welfare_state
+  desc: "居住建筑维护费 {0}"
+  descArgs: ["-30%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_fishing
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000
+
+- id: policy_public_housing
+  name: 公共住房
+  slotType: Social
+  mechanismId: policy_public_housing
+  desc: "住宅容量 {0}"
+  descArgs: ["+25%"]
+
+  unlockConditions:
+    - !<skillLevel>
+      skillId: skill_cooking
+      level: 30
+
+  unlockCosts:
+    - itemId: coins
+      count: 10000

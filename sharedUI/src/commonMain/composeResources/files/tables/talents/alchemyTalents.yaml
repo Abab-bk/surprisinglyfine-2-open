@@ -1,0 +1,146 @@
+# 炼金技能树
+- id: talent_alchemy_root
+  name: 药剂师之速
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_alchemy_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_alchemy_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_alchemy_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_alchemy_xp
+    - talent_alchemy_loot
+
+- id: talent_alchemy_xp
+  name: 炼金学识
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_alchemy_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_alchemy_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_alchemy_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_alchemy_farming_lucky
+    - talent_alchemy_farming_speed
+
+- id: talent_alchemy_loot
+  name: 强效药水
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_alchemy_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_alchemy_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_alchemy_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_alchemy_combat_yield
+    - talent_alchemy_offline_reward
+
+- id: talent_alchemy_farming_lucky
+  name: 花园之运（共享）
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_lucky
+          value: 0.15
+          type: Percent
+  connections: []
+
+- id: talent_alchemy_farming_speed
+  name: 高效耕种（共享）
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_farming_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_farming_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_farming_speed
+          value: 0.15
+          type: Percent
+  connections: []
+
+- id: talent_alchemy_combat_yield
+  name: 战斗收获
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_combatYield
+          value: 0.05
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_combatYield
+          value: 0.1
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_combatYield
+          value: 0.15
+          type: Percent
+  connections: []
+
+- id: talent_alchemy_offline_reward
+  name: 离线收益
+  effects:
+    - cost: 3
+      effects:
+        - statId: player_offlineRewardMultiplier
+          value: 0.05
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: player_offlineRewardMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 5
+      effects:
+        - statId: player_offlineRewardMultiplier
+          value: 0.15
+          type: Percent
+  connections: []

@@ -1,0 +1,127 @@
+- id: 'pe_majesty'
+  name: '威风堂堂'
+  type: 'Helmet'
+  tier: 7
+  perk:
+    id: 'pe_majesty_perk'
+    desc: '每成功闪避一次攻击，下一次攻击必定暴击。'
+- id: 'pe_sincerely'
+  name: '百折不挠的真诚'
+  type: 'LegArmor'
+  tier: 7
+  perk:
+    id: 'pe_sincerely_perk'
+    desc: '攻击时有 3% 的概率触发两次伤害。'
+- id: 'pe_brave'
+  name: '直言不讳的勇敢'
+  type: 'Hammer'
+  tier: 7
+  perk:
+    id: 'pe_brave_perk'
+    desc: '每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验'
+- id: 'pe_thinker'
+  name: '空想家'
+  type: 'Shield'
+  tier: 8
+  perk:
+    id: 'pe_thinker_perk'
+    desc: '击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。'
+- id: 'pe_shockly'
+  name: '令人震惊的'
+  type: 'Armor'
+  tier: 8
+  perk:
+    id: 'pe_shockly_perk'
+    desc: '生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。'
+- id: 'pe_panic'
+  name: '恐慌的'
+  type: 'Boots'
+  tier: 8
+  perk:
+    id: 'pe_panic_perk'
+    desc: '命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。'
+- id: 'pe_unbearable'
+  name: '无法忍受的'
+  type: 'Sword'
+  tier: 8
+  perk:
+    id: 'pe_unbearable_perk'
+    desc: '承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。'
+- id: 'pe_evil'
+  name: '邪恶的'
+  type: 'Helmet'
+  tier: 6
+  perk:
+    id: 'pe_evil_perk'
+    desc: '钓鱼速度提升 15%，但 10% 概率什么也不获得。'
+- id: 'pe_unbelieve'
+  name: '难以置信的'
+  type: 'LegArmor'
+  tier: 6
+  perk:
+    id: 'pe_unbelieve_perk'
+    desc: '砍树时，5% 的概率获得 1 木炭。'
+- id: 'pe_get_some_work'
+  name: '搞点货'
+  type: 'Dart'
+  tier: 7
+  perk:
+    id: 'pe_get_some_work_perk'
+    desc: '获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。'
+- id: 'pe_space_management'
+  name: '空间管理'
+  type: 'Bow'
+  tier: 6
+  perk:
+    id: 'pe_space_management_perk'
+    desc: '背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。'
+- id: 'pe_trouble'
+  name: '麻烦的'
+  type: 'Armor'
+  tier: 6
+  perk:
+    id: 'pe_trouble_perk'
+    desc: '战斗奖励不会再掉落金币，会选择其他掉落物作为替代。'
+- id: 'pe_distraction'
+  name: '一心二用的'
+  type: 'Boots'
+  tier: 6
+  perk:
+    id: 'pe_distraction_perk'
+    desc: '佩戴并战斗时，考古的速度提升 10%。'
+- id: 'pe_good'
+  name: '底子很好的'
+  type: 'LegArmor'
+  tier: 7
+  perk:
+    id: 'pe_good_perk'
+    desc: '攻击间隔每有 2s，最终伤害 +10%。'
+- id: 'pe_main_role'
+  name: '主角般的'
+  type: 'Spear'
+  tier: 7
+  perk:
+    id: 'pe_main_role_perk'
+    desc: '敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。'
+- id: 'pe_adj'
+  name: '形容词的'
+  type: 'Shield'
+  tier: 8
+  perk:
+    id: 'pe_adj_perk'
+    desc: '你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。'
+- id: 'pe_lol'
+  name: '哈哈哈'
+  type: 'Armor'
+  tier: 8
+  perk:
+    id: 'pe_lol_perk'
+    desc: '训练技能时有 10% 概率播放哈哈的笑声。'
+- id: 'pe_steam'
+  name: 'Shift+Tab'
+  type: 'Scythe'
+  tier: 8
+  perk:
+    id: 'pe_steam_perk'
+    desc: '佩戴时，每次打开 Steam 覆盖层 +1 金币。'
+...

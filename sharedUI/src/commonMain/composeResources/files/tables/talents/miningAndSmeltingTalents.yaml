@@ -1,0 +1,294 @@
+# 采矿技能树
+- id: talent_mining_root
+  name: 高效采矿
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_mining_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_mining_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_mining_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_mining_xp
+    - talent_mining_loot
+
+- id: talent_mining_xp
+  name: 经验矿工
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_mining_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_mining_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_mining_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_mining_another_lucky
+    - talent_mining_another_speed
+
+- id: talent_mining_loot
+  name: 富矿采集
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_mining_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_mining_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_mining_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_mining_another_xp
+    - talent_mining_another_loot
+
+- id: talent_mining_another_lucky
+  name: 冶炼大师的直觉
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smelting_lucky
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smelting_lucky
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smelting_lucky
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_mining_another_speed
+  name: 熔炉专家
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smelting_speed
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smelting_speed
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smelting_speed
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_mining_another_xp
+  name: 冶炼学识
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smelting_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smelting_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smelting_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+- id: talent_mining_another_loot
+  name: 精炼技艺
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smelting_lootMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smelting_lootMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smelting_lootMultiplier
+          value: 0.24
+          type: Percent
+  connections: []
+
+
+# 锻造技能树
+- id: talent_smithing_root
+  name: 铁砧之速
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smithing_speed
+          value: 0.05
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smithing_speed
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smithing_speed
+          value: 0.15
+          type: Percent
+  connections:
+    - talent_smithing_xp
+    - talent_smithing_loot
+
+- id: talent_smithing_xp
+  name: 锻造大师
+  effects:
+    - cost: 1
+      effects:
+        - statId: skill_smithing_XpMultiplier
+          value: 0.08
+          type: Percent
+    - cost: 2
+      effects:
+        - statId: skill_smithing_XpMultiplier
+          value: 0.16
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smithing_XpMultiplier
+          value: 0.24
+          type: Percent
+  connections:
+    - talent_smithing_combat_damage
+    - talent_smithing_combat_defense
+
+- id: talent_smithing_loot
+  name: 材料大师
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_smithing_lootMultiplier
+          value: 0.1
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_smithing_lootMultiplier
+          value: 0.2
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_smithing_lootMultiplier
+          value: 0.3
+          type: Percent
+  connections:
+    - talent_smithing_combat_health
+    - talent_smithing_combat_armor
+
+- id: talent_smithing_combat_damage
+  name: 锋利武器
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_slashDamage
+          value: 2
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_slashDamage
+          value: 5
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_slashDamage
+          value: 8
+          type: Flat
+  connections: []
+
+- id: talent_smithing_combat_defense
+  name: 战斗专精
+  effects:
+    - cost: 2
+      effects:
+        - statId: skill_combatXp
+          value: 0.05
+          type: Percent
+    - cost: 3
+      effects:
+        - statId: skill_combatXp
+          value: 0.1
+          type: Percent
+    - cost: 4
+      effects:
+        - statId: skill_combatXp
+          value: 0.15
+          type: Percent
+  connections: []
+
+- id: talent_smithing_combat_health
+  name: 坚固盔甲
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_armor
+          value: 2
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_armor
+          value: 5
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_armor
+          value: 8
+          type: Flat
+  connections: []
+
+- id: talent_smithing_combat_armor
+  name: 生命护佑
+  effects:
+    - cost: 2
+      effects:
+        - statId: actor_maxHealth
+          value: 10
+          type: Flat
+    - cost: 3
+      effects:
+        - statId: actor_maxHealth
+          value: 25
+          type: Flat
+    - cost: 4
+      effects:
+        - statId: actor_maxHealth
+          value: 40
+          type: Flat
+  connections: []

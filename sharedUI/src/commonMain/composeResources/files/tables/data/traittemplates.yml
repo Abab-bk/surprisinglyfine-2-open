@@ -1,0 +1,205 @@
+- id: 'trait_survivalist'
+  name: '自给自足者'
+  baseBonus:
+  - statId: 'skill_gatherSpeed'
+    value: 0.1
+    type: 'Percent'
+    channel: 0
+  perks:
+  - unlockByLevel: 30
+    perks:
+    - id: 'perk_survivalist_tier_1_1'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过200个时，技能速度+20%
+
+        库存低于50个时，技能速度-12%'
+    - id: 'perk_survivalist_tier_1_2'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过300个时，技能经验倍率+20%
+
+        库存低于100个时，技能经验倍率-8%'
+  - unlockByLevel: 60
+    perks:
+    - id: 'perk_survivalist_tier_2_1'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过320个时，技能速度+24%
+
+        库存低于80个时，技能速度-8%'
+    - id: 'perk_survivalist_tier_2_2'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过420个时，技能经验倍率+24%
+
+        库存低于140个时，技能经验倍率-6%'
+  - unlockByLevel: 90
+    perks:
+    - id: 'perk_survivalist_tier_3_1'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过500个时，技能速度+30%
+
+        库存低于180个时，技能速度-4%'
+    - id: 'perk_survivalist_tier_3_2'
+      desc: '执行行动时，对该行动的必掉落物品进行检查：
+
+        库存超过650个时，技能经验倍率+30%
+
+        库存低于220个时，技能经验倍率-4%'
+- id: 'trait_zgen'
+  name: 'Z 世代'
+  baseBonus:
+  - statId: 'skill_craftYield'
+    value: 0.05
+    type: 'Percent'
+    channel: 0
+  - statId: 'skill_gatherYield'
+    value: 0.05
+    type: 'Percent'
+    channel: 0
+  perks:
+  - unlockByLevel: 30
+    perks:
+    - id: 'perk_zgen_tier_1_1'
+      desc: '22:00–6:00期间，所有采集技能速度+18%。
+
+        其他时间速度-12%'
+    - id: 'perk_zgen_tier_1_2'
+      desc: '22:00–6:00期间，所有制造技能速度+18%。
+
+        其他时间速度-12%'
+  - unlockByLevel: 60
+    perks:
+    - id: 'perk_zgen_tier_2_1'
+      desc: '22:00–6:00期间，所有采集技能速度+24%。
+
+        其他时间速度-10%'
+    - id: 'perk_zgen_tier_2_2'
+      desc: '22:00–6:00期间，所有制造技能速度+24%。
+
+        其他时间速度-10%'
+  - unlockByLevel: 90
+    perks:
+    - id: 'perk_zgen_tier_3_1'
+      desc: '22:00–6:00期间，所有采集技能速度+28%。
+
+        其他时间速度-8%'
+    - id: 'perk_zgen_tier_3_2'
+      desc: '22:00–6:00期间，所有制造技能速度+28%。
+
+        其他时间速度-8%'
+- id: 'trait_gambler'
+  name: '赌徒'
+  baseBonus:
+  - statId: 'skill_craftXp'
+    value: 0.1
+    type: 'Percent'
+    channel: 0
+  perks:
+  - unlockByLevel: 30
+    perks:
+    - id: 'perk_gambler_tier_1_1'
+      desc: '任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。
+
+        但采集、制作、战斗技能物品产出-18%。'
+    - id: 'perk_gambler_tier_1_2'
+      desc: '任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3'
+  - unlockByLevel: 60
+    perks:
+    - id: 'perk_gambler_tier_2_1'
+      desc: '任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。
+
+        但采集、制作、战斗技能物品产出-12%'
+    - id: 'perk_gambler_tier_2_2'
+      desc: '任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3'
+  - unlockByLevel: 90
+    perks:
+    - id: 'perk_gambler_tier_3_1'
+      desc: '任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。
+
+        但采集、制作、战斗技能物品产出-10%。'
+    - id: 'perk_gambler_tier_3_2'
+      desc: '任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3'
+- id: 'trait_tomato'
+  name: '番茄钟'
+  baseBonus:
+  - statId: 'skill_gatherXp'
+    value: 0.1
+    type: 'Percent'
+    channel: 0
+  perks:
+  - unlockByLevel: 30
+    perks:
+    - id: 'perk_tomato_tier_1_1'
+      desc: '每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。
+
+        切换制作技能时，累计值重置为0。'
+    - id: 'perk_tomato_tier_1_2'
+      desc: '每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。
+
+        切换制作技能时，累计值重置为0。'
+  - unlockByLevel: 60
+    perks:
+    - id: 'perk_tomato_tier_2_1'
+      desc: '每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。
+
+        切换制作技能时，累计值重置为0。'
+    - id: 'perk_tomato_tier_2_2'
+      desc: '每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。
+
+        切换制作技能时，累计值重置为0。'
+  - unlockByLevel: 90
+    perks:
+    - id: 'perk_tomato_tier_3_1'
+      desc: '每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。
+
+        切换制作技能时，累计值重置为0。'
+    - id: 'perk_tomato_tier_3_2'
+      desc: '每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。
+
+        切换制作技能时，累计值重置为0。'
+- id: 'trait_hail'
+  name: '万岁'
+  baseBonus:
+  - statId: 'skill_combatXp'
+    value: 0.05
+    type: 'Percent'
+    channel: 0
+  - statId: 'skill_combatYield'
+    value: 0.05
+    type: 'Percent'
+    channel: 0
+  perks:
+  - unlockByLevel: 30
+    perks:
+    - id: 'perk_hail_tier_1_1'
+      desc: '连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。
+
+        一旦被怪物击中，从0计数。'
+    - id: 'perk_hail_tier_1_2'
+      desc: '每次受到伤害后，下一次攻击伤害+18%、命中率+8%。
+
+        但最大生命值-12%。'
+  - unlockByLevel: 60
+    perks:
+    - id: 'perk_hail_tier_2_1'
+      desc: '连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。
+
+        一旦被怪物击中，从0计数。'
+    - id: 'perk_hail_tier_2_2'
+      desc: '每次受到伤害后，下一次攻击伤害+24%、命中率+12%。
+
+        但最大生命值-12%。'
+  - unlockByLevel: 90
+    perks:
+    - id: 'perk_hail_tier_3_1'
+      desc: '连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。
+
+        一旦被怪物击中，从0计数。'
+    - id: 'perk_hail_tier_3_2'
+      desc: '每次受到伤害后，下一次攻击伤害+30%、命中率+15%。
+
+        但最大生命值-10%。'
+...

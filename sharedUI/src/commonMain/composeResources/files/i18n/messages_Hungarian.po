@@ -1,0 +1,4805 @@
+msgid ""
+msgstr ""
+"Language: Hungarian\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 óra +100% készség tapasztalat"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 óra +100% offline jövedelem"
+
+msgid "炼金实验室"
+msgstr "Alkímia Laboratórium"
+
+msgid "铁砧"
+msgstr "Kovácsoló Sztád"
+
+msgid "制图台"
+msgstr "Térképkészítő Asztal"
+
+msgid "烹饪锅"
+msgstr "Főzőüst"
+
+msgid "熔炉"
+msgstr "Kohó"
+
+msgid "投资政策"
+msgstr "Befektetési politika"
+
+msgid "建筑建造费用 {0}"
+msgstr "Építési költség {0}"
+
+msgid "财政改革"
+msgstr "Pénzügyi reform"
+
+msgid "全城维护费 {0}"
+msgstr "Városi karbantartási költség {0}"
+
+msgid "关税壁垒"
+msgstr "Vámakadályok"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Telítettség helyreállítási sebessége {0}"
+
+msgid "自动化生产"
+msgstr "Automatizált termelés"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Termelési sebesség {0}, munkaerő-igény {1}"
+
+msgid "标准化作业"
+msgstr "Szabványosított működés"
+
+msgid "生产速度 {0}"
+msgstr "Termelési sebesség {0}"
+
+msgid "强制加班"
+msgstr "Kötelező túlóra"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Termelési sebesség {0}, karbantartási költség {1}"
+
+msgid "福利国家"
+msgstr "Jóléti állam"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Lakóépület karbantartási költsége {0}"
+
+msgid "公共住房"
+msgstr "Közösségi lakhatás"
+
+msgid "住宅容量 {0}"
+msgstr "Lakókapacitás {0}"
+
+msgid "第一步"
+msgstr "Első lépés"
+
+msgid "让我们挖掘"
+msgstr "Ássunk!"
+
+msgid "让我们冶炼"
+msgstr "Olvasztunk!"
+
+msgid "想吃点鱼"
+msgstr "Ennék egy kis halat"
+
+msgid "想吃点鱼2"
+msgstr "Ennék egy kis halat 2"
+
+msgid "整装待发"
+msgstr "Készen állunk"
+
+msgid "击杀邪恶哥布林"
+msgstr "Győzd le a gonosz goblint"
+
+msgid "花匠"
+msgstr "Kertész"
+
+msgid "炼金师"
+msgstr "Alkimista"
+
+msgid "猎户"
+msgstr "Vadász"
+
+msgid "考古时刻"
+msgstr "Régészeti pillanat"
+
+msgid "考古时刻2"
+msgstr "Régészeti pillanat 2"
+
+msgid "工人住宅"
+msgstr "Munkáslakások"
+
+msgid "黏土坑"
+msgstr "Agyagbánya"
+
+msgid "砖厂"
+msgstr "Téglaüzem"
+
+msgid "猪场"
+msgstr "Sertéstelep"
+
+msgid "屠宰场"
+msgstr "Vágóhíd"
+
+msgid "谷物农场"
+msgstr "Gabonafarm"
+
+msgid "面粉厂"
+msgstr "Malom"
+
+msgid "面包厂"
+msgstr "Pékség"
+
+msgid "铁矿"
+msgstr "Vasbánya"
+
+msgid "石油矿"
+msgstr "Olajbánya"
+
+msgid "炼铁厂"
+msgstr "Vasolvasztó"
+
+msgid "钢铁厂"
+msgstr "Acélgyár"
+
+msgid "炼脂厂"
+msgstr "Zsírolvasztó"
+
+msgid "肥皂厂"
+msgstr "Szappanüzem"
+
+msgid "武器厂"
+msgstr "Fegyvergyár"
+
+msgid "麦芽厂"
+msgstr "Malátagyár"
+
+msgid "啤酒花厂"
+msgstr "Komlófarm"
+
+msgid "啤酒厂"
+msgstr "Sörfőzde"
+
+msgid "农民住宅"
+msgstr "Parasztlakások"
+
+msgid "树厂"
+msgstr "Faüzem"
+
+msgid "锯木厂"
+msgstr "Fűrészüzem"
+
+msgid "渔场"
+msgstr "Halászat"
+
+msgid "土豆农场"
+msgstr "Burgonyafarm"
+
+msgid "伏特加酒厂"
+msgstr "Vodkafőzde"
+
+msgid "羊毛厂"
+msgstr "Gyapjúüzem"
+
+msgid "服装厂"
+msgstr "Ruhagyár"
+
+msgid "占星学家别墅"
+msgstr "Asztrológus villája"
+
+msgid "西瓜农场"
+msgstr "Görögdinnye-farm"
+
+msgid "鸡蛋厂"
+msgstr "Tojásüzem"
+
+msgid "曲奇厂"
+msgstr "Süteménygyár"
+
+msgid "曲奇罐头厂"
+msgstr "Konzervgyár"
+
+msgid "沙矿场"
+msgstr "Homokbánya"
+
+msgid "硅厂"
+msgstr "Szilíciumüzem"
+
+msgid "电子厂"
+msgstr "Elektronikai gyár"
+
+msgid "放大镜厂"
+msgstr "Nagyítógyár"
+
+msgid "颜料厂"
+msgstr "Festékgyár"
+
+msgid "笔厂"
+msgstr "Tollgyár"
+
+msgid "绘图纸厂"
+msgstr "Rajzpapírgyár"
+
+msgid "绘图厂"
+msgstr "Rajzolóüzem"
+
+msgid "炼金术士别墅"
+msgstr "Alkémista villája"
+
+msgid "采石场"
+msgstr "Kőbánya"
+
+msgid "混凝土厂"
+msgstr "Betonüzem"
+
+msgid "锌矿厂"
+msgstr "Cinkbánya"
+
+msgid "石英矿场"
+msgstr "Kvarcbánya"
+
+msgid "轴矿场"
+msgstr "Uránbánya"
+
+msgid "红酒厂"
+msgstr "Borászat"
+
+msgid "注射器厂"
+msgstr "Fecskendőgyár"
+
+msgid "橡胶农场"
+msgstr "Kaucsukfarm"
+
+msgid "生化服厂"
+msgstr "Vegyvédelmi ruha gyár"
+
+msgid "硝石工厂"
+msgstr "Salétromgyár"
+
+msgid "炸药工厂"
+msgstr "Robbanószergyár"
+
+msgid "炼药锅"
+msgstr "Alkímiai üst"
+
+msgid "镍矿厂"
+msgstr "Nikkelbánya"
+
+msgid "镍锭厂"
+msgstr "Nikkelöntöde"
+
+msgid "磁带厂"
+msgstr "Magnószalag-gyár"
+
+msgid "纤维厂"
+msgstr "Szövetgyár"
+
+msgid "光盘厂"
+msgstr "Optikai lemez gyár"
+
+msgid "要号码宝箱"
+msgstr "Számláld meg a ládát"
+
+msgid "对抗纨绔宝箱"
+msgstr "Láda a korhelyek ellen"
+
+msgid "美颜参数宝箱"
+msgstr "Szépségápolási paraméterek ládája"
+
+msgid "说梦话宝箱"
+msgstr "Álombeszélő láda"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Tátogó cica láda"
+
+msgid "傻子太多宝箱"
+msgstr "Túl sok bolond láda"
+
+msgid "生活太难宝箱"
+msgstr "Nehéz élet láda"
+
+msgid "生活太难宝箱 2"
+msgstr "Nehéz élet láda 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Nagy ambíciók ládája"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Nagy ambíciók ládája 2"
+
+msgid "喝水宝箱"
+msgstr "Vízivó láda"
+
+msgid "礼貌宝箱"
+msgstr "Udvariassági láda"
+
+msgid "礼貌宝箱 2"
+msgstr "Udvariassági láda 2"
+
+msgid "厉害宝箱"
+msgstr "Lenyűgöző láda"
+
+msgid "厉害宝箱 2"
+msgstr "Lenyűgöző láda 2"
+
+msgid "厉害宝箱 3"
+msgstr "Lenyűgöző láda 3"
+
+msgid "奢侈品宝箱"
+msgstr "Luxus cikkek ládája"
+
+msgid "奢侈品宝箱 2"
+msgstr "Luxus cikkek ládája 2"
+
+msgid "不可战胜宝箱"
+msgstr "Legyőzhetetlenség ládája"
+
+msgid "不可战胜宝箱 2"
+msgstr "Legyőzhetetlenség ládája 2"
+
+msgid "帅哥宝箱"
+msgstr "Jóképű láda"
+
+msgid "镇静宝箱"
+msgstr "Nyugtató láda"
+
+msgid "生活方式宝箱"
+msgstr "Életmód láda"
+
+msgid "生活方式宝箱 2"
+msgstr "Életmód láda 2"
+
+msgid "爱情故事宝箱"
+msgstr "Szerelmi történet láda"
+
+msgid "爱情故事宝箱 2"
+msgstr "Szerelmi történet láda 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Szerelmi történet láda 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Szerelmi történet láda 4"
+
+msgid "硬币"
+msgstr "Érme"
+
+msgid "星星"
+msgstr "Csillag"
+
+msgid "瓶子"
+msgstr "Palack"
+
+msgid "蚯蚓"
+msgstr "Féreg"
+
+msgid "皮革"
+msgstr "Bőr"
+
+msgid "羽毛"
+msgstr "Toll"
+
+msgid "墨水"
+msgstr "Tinta"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Acél"
+
+msgid "啤酒"
+msgstr "Sör"
+
+msgid "麦芽"
+msgstr "Maláta"
+
+msgid "啤酒花"
+msgstr "Komló"
+
+msgid "好猪肉"
+msgstr "Prémium sertéshús"
+
+msgid "谷物"
+msgstr "Gabona"
+
+msgid "面粉"
+msgstr "Liszt"
+
+msgid "面包"
+msgstr "Kenyér"
+
+msgid "油脂"
+msgstr "Zsír"
+
+msgid "肥皂"
+msgstr "Szappan"
+
+msgid "武器"
+msgstr "Fegyver"
+
+msgid "砖块"
+msgstr "Tégla"
+
+msgid "猪肉"
+msgstr "Sertéshús"
+
+msgid "粘土"
+msgstr "Agyag"
+
+msgid "石油"
+msgstr "Kőolaj"
+
+msgid "铁锭"
+msgstr "Vasrúd"
+
+msgid "木板"
+msgstr "Deszka"
+
+msgid "土豆"
+msgstr "Burgonya"
+
+msgid "鱼"
+msgstr "Hal"
+
+msgid "伏特加"
+msgstr "Vodka"
+
+msgid "羊毛"
+msgstr "Gyapjú"
+
+msgid "衣服"
+msgstr "Ruházat"
+
+msgid "原木"
+msgstr "Farönk"
+
+msgid "西瓜"
+msgstr "Görögdinnye"
+
+msgid "鸡蛋"
+msgstr "Tojás"
+
+msgid "曲奇"
+msgstr "Sütemény"
+
+msgid "曲奇罐头"
+msgstr "Süteménykonzerv"
+
+msgid "沙子"
+msgstr "Homok"
+
+msgid "硅"
+msgstr "Szilícium"
+
+msgid "电路板"
+msgstr "Áramköri lap"
+
+msgid "放大镜"
+msgstr "Nagyító"
+
+msgid "颜料"
+msgstr "Festék"
+
+msgid "笔"
+msgstr "Toll"
+
+msgid "绘图纸"
+msgstr "Rajzpapír"
+
+msgid "星图"
+msgstr "Csillagtérkép"
+
+msgid "石头"
+msgstr "Kő"
+
+msgid "混凝土"
+msgstr "Beton"
+
+msgid "锌"
+msgstr "Cink"
+
+msgid "石英"
+msgstr "Kvarc"
+
+msgid "铀"
+msgstr "Urán"
+
+msgid "红酒"
+msgstr "Vörösbor"
+
+msgid "注射器"
+msgstr "Injekciós tű"
+
+msgid "橡胶"
+msgstr "Kaucsuk"
+
+msgid "生化服"
+msgstr "Vegyvédelmi ruha"
+
+msgid "硝石"
+msgstr "Salétrom"
+
+msgid "炸药"
+msgstr "Robbanószer"
+
+msgid "炼金锅"
+msgstr "Alkímiai üst"
+
+msgid "镍"
+msgstr "Nikkel"
+
+msgid "镍锭"
+msgstr "Nikkelrúd"
+
+msgid "磁带"
+msgstr "Magnószalag"
+
+msgid "纤维"
+msgstr "Szövet"
+
+msgid "光盘"
+msgstr "Optikai lemez"
+
+msgid "邪恶虾兵"
+msgstr "Gonos rákkatona"
+
+msgid "邪恶蟹将"
+msgstr "Gonos rákvezér"
+
+msgid "邪恶史莱姆"
+msgstr "Gonosz iszaplény"
+
+msgid "邪恶秃头"
+msgstr "Gonosz kopasz"
+
+msgid "邪恶龙骨"
+msgstr "Gonosz sárkánycsont"
+
+msgid "邪恶泰坦"
+msgstr "Gonosz titán"
+
+msgid "邪恶将军"
+msgstr "Gonosz tábornok"
+
+msgid "邪恶大王"
+msgstr "Gonosz király"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elit gonosz iszaplény"
+
+msgid "精英邪恶秃头"
+msgstr "Elit gonosz kopasz"
+
+msgid "精英邪恶龙骨"
+msgstr "Elit gonosz sárkánycsont"
+
+msgid "精英邪恶泰坦"
+msgstr "Elit gonosz titán"
+
+msgid "精英邪恶将军"
+msgstr "Elit gonosz tábornok"
+
+msgid "精英邪恶大王"
+msgstr "Elit gonosz király"
+
+msgid "邪恶死人"
+msgstr "Gonosz halott"
+
+msgid "邪恶蛇蛇"
+msgstr "Gonosz kígyó"
+
+msgid "邪恶小偷"
+msgstr "Gonosz tolvaj"
+
+msgid "邪恶外星人"
+msgstr "Gonosz idegen"
+
+msgid "邪恶大象"
+msgstr "Gonosz elefánt"
+
+msgid "邪恶野人"
+msgstr "Gonosz vadember"
+
+msgid "邪恶三头龙"
+msgstr "Gonosz háromfejű sárkány"
+
+msgid "邪恶邪神"
+msgstr "Gonosz istenség"
+
+msgid "精英邪恶小偷"
+msgstr "Elit gonosz tolvaj"
+
+msgid "精英邪恶外星人"
+msgstr "Elit gonosz idegen"
+
+msgid "精英邪恶大象"
+msgstr "Elit gonosz elefánt"
+
+msgid "精英邪恶野人"
+msgstr "Elit gonosz vadember"
+
+msgid "精英邪恶三头龙"
+msgstr "Elit gonosz háromfejű sárkány"
+
+msgid "精英邪恶邪神"
+msgstr "Elit gonosz istenség"
+
+msgid "邪恶螃蟹"
+msgstr "Gonosz rák"
+
+msgid "邪恶太阳花"
+msgstr "Gonosz napraforgó"
+
+msgid "邪恶小鸡"
+msgstr "Gonosz kiscsirke"
+
+msgid "邪恶蜘蛛"
+msgstr "Gonosz pók"
+
+msgid "邪恶蜜蜂"
+msgstr "Gonosz méh"
+
+msgid "邪恶笑脸男"
+msgstr "Gonosz mosolygó férfi"
+
+msgid "邪恶骑士"
+msgstr "Gonosz lovag"
+
+msgid "邪恶巫婆"
+msgstr "Gonosz boszorkány"
+
+msgid "精英邪恶小鸡"
+msgstr "Elit gonosz kiscsirke"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elit gonosz pók"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elit gonosz méh"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elit Gonosz Mosolygó Férfi"
+
+msgid "精英邪恶骑士"
+msgstr "Elit gonosz lovag"
+
+msgid "精英邪恶巫婆"
+msgstr "Elit gonosz boszorkány"
+
+msgid "祭坛"
+msgstr "Oltár"
+
+msgid "铜剑"
+msgstr "Rézkard"
+
+msgid "铜锤"
+msgstr "Rézkalapács"
+
+msgid "铜镰刀"
+msgstr "Rézsarló"
+
+msgid "铜矛"
+msgstr "Rézlándzsa"
+
+msgid "铜飞镖"
+msgstr "Rézdárda"
+
+msgid "银剑"
+msgstr "Ezüstkard"
+
+msgid "银锤"
+msgstr "Ezüstkalapács"
+
+msgid "银镰刀"
+msgstr "Ezüstsarló"
+
+msgid "银矛"
+msgstr "Ezüstkard"
+
+msgid "银飞镖"
+msgstr "Ezüstdárda"
+
+msgid "金剑"
+msgstr "Aranykard"
+
+msgid "金锤"
+msgstr "Arany kalapács"
+
+msgid "金镰刀"
+msgstr "Arany kasza"
+
+msgid "金矛"
+msgstr "Arany lándzsa"
+
+msgid "金飞镖"
+msgstr "Arany bumeráng"
+
+msgid "霜冻剑"
+msgstr "Jégkard"
+
+msgid "霜冻锤"
+msgstr "Jég kalapács"
+
+msgid "霜冻镰刀"
+msgstr "Jég kasza"
+
+msgid "霜冻矛"
+msgstr "Jég lándzsa"
+
+msgid "霜冻飞镖"
+msgstr "Jég bumeráng"
+
+msgid "翡翠剑"
+msgstr "Jáde kard"
+
+msgid "翡翠锤"
+msgstr "Jáde kalapács"
+
+msgid "翡翠镰刀"
+msgstr "Jáde kasza"
+
+msgid "翡翠矛"
+msgstr "Jáde lándzsa"
+
+msgid "翡翠飞镖"
+msgstr "Jáde bumeráng"
+
+msgid "熔岩剑"
+msgstr "Láva kard"
+
+msgid "熔岩锤"
+msgstr "Láva kalapács"
+
+msgid "熔岩镰刀"
+msgstr "Láva kasza"
+
+msgid "熔岩矛"
+msgstr "Láva lándzsa"
+
+msgid "熔岩飞镖"
+msgstr "Láva bumeráng"
+
+msgid "星辰剑"
+msgstr "Csillag kard"
+
+msgid "星辰锤"
+msgstr "Csillagkalapács"
+
+msgid "星辰镰刀"
+msgstr "Csillagkaszá"
+
+msgid "星辰矛"
+msgstr "Csillaglándzsa"
+
+msgid "星辰飞镖"
+msgstr "Csillagdárda"
+
+msgid "彩虹剑"
+msgstr "Szivárványkard"
+
+msgid "彩虹锤"
+msgstr "Szivárványkalapács"
+
+msgid "彩虹镰刀"
+msgstr "Szivárványkasza"
+
+msgid "彩虹矛"
+msgstr "Szivárványlándzsa"
+
+msgid "彩虹飞镖"
+msgstr "Szivárványdárda"
+
+msgid "铜靴子"
+msgstr "Rézcsizma"
+
+msgid "铜腿甲"
+msgstr "Rézlábszárvédő"
+
+msgid "铜头盔"
+msgstr "Rézsisak"
+
+msgid "铜盾牌"
+msgstr "Rézpajzs"
+
+msgid "铜护甲"
+msgstr "Rézpáncél"
+
+msgid "铜披风"
+msgstr "Rézköpeny"
+
+msgid "银靴子"
+msgstr "Ezüstcsizma"
+
+msgid "银腿甲"
+msgstr "Ezüstsárvédő"
+
+msgid "银头盔"
+msgstr "Ezüstsisak"
+
+msgid "银盾牌"
+msgstr "Ezüstpajzs"
+
+msgid "银护甲"
+msgstr "Ezüstpáncél"
+
+msgid "银披风"
+msgstr "Ezüstköpeny"
+
+msgid "金靴子"
+msgstr "Aranycsizma"
+
+msgid "金腿甲"
+msgstr "Aranylábszárvédő"
+
+msgid "金头盔"
+msgstr "Arany sisak"
+
+msgid "金盾牌"
+msgstr "Arany pajzs"
+
+msgid "金护甲"
+msgstr "Arany páncél"
+
+msgid "金披风"
+msgstr "Arany köpeny"
+
+msgid "霜冻靴子"
+msgstr "Fagyos csizma"
+
+msgid "霜冻腿甲"
+msgstr "Fagyos lábszárvédő"
+
+msgid "霜冻头盔"
+msgstr "Fagyos sisak"
+
+msgid "霜冻盾牌"
+msgstr "Fagyos pajzs"
+
+msgid "霜冻护甲"
+msgstr "Fagyos páncél"
+
+msgid "霜冻披风"
+msgstr "Fagyos köpeny"
+
+msgid "翡翠靴子"
+msgstr "Zöldkő csizma"
+
+msgid "翡翠腿甲"
+msgstr "Zöldkő lábszárvédő"
+
+msgid "翡翠头盔"
+msgstr "Zöldkő sisak"
+
+msgid "翡翠盾牌"
+msgstr "Zöldkő pajzs"
+
+msgid "翡翠护甲"
+msgstr "Zöldkő páncél"
+
+msgid "翡翠披风"
+msgstr "Zöldkő köpeny"
+
+msgid "熔岩靴子"
+msgstr "Lávacsizma"
+
+msgid "熔岩腿甲"
+msgstr "Lávabakancs"
+
+msgid "熔岩头盔"
+msgstr "Lávasisak"
+
+msgid "熔岩盾牌"
+msgstr "Lávapajzs"
+
+msgid "熔岩护甲"
+msgstr "Lávapáncél"
+
+msgid "熔岩披风"
+msgstr "Lávapalást"
+
+msgid "星辰靴子"
+msgstr "Csillagbakancs"
+
+msgid "星辰腿甲"
+msgstr "Csillaglábbél"
+
+msgid "星辰头盔"
+msgstr "Csillagsisak"
+
+msgid "星辰盾牌"
+msgstr "Csillagpajzs"
+
+msgid "星辰护甲"
+msgstr "Csillagpáncél"
+
+msgid "星辰披风"
+msgstr "Csillagpalást"
+
+msgid "彩虹靴子"
+msgstr "Szivárványbakancs"
+
+msgid "彩虹腿甲"
+msgstr "Szivárványlábbél"
+
+msgid "彩虹头盔"
+msgstr "Szivárványsisak"
+
+msgid "彩虹盾牌"
+msgstr "Szivárványpajzs"
+
+msgid "彩虹护甲"
+msgstr "Szivárványpáncél"
+
+msgid "彩虹披风"
+msgstr "Szivárványpalást"
+
+msgid "红宝石戒指"
+msgstr "Rubin gyűrű"
+
+msgid "黄宝石戒指"
+msgstr "Topáz gyűrű"
+
+msgid "绿宝石戒指"
+msgstr "Smaragd gyűrű"
+
+msgid "月亮宝石戒指"
+msgstr "Holdsztí Gyűrű"
+
+msgid "水晶宝石戒指"
+msgstr "Kristály Gyűrű"
+
+msgid "星星宝石戒指"
+msgstr "Csillag Gyűrű"
+
+msgid "玛瑙宝石戒指"
+msgstr "Achát Gyűrű"
+
+msgid "彩虹宝石戒指"
+msgstr "Szivárvány Gyűrű"
+
+msgid "红宝石项链"
+msgstr "Rubin Nyaklánc"
+
+msgid "黄宝石项链"
+msgstr "Topáz Nyaklánc"
+
+msgid "绿宝石项链"
+msgstr "Smaragd Nyaklánc"
+
+msgid "月亮宝石项链"
+msgstr "Holdsztí Nyaklánc"
+
+msgid "水晶宝石项链"
+msgstr "Kristály Nyaklánc"
+
+msgid "星星宝石项链"
+msgstr "Csillag Nyaklánc"
+
+msgid "玛瑙宝石项链"
+msgstr "Achát Nyaklánc"
+
+msgid "彩虹宝石项链"
+msgstr "Szivárvány Nyaklánc"
+
+msgid "红宝石手环"
+msgstr "Rubin Karkötő"
+
+msgid "黄宝石手环"
+msgstr "Topáz Karkötő"
+
+msgid "绿宝石手环"
+msgstr "Smaragd Karkötő"
+
+msgid "月亮宝石手环"
+msgstr "Holdsztí Karkötő"
+
+msgid "水晶宝石手环"
+msgstr "Kristály Karkötő"
+
+msgid "星星宝石手环"
+msgstr "Csillag Karkötő"
+
+msgid "玛瑙宝石手环"
+msgstr "Achát Karkötő"
+
+msgid "彩虹宝石手环"
+msgstr "Szivárványos gyémánt karkötő"
+
+msgid "铜鱼竿"
+msgstr "Réz horgászbot"
+
+msgid "铜铲"
+msgstr "Réz lapát"
+
+msgid "铜斧"
+msgstr "Réz fejsze"
+
+msgid "铜镐"
+msgstr "Réz csákány"
+
+msgid "铜陷阱"
+msgstr "Réz csapda"
+
+msgid "银鱼竿"
+msgstr "Ezüst horgászbot"
+
+msgid "银铲"
+msgstr "Ezüst lapát"
+
+msgid "银斧"
+msgstr "Ezüst fejsze"
+
+msgid "银镐"
+msgstr "Ezüst csákány"
+
+msgid "银陷阱"
+msgstr "Ezüst csapda"
+
+msgid "金鱼竿"
+msgstr "Arany horgászbot"
+
+msgid "金铲"
+msgstr "Arany lapát"
+
+msgid "金斧"
+msgstr "Arany fejsze"
+
+msgid "金镐"
+msgstr "Arany csákány"
+
+msgid "金陷阱"
+msgstr "Arany csapda"
+
+msgid "霜冻鱼竿"
+msgstr "Fagyos horgászbot"
+
+msgid "霜冻铲"
+msgstr "Fagyos lapát"
+
+msgid "霜冻斧"
+msgstr "Fagyos fejsze"
+
+msgid "霜冻镐"
+msgstr "Fagyos csákány"
+
+msgid "霜冻陷阱"
+msgstr "Fagyos csapda"
+
+msgid "翡翠鱼竿"
+msgstr "Zöld jáde horgászbot"
+
+msgid "翡翠铲"
+msgstr "Zöld jáde lapát"
+
+msgid "翡翠斧"
+msgstr "Zöld jáde fejsze"
+
+msgid "翡翠镐"
+msgstr "Zöld jáde csákány"
+
+msgid "翡翠陷阱"
+msgstr "Zöld jáde csapda"
+
+msgid "熔岩鱼竿"
+msgstr "Lávás horgászbot"
+
+msgid "熔岩铲"
+msgstr "Lávás lapát"
+
+msgid "熔岩斧"
+msgstr "Lávás fejsze"
+
+msgid "熔岩镐"
+msgstr "Lávás csákány"
+
+msgid "熔岩陷阱"
+msgstr "Lávás csapda"
+
+msgid "星辰鱼竿"
+msgstr "Csillagos horgászbot"
+
+msgid "星辰铲"
+msgstr "Csillagos lapát"
+
+msgid "星辰斧"
+msgstr "Csillagos fejsze"
+
+msgid "星辰镐"
+msgstr "Csillagos csákány"
+
+msgid "星辰陷阱"
+msgstr "Csillagos csapda"
+
+msgid "彩虹鱼竿"
+msgstr "Szivárványos horgászbot"
+
+msgid "彩虹铲"
+msgstr "Szivárványos lapát"
+
+msgid "彩虹斧"
+msgstr "Szivárványos fejsze"
+
+msgid "彩虹镐"
+msgstr "Szivárványos csákány"
+
+msgid "彩虹陷阱"
+msgstr "Szivárvány csapda"
+
+msgid "苹果"
+msgstr "Alma"
+
+msgid "草莓"
+msgstr "Eper"
+
+msgid "香蕉"
+msgstr "Banán"
+
+msgid "蓝莓"
+msgstr "Áfonya"
+
+msgid "樱桃"
+msgstr "Cseresznye"
+
+msgid "橙子"
+msgstr "Narancs"
+
+msgid "桃子"
+msgstr "Barack"
+
+msgid "椰子"
+msgstr "Kókusz"
+
+msgid "铜矿石"
+msgstr "Rézérc"
+
+msgid "银矿石"
+msgstr "Ezüstérc"
+
+msgid "金矿石"
+msgstr "Aranyérc"
+
+msgid "霜冻矿石"
+msgstr "Fagyérc"
+
+msgid "翡翠矿石"
+msgstr "Jádeérc"
+
+msgid "熔岩矿石"
+msgstr "Lávérc"
+
+msgid "星辰矿石"
+msgstr "Csillagérc"
+
+msgid "彩虹矿石"
+msgstr "Szivárványérc"
+
+msgid "眼睛"
+msgstr "Szem"
+
+msgid "牙"
+msgstr "Fog"
+
+msgid "黄色眼睛"
+msgstr "Sárga szem"
+
+msgid "锋利的牙"
+msgstr "Éles fogak"
+
+msgid "绿色眼睛"
+msgstr "Zöld szemek"
+
+msgid "恐怖金牙"
+msgstr "Félelmetes aranyfogak"
+
+msgid "红色眼睛"
+msgstr "Vörös szemek"
+
+msgid "骷髅头"
+msgstr "Koponya"
+
+msgid "炭"
+msgstr "Szén"
+
+msgid "铜锭"
+msgstr "Réz ingó"
+
+msgid "银锭"
+msgstr "Ezüst ingó"
+
+msgid "金锭"
+msgstr "Arany ingó"
+
+msgid "霜冻锭"
+msgstr "Fagy ingó"
+
+msgid "翡翠锭"
+msgstr "Jáde ingó"
+
+msgid "熔岩锭"
+msgstr "Láva ingó"
+
+msgid "星辰锭"
+msgstr "Csillag ingó"
+
+msgid "彩虹锭"
+msgstr "Szivárvány ingó"
+
+msgid "松木"
+msgstr "Fenyőfa"
+
+msgid "云杉木"
+msgstr "Lucfenyőfa"
+
+msgid "桦木"
+msgstr "Nyírfa"
+
+msgid "柚木"
+msgstr "Teakfa"
+
+msgid "桃花心木"
+msgstr "Mahagónifa"
+
+msgid "铁皮木"
+msgstr "Vaslemezfa"
+
+msgid "红木"
+msgstr "Vörösfenyő"
+
+msgid "古木"
+msgstr "Ősfenyő"
+
+msgid "鲤鱼"
+msgstr "Kárász"
+
+msgid "鳟鱼"
+msgstr "Pisztráng"
+
+msgid "三文鱼"
+msgstr "Lazac"
+
+msgid "鲈鱼"
+msgstr "Sügér"
+
+msgid "罗非鱼"
+msgstr "Tilapia"
+
+msgid "鲭鱼"
+msgstr "Makréla"
+
+msgid "沙丁鱼"
+msgstr "Szardínia"
+
+msgid "鲱鱼"
+msgstr "Hering"
+
+msgid "鲤鱼料理"
+msgstr "Kárász étel"
+
+msgid "鳟鱼料理"
+msgstr "Pisztráng étel"
+
+msgid "三文鱼料理"
+msgstr "Lazac étel"
+
+msgid "鲈鱼料理"
+msgstr "Sügér étel"
+
+msgid "罗非鱼料理"
+msgstr "Tilapia étel"
+
+msgid "鲭鱼料理"
+msgstr "Makréla étel"
+
+msgid "沙丁鱼料理"
+msgstr "Szardínia étel"
+
+msgid "鲱鱼料理"
+msgstr "Hering étel"
+
+msgid "鲤鱼豪华料理"
+msgstr "Kárász luxus étel"
+
+msgid "鳟鱼豪华料理"
+msgstr "Pisztráng luxus étel"
+
+msgid "三文鱼豪华料理"
+msgstr "Lazac luxusétel"
+
+msgid "鲈鱼豪华料理"
+msgstr "Sügér luxusétel"
+
+msgid "罗非鱼豪华料理"
+msgstr "Tilapia luxusétel"
+
+msgid "鲭鱼豪华料理"
+msgstr "Makréla luxusétel"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Szardínia luxusétel"
+
+msgid "鲱鱼豪华料理"
+msgstr "Herings luxusétel"
+
+msgid "红宝石"
+msgstr "Rubin"
+
+msgid "黄宝石"
+msgstr "Topáz"
+
+msgid "绿宝石"
+msgstr "Smaragd"
+
+msgid "月亮宝石"
+msgstr "Holdkő"
+
+msgid "水晶宝石"
+msgstr "Kristály"
+
+msgid "星星宝石"
+msgstr "Csillagkő"
+
+msgid "玛瑙宝石"
+msgstr "Achát"
+
+msgid "彩虹宝石"
+msgstr "Szivárványkő"
+
+msgid "红宝石精华"
+msgstr "Rubin esszencia"
+
+msgid "黄宝石精华"
+msgstr "Topáz esszencia"
+
+msgid "绿宝石精华"
+msgstr "Smaragd esszencia"
+
+msgid "月亮精华"
+msgstr "Hold esszencia"
+
+msgid "水晶精华"
+msgstr "Kristály esszencia"
+
+msgid "星星精华"
+msgstr "Csillag esszencia"
+
+msgid "玛瑙精华"
+msgstr "Achátkivonat"
+
+msgid "彩虹精华"
+msgstr "Szivárványkivonat"
+
+msgid "宝石粉末"
+msgstr "Drágakőpor"
+
+msgid "种子"
+msgstr "Mag"
+
+msgid "肥料"
+msgstr "Műtrágya"
+
+msgid "兰花"
+msgstr "Orchidea"
+
+msgid "雏菊"
+msgstr "Százszorszép"
+
+msgid "郁金香"
+msgstr "Tulipán"
+
+msgid "玫瑰"
+msgstr "Rózsa"
+
+msgid "金盏花"
+msgstr "Körömvirág"
+
+msgid "牡丹"
+msgstr "Pivonya"
+
+msgid "风铃草"
+msgstr "Harangvirág"
+
+msgid "向日葵"
+msgstr "Napraforgó"
+
+msgid "玉米"
+msgstr "Kukorica"
+
+msgid "白菜"
+msgstr "Káposzta"
+
+msgid "辣椒"
+msgstr "Csili"
+
+msgid "萝卜"
+msgstr "Retek"
+
+msgid "蘑菇"
+msgstr "Gomba"
+
+msgid "番茄"
+msgstr "Paradicsom"
+
+msgid "茄子"
+msgstr "Padlizsán"
+
+msgid "黄瓜"
+msgstr "Uborka"
+
+msgid "精英怪物地图"
+msgstr "Elit szörny térkép"
+
+msgid "老洞穴地图"
+msgstr "Régi barlang térkép"
+
+msgid "泡菜厂地图"
+msgstr "Savanyú uborka gyár térkép"
+
+msgid "老学校地图"
+msgstr "Régi iskola térkép"
+
+msgid "啤酒厂地图"
+msgstr "Sörgyár térkép"
+
+msgid "大香蕉地图"
+msgstr "Nagy banán térkép"
+
+msgid "藏身处地图"
+msgstr "Menedék térkép"
+
+msgid "木地地图"
+msgstr "Földes térkép"
+
+msgid "红色血包"
+msgstr "Vörös vérzsák"
+
+msgid "大电池手电筒"
+msgstr "Nagy elemes zseblámpa"
+
+msgid "空空瓶"
+msgstr "Üres üveg"
+
+msgid "大哥大"
+msgstr "Nagy mobiltelefon"
+
+msgid "卡姆PIU特"
+msgstr "KamPIU"
+
+msgid "红药丸瓶"
+msgstr "Vörös gyógyszeres üveg"
+
+msgid "神奇海螺"
+msgstr "Varázslatos kagyló"
+
+msgid "蓝色笔"
+msgstr "Kék toll"
+
+msgid "对话气泡"
+msgstr "Párbeszédbuborék"
+
+msgid "蓝色小人"
+msgstr "Kék kis ember"
+
+msgid "音药"
+msgstr "Zenei gyógyszer"
+
+msgid "拳头！"
+msgstr "Ököl!"
+
+msgid "叶子~"
+msgstr "Levél~"
+
+msgid "火药球"
+msgstr "Lőpor golyó"
+
+msgid "蝴蝶蝶"
+msgstr "Pillangó"
+
+msgid "考试小抄"
+msgstr "Vizsga segédeszköz"
+
+msgid "下头！"
+msgstr "Kínos!"
+
+msgid "护目镜"
+msgstr "Védőszemüveg"
+
+msgid "硬币？"
+msgstr "Érme?"
+
+msgid "贵项链"
+msgstr "Drága nyaklánc"
+
+msgid "贵戒指"
+msgstr "Drága gyűrű"
+
+msgid "经典背包经典"
+msgstr "Klasszikus táska"
+
+msgid "经典小包经典"
+msgstr "Klasszikus kis táska"
+
+msgid "烛蜡"
+msgstr "Gyertya viasz"
+
+msgid "经典宝箱经典"
+msgstr "Klasszikus láda"
+
+msgid "经典十字经典"
+msgstr "Klasszikus kereszt"
+
+msgid "神秘墓碑"
+msgstr "Misztikus sírkő"
+
+msgid "神秘铁锤"
+msgstr "Misztikus kalapács"
+
+msgid "无良印品"
+msgstr "Sovány nyomda"
+
+msgid "鱼鱼"
+msgstr "Hal"
+
+msgid "捣蒜器"
+msgstr "Fokhagyma zúzó"
+
+msgid "离洞绳"
+msgstr "Kötél a barlangból"
+
+msgid "美容镜"
+msgstr "Szépség tükör"
+
+msgid "八匹狼"
+msgstr "Nyolc farkas"
+
+msgid "神秘沙漏"
+msgstr "Rejtélyes homokóra"
+
+msgid "红心"
+msgstr "Vörös szív"
+
+msgid "火焰"
+msgstr "Tűz"
+
+msgid "全麦面包"
+msgstr "Teljes kiőrlésű kenyér"
+
+msgid "没寄出的信"
+msgstr "Nem elküldött levél"
+
+msgid "花生之神"
+msgstr "Mogyoró isten"
+
+msgid "威风堂堂"
+msgstr "Fenséges és pompás"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr "Minden sikeres kitérés után a következő támadás biztosan kritikus lesz."
+
+msgid "百折不挠的真诚"
+msgstr "Töretlen őszinteség"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Támadáskor 3% esély van a sebzés kétszeresére."
+
+msgid "直言不讳的勇敢"
+msgstr "Őszinte bátorság"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"Minden harcban véletlenszerűen aktiválódik 1 hatás: +50% sebzés / +30% "
+"védelem / dupla tapasztalat"
+
+msgid "空想家"
+msgstr "Álmodozó"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Egy ellenség legyőzése után a ritka tárgyak esésének esélye +1%, halmozható, "
+"de az élet 50% alá csökkenésekor érvényét veszti."
+
+msgid "令人震惊的"
+msgstr "Megrázó"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Az élet 20% alá csökkenésekor automatikusan aktiválódik a \"regeneráció\", "
+"másodpercenként 5% élet visszatöltődik (10 másodpercig, 2 perces "
+"visszatöltődési idő)."
+
+msgid "恐慌的"
+msgstr "Pánikba esett"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"Találatkor 5% esély, hogy az ellenség 5 másodpercre cselekvésképtelenné "
+"válik. Nem ismételhető."
+
+msgid "无法忍受的"
+msgstr "Elviselhetetlen"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Vágási sebzés elszenvedésekor 10% esély, hogy a sebzés 50%-a visszapattan a "
+"támadóra."
+
+msgid "邪恶的"
+msgstr "Gonosz"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr "A horgászati sebesség 15%-kal nő, de 10% esély, hogy semmit nem kapsz."
+
+msgid "难以置信的"
+msgstr "Hihetetlen"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Fák vágásakor 5% esély 1 faszénre."
+
+msgid "搞点货"
+msgstr "Szerezzen árut"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"A harcokból kapott tapasztalat 30%-kal csökken, de ennek 50%-át megosztja az "
+"összes nem harci készség között."
+
+msgid "空间管理"
+msgstr "Térmenedzsment"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Minden üres táskahely után 0,2% globális sebzésbónuszt kap; minden elfoglalt "
+"hely után 0,2% globális védelmi bónuszt kap."
+
+msgid "麻烦的"
+msgstr "Problémás"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"A harci jutalmak nem fognak aranyat dobni, más tárgyakat választanak helyette."
+
+msgid "一心二用的"
+msgstr "Két dologra koncentráló"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Viselése és harc közben a régészet sebessége 10%-kal nő."
+
+msgid "底子很好的"
+msgstr "Jó alapú"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "Minden 2 másodperccel a támadási intervallumban a végső sebzés +10%."
+
+msgid "主角般的"
+msgstr "Főhősies"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"Az ellenség találati aránya 20%-kal nő, de cserébe az ellenség ritka "
+"tárgyakat esik 1,5-szer gyakrabban."
+
+msgid "形容词的"
+msgstr "Melléknév"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"A találati arányod 20%-kal csökken, de az összes készséged termelési szorzója "
+"10%-kal nő."
+
+msgid "哈哈哈"
+msgstr "Hahaha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr "Készség gyakorlásakor 10% esély van a hahahás nevetés lejátszására."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "Viselésekor, minden Steam Overlay megnyitásakor +1 arany."
+
+msgid "基础健康药水"
+msgstr "Alap egészségital"
+
+msgid "基础战斗经验药水"
+msgstr "Alap harci tapasztalati ital"
+
+msgid "基础拾取药水"
+msgstr "Alap gyűjtési ital"
+
+msgid "基础采集速度药水"
+msgstr "Alap gyűjtési sebesség ital"
+
+msgid "基础采集经验药水"
+msgstr "Alap gyűjtési tapasztalati ital"
+
+msgid "基础采集产量药水"
+msgstr "Alap gyűjtési hozam ital"
+
+msgid "基础制造速度药水"
+msgstr "Alap gyártási sebesség ital"
+
+msgid "基础多件制造药水"
+msgstr "Alap többes gyártás ital"
+
+msgid "基础制造经验药水"
+msgstr "Alap gyártási tapasztalati ital"
+
+msgid "常规健康药水"
+msgstr "Szokásos egészségital"
+
+msgid "常规战斗经验药水"
+msgstr "Szokásos harci tapasztalati bájital"
+
+msgid "常规拾取药水"
+msgstr "Szokásos gyűjtési bájital"
+
+msgid "常规采集速度药水"
+msgstr "Szokásos gyűjtési sebesség bájital"
+
+msgid "常规采集经验药水"
+msgstr "Szokásos gyűjtési tapasztalati bájital"
+
+msgid "常规采集产量药水"
+msgstr "Szokásos gyűjtési hozam bájital"
+
+msgid "常规制造速度药水"
+msgstr "Szokásos gyártási sebesség bájital"
+
+msgid "常规多件制造药水"
+msgstr "Szokásos többdarabos gyártási bájital"
+
+msgid "常规制造经验药水"
+msgstr "Szokásos gyártási tapasztalati bájital"
+
+msgid "高级健康药水"
+msgstr "Haladó egészségi bájital"
+
+msgid "高级战斗经验药水"
+msgstr "Haladó harci tapasztalati bájital"
+
+msgid "高级拾取药水"
+msgstr "Haladó gyűjtési bájital"
+
+msgid "高级采集速度药水"
+msgstr "Haladó gyűjtési sebesség bájital"
+
+msgid "高级采集经验药水"
+msgstr "Haladó gyűjtési tapasztalati bájital"
+
+msgid "高级采集产量药水"
+msgstr "Haladó gyűjtési hozam bájital"
+
+msgid "高级制造速度药水"
+msgstr "Haladó gyártási sebesség bájital"
+
+msgid "高级多件制造药水"
+msgstr "Haladó többdarabos gyártási bájital"
+
+msgid "高级制造经验药水"
+msgstr "Haladó gyártási tapasztalati bájital"
+
+msgid "超级健康药水"
+msgstr "Szuper egészségi bájital"
+
+msgid "超级战斗经验药水"
+msgstr "Szuper harci tapasztalati bájital"
+
+msgid "超级拾取药水"
+msgstr "Szuper gyűjtési bájital"
+
+msgid "超级采集速度药水"
+msgstr "Szuper gyűjtési sebesség bájital"
+
+msgid "超级采集经验药水"
+msgstr "Szuper gyűjtési tapasztalati bájital"
+
+msgid "超级采集产量药水"
+msgstr "Szuper gyűjtési hozam bájital"
+
+msgid "超级制造速度药水"
+msgstr "Szuper gyártási sebesség bájital"
+
+msgid "超级多件制造药水"
+msgstr "Szuper többdarabos gyártás bájital"
+
+msgid "超级制造经验药水"
+msgstr "Szuper gyártási tapasztalati bájital"
+
+msgid "老洞穴"
+msgstr "Régi barlang"
+
+msgid "normal"
+msgstr "normál"
+
+msgid "泡菜厂"
+msgstr "Kimcsi gyár"
+
+msgid "老学校"
+msgstr "Régi iskola"
+
+msgid "大香蕉"
+msgstr "Nagy banán"
+
+msgid "藏身处"
+msgstr "Rejtőzködőhely"
+
+msgid "木地"
+msgstr "Föld terület"
+
+msgid "龙虾巢穴"
+msgstr "Homárfészek"
+
+msgid "ocean"
+msgstr "óceán"
+
+msgid "深海洞窟"
+msgstr "Mélytengeri barlang"
+
+msgid "黏黏洞窟"
+msgstr "Ragacsos barlang"
+
+msgid "决斗洞窟"
+msgstr "Párbajbarlang"
+
+msgid "海底坟墓"
+msgstr "Tengerfenéki sírhely"
+
+msgid "海底大坑"
+msgstr "Tengerfenéki szakadék"
+
+msgid "神秘小路"
+msgstr "Rejtélyes ösvény"
+
+msgid "海底皇宫"
+msgstr "Tengerfenéki palota"
+
+msgid "危险黏黏洞窟"
+msgstr "Veszélyes ragacsos barlang"
+
+msgid "elite"
+msgstr "elit"
+
+msgid "危险决斗洞窟"
+msgstr "Veszélyes párbajbarlang"
+
+msgid "危险海底坟墓"
+msgstr "Veszélyes tengerfenéki sírhely"
+
+msgid "危险海底大坑"
+msgstr "Veszélyes tengerfenéki szakadék"
+
+msgid "危险海底小路"
+msgstr "Veszélyes tengerfenéki ösvény"
+
+msgid "危险海底皇宫"
+msgstr "Veszélyes tengerfenéki palota"
+
+msgid "墓地"
+msgstr "Temető"
+
+msgid "mountain"
+msgstr "hegy"
+
+msgid "蛇蛇巢穴"
+msgstr "Kígyófészek"
+
+msgid "下水道"
+msgstr "Csatornarendszer"
+
+msgid "外星基地"
+msgstr "Idegen bázis"
+
+msgid "大象巢穴"
+msgstr "Elefántfészek"
+
+msgid "野人小屋"
+msgstr "Vademberkunyhó"
+
+msgid "地狱"
+msgstr "Alvilág"
+
+msgid "邪恶国度"
+msgstr "Gonosz birodalom"
+
+msgid "危险下水道"
+msgstr "Veszélyes csatornarendszer"
+
+msgid "危险外星基地"
+msgstr "Veszélyes idegen bázis"
+
+msgid "危险大象巢穴"
+msgstr "Veszélyes elefántfészek"
+
+msgid "危险野人小屋"
+msgstr "Veszélyes vademberkunyhó"
+
+msgid "危险地狱"
+msgstr "Veszélyes alvilág"
+
+msgid "危险邪恶国度"
+msgstr "Veszélyes gonosz birodalom"
+
+msgid "螃蟹巢穴"
+msgstr "Rákfészek"
+
+msgid "forest"
+msgstr "erdő"
+
+msgid "种植园"
+msgstr "Ültetvény"
+
+msgid "鸡圈"
+msgstr "Tyúkól"
+
+msgid "蜘蛛巢穴"
+msgstr "Pókfészek"
+
+msgid "蜂巢"
+msgstr "Méhkas"
+
+msgid "开心乐园"
+msgstr "Vidámpark"
+
+msgid "城堡"
+msgstr "Kastély"
+
+msgid "魔法城堡"
+msgstr "Varázskastély"
+
+msgid "危险鸡圈"
+msgstr "Veszélyes tyúkól"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Veszélyes pókfészek"
+
+msgid "危险蜂巢"
+msgstr "Veszélyes méhkas"
+
+msgid "危险开心乐园"
+msgstr "Veszélyes vidámpark"
+
+msgid "危险城堡"
+msgstr "Veszélyes kastély"
+
+msgid "危险魔法城堡"
+msgstr "Veszélyes varázskastély"
+
+msgid "village"
+msgstr "falú"
+
+msgid "优质三文鱼"
+msgstr "Kiváló lazac"
+
+msgid "outskirts"
+msgstr "szélső terület"
+
+msgid "优质鲈鱼"
+msgstr "Kiváló sügér"
+
+msgid "优质罗非鱼"
+msgstr "Kiváló tilapia"
+
+msgid "优质鲭鱼"
+msgstr "Kiváló makréla"
+
+msgid "优质沙丁鱼"
+msgstr "Kiváló szardínia"
+
+msgid "优质鲱鱼"
+msgstr "Kiváló hering"
+
+msgid "铜矿脉"
+msgstr "Réz ér"
+
+msgid "银矿脉"
+msgstr "Ezüst ér"
+
+msgid "金矿脉"
+msgstr "Arany ér"
+
+msgid "霜冻矿脉"
+msgstr "Fagyos ér"
+
+msgid "翡翠矿脉"
+msgstr "Zöldkő ér"
+
+msgid "熔岩矿脉"
+msgstr "Láva ér"
+
+msgid "星辰矿脉"
+msgstr "Csillag ér"
+
+msgid "彩虹矿脉"
+msgstr "Szivárvány ér"
+
+msgid "优质金矿脉"
+msgstr "Minőségi aranyér"
+
+msgid "优质霜冻矿脉"
+msgstr "Minőségi fagyos ér"
+
+msgid "优质翡翠矿脉"
+msgstr "Minőségi jade ér"
+
+msgid "优质熔岩矿脉"
+msgstr "Minőségi lávás ér"
+
+msgid "优质星辰矿脉"
+msgstr "Minőségi csillag ér"
+
+msgid "优质彩虹矿脉"
+msgstr "Minőségi szivárvány ér"
+
+msgid "松树"
+msgstr "Fenyőfa"
+
+msgid "云杉树"
+msgstr "Lucfenyőfa"
+
+msgid "桦树"
+msgstr "Nyírfa"
+
+msgid "柚木树"
+msgstr "Teakfa"
+
+msgid "桃花心木树"
+msgstr "Mahagónifa"
+
+msgid "铁皮树"
+msgstr "Vasfémfa"
+
+msgid "红木树"
+msgstr "Vörösfenyőfa"
+
+msgid "古树"
+msgstr "Ősfa"
+
+msgid "优质桦树"
+msgstr "Minőségi nyírfa"
+
+msgid "优质柚木树"
+msgstr "Minőségi teakfa"
+
+msgid "优质桃花心木树"
+msgstr "Minőségi mahagónifa"
+
+msgid "优质铁皮树"
+msgstr "Minőségi vasfémfa"
+
+msgid "优质红木树"
+msgstr "Minőségi vörösfenyőfa"
+
+msgid "优质古树"
+msgstr "Minőségi ősfa"
+
+msgid "ores"
+msgstr "ércek"
+
+msgid "gems"
+msgstr "drágakövek"
+
+msgid "月亮宝石精华"
+msgstr "Holdkő kivonat"
+
+msgid "水晶宝石精华"
+msgstr "Kristálykő kivonat"
+
+msgid "星星宝石精华"
+msgstr "Csillagkő kivonat"
+
+msgid "玛瑙宝石精华"
+msgstr "Achátkő kivonat"
+
+msgid "彩虹宝石精华"
+msgstr "Szivárványkő kivonat"
+
+msgid "flower"
+msgstr "virág"
+
+msgid "vegetable"
+msgstr "zöldség"
+
+msgid "basics"
+msgstr "alapanyagok"
+
+msgid "regular"
+msgstr "szabályos"
+
+msgid "advance"
+msgstr "haladó"
+
+msgid "hyper"
+msgstr "hiper"
+
+msgid "cuisine"
+msgstr "konyha"
+
+msgid "good_cuisine"
+msgstr "jó konyha"
+
+msgid "猪猪"
+msgstr "malac"
+
+msgid "小鸡"
+msgstr "csirke"
+
+msgid "鹅鹅"
+msgstr "liba"
+
+msgid "羊羊"
+msgstr "juh"
+
+msgid "狼狼"
+msgstr "farkas"
+
+msgid "乌龟"
+msgstr "Teknős"
+
+msgid "猫猫"
+msgstr "Cica"
+
+msgid "螃蟹"
+msgstr "Rák"
+
+msgid "蓝皮猪猪"
+msgstr "Kék bőrű disznó"
+
+msgid "blue_skin"
+msgstr "Kék bőr"
+
+msgid "蓝皮小鸡"
+msgstr "Kék bőrű csirke"
+
+msgid "蓝皮鹅鹅"
+msgstr "Kék bőrű liba"
+
+msgid "蓝皮羊羊"
+msgstr "Kék bőrű juh"
+
+msgid "蓝皮狼狼"
+msgstr "Kék bőrű farkas"
+
+msgid "蓝皮乌龟"
+msgstr "Kék bőrű teknős"
+
+msgid "蓝皮猫猫"
+msgstr "Kék bőrű cica"
+
+msgid "蓝皮螃蟹"
+msgstr "Kék bőrű rák"
+
+msgid "map_crafting"
+msgstr "Térkép készítés"
+
+msgid "copper"
+msgstr "Réz"
+
+msgid "armor"
+msgstr "Páncél"
+
+msgid "tool"
+msgstr "Eszköz"
+
+msgid "铜铲子"
+msgstr "Réz lapát"
+
+msgid "铜斧头"
+msgstr "Réz fejsze"
+
+msgid "weapons"
+msgstr "Fegyverek"
+
+msgid "铜弓"
+msgstr "Réz íj"
+
+msgid "accessories"
+msgstr "kiegészítők"
+
+msgid "silver"
+msgstr "ezüst"
+
+msgid "银铲子"
+msgstr "ezüst lapát"
+
+msgid "银斧头"
+msgstr "ezüst fejsze"
+
+msgid "银弓"
+msgstr "ezüst íj"
+
+msgid "gold"
+msgstr "arany"
+
+msgid "黄金披风"
+msgstr "arany köpeny"
+
+msgid "金铲子"
+msgstr "arany lapát"
+
+msgid "金斧头"
+msgstr "arany fejsze"
+
+msgid "金弓"
+msgstr "arany íj"
+
+msgid "frost"
+msgstr "fagy"
+
+msgid "霜冻铲子"
+msgstr "fagyos lapát"
+
+msgid "霜冻斧头"
+msgstr "fagyos fejsze"
+
+msgid "霜冻弓"
+msgstr "fagyos íj"
+
+msgid "jade"
+msgstr "jáde"
+
+msgid "翡翠铲子"
+msgstr "jáde lapát"
+
+msgid "翡翠斧头"
+msgstr "jáde fejsze"
+
+msgid "翡翠弓"
+msgstr "jáde íj"
+
+msgid "molten"
+msgstr "olvadt"
+
+msgid "熔岩铲子"
+msgstr "olvadt lapát"
+
+msgid "熔岩斧头"
+msgstr "Lávabárd"
+
+msgid "熔岩弓"
+msgstr "Lávaíj"
+
+msgid "stellar"
+msgstr "Csillagos"
+
+msgid "星辰铲子"
+msgstr "Csillaglapát"
+
+msgid "星辰斧头"
+msgstr "Csillagbárd"
+
+msgid "星辰弓"
+msgstr "Csillagíj"
+
+msgid "rainbow"
+msgstr "Szivárvány"
+
+msgid "彩虹铲子"
+msgstr "Szivárványlapát"
+
+msgid "彩虹斧头"
+msgstr "Szivárványbárd"
+
+msgid "彩虹弓"
+msgstr "Szivárványíj"
+
+msgid "伐木"
+msgstr "Favágás"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Fő termékek: tűzifa, gyümölcs\n"
+"\n"
+"Felhasználás:\n"
+"- Tűzifa → szénné alakítás (kohászathoz, főzéshez)\n"
+"- Tűzifa → közösségi infrastruktúra építéséhez\n"
+"- Gyümölcs → trágyává alakítás (mezőgazdasághoz)\n"
+"\n"
+"Képesség bónusz: minden szint +0,25% favágási hatékonyság (azonnali cselekvés "
+"esélyt biztosít)\n"
+"Alap eszköz: bárd (növeli a favágás sebességét)"
+
+msgid "采矿"
+msgstr "Bányászat"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Fő termékek: érc, drágakő\n"
+"\n"
+"Felhasználás:\n"
+"- Érc → öntvényré alakítás\n"
+"- Drágakő → drágakő kivonattá alakítás\n"
+"\n"
+"Képesség bónusz: minden szint +0,25% bányászati hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Alap eszköz: csákány (növeli a bányászat sebességét)"
+
+msgid "冶炼"
+msgstr "Kohászat"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Készítés:\n"
+"- Érc + szén → öntvény\n"
+"- Drágakő + szén → drágakő kivonat\n"
+"\n"
+"Felhasználás:\n"
+"- Öntvény és drágakő kivonat → fegyverek, eszközök, páncélok, ékszerek "
+"kovácsolásához\n"
+"- Öntvény és drágakő kivonat → közösségi infrastruktúra "
+"építéséhez\n"
+"\n"
+"Képesség bónusz: minden szint +0,25% kohászati hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Alap épület: kemence (növeli a kohászat sebességét)"
+
+msgid "锻造"
+msgstr "Kovácsolás"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Készítés: fegyverek, eszközök, páncélok, ékszerek\n"
+"Szükséges anyagok: öntvény, drágakő kivonat\n"
+"Képesség bónusz: minden szint +0,25% kovácsolási hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Alap épület: üllő (növeli a kovácsolás sebességét)"
+
+msgid "农业"
+msgstr "Mezőgazdaság"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Fő termékek: virágok, zöldségek\n"
+"\n"
+"Felhasználás:\n"
+"- Virágok → alkimista gyógyszerek készítéséhez\n"
+"- Zöldségek → luxus ételek főzéséhez (harci gyógyítás)\n"
+"\n"
+"Szükséges anyagok:\n"
+"- Magok (boltban vásárolhatók)\n"
+"- Trágya (gyümölcsből alakítható)\n"
+"\n"
+"Képesség bónusz: minden szint +0,25% mezőgazdasági hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Alap eszköz: lapát (növeli a mezőgazdaság sebességét)"
+
+msgid "炼金"
+msgstr "Alkímia"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Készítmények: Különböző bájitalok\n"
+"\n"
+"Szükséges anyagok:\n"
+"- Virágok (mezőgazdaság)\n"
+"- Csontok (harc)\n"
+"- Üvegek (bolt)\n"
+"\n"
+"Bájital hatások: Többféle előnyt nyújt, alapértelmezésben 180 másodpercig "
+"tart\n"
+"Készség bónusz: Minden szint +0,25% alkímiai hatékonyság (azonnali cselekvés "
+"esélyt biztosít)\n"
+"Központi épület: Alkímia laboratórium (növeli az alkímia sebességét)"
+
+msgid "钓鱼"
+msgstr "Horgászat"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Fő termék: Halak\n"
+"Felhasználás: Főzés (harc gyógyítás)\n"
+"Készség bónusz: Minden szint +0,25% horgászati hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Központi eszköz: Horgászbot (növeli a horgászat sebességét)"
+
+msgid "烹饪"
+msgstr "Főzés"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Készítmények: Különböző ételek\n"
+"Szükséges anyagok: Alapanyagok (halak és zöldségek) + Szén\n"
+"Étel hatások: Automatikusan használódik, ha a harcban az életerő 33% alá "
+"esik, visszaállítja az életerőt (15 másodperces visszahűlés)\n"
+"Készség bónusz: Minden szint +0,25% főzési hatékonyság (azonnali cselekvés "
+"esélyt biztosít)\n"
+"Központi épület: Főzőüst (növeli a főzés sebességét)"
+
+msgid "狩猎"
+msgstr "Vadászat"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Fő termék: Bőr, tinta, tollak\n"
+"Felhasználás: Térképek készítése (térképészet készséghez "
+"szükséges)\n"
+"Szükséges anyagok: Földigiliszták (horgászatból szerezhetők)\n"
+"Készség bónusz: Minden szint +0,25% vadászati hatékonyság (azonnali cselekvés "
+"esélyt biztosít)\n"
+"Központi eszköz: Csapda (növeli a vadászat sebességét)"
+
+msgid "制图"
+msgstr "Térképészet"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Készítmények: Térképek\n"
+"Szükséges anyagok: Bőr, tinta, tollak\n"
+"\n"
+"Felhasználás:\n"
+"- Régészet készség fogyóeszköze\n"
+"- Kihívás elit szörnyekhez szükséges\n"
+"\n"
+"Készség bónusz: Minden szint +0,25% térképészeti hatékonyság (azonnali "
+"cselekvés esélyt biztosít)\n"
+"Központi épület: Térképészeti asztal (növeli a térképészet sebességét)"
+
+msgid "考古"
+msgstr "Régészet"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Speciális mechanika: Passzív készség, más készségekkel egyidejűleg is "
+"végezhető\n"
+"Szükséges anyagok: Térképek\n"
+"Fő termék: Relikviák\n"
+"\n"
+"Relikvia rendszer:\n"
+"- Az \"Oltár\" megépítése után aktiválhatók a relikviák\n"
+"- Egyszerre legfeljebb 3 relikvia aktiválható\n"
+"- Az aktiváláshoz erőforrások szükségesek\n"
+"\n"
+"Gyorsítási mód: Csillagok használata a régészet előrehaladásának gyorsítására"
+
+msgid "单手武器"
+msgstr "Egykezes fegyverek"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Fegyvertípusok: Kardok, kalapácsok\n"
+"Készség bónusz: Minden szint +0,25% egykezes hatékonyság (képzés közben dupla "
+"harci tapasztalat és zsákmány esélye)\n"
+"\n"
+"Találati arány mechanika:\n"
+"Alap találati arány: 75% (szint egyezésnél)\n"
+"Minden szinttel magasabb a szörnynél: +0,5% találati arány (max 90%)\n"
+"Minden szinttel alacsonyabb a szörnynél: -0,5% találati arány"
+
+msgid "双手武器"
+msgstr "Kétkezes fegyverek"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Fegyvertípusok: Lándzsák, kaszák\n"
+"Készség bónusz: Minden szint +0,25% kétkezes hatékonyság (képzés közben dupla "
+"harci tapasztalat és zsákmány esélye)\n"
+"\n"
+"Találati arány mechanika:\n"
+"Alap találati arány: 75% (szint egyezésnél)\n"
+"Minden szinttel magasabb a szörnynél: +0,5% találati arány (max 90%)\n"
+"Minden szinttel alacsonyabb a szörnynél: -0,5% találati arány"
+
+msgid "远程武器"
+msgstr "Távolsági fegyverek"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Fegyvertípusok: Íjak, bumerángok\n"
+"Készség bónusz: Minden szint +0,25% távolsági hatékonyság (képzés közben "
+"dupla harci tapasztalat és zsákmány esélye)\n"
+"\n"
+"Találati arány mechanika:\n"
+"Alap találati arány: 75% (szint egyezésnél)\n"
+"Minden szinttel magasabb a szörnynél: +0,5% találati arány (max 90%)\n"
+"Minden szinttel alacsonyabb a szörnynél: -0,5% találati arány"
+
+msgid "防御"
+msgstr "Védekezés"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Készség bónusz: Minden szint +0,25% védekezési hatékonyság (képzés közben "
+"dupla harci tapasztalat és zsákmány esélye)\n"
+"\n"
+"Védekezési mechanika: Csökkenti a szörny találati arányát\n"
+"Minden szinttel magasabb a szörnynél: Szörny találati aránya -0,5%\n"
+"Minden szinttel alacsonyabb a szörnynél: Szörny találati aránya +0,5%"
+
+msgid "把你踹开"
+msgstr "Rúgás ki"
+
+msgid "他想要"
+msgstr "Ő akarja"
+
+msgid "我的号码"
+msgstr "Az én számom"
+
+msgid "我不给"
+msgstr "Nem adom"
+
+msgid "对抗纨绔"
+msgstr "Szembeszállás a gazdagokkal"
+
+msgid "美颜参数"
+msgstr "Szépségparaméterek"
+
+msgid "值得学习"
+msgstr "Érdemes megtanulni"
+
+msgid "说梦话"
+msgstr "Álmodozás"
+
+msgid "肌肉大"
+msgstr "Nagy izmok"
+
+msgid "生活总是"
+msgstr "Az élet mindig"
+
+msgid "太多波折"
+msgstr "Túl sok akadály"
+
+msgid "猫咪"
+msgstr "Macska"
+
+msgid "张嘴"
+msgstr "Nyisd ki a szád"
+
+msgid "这个地方"
+msgstr "Ez a hely"
+
+msgid "傻子太多"
+msgstr "Túl sok buta"
+
+msgid "我的生活"
+msgstr "Az én életem"
+
+msgid "特别难过"
+msgstr "Különösen szomorú"
+
+msgid "希望你"
+msgstr "Remélem, hogy"
+
+msgid "知道这个"
+msgstr "Tudod ezt"
+
+msgid "我不想"
+msgstr "Nem akarom"
+
+msgid "当小人物"
+msgstr "Amikor kicsi vagyok"
+
+msgid "地下的"
+msgstr "Földalatti"
+
+msgid "皇帝"
+msgstr "Császár"
+
+msgid "我想当"
+msgstr "Akarok lenni"
+
+msgid "三根一起抽"
+msgstr "Hármat egyszerre húzni"
+
+msgid "喝很多水"
+msgstr "Sok vizet inni"
+
+msgid "和我作对"
+msgstr "Ellenem állni"
+
+msgid "出人头地"
+msgstr "Kiemelkedni"
+
+msgid "就在今天"
+msgstr "Épp ma"
+
+msgid "当我看见"
+msgstr "Amikor látom"
+
+msgid "外国友人"
+msgstr "Külföldi barát"
+
+msgid "我不问好"
+msgstr "Nem köszönök"
+
+msgid "因为我太"
+msgstr "Mert túl"
+
+msgid "高冷了"
+msgstr "Hűvös vagyok"
+
+msgid "质疑我的"
+msgstr "Kétségbe vonják az"
+
+msgid "嘲笑我的"
+msgstr "Kigúnyolják az"
+
+msgid "都是一群"
+msgstr "Mind egy csapat"
+
+msgid "大傻子"
+msgstr "Nagy buta"
+
+msgid "我就是"
+msgstr "Én vagyok"
+
+msgid "全世界"
+msgstr "Az egész világ"
+
+msgid "最牛的！"
+msgstr "A legmenőbb!"
+
+msgid "你的炫耀"
+msgstr "A te hencegésed"
+
+msgid "名牌包包"
+msgstr "Márkás táskák"
+
+msgid "名牌手表"
+msgstr "Márkás órák"
+
+msgid "说实话"
+msgstr "Őszintén szólva"
+
+msgid "我不在乎"
+msgstr "Nem érdekel"
+
+msgid "想打败我"
+msgstr "Legyőzni akarsz"
+
+msgid "那你惨了"
+msgstr "Akkor bajban vagy"
+
+msgid "我需要个"
+msgstr "Kell nekem egy"
+
+msgid "赚快钱"
+msgstr "Gyors pénzkeresés"
+
+msgid "的方法"
+msgstr "módja"
+
+msgid "你可以叫我"
+msgstr "Hívhatsz"
+
+msgid "小帅"
+msgstr "Kis Szépfiú"
+
+msgid "面临"
+msgstr "Szembenézve"
+
+msgid "指控"
+msgstr "vádakkal"
+
+msgid "从不会"
+msgstr "Soha nem"
+
+msgid "求神拜佛"
+msgstr "Istenekhez imádkozni"
+
+msgid "我只穿"
+msgstr "Csak"
+
+msgid "一次性的"
+msgstr "egyszer használatos"
+
+msgid "袜子"
+msgstr "zoknikat viselek"
+
+msgid "洗衣服"
+msgstr "Mosás"
+
+msgid "太麻烦"
+msgstr "Túl bonyolult"
+
+msgid "她画了"
+msgstr "Ő festett"
+
+msgid "美丽的妆"
+msgstr "Gyönyörű smink"
+
+msgid "但是她"
+msgstr "De ő"
+
+msgid "喜欢女的"
+msgstr "Szereti a nőket"
+
+msgid "我是那个"
+msgstr "Én vagyok az"
+
+msgid "第三者"
+msgstr "Harmadik fél"
+
+msgid "特别伤心"
+msgstr "Különösen szomorú"
+
+msgid "我哭了"
+msgstr "Sírtam"
+
+msgid "自给自足者"
+msgstr "Önellátó"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 200 felett van, a készségsebesség +20%\n"
+"Ha a készlet 50 alatt van, a készségsebesség -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 300 felett van, a készségtapasztalat szorzó +20%\n"
+"Ha a készlet 100 alatt van, a készségtapasztalat szorzó -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 320 felett van, a készségsebesség +24%\n"
+"Ha a készlet 80 alatt van, a készségsebesség -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 420 felett van, a készségtapasztalat szorzó +24%\n"
+"Ha a készlet 140 alatt van, a készségtapasztalat szorzó -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 500 felett van, a készségsebesség +30%\n"
+"Ha a készlet 180 alatt van, a készségsebesség -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Végrehajtáskor ellenőrzi a kötelezően eleső tárgyakat:\n"
+"Ha a készlet 650 felett van, a készségtapasztalat szorzó +30%\n"
+"Ha a készlet 220 alatt van, a készségtapasztalat szorzó -4%"
+
+msgid "Z 世代"
+msgstr "Z generáció"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00 között az összes gyűjtőkészség sebessége +18%.\n"
+"Más időpontokban a sebesség -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00 között az összes gyártókészség sebessége +18%.\n"
+"Más időpontokban a sebesség -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00 között az összes gyűjtőkészség sebessége +24%.\n"
+"Más időpontokban a sebesség -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00 között az összes gyártókészség sebessége +24%.\n"
+"Más időpontokban a sebesség -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00 között az összes gyűjtőkészség sebessége +28%.\n"
+"Más időpontokban a sebesség -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00 között az összes gyártókészség sebessége +28%.\n"
+"Más időpontokban a sebesség -8%"
+
+msgid "赌徒"
+msgstr "Szerencsejátékos"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Bármely művelet befejezésekor: 13% esély, hogy a jelenlegi termelés "
+"nullázódik, 13% esély, hogy a jelenlegi termelés ×3.\n"
+"De a gyűjtés, gyártás és harci készségek tárgytermelése -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Bármely művelet befejezésekor: 4% esély, hogy a jelenlegi termelés "
+"nullázódik, 6% esély, hogy a jelenlegi termelés ×3"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Bármely művelet befejezésekor: 10% esély, hogy a jelenlegi termelés "
+"nullázódik, 20% esély, hogy a jelenlegi termelés ×3.\n"
+"De a gyűjtés, gyártás és harci készségek tárgytermelése -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Bármely művelet befejezésekor: 5% esély, hogy a jelenlegi termelés "
+"nullázódik, 9% esély, hogy a jelenlegi termelés ×3"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Bármely akció befejezésekor: 8% esély a termelés nullázására, 26% esély a "
+"termelés megháromszorozására.\n"
+"De a gyűjtés, készítés és harci készségek tárgytermelése -10%."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Bármely akció befejezésekor: 2% esély a termelés nullázására, 10% esély a "
+"termelés megháromszorozására."
+
+msgid "番茄钟"
+msgstr "Pomodoro"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 10 percnél tovább "
+"összpontosítasz, annak a készségnek a tárgytermelése +5%-kal növekszik (max "
+"+30%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 10 percnél tovább "
+"összpontosítasz, annak a készségnek a tapasztalati szorzója +5%-kal növekszik "
+"(max +30%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 8 percnél tovább "
+"összpontosítasz, annak a készségnek a tárgytermelése +4%-kal növekszik (max "
+"+36%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 8 percnél tovább "
+"összpontosítasz, annak a készségnek a tapasztalati szorzója +4%-kal növekszik "
+"(max +36%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 6 percnél tovább "
+"összpontosítasz, annak a készségnek a tárgytermelése +4%-kal növekszik (max "
+"+48%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Minden alkalommal, amikor egyetlen készítési készségre 6 percnél tovább "
+"összpontosítasz, annak a készségnek a tapasztalati szorzója +4%-kal növekszik "
+"(max +48%).\n"
+"A készítési készség váltásakor a halmozott érték nullára áll vissza."
+
+msgid "万岁"
+msgstr "Hurrá"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Amikor egymás után legyőzöl szörnyeket, minden alkalommal +2,5%-kal növekszik "
+"a sebzés és a találati arány (max +25%).\n"
+"Amint egy szörny eltalál, a számláló nulláról indul."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Minden sérülés után a következő támadás sebzése +18%-kal, találati aránya +8%-"
+"kal növekszik.\n"
+"De a maximális életerő -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Amikor egymás után legyőzöl szörnyeket, minden alkalommal +3%-kal növekszik a "
+"sebzés és a találati arány (max +36%).\n"
+"Amint egy szörny eltalál, a számláló nulláról indul."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Minden sérülés után a következő támadás sebzése +24%-kal, találati aránya "
+"+12%-kal növekszik.\n"
+"De a maximális életerő -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Amikor egymás után legyőzöl szörnyeket, minden alkalommal +3,5%-kal növekszik "
+"a sebzés és a találati arány (max +45%).\n"
+"Amint egy szörny eltalál, a számláló nulláról indul."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Minden sérülés után a következő támadás sebzése +30%-kal, találati aránya "
+"+15%-kal növekszik.\n"
+"De a maximális életerő -10%."
+
+msgid "伐木菜鸟"
+msgstr "Fakivágó kezdő"
+
+msgid "挖掘菜鸟"
+msgstr "Ásó kezdő"
+
+msgid "冶炼菜鸟"
+msgstr "Kohó kezdő"
+
+msgid "锻造菜鸟"
+msgstr "Kovács kezdő"
+
+msgid "种地菜鸟"
+msgstr "Földművelő kezdő"
+
+msgid "炼金菜鸟"
+msgstr "Alkímia kezdő"
+
+msgid "钓鱼菜鸟"
+msgstr "Horgász kezdő"
+
+msgid "烹饪菜鸟"
+msgstr "Séf kezdő"
+
+msgid "狩猎菜鸟"
+msgstr "Vadász kezdő"
+
+msgid "制图菜鸟"
+msgstr "Térképész kezdő"
+
+msgid "考古菜鸟"
+msgstr "Régész kezdő"
+
+msgid "单手武器菜鸟"
+msgstr "Egykezes fegyver kezdő"
+
+msgid "双手武器菜鸟"
+msgstr "Kétkezes fegyver kezdő"
+
+msgid "远程武器菜鸟"
+msgstr "Távoli fegyver kezdő"
+
+msgid "防御菜鸟"
+msgstr "Védekezés kezdő"
+
+msgid "伐木高手"
+msgstr "Fakivágó szakértő"
+
+msgid "挖掘高手"
+msgstr "Ásó szakértő"
+
+msgid "冶炼高手"
+msgstr "Kohó szakértő"
+
+msgid "锻造高手"
+msgstr "Kovács szakértő"
+
+msgid "种地高手"
+msgstr "Földművelő szakértő"
+
+msgid "炼金高手"
+msgstr "Alkímia Mester"
+
+msgid "钓鱼高手"
+msgstr "Horgász Mester"
+
+msgid "烹饪高手"
+msgstr "Séf Mester"
+
+msgid "狩猎高手"
+msgstr "Vadász Mester"
+
+msgid "制图高手"
+msgstr "Térképész Mester"
+
+msgid "考古高手"
+msgstr "Régész Mester"
+
+msgid "单手武器高手"
+msgstr "Egykezes Fegyver Mester"
+
+msgid "双手武器高手"
+msgstr "Kétkezes Fegyver Mester"
+
+msgid "远程武器高手"
+msgstr "Távoli Fegyver Mester"
+
+msgid "防御高手"
+msgstr "Védelem Mester"
+
+msgid "伐木大王"
+msgstr "Favágó Király"
+
+msgid "挖掘大王"
+msgstr "Ásó Király"
+
+msgid "冶炼大王"
+msgstr "Kohó Király"
+
+msgid "锻造大王"
+msgstr "Kovács Király"
+
+msgid "种地大王"
+msgstr "Földművelő Király"
+
+msgid "炼金大王"
+msgstr "Alkímia Király"
+
+msgid "钓鱼大王"
+msgstr "Horgász Király"
+
+msgid "烹饪大王"
+msgstr "Séf Király"
+
+msgid "狩猎大王"
+msgstr "Vadász Király"
+
+msgid "制图大王"
+msgstr "Térképész Király"
+
+msgid "考古大王"
+msgstr "Régészet Királya"
+
+msgid "单手武器大王"
+msgstr "Egykezes Fegyverek Királya"
+
+msgid "双手武器大王"
+msgstr "Kétkezes Fegyverek Királya"
+
+msgid "远程武器大王"
+msgstr "Távoli Fegyverek Királya"
+
+msgid "防御大王"
+msgstr "Védelem Királya"
+
+msgid "Tutorial"
+msgstr "Oktatóanyag"
+
+msgid "Loadout"
+msgstr "Felszerelés"
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Inventory"
+msgstr "Leltár"
+
+msgid "Journey"
+msgstr "Utazás"
+
+msgid "Quests"
+msgstr "Küldetések"
+
+msgid "Community"
+msgstr "Közösség"
+
+msgid "Cheat"
+msgstr "Csalás"
+
+msgid "Dev"
+msgstr "Fejlesztő"
+
+msgid "Shop"
+msgstr "Bolt"
+
+msgid "StarStore"
+msgstr "Csillagbolt"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Codex"
+msgstr "Kódex"
+
+msgid "Leaderboard"
+msgstr "Ranglista"
+
+msgid "Achievements"
+msgstr "Eredmények"
+
+msgid "Talents"
+msgstr "Tehetségek"
+
+msgid "Traits"
+msgstr "Tulajdonságok"
+
+msgid "City"
+msgstr "Város"
+
+msgid "Skills"
+msgstr "Készségek"
+
+msgid "Start"
+msgstr "Kezdés"
+
+msgid "Exit"
+msgstr "Kilépés"
+
+msgid "Skill unlocked: {0}"
+msgstr "Készség feloldva: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Reklámfelület"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Reklámfelület Leírás"
+
+msgid "Ad Opportunity Finished"
+msgstr "Reklámfelület Befejezve"
+
+msgid "Ad Failed"
+msgstr "Reklám Sikertelen"
+
+msgid "Activated Modifiers"
+msgstr "Aktivált módosítók"
+
+msgid "Completed"
+msgstr "Befejezett"
+
+msgid "Bankrupted"
+msgstr "Csődbe ment"
+
+msgid "Privacy Policy"
+msgstr "Adatvédelmi Nyilatkozat"
+
+msgid "Decline"
+msgstr "Elutasítás"
+
+msgid "Accept"
+msgstr "Elfogadás"
+
+msgid "Skills Total Level"
+msgstr "Készségek összes szintje"
+
+msgid "Formater"
+msgstr "Formater"
+
+msgid "✦ First selection is free"
+msgstr "✦ Az első választás ingyenes"
+
+msgid "Switch cooldown: {0}"
+msgstr "Váltási várakozási idő: {0}"
+
+msgid "● ACTIVE"
+msgstr "● AKTÍV"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Inspect"
+msgstr "Megvizsgálás"
+
+msgid "← Back"
+msgstr "← Vissza"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● AKTÍV JELLEMZŐ"
+
+msgid "Selected"
+msgstr "Kiválasztva"
+
+msgid "Switch  (1× Formater)"
+msgstr "Váltás (1× Formater)"
+
+msgid "Select"
+msgstr "Kiválasztás"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Érd el az összes készség szintjét {0}-ig, hogy felold ezt a perk slotot. "
+"(Jelenleg: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "A perk cseréje 1× Formaterbe kerül"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Activate"
+msgstr "Aktiválás"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+msgid "Buy"
+msgstr "Vásárlás"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "Megnézel {0} hirdetést {1} jutalomért?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "Elköltesz {0} csillagot {1} jutalomért?"
+
+msgid "Success"
+msgstr "Siker"
+
+msgid "Successfully purchased %s"
+msgstr "%s sikeresen megvásárolva"
+
+msgid "Failed"
+msgstr "Sikertelen"
+
+msgid "Failed to purchase %s"
+msgstr "%s vásárlása sikertelen"
+
+msgid "Consumes"
+msgstr "Fogyaszt"
+
+msgid "Drops"
+msgstr "Ejt"
+
+msgid "Loot"
+msgstr "Zsákmány"
+
+msgid "Props"
+msgstr "Tárgyak"
+
+msgid "Auto Equip"
+msgstr "Automatikus Felszerelés"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Gyorsítás 10 perc: 1 csillag"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Kazamata: {0} - {1} hullám"
+
+msgid "Last wave is BOSS!"
+msgstr "Az utolsó hullám egy FŐNÖK!"
+
+msgid "Monster Pool:"
+msgstr "Szörnykészlet:"
+
+msgid "Equipped"
+msgstr "Felszerelve"
+
+msgid "No Prop Selected"
+msgstr "Nincs kiválasztott tárgy"
+
+msgid "Item is not a prop"
+msgstr "Az elem nem tárgy"
+
+msgid "Stop"
+msgstr "Leállítás"
+
+msgid "Amount"
+msgstr "Mennyiség"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Not enough coins"
+msgstr "Nincs elég érme"
+
+msgid "About"
+msgstr "Névjegy"
+
+msgid "Game Version"
+msgstr "Játék verzió"
+
+msgid "Theme Preference"
+msgstr "Téma beállítás"
+
+msgid "Theme Style"
+msgstr "Témastílus"
+
+msgid "Seed Color"
+msgstr "Mag színe"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "UI Scale"
+msgstr "UI méretarány"
+
+msgid "Scale: {0}"
+msgstr "Méretarány: {0}"
+
+msgid "Sound Volume"
+msgstr "Hangerő"
+
+msgid "Volume: {0}"
+msgstr "Hangerő: {0}"
+
+msgid "Music Volume"
+msgstr "Zene hangerő"
+
+msgid "Confirm"
+msgstr "Megerősítés"
+
+msgid "Stock"
+msgstr "Készlet"
+
+msgid "Materials"
+msgstr "Anyagok"
+
+msgid "Empty"
+msgstr "Üres"
+
+msgid "Item"
+msgstr "Tárgy"
+
+msgid "Select a material"
+msgstr "Válassz anyagot"
+
+msgid "Not enough materials"
+msgstr "Nincs elég anyag"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Quest"
+msgstr "Küldetés"
+
+msgid "Rewards"
+msgstr "Jutalmak"
+
+msgid "Claim Reward"
+msgstr "Jutalom átvétele"
+
+msgid "Reward Claimed"
+msgstr "Jutalom átvéve"
+
+msgid "In Progress"
+msgstr "Folyamatban"
+
+msgid "Daily Quests"
+msgstr "Napi küldetések"
+
+msgid "Requirements"
+msgstr "Követelmények"
+
+msgid "Saving..."
+msgstr "Mentés..."
+
+msgid "Saved"
+msgstr "Mentve"
+
+msgid "Creating save"
+msgstr "Mentés létrehozása"
+
+msgid "Deleting save"
+msgstr "Mentés törlése"
+
+msgid "Entering save"
+msgstr "Mentés betöltése"
+
+msgid "Refreshing"
+msgstr "Frissítés"
+
+msgid "Syncing cloud"
+msgstr "Felhő szinkronizálás"
+
+msgid "New save"
+msgstr "Új mentés"
+
+msgid "No modified time"
+msgstr "Nincs módosítási idő"
+
+msgid "Character name"
+msgstr "Karakter neve"
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Saves"
+msgstr "Mentések"
+
+msgid "Delete save"
+msgstr "Mentés törlése"
+
+msgid "Delete {0} ?"
+msgstr "Törli a(z) {0} mentést?"
+
+msgid "Onboarding"
+msgstr "Bevezetés"
+
+msgid "Total Mastery"
+msgstr "Összes Mester"
+
+msgid "{0} mastered"
+msgstr "{0} mester"
+
+msgid "Progress Rank"
+msgstr "Haladási Rang"
+
+msgid "Collect items to start"
+msgstr "Gyűjts tárgyakat a kezdéshez"
+
+msgid "Mastery Level"
+msgstr "Mester Szint"
+
+msgid "Locked"
+msgstr "Zárolva"
+
+msgid "Friends Only"
+msgstr "Csak Barátok"
+
+msgid "Your Rank"
+msgstr "Te Rangod"
+
+msgid "Total Mastery XP"
+msgstr "Teljes Mesteri XP"
+
+msgid "Loading leaderboard..."
+msgstr "Ranglista betöltése..."
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Retry"
+msgstr "Újrapróbálkozás"
+
+msgid "No Data Available"
+msgstr "Nincs elérhető adat"
+
+msgid "Add friends to see rankings"
+msgstr "Adj hozzá barátokat a rangsor megtekintéséhez"
+
+msgid "Slots"
+msgstr "Helyek"
+
+msgid "Open Results"
+msgstr "Eredmények megnyitása"
+
+msgid "Nothing obtained."
+msgstr "Nem sikerült semmit szerezni."
+
+msgid "Inventory full"
+msgstr "Leltár tele"
+
+msgid "Item is locked"
+msgstr "A tárgy zárolva van"
+
+msgid "Sell"
+msgstr "Eladás"
+
+msgid "Purchase Slot"
+msgstr "Slot vásárlása"
+
+msgid "Max Slots"
+msgstr "Max slotok"
+
+msgid "Selections"
+msgstr "Kiválasztások"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Remove the relic?"
+msgstr "Eltávolítsa a relikviát?"
+
+msgid "Place Relic"
+msgstr "Relikvia elhelyezése"
+
+msgid "Enchanting"
+msgstr "Bűvölés"
+
+msgid "Square"
+msgstr "Négyzet"
+
+msgid "Altar"
+msgstr "Oltár"
+
+msgid "Stop Enchanting"
+msgstr "Bűvölés leállítása"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Leállítod a bűvölést? Az anyagok nem kerülnek visszatérítésre."
+
+msgid "Enchanting Result"
+msgstr "Bűvölés eredménye"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr ""
+"Válassza ki a tárgyat, amelyet a tárhelybe helyez, a másik el lesz dobva."
+
+msgid "Put in Inventory"
+msgstr "Tárhelybe helyezés"
+
+msgid "Select Item"
+msgstr "Tárgy kiválasztása"
+
+msgid "Original"
+msgstr "Eredeti"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Click to Keep"
+msgstr "Kattintson a megtartáshoz"
+
+msgid "Remaining"
+msgstr "Maradék"
+
+msgid "Possible Modifiers"
+msgstr "Lehetséges módosítók"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Véletlenszerűen 1-2 módosítót kap."
+
+msgid "Capacity"
+msgstr "Kapacitás"
+
+msgid "Upgrade"
+msgstr "Fejlesztés"
+
+msgid "Occupying"
+msgstr "Foglalás"
+
+msgid "Unlocked"
+msgstr "Feloldva"
+
+msgid "Layers"
+msgstr "Rétegek"
+
+msgid "Not Built"
+msgstr "Nincs megépítve"
+
+msgid "Max Level Reached"
+msgstr "Max szint elérve"
+
+msgid "Decrease Tier"
+msgstr "Szint csökkentése"
+
+msgid "Increase Tier"
+msgstr "Szint növelése"
+
+msgid "Tier"
+msgstr "Szint"
+
+msgid "Size"
+msgstr "Méret"
+
+msgid "Offline Rewards"
+msgstr "Offline jutalmak"
+
+msgid "You have been offline for {0}."
+msgstr "Offline voltál {0}."
+
+msgid "Quantity"
+msgstr "Mennyiség"
+
+msgid "Max Count"
+msgstr "Max darabszám"
+
+msgid "1 Left"
+msgstr "1 maradt"
+
+msgid "Owned"
+msgstr "Birtokolt"
+
+msgid "Unit Price"
+msgstr "Egységár"
+
+msgid "Total Price"
+msgstr "Teljes ár"
+
+msgid "Current Item"
+msgstr "Jelenlegi tárgy"
+
+msgid "Count"
+msgstr "Darabszám"
+
+msgid "{0} missed {1}"
+msgstr "{0} elhibázta {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} eltalálta {1}, sebzés: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} legyőzve"
+
+msgid "Trait triggered: {0}"
+msgstr "Jellemző aktiválva: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Harc véget ért: {0}"
+
+msgid "Combat started"
+msgstr "Harc elindult"
+
+msgid "Reviving..."
+msgstr "Újjáéledés..."
+
+msgid "Combat Log"
+msgstr "Harc napló"
+
+msgid "No combat events yet."
+msgstr "Még nincsenek harci események."
+
+msgid "No trait activations yet."
+msgstr "Még nincs tulajdonság aktiválva."
+
+msgid "Attack Speed"
+msgstr "Támadási sebesség"
+
+msgid "Slash Damage"
+msgstr "Vágási sebzés"
+
+msgid "Puncture Damage"
+msgstr "Szúró sebzés"
+
+msgid "Impact Damage"
+msgstr "Ütési sebzés"
+
+msgid "Slash Resistance"
+msgstr "Vágási ellenállás"
+
+msgid "Puncture Resistance"
+msgstr "Szúró ellenállás"
+
+msgid "Impact Resistance"
+msgstr "Ütési ellenállás"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Járatossági előrehaladás: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Felszerelés"
+
+msgid "Farming"
+msgstr "Földművelés"
+
+msgid "Material"
+msgstr "Anyag"
+
+msgid "Misc"
+msgstr "Egyéb"
+
+msgid "Relics"
+msgstr "Relikviák"
+
+msgid "Item Mastered"
+msgstr "Tárgy elsajátítva"
+
+msgid "Mastery Complete"
+msgstr "Mastery teljesítve"
+
+msgid "Mastery Rank"
+msgstr "Mastery rang"
+
+msgid "Rank Advanced"
+msgstr "Rang előrelépve"
+
+msgid "Your mastery continues to grow"
+msgstr "A mastery-d tovább növekszik"
+
+msgid "Finished"
+msgstr "Befejezve"
+
+msgid "Fee: {0}"
+msgstr "Díj: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Piaci nyomás: {0}"
+
+msgid "You Pay"
+msgstr "Fizetendő"
+
+msgid "You Receive"
+msgstr "Kapott összeg"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"A piaci nyomás a piaci telítettség szintjét jelöli. Minél magasabb a piaci "
+"nyomás, annál rosszabb az átváltási árfolyam a vásárlásnál. A piaci nyomás "
+"idővel természetes módon csökken."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "A 硬币 átváltása Isle Bucks-ra növeli a piaci nyomást."
+
+msgid "Confirm Exchange"
+msgstr "Átváltás megerősítése"
+
+msgid "Enter Amount"
+msgstr "Írja be az összeget"
+
+msgid "Insufficient Balance"
+msgstr "Elégtelen egyenleg"
+
+msgid "Balance: {0}"
+msgstr "Egyenleg: {0}"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Ha úgy érzi, hibázott egy kicsit, csak kattintson az alábbi gombra az "
+"újrakezdéshez! Semmi vész – ez csak egy apró botlás a nagyság felé vezető "
+"úton."
+
+msgid "Start Over"
+msgstr "Újrakezdés"
+
+msgid "Are you sure?"
+msgstr "Biztos benne?"
+
+msgid "Port"
+msgstr "Kikötő"
+
+msgid "Next Trade In: {0}"
+msgstr "Következő kereskedés: {0}"
+
+msgid "Current Stats"
+msgstr "Jelenlegi statisztikák"
+
+msgid "Capacity (per trade)"
+msgstr "Kapacitás (kereskedésenként)"
+
+msgid "Trade Interval"
+msgstr "Kereskedési időköz"
+
+msgid "Saturation Speed"
+msgstr "Telítettségi sebesség"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/tárgy, -{1}/mp"
+
+msgid "Upgrades"
+msgstr "Fejlesztések"
+
+msgid "How many items can be sold per trade."
+msgstr "Hány tárgy adható el kereskedésenként."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Milyen gyakran történnek kereskedések. Az alacsonyabb érték jobb."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "A telítettség lassabban nő és gyorsabban csökken."
+
+msgid "Now"
+msgstr "Most"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Cost"
+msgstr "Költség"
+
+msgid "Last Trade"
+msgstr "Utolsó kereskedés"
+
+msgid "Trade Rule"
+msgstr "Kereskedési szabály"
+
+msgid "Stock: {0}"
+msgstr "Készlet: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Telítettség: {0}% (Ár x{1})"
+
+msgid "Trade Mode"
+msgstr "Kereskedési mód"
+
+msgid "Min Stock"
+msgstr "Min. készlet"
+
+msgid "Saturation"
+msgstr "Telítettség"
+
+msgid "Policies"
+msgstr "Irányelvek"
+
+msgid "Banking"
+msgstr "Banki szolgáltatások"
+
+msgid "Repository"
+msgstr "Raktár"
+
+msgid "Farmers"
+msgstr "Gazdálkodók"
+
+msgid "Workers"
+msgstr "Munkások"
+
+msgid "Astrologers"
+msgstr "Asztrológusok"
+
+msgid "Alchemists"
+msgstr "Alkimisták"
+
+msgid "GreatToken"
+msgstr "Hatalmas zseton"
+
+msgid "The Office"
+msgstr "Iroda"
+
+msgid "Productivity"
+msgstr "Termelékenység"
+
+msgid "Population"
+msgstr "Népesség"
+
+msgid "Insufficient Resources"
+msgstr "Elégtelen erőforrások"
+
+msgid "Insufficient Workforce"
+msgstr "Elégtelen munkaerő"
+
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+msgid "Production Period"
+msgstr "Termelési időszak"
+
+msgid "Building..."
+msgstr "Építés..."
+
+msgid "Build"
+msgstr "Építés"
+
+msgid "Build Cost"
+msgstr "Építési költség"
+
+msgid "Period Costs"
+msgstr "Időszakos költségek"
+
+msgid "Period Yields"
+msgstr "Időszakos hozamok"
+
+msgid "Balance"
+msgstr "Egyenleg"
+
+msgid "Maintenance: {0}s"
+msgstr "Karbantartás: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Kereskedelem: {0}"
+
+msgid "Available: {0}"
+msgstr "Elérhető: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Még szükséges: {0}"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "Already completed."
+msgstr "Már befejezve."
+
+msgid "No available items."
+msgstr "Nincsenek elérhető elemek."
+
+msgid "Add Items."
+msgstr "Elemek hozzáadása."
+
+msgid "Amount: {0}"
+msgstr "Mennyiség: {0}"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "Needed"
+msgstr "Szükséges"
+
+msgid "Progress"
+msgstr "Előrehaladás"
+
+msgid "Action"
+msgstr "Művelet"
+
+msgid "Great Token"
+msgstr "Great Token"
+
+msgid "Total Progress"
+msgstr "Teljes előrehaladás"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Húzza a kártyákat a helyekre, majd a megerősítéshez nyomja meg a gombot. Csak "
+"a feloldott kártyák választhatók ki."
+
+msgid "Unlocked: {0}"
+msgstr "Feloldva: {0}"
+
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgid "Unequip"
+msgstr "Levétel"
+
+msgid "Cards"
+msgstr "Kártyák"
+
+msgid "{0} Policies"
+msgstr "{0} Irányelvek"
+
+msgid "Equipped: {0}"
+msgstr "Felszerelve: {0}"
+
+msgid "Not equipped"
+msgstr "Nincs felszerelve"
+
+msgid "Equip"
+msgstr "Felszerelés"
+
+msgid "Costs"
+msgstr "Költségek"
+
+msgid "None"
+msgstr "Egyik sem"
+
+msgid "Economic"
+msgstr "Gazdasági"
+
+msgid "Labor"
+msgstr "Munkaerő"
+
+msgid "Social"
+msgstr "Társadalmi"
+
+msgid "Wildcard"
+msgstr "Univerzális"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Ismerlek! A híres, sokoldalú jártassági mester. Tudom, hogy a te eszeddel már "
+"tisztában vagy a város működésével, de muszáj bemutatnom! Nincs választásod!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"Az első lépés a népesség növelése, amit a gazdálkodói lakások építésével "
+"érhetsz el. Kérlek, válaszd a Gazdálkodók fület."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Nagyszerű próbálkozás! Most építs néhány faüzemet és fűrésztelepet deszkák "
+"előállításához."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Kiváló, most adjuk el ezeket a dolgokat. Először menj a kikötőbe. Keresd meg "
+"a deszkákat, majd állítsd a kereskedési módot eladásra, és amikor eljön az "
+"ideje, automatikusan eladja őket. Ilyen egyszerű!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Kiváló munka! A végső célod a Nagy Zsetonok szintetizálása, amellyel "
+"bizonyíthatod rendkívüli városirányítási képességeidet; törekedj erre a célra!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "Készen vagy! Vágj bele a nagy terveid megvalósításába!"
+
+msgid "Skill level too low"
+msgstr "A szint túl alacsony"
+
+msgid "Not enough items"
+msgstr "Nincs elég tárgy"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Szereplő"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maximális életerő"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Életerő"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Támadási sebesség"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Páncél"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Sebzés szorzó"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Beérkező sebzés szorzó"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Vágott sebzés"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Szúrt sebzés"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Zúzó sebzés"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Találati esély bónusz"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Kitérési esély bónusz"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Vágott sebzés ellenállás"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Szúrt sebzés ellenállás"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Zúzó sebzés ellenállás"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Játékos"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Étel hatása"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Offline jutalom szorzó"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Képességek"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Favágás hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Bányászat hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Olvasztás hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Kovácsolás hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Mezőgazdaság hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Alkímia hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Horgászat hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Főzés hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Vadászat hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Térképészet hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Régészet hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Egykezes fegyver használat hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Kétkezes fegyver használat hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Távolsági harc hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Védekezés hatékonysága"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Favágás sebessége"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Bányászat sebessége"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Olvasztás sebessége"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Kovácsolás sebessége"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Mezőgazdaság sebessége"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Alkímia sebessége"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Horgászat sebessége"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Főzés sebessége"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Vadászat sebessége"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Térképészet sebessége"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Régészet sebessége"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Egykezes fegyver használat sebessége"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Kétkezes fegyver használat sebessége"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Távolsági harc sebessége"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Védekezés sebessége"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "Favágás tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "Bányászat tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "Olvasztás tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "Kovácsolás tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "Mezőgazdaság tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "Alkímia tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "Horgászat tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "Főzés tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "Vadászat tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "Térképészet tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "Régészet tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "Egykezes fegyver használat tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "Kétkezes fegyver használat tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "Távolsági harc tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "Védekezés tapasztalati pont szorzó"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Favágás zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Bányászat zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Olvasztás zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Kovácsolás zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Mezőgazdaság zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Alkímia zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Horgászat zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Főzés zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Vadászat zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Térképészet zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Régészet zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Egykezes fegyver használat zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Kétkezes fegyver használat zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Távolsági harc zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Védekezés zsákmány szorzó"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Favágás szerencse"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Bányászat szerencse"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Olvasztás szerencse"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Kovácsolás szerencse"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Mezőgazdaság szerencse"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Alkímia szerencse"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Horgászat szerencse"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Főzés szerencse"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Vadászat szerencse"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Térképészet szerencse"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Régészet szerencse"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "Harci tapasztalati pont"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Harci hozam"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "Gyűjtögetési tapasztalati pont"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Gyűjtögetési hozam"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Gyűjtögetési sebesség"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "Kézműves tapasztalati pont"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Kézműves hozam"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Kézműves sebesség"
+
+msgid "Skill {0} level up to {1}"
+msgstr "{0} szintje elérte a(z) {1}. szintet"
+
+msgid "Food"
+msgstr "Élelem"
+
+msgid "Combat Potion"
+msgstr "Harci bájital"
+
+msgid "Gather Potion"
+msgstr "Gyűjtési bájital"
+
+msgid "Craft Potion"
+msgstr "Készítési bájital"
+
+msgid "Inventory Slots"
+msgstr "Leltárhelyek"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "Rendszer"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Világos"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Sötét"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "TonalSpot"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Semleges"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Élénk"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Kifejező"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Szivárvány"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "Gyümölcssaláta"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Monokróm"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Hűség"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Unlock {0}"
+msgstr "{0} feloldása"
+
+msgid "No requirement"
+msgstr "Nincs követelmény"
+
+msgid "{0} reach level {1}"
+msgstr "{0} eléri a(z) {1}. szintet"
+
+msgid "Unknown skill"
+msgstr "Ismeretlen készség"
+
+msgid "{0} completed"
+msgstr "{0} befejezve"
+
+msgid "Error Quest"
+msgstr "Hiba küldetés"
+
+msgid "Kill {0} {1}"
+msgstr "Ölj meg {0} {1}-t"
+
+msgid "Collect {0} {1}"
+msgstr "Gyűjts össze {0} {1}-t"
+
+msgid "Finish {0} {1}"
+msgstr "Fejezd be a(z) {0} {1}-t"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "{0} {1} építése"
+
+msgid "Quest {0} completed"
+msgstr "Küldetés befejezve: {0}"
+
+msgid "Weapon"
+msgstr "Fegyver"
+
+msgid "Shield"
+msgstr "Pajzs"
+
+msgid "Helmet"
+msgstr "Sisak"
+
+msgid "Armor"
+msgstr "Páncél"
+
+msgid "LegArmor"
+msgstr "Lábpáncél"
+
+msgid "Boots"
+msgstr "Csizma"
+
+msgid "Accessories"
+msgstr "Kiegészítők"
+
+msgid "Necklace"
+msgstr "Nyakék"
+
+msgid "Ring"
+msgstr "Gyűrű"
+
+msgid "Bracelet"
+msgstr "Karkötő"
+
+msgid "Cape"
+msgstr "Köpeny"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "Axe"
+msgstr "Balta"
+
+msgid "Pickaxe"
+msgstr "Csákány"
+
+msgid "Spade"
+msgstr "Ásó"
+
+msgid "Rod"
+msgstr "Rúd"
+
+msgid "Trap"
+msgstr "Csapda"
+
+msgid "{0} Completed"
+msgstr "{0} kész"
+
+msgid "Items not enough"
+msgstr "Nincs elég tárgy"
+
+msgid "CombatPotion"
+msgstr "Harcital"
+
+msgid "GatherPotion"
+msgstr "Gyűjtőital"
+
+msgid "CraftPotion"
+msgstr "Készítőital"
+
+msgid "Flower"
+msgstr "Virág"
+
+msgid "Vegetable"
+msgstr "Zöldség"
+
+msgid "Fruit"
+msgstr "Gyümölcs"
+
+msgid "Fish"
+msgstr "Hal"
+
+msgid "Sword"
+msgstr "Kard"
+
+msgid "Hammer"
+msgstr "Kalapács"
+
+msgid "Scythe"
+msgstr "Sarló"
+
+msgid "Spear"
+msgstr "Lándzsa"
+
+msgid "Bow"
+msgstr "Íj"
+
+msgid "Dart"
+msgstr "Dárda"
+
+msgid "Relic"
+msgstr "Relikvia"
+
+msgid "%s secs"
+msgstr "%s mp"
+
+msgid "%s mins"
+msgstr "%s perc"
+
+msgid "%s hours"
+msgstr "%s óra"
+
+msgid "%s days"
+msgstr "%s nap"
+
+msgid "%s weeks"
+msgstr "%s hét"
+
+msgid "%s months"
+msgstr "%s hónap"
+
+msgid "%s years"
+msgstr "%s év"
+
+msgid "Always"
+msgstr "Mindig"
+
+msgid "Common"
+msgstr "Gyakori"
+
+msgid "Uncommon"
+msgstr "Szokatlan"
+
+msgid "Rare"
+msgstr "Ritka"
+
+msgid "Legendary"
+msgstr "Legendás"
+
+msgid "Frenzy"
+msgstr "Őrjöngés"
+
+msgid "Tanky"
+msgstr "Tank"
+
+msgid "Deadly"
+msgstr "Halálos"
+
+msgid "Swift"
+msgstr "Fürge"
+
+msgid "Precise"
+msgstr "Pontos"
+
+msgid "Hardened"
+msgstr "Edzett"

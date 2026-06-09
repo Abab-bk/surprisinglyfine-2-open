@@ -1,0 +1,119 @@
+- id: achievement_woodcutting_level_90
+  name: 伐木大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_woodcutting
+      level: 90
+
+
+- id: achievement_mining_level_90
+  name: 挖掘大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_mining
+      level: 90
+
+
+- id: achievement_smelting_level_90
+  name: 冶炼大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smelting
+      level: 90
+
+
+- id: achievement_smithing_level_90
+  name: 锻造大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_smithing
+      level: 90
+
+
+- id: achievement_farming_level_90
+  name: 种地大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_farming
+      level: 90
+
+
+- id: achievement_alchemy_level_90
+  name: 炼金大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_alchemy
+      level: 90
+
+
+- id: achievement_fishing_level_90
+  name: 钓鱼大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_fishing
+      level: 90
+
+
+- id: achievement_cooking_level_90
+  name: 烹饪大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_cooking
+      level: 90
+
+
+- id: achievement_hunting_level_90
+  name: 狩猎大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_hunting
+      level: 90
+
+
+- id: achievement_charting_level_90
+  name: 制图大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_charting
+      level: 90
+
+
+- id: achievement_archaeology_level_90
+  name: 考古大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_archaeology
+      level: 90
+
+
+- id: achievement_one_handed_level_90
+  name: 单手武器大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_one_handed
+      level: 90
+
+
+- id: achievement_two_handed_level_90
+  name: 双手武器大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_two_handed
+      level: 90
+
+
+- id: achievement_ranged_level_90
+  name: 远程武器大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_ranged
+      level: 90
+
+
+- id: achievement_defense_level_90
+  name: 防御大王
+  conditions:
+    - !<skillRequirement>
+      skillId: skill_defense
+      level: 90
+

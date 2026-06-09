@@ -1,0 +1,4805 @@
+msgid ""
+msgstr ""
+"Language: Polish\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 godziny +100% doświadczenia w umiejętnościach"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 godziny +100% dochodu pasywnego"
+
+msgid "炼金实验室"
+msgstr "Laboratorium Alchemiczne"
+
+msgid "铁砧"
+msgstr "Kowadło"
+
+msgid "制图台"
+msgstr "Stół Kartograficzny"
+
+msgid "烹饪锅"
+msgstr "Garnek Kuchenny"
+
+msgid "熔炉"
+msgstr "Piecyk"
+
+msgid "投资政策"
+msgstr "Polityka inwestycyjna"
+
+msgid "建筑建造费用 {0}"
+msgstr "Koszt budowy {0}"
+
+msgid "财政改革"
+msgstr "Reforma finansowa"
+
+msgid "全城维护费 {0}"
+msgstr "Koszty utrzymania miasta {0}"
+
+msgid "关税壁垒"
+msgstr "Bariery celne"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Szybkość przywracania nasycenia {0}"
+
+msgid "自动化生产"
+msgstr "Automatyzacja produkcji"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Szybkość produkcji {0}, zapotrzebowanie na siłę roboczą {1}"
+
+msgid "标准化作业"
+msgstr "Standaryzacja procesów"
+
+msgid "生产速度 {0}"
+msgstr "Szybkość produkcji {0}"
+
+msgid "强制加班"
+msgstr "Przymusowe nadgodziny"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Szybkość produkcji {0}, koszty utrzymania {1}"
+
+msgid "福利国家"
+msgstr "Państwo opiekuńcze"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Koszty utrzymania budynków mieszkalnych {0}"
+
+msgid "公共住房"
+msgstr "Budownictwo społeczne"
+
+msgid "住宅容量 {0}"
+msgstr "Pojemność mieszkalna {0}"
+
+msgid "第一步"
+msgstr "Pierwszy krok"
+
+msgid "让我们挖掘"
+msgstr "Zacznijmy kopać"
+
+msgid "让我们冶炼"
+msgstr "Zacznijmy wytop"
+
+msgid "想吃点鱼"
+msgstr "Chcę zjeść rybę"
+
+msgid "想吃点鱼2"
+msgstr "Chcę zjeść rybę 2"
+
+msgid "整装待发"
+msgstr "Gotowy do startu"
+
+msgid "击杀邪恶哥布林"
+msgstr "Zabij złego goblina"
+
+msgid "花匠"
+msgstr "Ogrodnik"
+
+msgid "炼金师"
+msgstr "Alchemik"
+
+msgid "猎户"
+msgstr "Myśliwy"
+
+msgid "考古时刻"
+msgstr "Czas na archeologię"
+
+msgid "考古时刻2"
+msgstr "Czas na archeologię 2"
+
+msgid "工人住宅"
+msgstr "Domy robotnicze"
+
+msgid "黏土坑"
+msgstr "Kopalnia gliny"
+
+msgid "砖厂"
+msgstr "Cegielnia"
+
+msgid "猪场"
+msgstr "Farma świń"
+
+msgid "屠宰场"
+msgstr "Rzeźnia"
+
+msgid "谷物农场"
+msgstr "Farma zboża"
+
+msgid "面粉厂"
+msgstr "Młyn"
+
+msgid "面包厂"
+msgstr "Piekarnia"
+
+msgid "铁矿"
+msgstr "Kopalnia żelaza"
+
+msgid "石油矿"
+msgstr "Szyb naftowy"
+
+msgid "炼铁厂"
+msgstr "Huta żelaza"
+
+msgid "钢铁厂"
+msgstr "Huta stali"
+
+msgid "炼脂厂"
+msgstr "Zakład przetwórstwa tłuszczu"
+
+msgid "肥皂厂"
+msgstr "Fabryka mydła"
+
+msgid "武器厂"
+msgstr "Fabryka broni"
+
+msgid "麦芽厂"
+msgstr "Słodownia"
+
+msgid "啤酒花厂"
+msgstr "Plantacja chmielu"
+
+msgid "啤酒厂"
+msgstr "Browar"
+
+msgid "农民住宅"
+msgstr "Domy rolników"
+
+msgid "树厂"
+msgstr "Plantacja drzew"
+
+msgid "锯木厂"
+msgstr "Tartak"
+
+msgid "渔场"
+msgstr "Łowisko"
+
+msgid "土豆农场"
+msgstr "Farma ziemniaków"
+
+msgid "伏特加酒厂"
+msgstr "Destylarnia wódki"
+
+msgid "羊毛厂"
+msgstr "Zakład przetwórstwa wełny"
+
+msgid "服装厂"
+msgstr "Fabryka odzieży"
+
+msgid "占星学家别墅"
+msgstr "Willa astrologa"
+
+msgid "西瓜农场"
+msgstr "Farma arbuzów"
+
+msgid "鸡蛋厂"
+msgstr "Farma jaj"
+
+msgid "曲奇厂"
+msgstr "Fabryka ciasteczek"
+
+msgid "曲奇罐头厂"
+msgstr "Fabryka ciasteczek w puszkach"
+
+msgid "沙矿场"
+msgstr "Piaskownia"
+
+msgid "硅厂"
+msgstr "Fabryka krzemu"
+
+msgid "电子厂"
+msgstr "Fabryka elektroniki"
+
+msgid "放大镜厂"
+msgstr "Fabryka lup"
+
+msgid "颜料厂"
+msgstr "Fabryka pigmentów"
+
+msgid "笔厂"
+msgstr "Fabryka długopisów"
+
+msgid "绘图纸厂"
+msgstr "Fabryka papieru technicznego"
+
+msgid "绘图厂"
+msgstr "Pracownia rysownicza"
+
+msgid "炼金术士别墅"
+msgstr "Willa alchemika"
+
+msgid "采石场"
+msgstr "Kamieniołom"
+
+msgid "混凝土厂"
+msgstr "Betoniarnia"
+
+msgid "锌矿厂"
+msgstr "Kopalnia cynku"
+
+msgid "石英矿场"
+msgstr "Kopalnia kwarcu"
+
+msgid "轴矿场"
+msgstr "Kopalnia uranu"
+
+msgid "红酒厂"
+msgstr "Winiarnia"
+
+msgid "注射器厂"
+msgstr "Fabryka strzykawek"
+
+msgid "橡胶农场"
+msgstr "Plantacja kauczuku"
+
+msgid "生化服厂"
+msgstr "Fabryka kombinezonów ochronnych"
+
+msgid "硝石工厂"
+msgstr "Fabryka saletry"
+
+msgid "炸药工厂"
+msgstr "Fabryka materiałów wybuchowych"
+
+msgid "炼药锅"
+msgstr "Kocioł alchemiczny"
+
+msgid "镍矿厂"
+msgstr "Kopalnia niklu"
+
+msgid "镍锭厂"
+msgstr "Huta niklu"
+
+msgid "磁带厂"
+msgstr "Fabryka kaset"
+
+msgid "纤维厂"
+msgstr "Fabryka włókien"
+
+msgid "光盘厂"
+msgstr "Fabryka płyt CD"
+
+msgid "要号码宝箱"
+msgstr "Skrzynia z numerami"
+
+msgid "对抗纨绔宝箱"
+msgstr "Skrzynia walki z playboyem"
+
+msgid "美颜参数宝箱"
+msgstr "Skrzynia parametrów urody"
+
+msgid "说梦话宝箱"
+msgstr "Skrzynia mówienia przez sen"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Skrzynia kociego pyszczka"
+
+msgid "傻子太多宝箱"
+msgstr "Skrzynia zbyt wielu głupców"
+
+msgid "生活太难宝箱"
+msgstr "Skrzynia trudnego życia"
+
+msgid "生活太难宝箱 2"
+msgstr "Skrzynia trudnego życia 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Skrzynia wielkich ambicji"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Skrzynia wielkich ambicji 2"
+
+msgid "喝水宝箱"
+msgstr "Skrzynia z wodą"
+
+msgid "礼貌宝箱"
+msgstr "Skrzynia uprzejmości"
+
+msgid "礼貌宝箱 2"
+msgstr "Skrzynia uprzejmości 2"
+
+msgid "厉害宝箱"
+msgstr "Skrzynia potęgi"
+
+msgid "厉害宝箱 2"
+msgstr "Skrzynia potęgi 2"
+
+msgid "厉害宝箱 3"
+msgstr "Skrzynia potęgi 3"
+
+msgid "奢侈品宝箱"
+msgstr "Skrzynia luksusowa"
+
+msgid "奢侈品宝箱 2"
+msgstr "Skrzynia luksusowa 2"
+
+msgid "不可战胜宝箱"
+msgstr "Skrzynia niezwyciężoności"
+
+msgid "不可战胜宝箱 2"
+msgstr "Skrzynia niezwyciężoności 2"
+
+msgid "帅哥宝箱"
+msgstr "Skrzynia przystojniaka"
+
+msgid "镇静宝箱"
+msgstr "Skrzynia spokoju"
+
+msgid "生活方式宝箱"
+msgstr "Skrzynia stylu życia"
+
+msgid "生活方式宝箱 2"
+msgstr "Skrzynia stylu życia 2"
+
+msgid "爱情故事宝箱"
+msgstr "Skrzynia historii miłosnej"
+
+msgid "爱情故事宝箱 2"
+msgstr "Skrzynia historii miłosnej 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Skrzynia historii miłosnej 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Skrzynia historii miłosnej 4"
+
+msgid "硬币"
+msgstr "Moneta"
+
+msgid "星星"
+msgstr "Gwiazda"
+
+msgid "瓶子"
+msgstr "Butelka"
+
+msgid "蚯蚓"
+msgstr "Dżdżownica"
+
+msgid "皮革"
+msgstr "Skóra"
+
+msgid "羽毛"
+msgstr "Pióro"
+
+msgid "墨水"
+msgstr "Atrament"
+
+msgid "岛民券"
+msgstr "Isle Bucks"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Stal"
+
+msgid "啤酒"
+msgstr "Piwo"
+
+msgid "麦芽"
+msgstr "Słód"
+
+msgid "啤酒花"
+msgstr "Chmiel"
+
+msgid "好猪肉"
+msgstr "Wysokiej jakości wieprzowina"
+
+msgid "谷物"
+msgstr "Zboże"
+
+msgid "面粉"
+msgstr "Mąka"
+
+msgid "面包"
+msgstr "Chleb"
+
+msgid "油脂"
+msgstr "Tłuszcze"
+
+msgid "肥皂"
+msgstr "Mydło"
+
+msgid "武器"
+msgstr "Broń"
+
+msgid "砖块"
+msgstr "Cegły"
+
+msgid "猪肉"
+msgstr "Wieprzowina"
+
+msgid "粘土"
+msgstr "Glina"
+
+msgid "石油"
+msgstr "Ropa naftowa"
+
+msgid "铁锭"
+msgstr "Sztabki żelaza"
+
+msgid "木板"
+msgstr "Deski"
+
+msgid "土豆"
+msgstr "Ziemniaki"
+
+msgid "鱼"
+msgstr "Ryby"
+
+msgid "伏特加"
+msgstr "Wódka"
+
+msgid "羊毛"
+msgstr "Wełna"
+
+msgid "衣服"
+msgstr "Ubrania"
+
+msgid "原木"
+msgstr "Drewno"
+
+msgid "西瓜"
+msgstr "Arbuzy"
+
+msgid "鸡蛋"
+msgstr "Jaja"
+
+msgid "曲奇"
+msgstr "Ciasteczka"
+
+msgid "曲奇罐头"
+msgstr "Ciasteczka w puszkach"
+
+msgid "沙子"
+msgstr "Piasek"
+
+msgid "硅"
+msgstr "Krzem"
+
+msgid "电路板"
+msgstr "Płytki drukowane"
+
+msgid "放大镜"
+msgstr "Lupa"
+
+msgid "颜料"
+msgstr "Pigmenty"
+
+msgid "笔"
+msgstr "Długopis"
+
+msgid "绘图纸"
+msgstr "Papier techniczny"
+
+msgid "星图"
+msgstr "Mapa gwiazd"
+
+msgid "石头"
+msgstr "Kamień"
+
+msgid "混凝土"
+msgstr "Beton"
+
+msgid "锌"
+msgstr "Cynk"
+
+msgid "石英"
+msgstr "Kwarc"
+
+msgid "铀"
+msgstr "Uran"
+
+msgid "红酒"
+msgstr "Wino"
+
+msgid "注射器"
+msgstr "Strzykawka"
+
+msgid "橡胶"
+msgstr "Kauczuk"
+
+msgid "生化服"
+msgstr "Kombinezon ochronny"
+
+msgid "硝石"
+msgstr "Saletra"
+
+msgid "炸药"
+msgstr "Materiały wybuchowe"
+
+msgid "炼金锅"
+msgstr "Kocioł alchemiczny"
+
+msgid "镍"
+msgstr "Nikiel"
+
+msgid "镍锭"
+msgstr "Sztabki niklu"
+
+msgid "磁带"
+msgstr "Kasety"
+
+msgid "纤维"
+msgstr "Włókna"
+
+msgid "光盘"
+msgstr "Płyty CD"
+
+msgid "邪恶虾兵"
+msgstr "Zły krewetkowy żołnierz"
+
+msgid "邪恶蟹将"
+msgstr "Zły krab-generał"
+
+msgid "邪恶史莱姆"
+msgstr "Zły szlam"
+
+msgid "邪恶秃头"
+msgstr "Zły łysol"
+
+msgid "邪恶龙骨"
+msgstr "Zły szkielet"
+
+msgid "邪恶泰坦"
+msgstr "Zły tytan"
+
+msgid "邪恶将军"
+msgstr "Zły generał"
+
+msgid "邪恶大王"
+msgstr "Zły władca"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elitarny zły szlam"
+
+msgid "精英邪恶秃头"
+msgstr "Elitarny zły łysol"
+
+msgid "精英邪恶龙骨"
+msgstr "Elitarny zły szkielet"
+
+msgid "精英邪恶泰坦"
+msgstr "Elitarny zły tytan"
+
+msgid "精英邪恶将军"
+msgstr "Elitarny zły generał"
+
+msgid "精英邪恶大王"
+msgstr "Elitarny zły władca"
+
+msgid "邪恶死人"
+msgstr "Zły nieumarły"
+
+msgid "邪恶蛇蛇"
+msgstr "Zły wąż"
+
+msgid "邪恶小偷"
+msgstr "Zły złodziej"
+
+msgid "邪恶外星人"
+msgstr "Zły kosmita"
+
+msgid "邪恶大象"
+msgstr "Zły słoń"
+
+msgid "邪恶野人"
+msgstr "Zły dzikus"
+
+msgid "邪恶三头龙"
+msgstr "Zły trójgłowy smok"
+
+msgid "邪恶邪神"
+msgstr "Zły bóg chaosu"
+
+msgid "精英邪恶小偷"
+msgstr "Elitarny zły złodziej"
+
+msgid "精英邪恶外星人"
+msgstr "Elitarny zły kosmita"
+
+msgid "精英邪恶大象"
+msgstr "Elitarny zły słoń"
+
+msgid "精英邪恶野人"
+msgstr "Elitarny zły dzikus"
+
+msgid "精英邪恶三头龙"
+msgstr "Elitarny zły trójgłowy smok"
+
+msgid "精英邪恶邪神"
+msgstr "Elitarny zły bóg chaosu"
+
+msgid "邪恶螃蟹"
+msgstr "Zły krab"
+
+msgid "邪恶太阳花"
+msgstr "Zły słonecznik"
+
+msgid "邪恶小鸡"
+msgstr "Złe kurczątko"
+
+msgid "邪恶蜘蛛"
+msgstr "Zły pająk"
+
+msgid "邪恶蜜蜂"
+msgstr "Zła pszczoła"
+
+msgid "邪恶笑脸男"
+msgstr "Zły uśmiechnięty facet"
+
+msgid "邪恶骑士"
+msgstr "Zły rycerz"
+
+msgid "邪恶巫婆"
+msgstr "Zła wiedźma"
+
+msgid "精英邪恶小鸡"
+msgstr "Elitarne złe kurczątko"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elitarny zły pająk"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elitarna zła pszczoła"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elitarne Złośliwe Uśmiechnięte Mężczyzna"
+
+msgid "精英邪恶骑士"
+msgstr "Elitarny zły rycerz"
+
+msgid "精英邪恶巫婆"
+msgstr "Elitarna zła wiedźma"
+
+msgid "祭坛"
+msgstr "Ołtarz"
+
+msgid "铜剑"
+msgstr "Miecz Miedziany"
+
+msgid "铜锤"
+msgstr "Młot Miedziany"
+
+msgid "铜镰刀"
+msgstr "Kosa Miedziana"
+
+msgid "铜矛"
+msgstr "Włócznia Miedziana"
+
+msgid "铜飞镖"
+msgstr "Bumerang Miedziany"
+
+msgid "银剑"
+msgstr "Miecz Srebrny"
+
+msgid "银锤"
+msgstr "Młot Srebrny"
+
+msgid "银镰刀"
+msgstr "Kosa Srebrna"
+
+msgid "银矛"
+msgstr "Włócznia Srebrna"
+
+msgid "银飞镖"
+msgstr "Bumerang Srebrny"
+
+msgid "金剑"
+msgstr "Miecz Złoty"
+
+msgid "金锤"
+msgstr "Złoty Młot"
+
+msgid "金镰刀"
+msgstr "Złota Kosa"
+
+msgid "金矛"
+msgstr "Złota Włócznia"
+
+msgid "金飞镖"
+msgstr "Złota Gwiazdka"
+
+msgid "霜冻剑"
+msgstr "Mroźny Miecz"
+
+msgid "霜冻锤"
+msgstr "Mroźny Młot"
+
+msgid "霜冻镰刀"
+msgstr "Mroźna Kosa"
+
+msgid "霜冻矛"
+msgstr "Mroźna Włócznia"
+
+msgid "霜冻飞镖"
+msgstr "Mroźna Gwiazdka"
+
+msgid "翡翠剑"
+msgstr "Szmaragdowy Miecz"
+
+msgid "翡翠锤"
+msgstr "Szmaragdowy Młot"
+
+msgid "翡翠镰刀"
+msgstr "Szmaragdowa Kosa"
+
+msgid "翡翠矛"
+msgstr "Szmaragdowa Włócznia"
+
+msgid "翡翠飞镖"
+msgstr "Szmaragdowa Gwiazdka"
+
+msgid "熔岩剑"
+msgstr "Lawowy Miecz"
+
+msgid "熔岩锤"
+msgstr "Lawowy Młot"
+
+msgid "熔岩镰刀"
+msgstr "Lawowa Kosa"
+
+msgid "熔岩矛"
+msgstr "Lawowa Włócznia"
+
+msgid "熔岩飞镖"
+msgstr "Lawowa Gwiazdka"
+
+msgid "星辰剑"
+msgstr "Gwiezdny Miecz"
+
+msgid "星辰锤"
+msgstr "Młot Gwiazd"
+
+msgid "星辰镰刀"
+msgstr "Kosa Gwiazd"
+
+msgid "星辰矛"
+msgstr "Włócznia Gwiazd"
+
+msgid "星辰飞镖"
+msgstr "Gwiazdowy Bumerang"
+
+msgid "彩虹剑"
+msgstr "Miecz Tęczy"
+
+msgid "彩虹锤"
+msgstr "Młot Tęczy"
+
+msgid "彩虹镰刀"
+msgstr "Kosa Tęczy"
+
+msgid "彩虹矛"
+msgstr "Włócznia Tęczy"
+
+msgid "彩虹飞镖"
+msgstr "Tęczowy Bumerang"
+
+msgid "铜靴子"
+msgstr "Miedziane Buty"
+
+msgid "铜腿甲"
+msgstr "Miedziane Nogawice"
+
+msgid "铜头盔"
+msgstr "Miedziany Hełm"
+
+msgid "铜盾牌"
+msgstr "Miedziana Tarcza"
+
+msgid "铜护甲"
+msgstr "Miedziana Zbroja"
+
+msgid "铜披风"
+msgstr "Miedziany Płaszcz"
+
+msgid "银靴子"
+msgstr "Srebrne Buty"
+
+msgid "银腿甲"
+msgstr "Srebrne Nogawice"
+
+msgid "银头盔"
+msgstr "Srebrny Hełm"
+
+msgid "银盾牌"
+msgstr "Srebrna Tarcza"
+
+msgid "银护甲"
+msgstr "Srebrna Zbroja"
+
+msgid "银披风"
+msgstr "Srebrny Płaszcz"
+
+msgid "金靴子"
+msgstr "Złote Buty"
+
+msgid "金腿甲"
+msgstr "Złota Nogawica"
+
+msgid "金头盔"
+msgstr "Złoty Hełm"
+
+msgid "金盾牌"
+msgstr "Złota Tarcza"
+
+msgid "金护甲"
+msgstr "Złota Zbroja"
+
+msgid "金披风"
+msgstr "Złoty Płaszcz"
+
+msgid "霜冻靴子"
+msgstr "Mroźne Buty"
+
+msgid "霜冻腿甲"
+msgstr "Mroźna Nogawica"
+
+msgid "霜冻头盔"
+msgstr "Mroźny Hełm"
+
+msgid "霜冻盾牌"
+msgstr "Mroźna Tarcza"
+
+msgid "霜冻护甲"
+msgstr "Mroźna Zbroja"
+
+msgid "霜冻披风"
+msgstr "Mroźny Płaszcz"
+
+msgid "翡翠靴子"
+msgstr "Szmaragdowe Buty"
+
+msgid "翡翠腿甲"
+msgstr "Szmaragdowa Nogawica"
+
+msgid "翡翠头盔"
+msgstr "Szmaragdowy Hełm"
+
+msgid "翡翠盾牌"
+msgstr "Szmaragdowa Tarcza"
+
+msgid "翡翠护甲"
+msgstr "Szmaragdowa Zbroja"
+
+msgid "翡翠披风"
+msgstr "Szmaragdowy Płaszcz"
+
+msgid "熔岩靴子"
+msgstr "Lawowe Buty"
+
+msgid "熔岩腿甲"
+msgstr "Nogawica z lawy"
+
+msgid "熔岩头盔"
+msgstr "Hełm z lawy"
+
+msgid "熔岩盾牌"
+msgstr "Tarcza z lawy"
+
+msgid "熔岩护甲"
+msgstr "Zbroja z lawy"
+
+msgid "熔岩披风"
+msgstr "Płaszcz z lawy"
+
+msgid "星辰靴子"
+msgstr "Buty gwiaździste"
+
+msgid "星辰腿甲"
+msgstr "Nogawica gwiaździsta"
+
+msgid "星辰头盔"
+msgstr "Hełm gwiaździsty"
+
+msgid "星辰盾牌"
+msgstr "Tarcza gwiaździsta"
+
+msgid "星辰护甲"
+msgstr "Zbroja gwiaździsta"
+
+msgid "星辰披风"
+msgstr "Płaszcz gwiaździsty"
+
+msgid "彩虹靴子"
+msgstr "Buty tęczowe"
+
+msgid "彩虹腿甲"
+msgstr "Nogawica tęczowa"
+
+msgid "彩虹头盔"
+msgstr "Hełm tęczowy"
+
+msgid "彩虹盾牌"
+msgstr "Tarcza tęczowa"
+
+msgid "彩虹护甲"
+msgstr "Zbroja tęczowa"
+
+msgid "彩虹披风"
+msgstr "Płaszcz tęczowy"
+
+msgid "红宝石戒指"
+msgstr "Pierścień rubinowy"
+
+msgid "黄宝石戒指"
+msgstr "Pierścień topazowy"
+
+msgid "绿宝石戒指"
+msgstr "Pierścień szmaragdowy"
+
+msgid "月亮宝石戒指"
+msgstr "Księżycowy Pierścień z Kamieniem Szlachetnym"
+
+msgid "水晶宝石戒指"
+msgstr "Kryształowy Pierścień z Kamieniem Szlachetnym"
+
+msgid "星星宝石戒指"
+msgstr "Gwiaździsty Pierścień z Kamieniem Szlachetnym"
+
+msgid "玛瑙宝石戒指"
+msgstr "Ametystowy Pierścień z Kamieniem Szlachetnym"
+
+msgid "彩虹宝石戒指"
+msgstr "Tęczowy Pierścień z Kamieniem Szlachetnym"
+
+msgid "红宝石项链"
+msgstr "Rubinowy Naszyjnik"
+
+msgid "黄宝石项链"
+msgstr "Cytrynowy Naszyjnik"
+
+msgid "绿宝石项链"
+msgstr "Szmaragdowy Naszyjnik"
+
+msgid "月亮宝石项链"
+msgstr "Księżycowy Naszyjnik z Kamieniem Szlachetnym"
+
+msgid "水晶宝石项链"
+msgstr "Kryształowy Naszyjnik z Kamieniem Szlachetnym"
+
+msgid "星星宝石项链"
+msgstr "Gwiaździsty Naszyjnik z Kamieniem Szlachetnym"
+
+msgid "玛瑙宝石项链"
+msgstr "Ametystowy Naszyjnik z Kamieniem Szlachetnym"
+
+msgid "彩虹宝石项链"
+msgstr "Tęczowy Naszyjnik z Kamieniem Szlachetnym"
+
+msgid "红宝石手环"
+msgstr "Rubinowa Opaska"
+
+msgid "黄宝石手环"
+msgstr "Cytrynowa Opaska"
+
+msgid "绿宝石手环"
+msgstr "Szmaragdowa Opaska"
+
+msgid "月亮宝石手环"
+msgstr "Księżycowa Opaska z Kamieniem Szlachetnym"
+
+msgid "水晶宝石手环"
+msgstr "Kryształowa Opaska z Kamieniem Szlachetnym"
+
+msgid "星星宝石手环"
+msgstr "Gwiaździsta Opaska z Kamieniem Szlachetnym"
+
+msgid "玛瑙宝石手环"
+msgstr "Ametystowa Opaska z Kamieniem Szlachetnym"
+
+msgid "彩虹宝石手环"
+msgstr "Bransoletka z tęczowymi klejnotami"
+
+msgid "铜鱼竿"
+msgstr "Miedziana wędka"
+
+msgid "铜铲"
+msgstr "Miedziana łopata"
+
+msgid "铜斧"
+msgstr "Miedziana siekiera"
+
+msgid "铜镐"
+msgstr "Miedziany kilof"
+
+msgid "铜陷阱"
+msgstr "Miedziana pułapka"
+
+msgid "银鱼竿"
+msgstr "Srebrna wędka"
+
+msgid "银铲"
+msgstr "Srebrna łopata"
+
+msgid "银斧"
+msgstr "Srebrna siekiera"
+
+msgid "银镐"
+msgstr "Srebrny kilof"
+
+msgid "银陷阱"
+msgstr "Srebrna pułapka"
+
+msgid "金鱼竿"
+msgstr "Złota wędka"
+
+msgid "金铲"
+msgstr "Złota łopata"
+
+msgid "金斧"
+msgstr "Złota siekiera"
+
+msgid "金镐"
+msgstr "Złoty kilof"
+
+msgid "金陷阱"
+msgstr "Złota pułapka"
+
+msgid "霜冻鱼竿"
+msgstr "Mroźna wędka"
+
+msgid "霜冻铲"
+msgstr "Mroźna łopata"
+
+msgid "霜冻斧"
+msgstr "Mroźna siekiera"
+
+msgid "霜冻镐"
+msgstr "Mroźny kilof"
+
+msgid "霜冻陷阱"
+msgstr "Zamrożona pułapka"
+
+msgid "翡翠鱼竿"
+msgstr "Szmaragdowa wędka"
+
+msgid "翡翠铲"
+msgstr "Szmaragdowa łopata"
+
+msgid "翡翠斧"
+msgstr "Szmaragdowa siekiera"
+
+msgid "翡翠镐"
+msgstr "Szmaragdowy kilof"
+
+msgid "翡翠陷阱"
+msgstr "Szmaragdowa pułapka"
+
+msgid "熔岩鱼竿"
+msgstr "Lawowa wędka"
+
+msgid "熔岩铲"
+msgstr "Lawowa łopata"
+
+msgid "熔岩斧"
+msgstr "Lawowa siekiera"
+
+msgid "熔岩镐"
+msgstr "Lawowy kilof"
+
+msgid "熔岩陷阱"
+msgstr "Lawowa pułapka"
+
+msgid "星辰鱼竿"
+msgstr "Gwiezdna wędka"
+
+msgid "星辰铲"
+msgstr "Gwiezdna łopata"
+
+msgid "星辰斧"
+msgstr "Gwiezdna siekiera"
+
+msgid "星辰镐"
+msgstr "Gwiezdny kilof"
+
+msgid "星辰陷阱"
+msgstr "Gwiezdna pułapka"
+
+msgid "彩虹鱼竿"
+msgstr "Tęczowa wędka"
+
+msgid "彩虹铲"
+msgstr "Tęczowa łopata"
+
+msgid "彩虹斧"
+msgstr "Tęczowa siekiera"
+
+msgid "彩虹镐"
+msgstr "Tęczowy kilof"
+
+msgid "彩虹陷阱"
+msgstr "Tęczowa pułapka"
+
+msgid "苹果"
+msgstr "Jabłko"
+
+msgid "草莓"
+msgstr "Truskawka"
+
+msgid "香蕉"
+msgstr "Banan"
+
+msgid "蓝莓"
+msgstr "Jagoda"
+
+msgid "樱桃"
+msgstr "Wiśnia"
+
+msgid "橙子"
+msgstr "Pomarańcza"
+
+msgid "桃子"
+msgstr "Brzoskwinia"
+
+msgid "椰子"
+msgstr "Kokos"
+
+msgid "铜矿石"
+msgstr "Ruda miedzi"
+
+msgid "银矿石"
+msgstr "Ruda srebra"
+
+msgid "金矿石"
+msgstr "Ruda złota"
+
+msgid "霜冻矿石"
+msgstr "Ruda mrozu"
+
+msgid "翡翠矿石"
+msgstr "Ruda szmaragdu"
+
+msgid "熔岩矿石"
+msgstr "Ruda lawy"
+
+msgid "星辰矿石"
+msgstr "Ruda gwiazd"
+
+msgid "彩虹矿石"
+msgstr "Ruda tęczy"
+
+msgid "眼睛"
+msgstr "Oko"
+
+msgid "牙"
+msgstr "Ząb"
+
+msgid "黄色眼睛"
+msgstr "Żółte oko"
+
+msgid "锋利的牙"
+msgstr "Ostry ząb"
+
+msgid "绿色眼睛"
+msgstr "Zielone oczy"
+
+msgid "恐怖金牙"
+msgstr "Przerażający złoty ząb"
+
+msgid "红色眼睛"
+msgstr "Czerwone oczy"
+
+msgid "骷髅头"
+msgstr "Czaszka"
+
+msgid "炭"
+msgstr "Węgiel"
+
+msgid "铜锭"
+msgstr "Sztabka miedzi"
+
+msgid "银锭"
+msgstr "Sztabka srebra"
+
+msgid "金锭"
+msgstr "Sztabka złota"
+
+msgid "霜冻锭"
+msgstr "Sztabka lodu"
+
+msgid "翡翠锭"
+msgstr "Sztabka jadeitu"
+
+msgid "熔岩锭"
+msgstr "Sztabka lawy"
+
+msgid "星辰锭"
+msgstr "Sztabka gwiazd"
+
+msgid "彩虹锭"
+msgstr "Sztabka tęczy"
+
+msgid "松木"
+msgstr "Sosnowe drewno"
+
+msgid "云杉木"
+msgstr "Świerkowe drewno"
+
+msgid "桦木"
+msgstr "Brzozowe drewno"
+
+msgid "柚木"
+msgstr "Drewno tekowe"
+
+msgid "桃花心木"
+msgstr "Drewno mahoniowe"
+
+msgid "铁皮木"
+msgstr "Drewno żelazne"
+
+msgid "红木"
+msgstr "Czerwone drewno"
+
+msgid "古木"
+msgstr "Stare drewno"
+
+msgid "鲤鱼"
+msgstr "Karp"
+
+msgid "鳟鱼"
+msgstr "Pstrąg"
+
+msgid "三文鱼"
+msgstr "Łosoś"
+
+msgid "鲈鱼"
+msgstr "Okoń"
+
+msgid "罗非鱼"
+msgstr "Tilapia"
+
+msgid "鲭鱼"
+msgstr "Makrela"
+
+msgid "沙丁鱼"
+msgstr "Sardynka"
+
+msgid "鲱鱼"
+msgstr "Śledź"
+
+msgid "鲤鱼料理"
+msgstr "Potrawa z karpia"
+
+msgid "鳟鱼料理"
+msgstr "Potrawa z pstrąga"
+
+msgid "三文鱼料理"
+msgstr "Potrawa z łososia"
+
+msgid "鲈鱼料理"
+msgstr "Potrawa z okonia"
+
+msgid "罗非鱼料理"
+msgstr "Potrawa z tilapii"
+
+msgid "鲭鱼料理"
+msgstr "Potrawa z makreli"
+
+msgid "沙丁鱼料理"
+msgstr "Potrawa z sardynek"
+
+msgid "鲱鱼料理"
+msgstr "Potrawa ze śledzia"
+
+msgid "鲤鱼豪华料理"
+msgstr "Wspaniała potrawa z karpia"
+
+msgid "鳟鱼豪华料理"
+msgstr "Wspaniała potrawa z pstrąga"
+
+msgid "三文鱼豪华料理"
+msgstr "Luksusowe danie z łososia"
+
+msgid "鲈鱼豪华料理"
+msgstr "Luksusowe danie z okonia"
+
+msgid "罗非鱼豪华料理"
+msgstr "Luksusowe danie z tilapii"
+
+msgid "鲭鱼豪华料理"
+msgstr "Luksusowe danie z makreli"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Luksusowe danie z sardynek"
+
+msgid "鲱鱼豪华料理"
+msgstr "Luksusowe danie z śledzia"
+
+msgid "红宝石"
+msgstr "Rubin"
+
+msgid "黄宝石"
+msgstr "Topaz"
+
+msgid "绿宝石"
+msgstr "Szmaragd"
+
+msgid "月亮宝石"
+msgstr "Księżycowy klejnot"
+
+msgid "水晶宝石"
+msgstr "Kryształowy klejnot"
+
+msgid "星星宝石"
+msgstr "Gwiaździsty klejnot"
+
+msgid "玛瑙宝石"
+msgstr "Agnatowy klejnot"
+
+msgid "彩虹宝石"
+msgstr "Tęczowy klejnot"
+
+msgid "红宝石精华"
+msgstr "Esencja rubinu"
+
+msgid "黄宝石精华"
+msgstr "Esencja topazu"
+
+msgid "绿宝石精华"
+msgstr "Esencja szmaragdu"
+
+msgid "月亮精华"
+msgstr "Esencja księżycowa"
+
+msgid "水晶精华"
+msgstr "Esencja kryształowa"
+
+msgid "星星精华"
+msgstr "Esencja gwiaździsta"
+
+msgid "玛瑙精华"
+msgstr "Esencja agatu"
+
+msgid "彩虹精华"
+msgstr "Esencja tęczowa"
+
+msgid "宝石粉末"
+msgstr "Proszek jubilerski"
+
+msgid "种子"
+msgstr "Nasiona"
+
+msgid "肥料"
+msgstr "Nawóz"
+
+msgid "兰花"
+msgstr "Orchidea"
+
+msgid "雏菊"
+msgstr "Stokrotka"
+
+msgid "郁金香"
+msgstr "Tulipan"
+
+msgid "玫瑰"
+msgstr "Róża"
+
+msgid "金盏花"
+msgstr "Nagietek"
+
+msgid "牡丹"
+msgstr "Piwonia"
+
+msgid "风铃草"
+msgstr "Dzwonek"
+
+msgid "向日葵"
+msgstr "Słonecznik"
+
+msgid "玉米"
+msgstr "Kukurydza"
+
+msgid "白菜"
+msgstr "Kapusta"
+
+msgid "辣椒"
+msgstr "Papryka"
+
+msgid "萝卜"
+msgstr "Rzodkiewka"
+
+msgid "蘑菇"
+msgstr "Grzyb"
+
+msgid "番茄"
+msgstr "Pomidor"
+
+msgid "茄子"
+msgstr "Bakłażan"
+
+msgid "黄瓜"
+msgstr "Ogórek"
+
+msgid "精英怪物地图"
+msgstr "Mapa potworów elitarnych"
+
+msgid "老洞穴地图"
+msgstr "Mapa starej jaskini"
+
+msgid "泡菜厂地图"
+msgstr "Mapa fabryki kimchi"
+
+msgid "老学校地图"
+msgstr "Mapa starej szkoły"
+
+msgid "啤酒厂地图"
+msgstr "Mapa browaru"
+
+msgid "大香蕉地图"
+msgstr "Mapa wielkiego banana"
+
+msgid "藏身处地图"
+msgstr "Mapa kryjówki"
+
+msgid "木地地图"
+msgstr "Mapa drewnianego pola"
+
+msgid "红色血包"
+msgstr "Czerwona paczka krwi"
+
+msgid "大电池手电筒"
+msgstr "Latarka z dużą baterią"
+
+msgid "空空瓶"
+msgstr "Pusta butelka"
+
+msgid "大哥大"
+msgstr "Duży telefon"
+
+msgid "卡姆PIU特"
+msgstr "Kamuflaż PIU"
+
+msgid "红药丸瓶"
+msgstr "Butelka czerwonych pigułek"
+
+msgid "神奇海螺"
+msgstr "Magiczny ślimak"
+
+msgid "蓝色笔"
+msgstr "Niebieski długopis"
+
+msgid "对话气泡"
+msgstr "Dymek rozmowy"
+
+msgid "蓝色小人"
+msgstr "Niebieski ludzik"
+
+msgid "音药"
+msgstr "Muzyka lecznicza"
+
+msgid "拳头！"
+msgstr "Pięść!"
+
+msgid "叶子~"
+msgstr "Liść~"
+
+msgid "火药球"
+msgstr "Kula prochowa"
+
+msgid "蝴蝶蝶"
+msgstr "Motyl motyl"
+
+msgid "考试小抄"
+msgstr "Ściągawka na egzamin"
+
+msgid "下头！"
+msgstr "Zniechęcające!"
+
+msgid "护目镜"
+msgstr "Gogle"
+
+msgid "硬币？"
+msgstr "Moneta?"
+
+msgid "贵项链"
+msgstr "Drogi naszyjnik"
+
+msgid "贵戒指"
+msgstr "Drogi pierścień"
+
+msgid "经典背包经典"
+msgstr "Klasyczny plecak klasyczny"
+
+msgid "经典小包经典"
+msgstr "Klasyczna torebeczka klasyczna"
+
+msgid "烛蜡"
+msgstr "Świeca woskowa"
+
+msgid "经典宝箱经典"
+msgstr "Klasyczna skrzynia klasyczna"
+
+msgid "经典十字经典"
+msgstr "Klasyczny krzyż klasyczny"
+
+msgid "神秘墓碑"
+msgstr "Tajemniczy nagrobek"
+
+msgid "神秘铁锤"
+msgstr "Tajemniczy młotek"
+
+msgid "无良印品"
+msgstr "Nieuczciwy produkt"
+
+msgid "鱼鱼"
+msgstr "Rybka"
+
+msgid "捣蒜器"
+msgstr "Młyn do czosnku"
+
+msgid "离洞绳"
+msgstr "Lina do opuszczania jaskini"
+
+msgid "美容镜"
+msgstr "Lustro kosmetyczne"
+
+msgid "八匹狼"
+msgstr "Osiem wilków"
+
+msgid "神秘沙漏"
+msgstr "Tajemnicza klepsydra"
+
+msgid "红心"
+msgstr "Czerwone serce"
+
+msgid "火焰"
+msgstr "Płomień"
+
+msgid "全麦面包"
+msgstr "Pełnoziarnisty chleb"
+
+msgid "没寄出的信"
+msgstr "Niewysłany list"
+
+msgid "花生之神"
+msgstr "Bóg orzechów ziemnych"
+
+msgid "威风堂堂"
+msgstr "Majestatyczny"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr ""
+"Gdy skutecznie unikniesz ataku, następny atak na pewno będzie krytyczny."
+
+msgid "百折不挠的真诚"
+msgstr "Nieugięta Szczerość"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Podczas ataku masz 3% szansy na wywołanie podwójnych obrażeń."
+
+msgid "直言不讳的勇敢"
+msgstr "Otwarta odwaga"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"W każdej walce losowo aktywowany jest 1 efekt: +50% obrażeń / +30% obrony / "
+"podwójne doświadczenie"
+
+msgid "空想家"
+msgstr "Marzyciel"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Po zabiciu wroga szansa na upuszczenie rzadkiego przedmiotu zwiększa się o "
+"1%, kumuluje się, ale przestaje działać, gdy życie spadnie poniżej 50%."
+
+msgid "令人震惊的"
+msgstr "Zaskakujący"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Gdy życie spadnie poniżej 20%, automatycznie aktywuje się \"Regeneracja\", "
+"odnawiając 5% życia na sekundę (trwa 10 sekund, cooldown 2 minuty)."
+
+msgid "恐慌的"
+msgstr "Przestraszony"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"Trafiając, 5% szansy na unieruchomienie wroga na 5 sekund. Nie można "
+"powtórzyć."
+
+msgid "无法忍受的"
+msgstr "Nie do zniesienia"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Otrzymując obrażenia od cięcia, 10% szansy na odbicie 50% obrażeń atakującemu."
+
+msgid "邪恶的"
+msgstr "Zły"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr ""
+"Szybkość wędkowania zwiększona o 15%, ale 10% szansy na nic nieotrzymanie."
+
+msgid "难以置信的"
+msgstr "Niewiarygodny"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Wycinając drzewa, 5% szansy na otrzymanie 1 węgla drzewnego."
+
+msgid "搞点货"
+msgstr "Zdobądź trochę towaru"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"Zdobywane doświadczenie bojowe zmniejszone o 30%, ale 50% tej wartości jest "
+"równo rozdzielane między wszystkie niebojowe umiejętności."
+
+msgid "空间管理"
+msgstr "Zarządzanie przestrzenią"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Każda pusta komórka plecaka daje 0,2% globalnego bonusu do obrażeń; każda "
+"zajęta komórka daje 0,2% globalnej redukcji obrażeń."
+
+msgid "麻烦的"
+msgstr "Uciążliwy"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"Nagrody za walkę nie będą już upuszczać złota, zamiast tego wybiorą inny "
+"przedmiot jako zamiennik."
+
+msgid "一心二用的"
+msgstr "Rozdwojony"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Podczas noszenia i walki zwiększa szybkość archeologii o 10%."
+
+msgid "底子很好的"
+msgstr "Dobrze zbudowany"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "Za każde 2 s interwału ataku obrażenia końcowe +10%."
+
+msgid "主角般的"
+msgstr "Bohaterski"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"Szansa trafienia przez wrogów zwiększa się o 20%, ale w zamian szansa na "
+"rzadkie przedmioty z dropu wrogów zwiększa się 1,5-krotnie."
+
+msgid "形容词的"
+msgstr "Przymiotnikowy"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"Twoja szansa trafienia zmniejsza się o 20%, ale mnożnik wydajności wszystkich "
+"twoich umiejętności zwiększa się o 10%."
+
+msgid "哈哈哈"
+msgstr "Ha ha ha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr ""
+"Podczas treningu umiejętności masz 10% szansy na odtworzenie śmiechu \"ha ha "
+"ha\"."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "Podczas noszenia,每次 otwarcia nakładki Steam +1 złota."
+
+msgid "基础健康药水"
+msgstr "Podstawowa mikstura zdrowia"
+
+msgid "基础战斗经验药水"
+msgstr "Podstawowa mikstura doświadczenia bojowego"
+
+msgid "基础拾取药水"
+msgstr "Podstawowa mikstura podnoszenia"
+
+msgid "基础采集速度药水"
+msgstr "Podstawowa mikstura szybkości zbierania"
+
+msgid "基础采集经验药水"
+msgstr "Podstawowa mikstura doświadczenia zbierania"
+
+msgid "基础采集产量药水"
+msgstr "Podstawowa mikstura wydajności zbierania"
+
+msgid "基础制造速度药水"
+msgstr "Podstawowa mikstura szybkości wytwarzania"
+
+msgid "基础多件制造药水"
+msgstr "Podstawowa mikstura wielokrotnego wytwarzania"
+
+msgid "基础制造经验药水"
+msgstr "Podstawowa mikstura doświadczenia wytwarzania"
+
+msgid "常规健康药水"
+msgstr "Zwykła mikstura zdrowia"
+
+msgid "常规战斗经验药水"
+msgstr "Zwykła mikstura doświadczenia bojowego"
+
+msgid "常规拾取药水"
+msgstr "Zwykła mikstura podnoszenia"
+
+msgid "常规采集速度药水"
+msgstr "Zwykła mikstura szybkości zbierania"
+
+msgid "常规采集经验药水"
+msgstr "Zwykła mikstura doświadczenia zbierania"
+
+msgid "常规采集产量药水"
+msgstr "Zwykła mikstura wydajności zbierania"
+
+msgid "常规制造速度药水"
+msgstr "Zwykła mikstura szybkości wytwarzania"
+
+msgid "常规多件制造药水"
+msgstr "Zwykła mikstura wielokrotnego wytwarzania"
+
+msgid "常规制造经验药水"
+msgstr "Zwykła mikstura doświadczenia wytwarzania"
+
+msgid "高级健康药水"
+msgstr "Zaawansowana mikstura zdrowia"
+
+msgid "高级战斗经验药水"
+msgstr "Zaawansowana mikstura doświadczenia bojowego"
+
+msgid "高级拾取药水"
+msgstr "Zaawansowana mikstura podnoszenia"
+
+msgid "高级采集速度药水"
+msgstr "Zaawansowana mikstura szybkości zbierania"
+
+msgid "高级采集经验药水"
+msgstr "Zaawansowana mikstura doświadczenia zbierania"
+
+msgid "高级采集产量药水"
+msgstr "Zaawansowana mikstura wydajności zbierania"
+
+msgid "高级制造速度药水"
+msgstr "Zaawansowana mikstura szybkości wytwarzania"
+
+msgid "高级多件制造药水"
+msgstr "Zaawansowana mikstura wielokrotnego wytwarzania"
+
+msgid "高级制造经验药水"
+msgstr "Zaawansowana mikstura doświadczenia wytwarzania"
+
+msgid "超级健康药水"
+msgstr "Super mikstura zdrowia"
+
+msgid "超级战斗经验药水"
+msgstr "Super mikstura doświadczenia bojowego"
+
+msgid "超级拾取药水"
+msgstr "Super mikstura podnoszenia"
+
+msgid "超级采集速度药水"
+msgstr "Eliksir Super Zbierania Prędkości"
+
+msgid "超级采集经验药水"
+msgstr "Eliksir Super Zbierania Doświadczenia"
+
+msgid "超级采集产量药水"
+msgstr "Eliksir Super Zbierania Plonów"
+
+msgid "超级制造速度药水"
+msgstr "Eliksir Super Prędkości Produkcji"
+
+msgid "超级多件制造药水"
+msgstr "Eliksir Super Wieloseryjnej Produkcji"
+
+msgid "超级制造经验药水"
+msgstr "Eliksir Super Doświadczenia Produkcji"
+
+msgid "老洞穴"
+msgstr "Stara Jaskinia"
+
+msgid "normal"
+msgstr "Normalny"
+
+msgid "泡菜厂"
+msgstr "Fabryka Kimchi"
+
+msgid "老学校"
+msgstr "Stara Szkoła"
+
+msgid "大香蕉"
+msgstr "Wielki Banan"
+
+msgid "藏身处"
+msgstr "Kryjówka"
+
+msgid "木地"
+msgstr "Lądy Drewna"
+
+msgid "龙虾巢穴"
+msgstr "Gniazdo homarów"
+
+msgid "ocean"
+msgstr "Ocean"
+
+msgid "深海洞窟"
+msgstr "Głębokie jaskinie"
+
+msgid "黏黏洞窟"
+msgstr "Lepkie jaskinie"
+
+msgid "决斗洞窟"
+msgstr "Jaskinie pojedynków"
+
+msgid "海底坟墓"
+msgstr "Podwodne grobowce"
+
+msgid "海底大坑"
+msgstr "Podwodna otchłań"
+
+msgid "神秘小路"
+msgstr "Tajemnicza ścieżka"
+
+msgid "海底皇宫"
+msgstr "Podwodny pałac"
+
+msgid "危险黏黏洞窟"
+msgstr "Niebezpieczne lepkie jaskinie"
+
+msgid "elite"
+msgstr "Elita"
+
+msgid "危险决斗洞窟"
+msgstr "Niebezpieczne jaskinie pojedynków"
+
+msgid "危险海底坟墓"
+msgstr "Niebezpieczne podwodne grobowce"
+
+msgid "危险海底大坑"
+msgstr "Niebezpieczna podwodna otchłań"
+
+msgid "危险海底小路"
+msgstr "Niebezpieczna podwodna ścieżka"
+
+msgid "危险海底皇宫"
+msgstr "Niebezpieczny podwodny pałac"
+
+msgid "墓地"
+msgstr "Cmentarz"
+
+msgid "mountain"
+msgstr "Góra"
+
+msgid "蛇蛇巢穴"
+msgstr "Gniazdo węży"
+
+msgid "下水道"
+msgstr "Kanały"
+
+msgid "外星基地"
+msgstr "Baza obcych"
+
+msgid "大象巢穴"
+msgstr "Gniazdo słoni"
+
+msgid "野人小屋"
+msgstr "Chata dzikusa"
+
+msgid "地狱"
+msgstr "Piekło"
+
+msgid "邪恶国度"
+msgstr "Złe królestwo"
+
+msgid "危险下水道"
+msgstr "Niebezpieczne kanały"
+
+msgid "危险外星基地"
+msgstr "Niebezpieczna baza obcych"
+
+msgid "危险大象巢穴"
+msgstr "Niebezpieczne gniazdo słoni"
+
+msgid "危险野人小屋"
+msgstr "Niebezpieczna chata dzikusa"
+
+msgid "危险地狱"
+msgstr "Niebezpieczne piekło"
+
+msgid "危险邪恶国度"
+msgstr "Niebezpieczne złe królestwo"
+
+msgid "螃蟹巢穴"
+msgstr "Gniazdo krabów"
+
+msgid "forest"
+msgstr "Las"
+
+msgid "种植园"
+msgstr "Plantacja"
+
+msgid "鸡圈"
+msgstr "Kurnik"
+
+msgid "蜘蛛巢穴"
+msgstr "Gniazdo pająków"
+
+msgid "蜂巢"
+msgstr "Ule"
+
+msgid "开心乐园"
+msgstr "Wesołe miasteczko"
+
+msgid "城堡"
+msgstr "Zamek"
+
+msgid "魔法城堡"
+msgstr "Magiczny zamek"
+
+msgid "危险鸡圈"
+msgstr "Niebezpieczny kurnik"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Niebezpieczne gniazdo pająków"
+
+msgid "危险蜂巢"
+msgstr "Niebezpieczne ule"
+
+msgid "危险开心乐园"
+msgstr "Niebezpieczne wesołe miasteczko"
+
+msgid "危险城堡"
+msgstr "Niebezpieczny zamek"
+
+msgid "危险魔法城堡"
+msgstr "Niebezpieczny magiczny zamek"
+
+msgid "village"
+msgstr "Wioska"
+
+msgid "优质三文鱼"
+msgstr "Wysokiej Jakości Łosoś"
+
+msgid "outskirts"
+msgstr "Obrzeża"
+
+msgid "优质鲈鱼"
+msgstr "Wysokiej Jakości Okoń"
+
+msgid "优质罗非鱼"
+msgstr "Wysokiej Jakości Tilapia"
+
+msgid "优质鲭鱼"
+msgstr "Wysokiej Jakości Makrela"
+
+msgid "优质沙丁鱼"
+msgstr "Wysokiej Jakości Sardynka"
+
+msgid "优质鲱鱼"
+msgstr "Wysokiej Jakości Śledź"
+
+msgid "铜矿脉"
+msgstr "Żyła Miedzi"
+
+msgid "银矿脉"
+msgstr "Żyła Srebra"
+
+msgid "金矿脉"
+msgstr "Żyła Złota"
+
+msgid "霜冻矿脉"
+msgstr "Żyła Mrozu"
+
+msgid "翡翠矿脉"
+msgstr "Żyła Szmaragdu"
+
+msgid "熔岩矿脉"
+msgstr "Żyła Lawy"
+
+msgid "星辰矿脉"
+msgstr "Żyła Gwiazd"
+
+msgid "彩虹矿脉"
+msgstr "Żyła Tęczy"
+
+msgid "优质金矿脉"
+msgstr "Złota żyła premium"
+
+msgid "优质霜冻矿脉"
+msgstr "Mroźna żyła premium"
+
+msgid "优质翡翠矿脉"
+msgstr "Szmaragdowa żyła premium"
+
+msgid "优质熔岩矿脉"
+msgstr "Lawowa żyła premium"
+
+msgid "优质星辰矿脉"
+msgstr "Gwiezdna żyła premium"
+
+msgid "优质彩虹矿脉"
+msgstr "Tęczowa żyła premium"
+
+msgid "松树"
+msgstr "Sosna"
+
+msgid "云杉树"
+msgstr "Świerk"
+
+msgid "桦树"
+msgstr "Brzoza"
+
+msgid "柚木树"
+msgstr "Dąb"
+
+msgid "桃花心木树"
+msgstr "Mahoniowiec"
+
+msgid "铁皮树"
+msgstr "Dąb żelazny"
+
+msgid "红木树"
+msgstr "Dąb czerwony"
+
+msgid "古树"
+msgstr "Prastary dąb"
+
+msgid "优质桦树"
+msgstr "Premium brzoza"
+
+msgid "优质柚木树"
+msgstr "Premium dąb"
+
+msgid "优质桃花心木树"
+msgstr "Premium mahoniowiec"
+
+msgid "优质铁皮树"
+msgstr "Premium dąb żelazny"
+
+msgid "优质红木树"
+msgstr "Premium dąb czerwony"
+
+msgid "优质古树"
+msgstr "Premium prastary dąb"
+
+msgid "ores"
+msgstr "Rudy"
+
+msgid "gems"
+msgstr "Kamienie szlachetne"
+
+msgid "月亮宝石精华"
+msgstr "Esencja z Księżyca"
+
+msgid "水晶宝石精华"
+msgstr "Esencja z Kryształu"
+
+msgid "星星宝石精华"
+msgstr "Esencja z Gwiazdy"
+
+msgid "玛瑙宝石精华"
+msgstr "Esencja z Agatu"
+
+msgid "彩虹宝石精华"
+msgstr "Esencja z Tęczy"
+
+msgid "flower"
+msgstr "Kwiat"
+
+msgid "vegetable"
+msgstr "Warzywo"
+
+msgid "basics"
+msgstr "Podstawy"
+
+msgid "regular"
+msgstr "Zwykły"
+
+msgid "advance"
+msgstr "Zaawansowany"
+
+msgid "hyper"
+msgstr "Hiper"
+
+msgid "cuisine"
+msgstr "Kuchnia"
+
+msgid "good_cuisine"
+msgstr "Dobra Kuchnia"
+
+msgid "猪猪"
+msgstr "Świnia"
+
+msgid "小鸡"
+msgstr "Kurczak"
+
+msgid "鹅鹅"
+msgstr "Gęś"
+
+msgid "羊羊"
+msgstr "Owca"
+
+msgid "狼狼"
+msgstr "Wilk"
+
+msgid "乌龟"
+msgstr "Żółw"
+
+msgid "猫猫"
+msgstr "Kotek"
+
+msgid "螃蟹"
+msgstr "Krab"
+
+msgid "蓝皮猪猪"
+msgstr "Niebieska świnia"
+
+msgid "blue_skin"
+msgstr "Niebieska skóra"
+
+msgid "蓝皮小鸡"
+msgstr "Niebieski kurczak"
+
+msgid "蓝皮鹅鹅"
+msgstr "Niebieska gęś"
+
+msgid "蓝皮羊羊"
+msgstr "Niebieska owca"
+
+msgid "蓝皮狼狼"
+msgstr "Niebieski wilk"
+
+msgid "蓝皮乌龟"
+msgstr "Niebieski żółw"
+
+msgid "蓝皮猫猫"
+msgstr "Niebieski kotek"
+
+msgid "蓝皮螃蟹"
+msgstr "Niebieski krab"
+
+msgid "map_crafting"
+msgstr "Rzemiosło map"
+
+msgid "copper"
+msgstr "Miedź"
+
+msgid "armor"
+msgstr "Zbroja"
+
+msgid "tool"
+msgstr "Narzędzie"
+
+msgid "铜铲子"
+msgstr "Miedziana łopata"
+
+msgid "铜斧头"
+msgstr "Miedziana siekiera"
+
+msgid "weapons"
+msgstr "Broń"
+
+msgid "铜弓"
+msgstr "Miedziany łuk"
+
+msgid "accessories"
+msgstr "Akcesoria"
+
+msgid "silver"
+msgstr "Srebro"
+
+msgid "银铲子"
+msgstr "Srebrna łopata"
+
+msgid "银斧头"
+msgstr "Srebrny topór"
+
+msgid "银弓"
+msgstr "Srebrny łuk"
+
+msgid "gold"
+msgstr "Złoto"
+
+msgid "黄金披风"
+msgstr "Złoty płaszcz"
+
+msgid "金铲子"
+msgstr "Złota łopata"
+
+msgid "金斧头"
+msgstr "Złoty topór"
+
+msgid "金弓"
+msgstr "Złoty łuk"
+
+msgid "frost"
+msgstr "Mroźny"
+
+msgid "霜冻铲子"
+msgstr "Mroźna łopata"
+
+msgid "霜冻斧头"
+msgstr "Mroźny topór"
+
+msgid "霜冻弓"
+msgstr "Mroźny łuk"
+
+msgid "jade"
+msgstr "Jadeit"
+
+msgid "翡翠铲子"
+msgstr "Jadeitowa łopata"
+
+msgid "翡翠斧头"
+msgstr "Jadeitowy topór"
+
+msgid "翡翠弓"
+msgstr "Jadeitowy łuk"
+
+msgid "molten"
+msgstr "Topiony"
+
+msgid "熔岩铲子"
+msgstr "Topiona łopata"
+
+msgid "熔岩斧头"
+msgstr "Topór lawowy"
+
+msgid "熔岩弓"
+msgstr "Łuk lawowy"
+
+msgid "stellar"
+msgstr "Stelarny"
+
+msgid "星辰铲子"
+msgstr "Łopata gwiazd"
+
+msgid "星辰斧头"
+msgstr "Topór gwiazd"
+
+msgid "星辰弓"
+msgstr "Łuk gwiazd"
+
+msgid "rainbow"
+msgstr "Tęczowy"
+
+msgid "彩虹铲子"
+msgstr "Łopata tęczowa"
+
+msgid "彩虹斧头"
+msgstr "Topór tęczowy"
+
+msgid "彩虹弓"
+msgstr "Łuk tęczowy"
+
+msgid "伐木"
+msgstr "Wyrąb"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Główne wyroby: drewno, owoce\n"
+"\n"
+"Zastosowania:\n"
+"- Drewno → przetwarzane na węgiel (potrzebny do wytopu, gotowania)\n"
+"- Drewno → budowa infrastruktury społecznej\n"
+"- Owoce → przetwarzane na nawóz (potrzebny do rolnictwa)\n"
+"\n"
+"Bonus umiejętności: +0,25% efektywności wyrębu na poziom (zwiększa szansę na "
+"natychmiastowe zakończenie akcji)\n"
+"Narzędzie podstawowe: topór (zwiększa szybkość wyrębu)"
+
+msgid "采矿"
+msgstr "Górnictwo"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Główne wyroby: ruda, klejnoty\n"
+"\n"
+"Zastosowania:\n"
+"- Ruda → wytopiona na sztabki\n"
+"- Klejnoty → wytopione na esencje klejnotów\n"
+"\n"
+"Bonus umiejętności: +0,25% efektywności górnictwa na poziom (zwiększa szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Narzędzie podstawowe: kilof (zwiększa szybkość górnictwa)"
+
+msgid "冶炼"
+msgstr "Wytop"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Zawartość produkcji:\n"
+"- Ruda + węgiel → sztabki\n"
+"- Klejnoty + węgiel → esencje klejnotów\n"
+"\n"
+"Zastosowania:\n"
+"- Sztabki i esencje klejnotów → kucie broni, narzędzi, zbroi, biżuterii\n"
+"- Sztabki i esencje klejnotów → budowa infrastruktury społecznej\n"
+"\n"
+"Bonus umiejętności: +0,25% efektywności wytopu na poziom (zwiększa szansę na "
+"natychmiastowe zakończenie akcji)\n"
+"Budowla podstawowa: piec (zwiększa szybkość wytopu)"
+
+msgid "锻造"
+msgstr "Kucie"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Zawartość produkcji: broń, narzędzia, zbroja, biżuteria\n"
+"Wymagane materiały: sztabki, esencje klejnotów\n"
+"Bonus umiejętności: +0,25% efektywności kucia na poziom (zwiększa szansę na "
+"natychmiastowe zakończenie akcji)\n"
+"Budowla podstawowa: kowadło (zwiększa szybkość kucia)"
+
+msgid "农业"
+msgstr "Rolnictwo"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Główne wyroby: kwiaty, warzywa\n"
+"\n"
+"Zastosowania:\n"
+"- Kwiaty → alchemia do produkcji mikstur\n"
+"- Warzywa → gotowanie luksusowych potraw (leczenie w walce)\n"
+"\n"
+"Wymagane materiały:\n"
+"- Nasiona (kupowane w sklepie)\n"
+"- Nawóz (przetwarzany z owoców)\n"
+"\n"
+"Bonus umiejętności: +0,25% efektywności rolnictwa na poziom (zwiększa szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Narzędzie podstawowe: łopata (zwiększa szybkość rolnictwa)"
+
+msgid "炼金"
+msgstr "Alchemia"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Produkcja: Różne mikstury\n"
+"\n"
+"Wymagane materiały:\n"
+"- Kwiaty (rolnictwo)\n"
+"- Kości (walka)\n"
+"- Butelki (sklep)\n"
+"\n"
+"Efekt mikstury: Zapewnia różne efekty wzmocnienia, domyślnie trwa 180 "
+"sekund\n"
+"Bonus umiejętności: +0,25% efektywności alchemii na poziom (zapewnia szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Kluczowy budynek: Laboratorium alchemiczne (zwiększa szybkość alchemii)"
+
+msgid "钓鱼"
+msgstr "Wędkarstwo"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Główne wyjście: Ryby\n"
+"Zastosowanie: Gotowanie (leczenie w walce)\n"
+"Bonus umiejętności: +0,25% efektywności wędkarstwa na poziom (zapewnia szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Kluczowe narzędzie: Wędka (zwiększa szybkość wędkarstwa)"
+
+msgid "烹饪"
+msgstr "Gotowanie"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Produkcja: Różne potrawy\n"
+"Wymagane materiały: Składniki (ryby i warzywa) + węgiel\n"
+"Efekt potrawy: Automatycznie używana, gdy życie w walce spadnie poniżej 33%, "
+"przywraca życie (czas odnowienia 15 sekund)\n"
+"Bonus umiejętności: +0,25% efektywności gotowania na poziom (zapewnia szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Kluczowy budynek: Garnek (zwiększa szybkość gotowania)"
+
+msgid "狩猎"
+msgstr "Myślistwo"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Główne wyjście: Skóra, atrament, pióra\n"
+"Zastosowanie: Tworzenie map (wymagane do umiejętności kartografii)\n"
+"Wymagane materiały: Dżdżownice (uzyskiwane z wędkarstwa)\n"
+"Bonus umiejętności: +0,25% efektywności myślistwa na poziom (zapewnia szansę "
+"na natychmiastowe zakończenie akcji)\n"
+"Kluczowe narzędzie: Pułapka (zwiększa szybkość myślistwa)"
+
+msgid "制图"
+msgstr "Kartografia"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Produkcja: Mapy\n"
+"Wymagane materiały: Skóra, atrament, pióra\n"
+"\n"
+"Zastosowanie:\n"
+"- Przedmioty zużywalne do umiejętności archeologii\n"
+"- Wymagane do wyzwań z elitarnymi potworami\n"
+"\n"
+"Bonus umiejętności: +0,25% efektywności kartografii na poziom (zapewnia "
+"szansę na natychmiastowe zakończenie akcji)\n"
+"Kluczowy budynek: Stół kartograficzny (zwiększa szybkość kartografii)"
+
+msgid "考古"
+msgstr "Archeologia"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Specjalny mechanizm: Umiejętność pasywna, może być wykonywana jednocześnie z "
+"innymi umiejętnościami\n"
+"Wymagane materiały: Mapy\n"
+"Główne wyjście: Artefakty\n"
+"\n"
+"System artefaktów:\n"
+"- Po zbudowaniu \"ołtarza\" można aktywować artefakty\n"
+"- Można aktywować maksymalnie 3 artefakty jednocześnie\n"
+"- Aktywacja wymaga zużycia zasobów\n"
+"\n"
+"Przyspieszenie: Użyj gwiazd, aby przyspieszyć postęp archeologii"
+
+msgid "单手武器"
+msgstr "Jednoręczna broń"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ broni: Miecze, młoty\n"
+"Bonus umiejętności: +0,25% efektywności jednoręcznej na poziom (podczas "
+"treningu istnieje szansa na podwojenie doświadczenia z walki i "
+"łupów)\n"
+"\n"
+"Mechanika trafień:\n"
+"Podstawowa szansa trafienia: 75% (przy dopasowaniu poziomów)\n"
+"Każdy poziom wyższy od potwora: +0,5% szansy trafienia (maks. 90%)\n"
+"Każdy poziom niższy od potwora: -0,5% szansy trafienia"
+
+msgid "双手武器"
+msgstr "Dwuręczna broń"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ broni: Włócznie, kosy\n"
+"Bonus umiejętności: +0,25% efektywności dwuręcznej na poziom (podczas "
+"treningu istnieje szansa na podwojenie doświadczenia z walki i "
+"łupów)\n"
+"\n"
+"Mechanika trafień:\n"
+"Podstawowa szansa trafienia: 75% (przy dopasowaniu poziomów)\n"
+"Każdy poziom wyższy od potwora: +0,5% szansy trafienia (maks. 90%)\n"
+"Każdy poziom niższy od potwora: -0,5% szansy trafienia"
+
+msgid "远程武器"
+msgstr "Broń dystansowa"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Typ broni: Łuki, bumerangi\n"
+"Bonus umiejętności: +0,25% efektywności dystansowej na poziom (podczas "
+"treningu istnieje szansa na podwojenie doświadczenia z walki i "
+"łupów)\n"
+"\n"
+"Mechanika trafień:\n"
+"Podstawowa szansa trafienia: 75% (przy dopasowaniu poziomów)\n"
+"Każdy poziom wyższy od potwora: +0,5% szansy trafienia (maks. 90%)\n"
+"Każdy poziom niższy od potwora: -0,5% szansy trafienia"
+
+msgid "防御"
+msgstr "Obrona"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Bonus umiejętności: +0,25% efektywności obrony na poziom (podczas treningu "
+"istnieje szansa na podwojenie doświadczenia z walki i łupów)\n"
+"\n"
+"Mechanika obrony: Obniża szansę trafienia potwora\n"
+"Każdy poziom wyższy od potwora: szansa trafienia potwora -0,5%\n"
+"Każdy poziom niższy od potwora: szansa trafienia potwora +0,5%"
+
+msgid "把你踹开"
+msgstr "Wyrzucić cię"
+
+msgid "他想要"
+msgstr "On chce"
+
+msgid "我的号码"
+msgstr "Mój numer"
+
+msgid "我不给"
+msgstr "Nie dam"
+
+msgid "对抗纨绔"
+msgstr "Konfrontacja z rozpieszczonymi"
+
+msgid "美颜参数"
+msgstr "Parametry upiększania"
+
+msgid "值得学习"
+msgstr "Warte nauki"
+
+msgid "说梦话"
+msgstr "Mówienie przez sen"
+
+msgid "肌肉大"
+msgstr "Duże mięśnie"
+
+msgid "生活总是"
+msgstr "Życie zawsze"
+
+msgid "太多波折"
+msgstr "Zbyt wiele przeszkód"
+
+msgid "猫咪"
+msgstr "Kot"
+
+msgid "张嘴"
+msgstr "Otwórz usta"
+
+msgid "这个地方"
+msgstr "To miejsce"
+
+msgid "傻子太多"
+msgstr "Zbyt wielu głupców"
+
+msgid "我的生活"
+msgstr "Moje życie"
+
+msgid "特别难过"
+msgstr "Bardzo smutne"
+
+msgid "希望你"
+msgstr "Mam nadzieję, że ty"
+
+msgid "知道这个"
+msgstr "Wiedzieć to"
+
+msgid "我不想"
+msgstr "Nie chcę"
+
+msgid "当小人物"
+msgstr "Gdy jestem mały"
+
+msgid "地下的"
+msgstr "Podziemny"
+
+msgid "皇帝"
+msgstr "Cesarz"
+
+msgid "我想当"
+msgstr "Chcę być"
+
+msgid "三根一起抽"
+msgstr "Wyciągnij trzy naraz"
+
+msgid "喝很多水"
+msgstr "Piję dużo wody"
+
+msgid "和我作对"
+msgstr "Przeciwko mnie"
+
+msgid "出人头地"
+msgstr "Zrobić karierę"
+
+msgid "就在今天"
+msgstr "Dziś jest ten dzień"
+
+msgid "当我看见"
+msgstr "Gdy widzę"
+
+msgid "外国友人"
+msgstr "Zagraniczny przyjaciel"
+
+msgid "我不问好"
+msgstr "Nie witam się"
+
+msgid "因为我太"
+msgstr "Bo jestem zbyt"
+
+msgid "高冷了"
+msgstr "Zimna i dystansowa"
+
+msgid "质疑我的"
+msgstr "Kwestionowanie mojego"
+
+msgid "嘲笑我的"
+msgstr "Śmianie się z mojego"
+
+msgid "都是一群"
+msgstr "To cała grupa"
+
+msgid "大傻子"
+msgstr "Wielkich głupców"
+
+msgid "我就是"
+msgstr "Ja jestem"
+
+msgid "全世界"
+msgstr "Cały świat"
+
+msgid "最牛的！"
+msgstr "Najlepszy!"
+
+msgid "你的炫耀"
+msgstr "Twoja chwalba"
+
+msgid "名牌包包"
+msgstr "Torba od znanej marki"
+
+msgid "名牌手表"
+msgstr "Zegarek od znanej marki"
+
+msgid "说实话"
+msgstr "Mówiąc szczerze"
+
+msgid "我不在乎"
+msgstr "Nie obchodzi mnie to"
+
+msgid "想打败我"
+msgstr "Chcesz mnie pokonać"
+
+msgid "那你惨了"
+msgstr "W takim razie masz przechlapane"
+
+msgid "我需要个"
+msgstr "Potrzebuję"
+
+msgid "赚快钱"
+msgstr "Szybko zarobić"
+
+msgid "的方法"
+msgstr "sposób"
+
+msgid "你可以叫我"
+msgstr "Możesz nazywać mnie"
+
+msgid "小帅"
+msgstr "Mały Przystojniak"
+
+msgid "面临"
+msgstr "Stojąc w obliczu"
+
+msgid "指控"
+msgstr "oskarżenia"
+
+msgid "从不会"
+msgstr "Nigdy nie"
+
+msgid "求神拜佛"
+msgstr "Prosić bogów i modlić się"
+
+msgid "我只穿"
+msgstr "Noszę tylko"
+
+msgid "一次性的"
+msgstr "jednorazowe"
+
+msgid "袜子"
+msgstr "skarpetki"
+
+msgid "洗衣服"
+msgstr "Pranie"
+
+msgid "太麻烦"
+msgstr "Za bardzo się to opłaca"
+
+msgid "她画了"
+msgstr "Ona namalowała"
+
+msgid "美丽的妆"
+msgstr "Piękny makijaż"
+
+msgid "但是她"
+msgstr "Ale ona"
+
+msgid "喜欢女的"
+msgstr "Lubi kobiety"
+
+msgid "我是那个"
+msgstr "Jestem tym"
+
+msgid "第三者"
+msgstr "Trzecia osoba"
+
+msgid "特别伤心"
+msgstr "Bardzo smutne"
+
+msgid "我哭了"
+msgstr "Płakałem"
+
+msgid "自给自足者"
+msgstr "Samowystarczalny"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 200 sztuk, prędkość umiejętności +20%\n"
+"Gdy zapas jest poniżej 50 sztuk, prędkość umiejętności -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 300 sztuk, mnożnik doświadczenia umiejętności +20%\n"
+"Gdy zapas jest poniżej 100 sztuk, mnożnik doświadczenia umiejętności -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 320 sztuk, prędkość umiejętności +24%\n"
+"Gdy zapas jest poniżej 80 sztuk, prędkość umiejętności -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 420 sztuk, mnożnik doświadczenia umiejętności +24%\n"
+"Gdy zapas jest poniżej 140 sztuk, mnożnik doświadczenia umiejętności -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 500 sztuk, prędkość umiejętności +30%\n"
+"Gdy zapas jest poniżej 180 sztuk, prędkość umiejętności -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Podczas wykonywania akcji, sprawdź obowiązkowe przedmioty do zdobycia:\n"
+"Gdy zapas przekracza 650 sztuk, mnożnik doświadczenia umiejętności +30%\n"
+"Gdy zapas jest poniżej 220 sztuk, mnożnik doświadczenia umiejętności -4%"
+
+msgid "Z 世代"
+msgstr "Pokolenie Z"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności zbierania prędkość +18%.\n"
+"W innych godzinach prędkość -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności wytwarzania prędkość +18%.\n"
+"W innych godzinach prędkość -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności zbierania prędkość +24%.\n"
+"W innych godzinach prędkość -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności wytwarzania prędkość +24%.\n"
+"W innych godzinach prędkość -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności zbierania prędkość +28%.\n"
+"W innych godzinach prędkość -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"W godzinach 22:00–6:00, wszystkie umiejętności wytwarzania prędkość +28%.\n"
+"W innych godzinach prędkość -8%"
+
+msgid "赌徒"
+msgstr "Hazardzista"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Po zakończeniu dowolnej akcji: 13% szans na wyzerowanie produkcji tej akcji, "
+"13% szans na x3 produkcji tej akcji.\n"
+"Jednak produkcja przedmiotów z umiejętności zbierania, wytwarzania i walki -"
+"18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Po zakończeniu dowolnej akcji: 4% szans na wyzerowanie produkcji tej akcji, "
+"6% szans na x3 produkcji tej akcji"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Po zakończeniu dowolnej akcji: 10% szans na wyzerowanie produkcji tej akcji, "
+"20% szans na x3 produkcji tej akcji.\n"
+"Jednak produkcja przedmiotów z umiejętności zbierania, wytwarzania i walki -"
+"12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Po zakończeniu dowolnej akcji: 5% szans na wyzerowanie produkcji tej akcji, "
+"9% szans na x3 produkcji tej akcji"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Gdy zakończysz dowolną akcję: z 8% szansą produkcja zostanie wyzerowana, z "
+"26% szansą produkcja zostanie potrojona.\n"
+"Jednak produkcja przedmiotów z umiejętności zbierania, rzemiosła i walki -10%."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Gdy zakończysz dowolną akcję: z 2% szansą produkcja zostanie wyzerowana, z "
+"10% szansą produkcja zostanie potrojona."
+
+msgid "番茄钟"
+msgstr "Pomodoro"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 10 minut, "
+"produkcja przedmiotów tej umiejętności rośnie o +5% (maks. +30%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 10 minut, "
+"mnożnik doświadczenia tej umiejętności rośnie o +5% (maks. +30%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 8 minut, "
+"produkcja przedmiotów tej umiejętności rośnie o +4% (maks. +36%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 8 minut, "
+"mnożnik doświadczenia tej umiejętności rośnie o +4% (maks. +36%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 6 minut, "
+"produkcja przedmiotów tej umiejętności rośnie o +4% (maks. +48%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Gdy skupiasz się na pojedynczej umiejętności rzemiosła przez ponad 6 minut, "
+"mnożnik doświadczenia tej umiejętności rośnie o +4% (maks. +48%).\n"
+"Przy zmianie umiejętności rzemiosła, kumulacja resetuje się do 0."
+
+msgid "万岁"
+msgstr "Niech żyje!"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Gdy pokonasz potwora pod rząd, za każdym razem kumulujesz +2,5% obrażeń i "
+"trafienia (maks. +25%).\n"
+"Gdy potwór cię trafi, licznik resetuje się do 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Po każdym otrzymaniu obrażeń, następny atak zadaje +18% obrażeń i ma +8% "
+"trafienia.\n"
+"Jednak maksymalne zdrowie -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Gdy pokonasz potwora pod rząd, za każdym razem kumulujesz +3% obrażeń i "
+"trafienia (maks. +36%).\n"
+"Gdy potwór cię trafi, licznik resetuje się do 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Po każdym otrzymaniu obrażeń, następny atak zadaje +24% obrażeń i ma +12% "
+"trafienia.\n"
+"Jednak maksymalne zdrowie -12%."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Gdy pokonasz potwora pod rząd, za każdym razem kumulujesz +3,5% obrażeń i "
+"trafienia (maks. +45%).\n"
+"Gdy potwór cię trafi, licznik resetuje się do 0."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Po każdym otrzymaniu obrażeń, następny atak zadaje +30% obrażeń i ma +15% "
+"trafienia.\n"
+"Jednak maksymalne zdrowie -10%."
+
+msgid "伐木菜鸟"
+msgstr "Nowicjusz w wyrębie"
+
+msgid "挖掘菜鸟"
+msgstr "Nowicjusz w wydobyciu"
+
+msgid "冶炼菜鸟"
+msgstr "Nowicjusz w hutnictwie"
+
+msgid "锻造菜鸟"
+msgstr "Nowicjusz w kowalstwie"
+
+msgid "种地菜鸟"
+msgstr "Nowicjusz w rolnictwie"
+
+msgid "炼金菜鸟"
+msgstr "Nowicjusz w alchemii"
+
+msgid "钓鱼菜鸟"
+msgstr "Nowicjusz w wędkarstwie"
+
+msgid "烹饪菜鸟"
+msgstr "Nowicjusz w gotowaniu"
+
+msgid "狩猎菜鸟"
+msgstr "Nowicjusz w myślistwie"
+
+msgid "制图菜鸟"
+msgstr "Nowicjusz w kartografii"
+
+msgid "考古菜鸟"
+msgstr "Nowicjusz w archeologii"
+
+msgid "单手武器菜鸟"
+msgstr "Nowicjusz w broni jednoręcznej"
+
+msgid "双手武器菜鸟"
+msgstr "Nowicjusz w broni dwuręcznej"
+
+msgid "远程武器菜鸟"
+msgstr "Nowicjusz w broni dystansowej"
+
+msgid "防御菜鸟"
+msgstr "Nowicjusz w obronie"
+
+msgid "伐木高手"
+msgstr "Ekspert w wyrębie"
+
+msgid "挖掘高手"
+msgstr "Ekspert w wydobyciu"
+
+msgid "冶炼高手"
+msgstr "Ekspert w hutnictwie"
+
+msgid "锻造高手"
+msgstr "Ekspert w kowalstwie"
+
+msgid "种地高手"
+msgstr "Ekspert w rolnictwie"
+
+msgid "炼金高手"
+msgstr "Mistrz Alchemii"
+
+msgid "钓鱼高手"
+msgstr "Mistrz Wędkarstwa"
+
+msgid "烹饪高手"
+msgstr "Mistrz Gotowania"
+
+msgid "狩猎高手"
+msgstr "Mistrz Łowiectwa"
+
+msgid "制图高手"
+msgstr "Mistrz Kartografii"
+
+msgid "考古高手"
+msgstr "Mistrz Archeologii"
+
+msgid "单手武器高手"
+msgstr "Mistrz Broni Jednoręcznych"
+
+msgid "双手武器高手"
+msgstr "Mistrz Broni Dwuręcznych"
+
+msgid "远程武器高手"
+msgstr "Mistrz Broni Dystansowych"
+
+msgid "防御高手"
+msgstr "Mistrz Obrony"
+
+msgid "伐木大王"
+msgstr "Król Drwali"
+
+msgid "挖掘大王"
+msgstr "Król Górnictwa"
+
+msgid "冶炼大王"
+msgstr "Król Huty"
+
+msgid "锻造大王"
+msgstr "Król Kowalstwa"
+
+msgid "种地大王"
+msgstr "Król Rolnictwa"
+
+msgid "炼金大王"
+msgstr "Król Alchemii"
+
+msgid "钓鱼大王"
+msgstr "Król Wędkarstwa"
+
+msgid "烹饪大王"
+msgstr "Król Gotowania"
+
+msgid "狩猎大王"
+msgstr "Król Łowiectwa"
+
+msgid "制图大王"
+msgstr "Król Kartografii"
+
+msgid "考古大王"
+msgstr "Król Archeologii"
+
+msgid "单手武器大王"
+msgstr "Król Broni Jednoręcznej"
+
+msgid "双手武器大王"
+msgstr "Król Broni Dwuręcznej"
+
+msgid "远程武器大王"
+msgstr "Król Broni Dystansowej"
+
+msgid "防御大王"
+msgstr "Król Obrony"
+
+msgid "Tutorial"
+msgstr "Samouczek"
+
+msgid "Loadout"
+msgstr "Ekwipunek"
+
+msgid "Character"
+msgstr "Postać"
+
+msgid "Inventory"
+msgstr "Plecak"
+
+msgid "Journey"
+msgstr "Podróż"
+
+msgid "Quests"
+msgstr "Zadania"
+
+msgid "Community"
+msgstr "Społeczność"
+
+msgid "Cheat"
+msgstr "Oszustwo"
+
+msgid "Dev"
+msgstr "Deweloper"
+
+msgid "Shop"
+msgstr "Sklep"
+
+msgid "StarStore"
+msgstr "Sklep Gwiazd"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Codex"
+msgstr "Kodeks"
+
+msgid "Leaderboard"
+msgstr "Tablica Liderów"
+
+msgid "Achievements"
+msgstr "Osiągnięcia"
+
+msgid "Talents"
+msgstr "Talenty"
+
+msgid "Traits"
+msgstr "Cechy"
+
+msgid "City"
+msgstr "Miasto"
+
+msgid "Skills"
+msgstr "Umiejętności"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Exit"
+msgstr "Wyjście"
+
+msgid "Skill unlocked: {0}"
+msgstr "Odblokowano umiejętność: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Okazja reklamowa"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Opis okazji reklamowej"
+
+msgid "Ad Opportunity Finished"
+msgstr "Okazja reklamowa zakończona"
+
+msgid "Ad Failed"
+msgstr "Reklama nie powiodła się"
+
+msgid "Activated Modifiers"
+msgstr "Aktywne modyfikatory"
+
+msgid "Completed"
+msgstr "Ukończone"
+
+msgid "Bankrupted"
+msgstr "Bankrut"
+
+msgid "Privacy Policy"
+msgstr "Polityka prywatności"
+
+msgid "Decline"
+msgstr "Odrzuć"
+
+msgid "Accept"
+msgstr "Akceptuj"
+
+msgid "Skills Total Level"
+msgstr "Całkowity poziom umiejętności"
+
+msgid "Formater"
+msgstr "Formater"
+
+msgid "✦ First selection is free"
+msgstr "✦ Pierwszy wybór jest darmowy"
+
+msgid "Switch cooldown: {0}"
+msgstr "Czas odnowienia przełączania: {0}"
+
+msgid "● ACTIVE"
+msgstr "● AKTYWNY"
+
+msgid "Details"
+msgstr "Szczegóły"
+
+msgid "Inspect"
+msgstr "Sprawdź"
+
+msgid "← Back"
+msgstr "← Wstecz"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● AKTYWNA CECHA"
+
+msgid "Selected"
+msgstr "Wybrano"
+
+msgid "Switch  (1× Formater)"
+msgstr "Przełącz (1× Formater)"
+
+msgid "Select"
+msgstr "Wybierz"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Osiągnij łączny poziom umiejętności {0}, aby odblokować ten slot perków. "
+"(Obecnie: {1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "Zmiana perka kosztuje 1× Formater"
+
+msgid "Active"
+msgstr "Aktywny"
+
+msgid "Activate"
+msgstr "Aktywuj"
+
+msgid "Loading"
+msgstr "Ładowanie"
+
+msgid "Buy"
+msgstr "Kup"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "Obejrzeć {0} reklamę, aby otrzymać {1}?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "Wydać {0} gwiazdek na {1}?"
+
+msgid "Success"
+msgstr "Sukces"
+
+msgid "Successfully purchased %s"
+msgstr "Pomyślnie zakupiono %s"
+
+msgid "Failed"
+msgstr "Niepowodzenie"
+
+msgid "Failed to purchase %s"
+msgstr "Nie udało się zakupić %s"
+
+msgid "Consumes"
+msgstr "Zużywa"
+
+msgid "Drops"
+msgstr "Upuszcza"
+
+msgid "Loot"
+msgstr "Łup"
+
+msgid "Props"
+msgstr "Rekwizyty"
+
+msgid "Auto Equip"
+msgstr "Automatyczne wyposażanie"
+
+msgid "Actions"
+msgstr "Akcje"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Przyspieszenie 10 min: 1 gwiazdka"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Loch: {0} - {1} fal"
+
+msgid "Last wave is BOSS!"
+msgstr "Ostatnia fala to BOSS!"
+
+msgid "Monster Pool:"
+msgstr "Pula potworów:"
+
+msgid "Equipped"
+msgstr "Ekwipowane"
+
+msgid "No Prop Selected"
+msgstr "Nie wybrano właściwości"
+
+msgid "Item is not a prop"
+msgstr "Przedmiot nie jest właściwością"
+
+msgid "Stop"
+msgstr "Zatrzymaj"
+
+msgid "Amount"
+msgstr "Ilość"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Not enough coins"
+msgstr "Brak wystarczającej liczby monet"
+
+msgid "About"
+msgstr "O grze"
+
+msgid "Game Version"
+msgstr "Wersja gry"
+
+msgid "Theme Preference"
+msgstr "Preferencje motywu"
+
+msgid "Theme Style"
+msgstr "Styl motywu"
+
+msgid "Seed Color"
+msgstr "Kolor ziarna"
+
+msgid "Language"
+msgstr "Język"
+
+msgid "UI Scale"
+msgstr "Skala interfejsu"
+
+msgid "Scale: {0}"
+msgstr "Skala: {0}"
+
+msgid "Sound Volume"
+msgstr "Głośność dźwięku"
+
+msgid "Volume: {0}"
+msgstr "Głośność: {0}"
+
+msgid "Music Volume"
+msgstr "Głośność muzyki"
+
+msgid "Confirm"
+msgstr "Potwierdź"
+
+msgid "Stock"
+msgstr "Zapas"
+
+msgid "Materials"
+msgstr "Materiały"
+
+msgid "Empty"
+msgstr "Pusty"
+
+msgid "Item"
+msgstr "Przedmiot"
+
+msgid "Select a material"
+msgstr "Wybierz materiał"
+
+msgid "Not enough materials"
+msgstr "Brak wystarczających materiałów"
+
+msgid "Create"
+msgstr "Utwórz"
+
+msgid "Quest"
+msgstr "Zadanie"
+
+msgid "Rewards"
+msgstr "Nagrody"
+
+msgid "Claim Reward"
+msgstr "Odbierz nagrodę"
+
+msgid "Reward Claimed"
+msgstr "Nagroda odebrana"
+
+msgid "In Progress"
+msgstr "W trakcie"
+
+msgid "Daily Quests"
+msgstr "Codzienne zadania"
+
+msgid "Requirements"
+msgstr "Wymagania"
+
+msgid "Saving..."
+msgstr "Zapisywanie..."
+
+msgid "Saved"
+msgstr "Zapisano"
+
+msgid "Creating save"
+msgstr "Tworzenie zapisu"
+
+msgid "Deleting save"
+msgstr "Usuwanie zapisu"
+
+msgid "Entering save"
+msgstr "Wchodzenie do zapisu"
+
+msgid "Refreshing"
+msgstr "Odświeżanie"
+
+msgid "Syncing cloud"
+msgstr "Synchronizacja z chmurą"
+
+msgid "New save"
+msgstr "Nowy zapis"
+
+msgid "No modified time"
+msgstr "Brak czasu modyfikacji"
+
+msgid "Character name"
+msgstr "Nazwa postaci"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Saves"
+msgstr "Zapisy"
+
+msgid "Delete save"
+msgstr "Usuń zapis"
+
+msgid "Delete {0} ?"
+msgstr "Usunąć {0}?"
+
+msgid "Onboarding"
+msgstr "Wprowadzenie"
+
+msgid "Total Mastery"
+msgstr "Całkowita biegłość"
+
+msgid "{0} mastered"
+msgstr "Opanowano {0}"
+
+msgid "Progress Rank"
+msgstr "Ranga postępu"
+
+msgid "Collect items to start"
+msgstr "Zbierz przedmioty, aby rozpocząć"
+
+msgid "Mastery Level"
+msgstr "Poziom biegłości"
+
+msgid "Locked"
+msgstr "Zablokowane"
+
+msgid "Friends Only"
+msgstr "Tylko dla znajomych"
+
+msgid "Your Rank"
+msgstr "Twoja ranga"
+
+msgid "Total Mastery XP"
+msgstr "Całkowite doświadczenie mistrzostwa"
+
+msgid "Loading leaderboard..."
+msgstr "Ładowanie tablicy wyników..."
+
+msgid "Error"
+msgstr "Błąd"
+
+msgid "Retry"
+msgstr "Spróbuj ponownie"
+
+msgid "No Data Available"
+msgstr "Brak dostępnych danych"
+
+msgid "Add friends to see rankings"
+msgstr "Dodaj znajomych, aby zobaczyć rankingi"
+
+msgid "Slots"
+msgstr "Gniazda"
+
+msgid "Open Results"
+msgstr "Otwórz wyniki"
+
+msgid "Nothing obtained."
+msgstr "Nic nie uzyskano."
+
+msgid "Inventory full"
+msgstr "Ekwipunek pełny"
+
+msgid "Item is locked"
+msgstr "Przedmiot jest zablokowany"
+
+msgid "Sell"
+msgstr "Sprzedaj"
+
+msgid "Purchase Slot"
+msgstr "Kup slot"
+
+msgid "Max Slots"
+msgstr "Maks. sloty"
+
+msgid "Selections"
+msgstr "Wybory"
+
+msgid "Remove"
+msgstr "Usuń"
+
+msgid "Remove the relic?"
+msgstr "Usunąć relikt?"
+
+msgid "Place Relic"
+msgstr "Umieść relikt"
+
+msgid "Enchanting"
+msgstr "Zaklinanie"
+
+msgid "Square"
+msgstr "Kwadrat"
+
+msgid "Altar"
+msgstr "Ołtarz"
+
+msgid "Stop Enchanting"
+msgstr "Zatrzymaj zaklinanie"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Zatrzymać zaklinanie? Materiały nie zostaną zwrócone."
+
+msgid "Enchanting Result"
+msgstr "Wynik zaklinania"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr ""
+"Wybierz przedmiot do umieszczenia w ekwipunku, drugi zostanie odrzucony."
+
+msgid "Put in Inventory"
+msgstr "Umieść w ekwipunku"
+
+msgid "Select Item"
+msgstr "Wybierz przedmiot"
+
+msgid "Original"
+msgstr "Oryginał"
+
+msgid "New"
+msgstr "Nowy"
+
+msgid "Click to Keep"
+msgstr "Kliknij, aby zachować"
+
+msgid "Remaining"
+msgstr "Pozostało"
+
+msgid "Possible Modifiers"
+msgstr "Możliwe modyfikatory"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Otrzymasz losowo 1-2 modyfikatory."
+
+msgid "Capacity"
+msgstr "Pojemność"
+
+msgid "Upgrade"
+msgstr "Ulepsz"
+
+msgid "Occupying"
+msgstr "Zajmowanie"
+
+msgid "Unlocked"
+msgstr "Odblokowane"
+
+msgid "Layers"
+msgstr "Warstwy"
+
+msgid "Not Built"
+msgstr "Nie zbudowane"
+
+msgid "Max Level Reached"
+msgstr "Osiągnięto maks. poziom"
+
+msgid "Decrease Tier"
+msgstr "Obniż poziom"
+
+msgid "Increase Tier"
+msgstr "Zwiększ poziom"
+
+msgid "Tier"
+msgstr "Poziom"
+
+msgid "Size"
+msgstr "Rozmiar"
+
+msgid "Offline Rewards"
+msgstr "Nagrody offline"
+
+msgid "You have been offline for {0}."
+msgstr "Byłeś offline przez {0}."
+
+msgid "Quantity"
+msgstr "Ilość"
+
+msgid "Max Count"
+msgstr "Maksymalna liczba"
+
+msgid "1 Left"
+msgstr "Zostało 1"
+
+msgid "Owned"
+msgstr "Posiadane"
+
+msgid "Unit Price"
+msgstr "Cena jednostkowa"
+
+msgid "Total Price"
+msgstr "Cena całkowita"
+
+msgid "Current Item"
+msgstr "Aktualny przedmiot"
+
+msgid "Count"
+msgstr "Ilość"
+
+msgid "{0} missed {1}"
+msgstr "{0} przegapił {1}"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} trafił {1}, obrażenia: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} został pokonany"
+
+msgid "Trait triggered: {0}"
+msgstr "Cecha aktywowana: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Walka zakończona: {0}"
+
+msgid "Combat started"
+msgstr "Walka rozpoczęta"
+
+msgid "Reviving..."
+msgstr "Wskrzeszanie..."
+
+msgid "Combat Log"
+msgstr "Dziennik walki"
+
+msgid "No combat events yet."
+msgstr "Brak wydarzeń walki."
+
+msgid "No trait activations yet."
+msgstr "Brak aktywacji cech."
+
+msgid "Attack Speed"
+msgstr "Szybkość ataku"
+
+msgid "Slash Damage"
+msgstr "Obrażenia cięcia"
+
+msgid "Puncture Damage"
+msgstr "Obrażenia przebicia"
+
+msgid "Impact Damage"
+msgstr "Obrażenia uderzenia"
+
+msgid "Slash Resistance"
+msgstr "Odporność na cięcie"
+
+msgid "Puncture Resistance"
+msgstr "Odporność na przebicie"
+
+msgid "Impact Resistance"
+msgstr "Odporność na uderzenie"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Postęp mistrzostwa: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Ekwipunek"
+
+msgid "Farming"
+msgstr "Rolnictwo"
+
+msgid "Material"
+msgstr "Materiał"
+
+msgid "Misc"
+msgstr "Różne"
+
+msgid "Relics"
+msgstr "Relikty"
+
+msgid "Item Mastered"
+msgstr "Przedmiot opanowany"
+
+msgid "Mastery Complete"
+msgstr "Mistrzostwo ukończone"
+
+msgid "Mastery Rank"
+msgstr "Ranga mistrzostwa"
+
+msgid "Rank Advanced"
+msgstr "Awansowano rangę"
+
+msgid "Your mastery continues to grow"
+msgstr "Twoje mistrzostwo nadal rośnie"
+
+msgid "Finished"
+msgstr "Zakończono"
+
+msgid "Fee: {0}"
+msgstr "Opłata: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Presja rynkowa: {0}"
+
+msgid "You Pay"
+msgstr "Płacisz"
+
+msgid "You Receive"
+msgstr "Otrzymujesz"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"Presja rynkowa oznacza poziom nasycenia rynku. Im wyższa presja rynkowa, tym "
+"gorszy kurs wymiany przy zakupie. Presja rynkowa naturalnie spada z czasem."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "Wymiana monet na Isle Bucks zwiększy presję rynkową."
+
+msgid "Confirm Exchange"
+msgstr "Potwierdź wymianę"
+
+msgid "Enter Amount"
+msgstr "Wpisz ilość"
+
+msgid "Insufficient Balance"
+msgstr "Niewystarczające środki"
+
+msgid "Balance: {0}"
+msgstr "Saldo: {0}"
+
+msgid "MAX"
+msgstr "MAX"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Jeśli uważasz, że popełniłeś mały błąd, po prostu kliknij poniższy przycisk, "
+"aby zacząć od nowa! Bez obaw — to tylko drobna przeszkoda na drodze do "
+"wielkości."
+
+msgid "Start Over"
+msgstr "Zacznij od nowa"
+
+msgid "Are you sure?"
+msgstr "Czy jesteś pewien?"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Next Trade In: {0}"
+msgstr "Następna wymiana za: {0}"
+
+msgid "Current Stats"
+msgstr "Aktualne statystyki"
+
+msgid "Capacity (per trade)"
+msgstr "Pojemność (na wymianę)"
+
+msgid "Trade Interval"
+msgstr "Częstotliwość wymiany"
+
+msgid "Saturation Speed"
+msgstr "Szybkość nasycenia"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/przedmiot, -{1}/sek"
+
+msgid "Upgrades"
+msgstr "Ulepszenia"
+
+msgid "How many items can be sold per trade."
+msgstr "Ile przedmiotów można sprzedać w jednej wymianie."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Jak często zachodzą wymiany. Mniejsza wartość jest lepsza."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "Nasycenie rośnie wolniej i spada szybciej."
+
+msgid "Now"
+msgstr "Teraz"
+
+msgid "Next"
+msgstr "Następny"
+
+msgid "Cost"
+msgstr "Koszt"
+
+msgid "Last Trade"
+msgstr "Ostatnia wymiana"
+
+msgid "Trade Rule"
+msgstr "Zasada wymiany"
+
+msgid "Stock: {0}"
+msgstr "Zapas: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Nasycenie: {0}% (Cena x{1})"
+
+msgid "Trade Mode"
+msgstr "Tryb wymiany"
+
+msgid "Min Stock"
+msgstr "Minimalny zapas"
+
+msgid "Saturation"
+msgstr "Nasycenie"
+
+msgid "Policies"
+msgstr "Polityki"
+
+msgid "Banking"
+msgstr "Bankowość"
+
+msgid "Repository"
+msgstr "Repozytorium"
+
+msgid "Farmers"
+msgstr "Rolnicy"
+
+msgid "Workers"
+msgstr "Robotnicy"
+
+msgid "Astrologers"
+msgstr "Astrolodzy"
+
+msgid "Alchemists"
+msgstr "Alchemicy"
+
+msgid "GreatToken"
+msgstr "GreatToken"
+
+msgid "The Office"
+msgstr "Biuro"
+
+msgid "Productivity"
+msgstr "Produktywność"
+
+msgid "Population"
+msgstr "Populacja"
+
+msgid "Insufficient Resources"
+msgstr "Niewystarczające zasoby"
+
+msgid "Insufficient Workforce"
+msgstr "Niewystarczająca siła robocza"
+
+msgid "Maintenance"
+msgstr "Konserwacja"
+
+msgid "Production Period"
+msgstr "Okres produkcji"
+
+msgid "Building..."
+msgstr "Budowanie..."
+
+msgid "Build"
+msgstr "Buduj"
+
+msgid "Build Cost"
+msgstr "Koszt budowy"
+
+msgid "Period Costs"
+msgstr "Koszty okresowe"
+
+msgid "Period Yields"
+msgstr "Zyski okresowe"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Maintenance: {0}s"
+msgstr "Utrzymanie: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Handel: {0}"
+
+msgid "Available: {0}"
+msgstr "Dostępne: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Nadal potrzeba: {0}"
+
+msgid "Done"
+msgstr "Gotowe"
+
+msgid "Already completed."
+msgstr "Już ukończono."
+
+msgid "No available items."
+msgstr "Brak dostępnych przedmiotów."
+
+msgid "Add Items."
+msgstr "Dodaj przedmioty."
+
+msgid "Amount: {0}"
+msgstr "Ilość: {0}"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "All"
+msgstr "Wszystkie"
+
+msgid "Needed"
+msgstr "Potrzebne"
+
+msgid "Progress"
+msgstr "Postęp"
+
+msgid "Action"
+msgstr "Akcja"
+
+msgid "Great Token"
+msgstr "Great Token"
+
+msgid "Total Progress"
+msgstr "Całkowity postęp"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Przeciągnij karty do slotów, a następnie naciśnij Potwierdź, aby zastosować. "
+"Tylko odblokowane karty mogą być wybierane."
+
+msgid "Unlocked: {0}"
+msgstr "Odblokowano: {0}"
+
+msgid "Reset"
+msgstr "Resetuj"
+
+msgid "Unequip"
+msgstr "Zdejmij"
+
+msgid "Cards"
+msgstr "Karty"
+
+msgid "{0} Policies"
+msgstr "{0} Polityk"
+
+msgid "Equipped: {0}"
+msgstr "Wyposażono: {0}"
+
+msgid "Not equipped"
+msgstr "Nie wyposażono"
+
+msgid "Equip"
+msgstr "Wyposaż"
+
+msgid "Costs"
+msgstr "Koszty"
+
+msgid "None"
+msgstr "Brak"
+
+msgid "Economic"
+msgstr "Ekonomiczna"
+
+msgid "Labor"
+msgstr "Praca"
+
+msgid "Social"
+msgstr "Społeczna"
+
+msgid "Wildcard"
+msgstr "Dżoker"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Znam cię! Słynny, utalentowany mistrz biegłości. Wiem, że dzięki swojemu "
+"intelektowi wiesz już, jak działa miasto, ale muszę cię wprowadzić! Nie masz "
+"wyboru!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"Twoim pierwszym krokiem jest zdobycie populacji, co można osiągnąć budując "
+"domy rolników. Proszę, wybierz zakładkę rolników."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Świetna próba! Teraz zbuduj kilka fabryk drzew i tartaków, aby produkować "
+"deski."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Wspaniale, teraz sprzedajmy te rzeczy. Najpierw przejdź do portu. Znajdź "
+"deski, a następnie ustaw tryb handlu na sprzedaż; sprzedadzą się "
+"automatycznie w odpowiednim momencie. To takie proste!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Wspaniała robota! Twoim ostatecznym celem jest synteza Wielkiego Tokena, co "
+"dowiedzie twoich nadzwyczajnych umiejętności zarządzania miastem. Dąż "
+"wytrwale do tego celu!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "Udało ci się! Ruszaj realizować swoje wielkie plany!"
+
+msgid "Skill level too low"
+msgstr "Poziom umiejętności zbyt niski"
+
+msgid "Not enough items"
+msgstr "Brak wystarczającej liczby przedmiotów"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Aktor"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maksymalne zdrowie"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Zdrowie"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Szybkość ataku"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Pancerz"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Mnożnik obrażeń"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Mnożnik otrzymywanych obrażeń"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Obrażenia cięte"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Obrażenia kłute"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Obrażenia obuchowe"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Bonus szansy na trafienie"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Bonus szansy na unik"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Odporność na cięcia"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Odporność na kłucie"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Odporność na obuchy"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Gracz"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Efekt jedzenia"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Mnożnik nagród offline"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Umiejętności"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Wydajność wyrębu"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Wydajność wydobycia"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Wydajność przetopu"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Wydajność kowalstwa"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Wydajność rolnictwa"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Wydajność alchemii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Wydajność rybołówstwa"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Wydajność gotowania"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Wydajność polowania"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Wydajność kartografii"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Wydajność archeologii"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Wydajność walki jednoręcznej"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Wydajność walki dwuręcznej"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Wydajność walki dystansowej"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Wydajność obrony"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Szybkość wyrębu"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Szybkość wydobycia"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Szybkość przetopu"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Szybkość kowalstwa"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Szybkość rolnictwa"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Szybkość alchemii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Szybkość rybołówstwa"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Szybkość gotowania"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Szybkość polowania"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Szybkość kartografii"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Szybkość archeologii"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Szybkość walki jednoręcznej"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Szybkość walki dwuręcznej"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Szybkość walki dystansowej"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Szybkość obrony"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "Mnożnik PD wyrębu"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "Mnożnik PD wydobycia"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "Mnożnik PD przetopu"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "Mnożnik PD kowalstwa"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "Mnożnik PD rolnictwa"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "Mnożnik PD alchemii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "Mnożnik PD rybołówstwa"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "Mnożnik PD gotowania"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "Mnożnik PD polowania"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "Mnożnik PD kartografii"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "Mnożnik PD archeologii"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "Mnożnik PD walki jednoręcznej"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "Mnożnik PD walki dwuręcznej"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "Mnożnik PD walki dystansowej"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "Mnożnik PD obrony"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Mnożnik łupów z wyrębu"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Mnożnik łupów z wydobycia"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Mnożnik łupów z przetopu"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Mnożnik łupów z kowalstwa"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Mnożnik łupów z rolnictwa"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Mnożnik łupów z alchemii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Mnożnik łupów z rybołówstwa"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Mnożnik łupów z gotowania"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Mnożnik łupów z polowania"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Mnożnik łupów z kartografii"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Mnożnik łupów z archeologii"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Mnożnik łupów z walki jednoręcznej"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Mnożnik łupów z walki dwuręcznej"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Mnożnik łupów z walki dystansowej"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Mnożnik łupów z obrony"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Szczęście w wyrębie"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Szczęście w wydobyciu"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Szczęście w przetopie"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Szczęście w kowalstwie"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Szczęście w rolnictwie"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Szczęście w alchemii"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Szczęście w rybołówstwie"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Szczęście w gotowaniu"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Szczęście w polowaniu"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Szczęście w kartografii"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Szczęście w archeologii"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "PD walki"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Wydajność walki"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "PD zbieractwa"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Wydajność zbieractwa"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Szybkość zbieractwa"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "PD rzemiosła"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Wydajność rzemiosła"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Szybkość rzemiosła"
+
+msgid "Skill {0} level up to {1}"
+msgstr "Poziom umiejętności {0} zwiększony do {1}"
+
+msgid "Food"
+msgstr "Jedzenie"
+
+msgid "Combat Potion"
+msgstr "Mikstura bojowa"
+
+msgid "Gather Potion"
+msgstr "Mikstura zbierania"
+
+msgid "Craft Potion"
+msgstr "Mikstura rzemiosła"
+
+msgid "Inventory Slots"
+msgstr "Miejsca w ekwipunku"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "Systemowe"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Jasny"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Ciemny"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "TonalSpot"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Neutralny"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Wibrujący"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Ekspresyjny"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Tęcza"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "FruitSalad"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Monochromatyczny"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Wierność"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "Zawartość"
+
+msgid "Unlock {0}"
+msgstr "Odblokuj {0}"
+
+msgid "No requirement"
+msgstr "Brak wymagań"
+
+msgid "{0} reach level {1}"
+msgstr "{0} osiąga poziom {1}"
+
+msgid "Unknown skill"
+msgstr "Nieznana umiejętność"
+
+msgid "{0} completed"
+msgstr "{0} ukończone"
+
+msgid "Error Quest"
+msgstr "Błąd Zadania"
+
+msgid "Kill {0} {1}"
+msgstr "Zabij {0} {1}"
+
+msgid "Collect {0} {1}"
+msgstr "Zbierz {0} {1}"
+
+msgid "Finish {0} {1}"
+msgstr "Ukończ {0} {1}"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "Buduj {0} {1}"
+
+msgid "Quest {0} completed"
+msgstr "Zadanie {0} ukończone"
+
+msgid "Weapon"
+msgstr "Broń"
+
+msgid "Shield"
+msgstr "Tarcza"
+
+msgid "Helmet"
+msgstr "Hełm"
+
+msgid "Armor"
+msgstr "Zbroja"
+
+msgid "LegArmor"
+msgstr "Nagolenniki"
+
+msgid "Boots"
+msgstr "Buty"
+
+msgid "Accessories"
+msgstr "Akcesoria"
+
+msgid "Necklace"
+msgstr "Naszyjnik"
+
+msgid "Ring"
+msgstr "Pierścień"
+
+msgid "Bracelet"
+msgstr "Bransoletka"
+
+msgid "Cape"
+msgstr "Płaszcz"
+
+msgid "Tools"
+msgstr "Narzędzia"
+
+msgid "Axe"
+msgstr "Siekiera"
+
+msgid "Pickaxe"
+msgstr "Młotek"
+
+msgid "Spade"
+msgstr "Łopata"
+
+msgid "Rod"
+msgstr "Rura"
+
+msgid "Trap"
+msgstr "Pułapka"
+
+msgid "{0} Completed"
+msgstr "{0} Ukończono"
+
+msgid "Items not enough"
+msgstr "Niewystarczająca liczba przedmiotów"
+
+msgid "CombatPotion"
+msgstr "Mikstura Bojowa"
+
+msgid "GatherPotion"
+msgstr "Mikstura Zbieractwa"
+
+msgid "CraftPotion"
+msgstr "Mikstura Rzemiosła"
+
+msgid "Flower"
+msgstr "Kwiat"
+
+msgid "Vegetable"
+msgstr "Warzywo"
+
+msgid "Fruit"
+msgstr "Owoc"
+
+msgid "Fish"
+msgstr "Ryba"
+
+msgid "Sword"
+msgstr "Miecz"
+
+msgid "Hammer"
+msgstr "Młot"
+
+msgid "Scythe"
+msgstr "Kosa"
+
+msgid "Spear"
+msgstr "Włócznia"
+
+msgid "Bow"
+msgstr "Łuk"
+
+msgid "Dart"
+msgstr "Strzała"
+
+msgid "Relic"
+msgstr "Relikwia"
+
+msgid "%s secs"
+msgstr "%s sek"
+
+msgid "%s mins"
+msgstr "%s min"
+
+msgid "%s hours"
+msgstr "%s godz"
+
+msgid "%s days"
+msgstr "%s dni"
+
+msgid "%s weeks"
+msgstr "%s tyg"
+
+msgid "%s months"
+msgstr "%s mies"
+
+msgid "%s years"
+msgstr "%s lat"
+
+msgid "Always"
+msgstr "Zawsze"
+
+msgid "Common"
+msgstr "Zwyczajny"
+
+msgid "Uncommon"
+msgstr "Niezwykły"
+
+msgid "Rare"
+msgstr "Rzadki"
+
+msgid "Legendary"
+msgstr "Legendarny"
+
+msgid "Frenzy"
+msgstr "Szał"
+
+msgid "Tanky"
+msgstr "Wytrzymały"
+
+msgid "Deadly"
+msgstr "Zabójczy"
+
+msgid "Swift"
+msgstr "Szybki"
+
+msgid "Precise"
+msgstr "Precyzyjny"
+
+msgid "Hardened"
+msgstr "Utwardzony"

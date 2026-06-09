@@ -1,0 +1,4808 @@
+msgid ""
+msgstr ""
+"Language: Turkish\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "24 小时 +100% 技能经验"
+msgstr "24 saat +100% beceri deneyimi"
+
+msgid "24 小时 +100% 离线收益"
+msgstr "24 saat +100% çevrimdışı gelir"
+
+msgid "炼金实验室"
+msgstr "Simya Laboratuvarı"
+
+msgid "铁砧"
+msgstr "Örs"
+
+msgid "制图台"
+msgstr "Harita Masası"
+
+msgid "烹饪锅"
+msgstr "Pişirme Kazanı"
+
+msgid "熔炉"
+msgstr "Fırın"
+
+msgid "投资政策"
+msgstr "Yatırım Politikası"
+
+msgid "建筑建造费用 {0}"
+msgstr "Bina İnşaat Maliyeti {0}"
+
+msgid "财政改革"
+msgstr "Mali Reform"
+
+msgid "全城维护费 {0}"
+msgstr "Şehir Bakım Maliyeti {0}"
+
+msgid "关税壁垒"
+msgstr "Gümrük Bariyerleri"
+
+msgid "饱和度恢复速度 {0}"
+msgstr "Doygunluk Geri Kazanım Hızı {0}"
+
+msgid "自动化生产"
+msgstr "Otomasyon Üretimi"
+
+msgid "生产速度 {0}, 劳动力需求 {1}"
+msgstr "Üretim Hızı {0}, İşgücü İhtiyacı {1}"
+
+msgid "标准化作业"
+msgstr "Standartlaştırılmış Operasyonlar"
+
+msgid "生产速度 {0}"
+msgstr "Üretim Hızı {0}"
+
+msgid "强制加班"
+msgstr "Zorunlu Fazla Mesai"
+
+msgid "生产速度 {0}, 维护费用 {1}"
+msgstr "Üretim Hızı {0}, Bakım Maliyeti {1}"
+
+msgid "福利国家"
+msgstr "Refah Devleti"
+
+msgid "居住建筑维护费 {0}"
+msgstr "Konut Bakım Maliyeti {0}"
+
+msgid "公共住房"
+msgstr "Sosyal Konutlar"
+
+msgid "住宅容量 {0}"
+msgstr "Konut Kapasitesi {0}"
+
+msgid "第一步"
+msgstr "İlk adım"
+
+msgid "让我们挖掘"
+msgstr "Kazmaya başlayalım"
+
+msgid "让我们冶炼"
+msgstr "Eritmeye başlayalım"
+
+msgid "想吃点鱼"
+msgstr "Biraz balık yemek istiyorum"
+
+msgid "想吃点鱼2"
+msgstr "Biraz balık yemek istiyorum 2"
+
+msgid "整装待发"
+msgstr "Hazır ol"
+
+msgid "击杀邪恶哥布林"
+msgstr "Kötü goblini öldür"
+
+msgid "花匠"
+msgstr "Bahçıvan"
+
+msgid "炼金师"
+msgstr "Simyacı"
+
+msgid "猎户"
+msgstr "Avcı"
+
+msgid "考古时刻"
+msgstr "Arkeoloji anı"
+
+msgid "考古时刻2"
+msgstr "Arkeoloji anı 2"
+
+msgid "工人住宅"
+msgstr "İşçi Konutları"
+
+msgid "黏土坑"
+msgstr "Kil Ocağı"
+
+msgid "砖厂"
+msgstr "Tuğla Fabrikası"
+
+msgid "猪场"
+msgstr "Domuz Çiftliği"
+
+msgid "屠宰场"
+msgstr "Mezbaha"
+
+msgid "谷物农场"
+msgstr "Tahıl Çiftliği"
+
+msgid "面粉厂"
+msgstr "Un Fabrikası"
+
+msgid "面包厂"
+msgstr "Ekmek Fırını"
+
+msgid "铁矿"
+msgstr "Demir Madeni"
+
+msgid "石油矿"
+msgstr "Petrol Kuyusu"
+
+msgid "炼铁厂"
+msgstr "Demir İşleme Tesisi"
+
+msgid "钢铁厂"
+msgstr "Çelik Fabrikası"
+
+msgid "炼脂厂"
+msgstr "Yağ Arıtma Tesisi"
+
+msgid "肥皂厂"
+msgstr "Sabun Fabrikası"
+
+msgid "武器厂"
+msgstr "Silah Fabrikası"
+
+msgid "麦芽厂"
+msgstr "Malt Fabrikası"
+
+msgid "啤酒花厂"
+msgstr "Şerbetçiotu Fabrikası"
+
+msgid "啤酒厂"
+msgstr "Bira Fabrikası"
+
+msgid "农民住宅"
+msgstr "Çiftçi Evleri"
+
+msgid "树厂"
+msgstr "Kereste Tesisi"
+
+msgid "锯木厂"
+msgstr "Kereste Atölyesi"
+
+msgid "渔场"
+msgstr "Balıkçılık Tesisi"
+
+msgid "土豆农场"
+msgstr "Patates Çiftliği"
+
+msgid "伏特加酒厂"
+msgstr "Votka İçki Fabrikası"
+
+msgid "羊毛厂"
+msgstr "Yün İşleme Tesisi"
+
+msgid "服装厂"
+msgstr "Giyim Fabrikası"
+
+msgid "占星学家别墅"
+msgstr "Astrolog Villası"
+
+msgid "西瓜农场"
+msgstr "Karpuz Çiftliği"
+
+msgid "鸡蛋厂"
+msgstr "Yumurta Üretim Tesisi"
+
+msgid "曲奇厂"
+msgstr "Kurabiye Fabrikası"
+
+msgid "曲奇罐头厂"
+msgstr "Konserve Kurabiye Fabrikası"
+
+msgid "沙矿场"
+msgstr "Kum Ocağı"
+
+msgid "硅厂"
+msgstr "Silikon Fabrikası"
+
+msgid "电子厂"
+msgstr "Elektronik Fabrikası"
+
+msgid "放大镜厂"
+msgstr "Büyüteç Fabrikası"
+
+msgid "颜料厂"
+msgstr "Boya Fabrikası"
+
+msgid "笔厂"
+msgstr "Kalem Fabrikası"
+
+msgid "绘图纸厂"
+msgstr "Çizim Kağıdı Fabrikası"
+
+msgid "绘图厂"
+msgstr "Çizim Atölyesi"
+
+msgid "炼金术士别墅"
+msgstr "Simyacı Villası"
+
+msgid "采石场"
+msgstr "Taş Ocağı"
+
+msgid "混凝土厂"
+msgstr "Beton Fabrikası"
+
+msgid "锌矿厂"
+msgstr "Çinko Madeni"
+
+msgid "石英矿场"
+msgstr "Kuvars Madeni"
+
+msgid "轴矿场"
+msgstr "Uranyum Madeni"
+
+msgid "红酒厂"
+msgstr "Şarap İmalathanesi"
+
+msgid "注射器厂"
+msgstr "Enjektör Fabrikası"
+
+msgid "橡胶农场"
+msgstr "Kauçuk Plantasyonu"
+
+msgid "生化服厂"
+msgstr "Biyokimya Kıyafeti Fabrikası"
+
+msgid "硝石工厂"
+msgstr "Güherçile Fabrikası"
+
+msgid "炸药工厂"
+msgstr "Patlayıcı Fabrikası"
+
+msgid "炼药锅"
+msgstr "Simya Kazanı"
+
+msgid "镍矿厂"
+msgstr "Nikel Madeni"
+
+msgid "镍锭厂"
+msgstr "Nikel Dökümhanesi"
+
+msgid "磁带厂"
+msgstr "Kaset Fabrikası"
+
+msgid "纤维厂"
+msgstr "Elyaf İşleme Tesisi"
+
+msgid "光盘厂"
+msgstr "Disk Fabrikası"
+
+msgid "要号码宝箱"
+msgstr "Numara İsteyen Sandığı"
+
+msgid "对抗纨绔宝箱"
+msgstr "Züppelerle Mücadele Sandığı"
+
+msgid "美颜参数宝箱"
+msgstr "Güzellik Parametreleri Sandığı"
+
+msgid "说梦话宝箱"
+msgstr "Sayklama Sandığı"
+
+msgid "猫咪张嘴宝箱"
+msgstr "Kedi Ağzı Sandığı"
+
+msgid "傻子太多宝箱"
+msgstr "Çok Fazla Aptal Sandığı"
+
+msgid "生活太难宝箱"
+msgstr "Hayat Çok Zor Sandığı"
+
+msgid "生活太难宝箱 2"
+msgstr "Hayat Çok Zor Sandığı 2"
+
+msgid "雄心壮志宝箱"
+msgstr "Büyük İdealler Sandığı"
+
+msgid "雄心壮志宝箱 2"
+msgstr "Büyük İdealler Sandığı 2"
+
+msgid "喝水宝箱"
+msgstr "Su İçme Sandığı"
+
+msgid "礼貌宝箱"
+msgstr "Nezaket Sandığı"
+
+msgid "礼貌宝箱 2"
+msgstr "Nezaket Sandığı 2"
+
+msgid "厉害宝箱"
+msgstr "Harika Sandığı"
+
+msgid "厉害宝箱 2"
+msgstr "Harika Sandığı 2"
+
+msgid "厉害宝箱 3"
+msgstr "Harika Sandığı 3"
+
+msgid "奢侈品宝箱"
+msgstr "Lüks Eşya Sandığı"
+
+msgid "奢侈品宝箱 2"
+msgstr "Lüks Eşya Sandığı 2"
+
+msgid "不可战胜宝箱"
+msgstr "Yenilmezlik Sandığı"
+
+msgid "不可战胜宝箱 2"
+msgstr "Yenilmezlik Sandığı 2"
+
+msgid "帅哥宝箱"
+msgstr "Yakışıklı Erkek Sandığı"
+
+msgid "镇静宝箱"
+msgstr "Sakinleştirme Sandığı"
+
+msgid "生活方式宝箱"
+msgstr "Yaşam Tarzı Sandığı"
+
+msgid "生活方式宝箱 2"
+msgstr "Yaşam Tarzı Sandığı 2"
+
+msgid "爱情故事宝箱"
+msgstr "Aşk Hikayesi Sandığı"
+
+msgid "爱情故事宝箱 2"
+msgstr "Aşk Hikayesi Sandığı 2"
+
+msgid "爱情故事宝箱 3"
+msgstr "Aşk Hikayesi Sandığı 3"
+
+msgid "爱情故事宝箱 4"
+msgstr "Aşk Hikayesi Sandığı 4"
+
+msgid "硬币"
+msgstr "Para"
+
+msgid "星星"
+msgstr "Yıldız"
+
+msgid "瓶子"
+msgstr "Şişe"
+
+msgid "蚯蚓"
+msgstr "Solucan"
+
+msgid "皮革"
+msgstr "Deri"
+
+msgid "羽毛"
+msgstr "Tüy"
+
+msgid "墨水"
+msgstr "Mürekkep"
+
+msgid "岛民券"
+msgstr "Ada Para Birimi"
+
+msgid "塑形器"
+msgstr "Formater"
+
+msgid "钢铁"
+msgstr "Çelik"
+
+msgid "啤酒"
+msgstr "Bira"
+
+msgid "麦芽"
+msgstr "Malt"
+
+msgid "啤酒花"
+msgstr "Şerbetçiotu"
+
+msgid "好猪肉"
+msgstr "Kaliteli Domuz Eti"
+
+msgid "谷物"
+msgstr "Tahıl"
+
+msgid "面粉"
+msgstr "Un"
+
+msgid "面包"
+msgstr "Ekmek"
+
+msgid "油脂"
+msgstr "Yağ"
+
+msgid "肥皂"
+msgstr "Sabun"
+
+msgid "武器"
+msgstr "Silah"
+
+msgid "砖块"
+msgstr "Tuğla"
+
+msgid "猪肉"
+msgstr "Domuz Eti"
+
+msgid "粘土"
+msgstr "Kil"
+
+msgid "石油"
+msgstr "Petrol"
+
+msgid "铁锭"
+msgstr "Demir Külçe"
+
+msgid "木板"
+msgstr "Kereste"
+
+msgid "土豆"
+msgstr "Patates"
+
+msgid "鱼"
+msgstr "Balık"
+
+msgid "伏特加"
+msgstr "Votka"
+
+msgid "羊毛"
+msgstr "Yün"
+
+msgid "衣服"
+msgstr "Kıyafet"
+
+msgid "原木"
+msgstr "Ham Kereste"
+
+msgid "西瓜"
+msgstr "Karpuz"
+
+msgid "鸡蛋"
+msgstr "Yumurta"
+
+msgid "曲奇"
+msgstr "Kurabiye"
+
+msgid "曲奇罐头"
+msgstr "Konserve Kurabiye"
+
+msgid "沙子"
+msgstr "Kum"
+
+msgid "硅"
+msgstr "Silikon"
+
+msgid "电路板"
+msgstr "Devre Kartı"
+
+msgid "放大镜"
+msgstr "Büyüteç"
+
+msgid "颜料"
+msgstr "Boya"
+
+msgid "笔"
+msgstr "Kalem"
+
+msgid "绘图纸"
+msgstr "Çizim Kağıdı"
+
+msgid "星图"
+msgstr "Yıldız Haritası"
+
+msgid "石头"
+msgstr "Taş"
+
+msgid "混凝土"
+msgstr "Beton"
+
+msgid "锌"
+msgstr "Çinko"
+
+msgid "石英"
+msgstr "Kuvars"
+
+msgid "铀"
+msgstr "Uranyum"
+
+msgid "红酒"
+msgstr "Şarap"
+
+msgid "注射器"
+msgstr "Enjektör"
+
+msgid "橡胶"
+msgstr "Kauçuk"
+
+msgid "生化服"
+msgstr "Biyokimya Kıyafeti"
+
+msgid "硝石"
+msgstr "Güherçile"
+
+msgid "炸药"
+msgstr "Patlayıcı"
+
+msgid "炼金锅"
+msgstr "Simya Kazanı"
+
+msgid "镍"
+msgstr "Nikel"
+
+msgid "镍锭"
+msgstr "Nikel Külçe"
+
+msgid "磁带"
+msgstr "Kaset"
+
+msgid "纤维"
+msgstr "Elyaf"
+
+msgid "光盘"
+msgstr "Disk"
+
+msgid "邪恶虾兵"
+msgstr "Kötü Karides Asker"
+
+msgid "邪恶蟹将"
+msgstr "Kötü Yengeç Komutan"
+
+msgid "邪恶史莱姆"
+msgstr "Kötü Balçık"
+
+msgid "邪恶秃头"
+msgstr "Kötü Kel"
+
+msgid "邪恶龙骨"
+msgstr "Kötü Ejderha İskeleti"
+
+msgid "邪恶泰坦"
+msgstr "Kötü Titan"
+
+msgid "邪恶将军"
+msgstr "Kötü General"
+
+msgid "邪恶大王"
+msgstr "Kötü Hükümdar"
+
+msgid "精英邪恶史莱姆"
+msgstr "Elit Kötü Balçık"
+
+msgid "精英邪恶秃头"
+msgstr "Elit Kötü Kel"
+
+msgid "精英邪恶龙骨"
+msgstr "Elit Kötü Ejderha İskeleti"
+
+msgid "精英邪恶泰坦"
+msgstr "Elit Kötü Titan"
+
+msgid "精英邪恶将军"
+msgstr "Elit Kötü General"
+
+msgid "精英邪恶大王"
+msgstr "Elit Kötü Hükümdar"
+
+msgid "邪恶死人"
+msgstr "Kötü Ölü Adam"
+
+msgid "邪恶蛇蛇"
+msgstr "Şeytani Yılan"
+
+msgid "邪恶小偷"
+msgstr "Kötü Hırsız"
+
+msgid "邪恶外星人"
+msgstr "Kötü Uzaylı"
+
+msgid "邪恶大象"
+msgstr "Kötü Fil"
+
+msgid "邪恶野人"
+msgstr "Şeytani Vahşi"
+
+msgid "邪恶三头龙"
+msgstr "Kötü Üç Başlı Ejderha"
+
+msgid "邪恶邪神"
+msgstr "Kötü Şeytani Tanrı"
+
+msgid "精英邪恶小偷"
+msgstr "Elit Kötü Hırsız"
+
+msgid "精英邪恶外星人"
+msgstr "Elit Kötü Uzaylı"
+
+msgid "精英邪恶大象"
+msgstr "Elit Kötü Fil"
+
+msgid "精英邪恶野人"
+msgstr "Elit Kötü Vahşi"
+
+msgid "精英邪恶三头龙"
+msgstr "Elit Kötü Üç Başlı Ejderha"
+
+msgid "精英邪恶邪神"
+msgstr "Elit Kötü Şeytani Tanrı"
+
+msgid "邪恶螃蟹"
+msgstr "Kötü Yengeç"
+
+msgid "邪恶太阳花"
+msgstr "Kötü Ayçiçeği"
+
+msgid "邪恶小鸡"
+msgstr "Şeytani Civciv"
+
+msgid "邪恶蜘蛛"
+msgstr "Kötü Örümcek"
+
+msgid "邪恶蜜蜂"
+msgstr "Kötü Arı"
+
+msgid "邪恶笑脸男"
+msgstr "Kötü Gülen Yüz"
+
+msgid "邪恶骑士"
+msgstr "Kötü Şövalye"
+
+msgid "邪恶巫婆"
+msgstr "Kötü Cadı"
+
+msgid "精英邪恶小鸡"
+msgstr "Elit Şeytani Civciv"
+
+msgid "精英邪恶蜘蛛"
+msgstr "Elit Kötü Örümcek"
+
+msgid "精英邪恶蜜蜂"
+msgstr "Elit Kötü Arı"
+
+msgid "精英邪恶笑脸男"
+msgstr "Elit Kötü Yüzlü Adam"
+
+msgid "精英邪恶骑士"
+msgstr "Elit Kötü Şövalye"
+
+msgid "精英邪恶巫婆"
+msgstr "Elit Kötü Cadı"
+
+msgid "祭坛"
+msgstr "Sunak"
+
+msgid "铜剑"
+msgstr "Bakır Kılıç"
+
+msgid "铜锤"
+msgstr "Bakır Çekiç"
+
+msgid "铜镰刀"
+msgstr "Bakır Orak"
+
+msgid "铜矛"
+msgstr "Bakır Mızrak"
+
+msgid "铜飞镖"
+msgstr "Bakır Yıldız"
+
+msgid "银剑"
+msgstr "Gümüş Kılıç"
+
+msgid "银锤"
+msgstr "Gümüş Çekiç"
+
+msgid "银镰刀"
+msgstr "Gümüş Orak"
+
+msgid "银矛"
+msgstr "Gümüş Mızrak"
+
+msgid "银飞镖"
+msgstr "Gümüş Yıldız"
+
+msgid "金剑"
+msgstr "Altın Kılıç"
+
+msgid "金锤"
+msgstr "Altın Çekiç"
+
+msgid "金镰刀"
+msgstr "Altın Orak"
+
+msgid "金矛"
+msgstr "Altın Mızrak"
+
+msgid "金飞镖"
+msgstr "Altın Yıldız"
+
+msgid "霜冻剑"
+msgstr "Buzlu Kılıç"
+
+msgid "霜冻锤"
+msgstr "Buzlu Çekiç"
+
+msgid "霜冻镰刀"
+msgstr "Buzlu Orak"
+
+msgid "霜冻矛"
+msgstr "Buzlu Mızrak"
+
+msgid "霜冻飞镖"
+msgstr "Buzlu Yıldız"
+
+msgid "翡翠剑"
+msgstr "Zümrüt Kılıç"
+
+msgid "翡翠锤"
+msgstr "Zümrüt Çekiç"
+
+msgid "翡翠镰刀"
+msgstr "Zümrüt Orak"
+
+msgid "翡翠矛"
+msgstr "Zümrüt Mızrak"
+
+msgid "翡翠飞镖"
+msgstr "Zümrüt Yıldız"
+
+msgid "熔岩剑"
+msgstr "Lav Kılıç"
+
+msgid "熔岩锤"
+msgstr "Lav Çekiç"
+
+msgid "熔岩镰刀"
+msgstr "Lav Orak"
+
+msgid "熔岩矛"
+msgstr "Lav Mızrak"
+
+msgid "熔岩飞镖"
+msgstr "Lav Yıldız"
+
+msgid "星辰剑"
+msgstr "Yıldız Kılıç"
+
+msgid "星辰锤"
+msgstr "Yıldız Çekici"
+
+msgid "星辰镰刀"
+msgstr "Yıldız Orak"
+
+msgid "星辰矛"
+msgstr "Yıldız Mızrak"
+
+msgid "星辰飞镖"
+msgstr "Yıldız Shuriken"
+
+msgid "彩虹剑"
+msgstr "Gökkuşağı Kılıcı"
+
+msgid "彩虹锤"
+msgstr "Gökkuşağı Çekici"
+
+msgid "彩虹镰刀"
+msgstr "Gökkuşağı Orak"
+
+msgid "彩虹矛"
+msgstr "Gökkuşağı Mızrak"
+
+msgid "彩虹飞镖"
+msgstr "Gökkuşağı Shuriken"
+
+msgid "铜靴子"
+msgstr "Bakır Çizme"
+
+msgid "铜腿甲"
+msgstr "Bakır Bacak Zırhı"
+
+msgid "铜头盔"
+msgstr "Bakır Kask"
+
+msgid "铜盾牌"
+msgstr "Bakır Kalkan"
+
+msgid "铜护甲"
+msgstr "Bakır Zırh"
+
+msgid "铜披风"
+msgstr "Bakır Pelerin"
+
+msgid "银靴子"
+msgstr "Gümüş Çizme"
+
+msgid "银腿甲"
+msgstr "Gümüş Bacak Zırhı"
+
+msgid "银头盔"
+msgstr "Gümüş Kask"
+
+msgid "银盾牌"
+msgstr "Gümüş Kalkan"
+
+msgid "银护甲"
+msgstr "Gümüş Zırh"
+
+msgid "银披风"
+msgstr "Gümüş Pelerin"
+
+msgid "金靴子"
+msgstr "Altın Çizme"
+
+msgid "金腿甲"
+msgstr "Altın Bacak Zırhı"
+
+msgid "金头盔"
+msgstr "Altın Kask"
+
+msgid "金盾牌"
+msgstr "Altın Kalkan"
+
+msgid "金护甲"
+msgstr "Altın Zırh"
+
+msgid "金披风"
+msgstr "Altın Pelerin"
+
+msgid "霜冻靴子"
+msgstr "Buzlu Çizme"
+
+msgid "霜冻腿甲"
+msgstr "Buzlu Bacak Zırhı"
+
+msgid "霜冻头盔"
+msgstr "Buzlu Kask"
+
+msgid "霜冻盾牌"
+msgstr "Buzlu Kalkan"
+
+msgid "霜冻护甲"
+msgstr "Buzlu Zırh"
+
+msgid "霜冻披风"
+msgstr "Buzlu Pelerin"
+
+msgid "翡翠靴子"
+msgstr "Zümrüt Çizme"
+
+msgid "翡翠腿甲"
+msgstr "Zümrüt Bacak Zırhı"
+
+msgid "翡翠头盔"
+msgstr "Zümrüt Kask"
+
+msgid "翡翠盾牌"
+msgstr "Zümrüt Kalkan"
+
+msgid "翡翠护甲"
+msgstr "Zümrüt Zırh"
+
+msgid "翡翠披风"
+msgstr "Zümrüt Pelerin"
+
+msgid "熔岩靴子"
+msgstr "Lav Çizme"
+
+msgid "熔岩腿甲"
+msgstr "Lav Diz Kalkanı"
+
+msgid "熔岩头盔"
+msgstr "Lav Kaskı"
+
+msgid "熔岩盾牌"
+msgstr "Lav Kalkanı"
+
+msgid "熔岩护甲"
+msgstr "Lav Zırhı"
+
+msgid "熔岩披风"
+msgstr "Lav Pelerini"
+
+msgid "星辰靴子"
+msgstr "Yıldız Çizmeleri"
+
+msgid "星辰腿甲"
+msgstr "Yıldız Diz Kalkanı"
+
+msgid "星辰头盔"
+msgstr "Yıldız Kaskı"
+
+msgid "星辰盾牌"
+msgstr "Yıldız Kalkanı"
+
+msgid "星辰护甲"
+msgstr "Yıldız Zırhı"
+
+msgid "星辰披风"
+msgstr "Yıldız Pelerini"
+
+msgid "彩虹靴子"
+msgstr "Gökkuşağı Çizmeleri"
+
+msgid "彩虹腿甲"
+msgstr "Gökkuşağı Diz Kalkanı"
+
+msgid "彩虹头盔"
+msgstr "Gökkuşağı Kaskı"
+
+msgid "彩虹盾牌"
+msgstr "Gökkuşağı Kalkanı"
+
+msgid "彩虹护甲"
+msgstr "Gökkuşağı Zırhı"
+
+msgid "彩虹披风"
+msgstr "Gökkuşağı Pelerini"
+
+msgid "红宝石戒指"
+msgstr "Yakut Yüzük"
+
+msgid "黄宝石戒指"
+msgstr "Sarı Yüzük"
+
+msgid "绿宝石戒指"
+msgstr "Zümrüt Yüzük"
+
+msgid "月亮宝石戒指"
+msgstr "Ay Taşı Yüzüğü"
+
+msgid "水晶宝石戒指"
+msgstr "Kristal Taşı Yüzüğü"
+
+msgid "星星宝石戒指"
+msgstr "Yıldız Taşı Yüzüğü"
+
+msgid "玛瑙宝石戒指"
+msgstr "Ağantaş Yüzüğü"
+
+msgid "彩虹宝石戒指"
+msgstr "Gökkuşağı Taşı Yüzüğü"
+
+msgid "红宝石项链"
+msgstr "Yakut Kolye"
+
+msgid "黄宝石项链"
+msgstr "Sarı Safir Kolye"
+
+msgid "绿宝石项链"
+msgstr "Zümrüt Kolye"
+
+msgid "月亮宝石项链"
+msgstr "Ay Taşı Kolye"
+
+msgid "水晶宝石项链"
+msgstr "Kristal Taşı Kolye"
+
+msgid "星星宝石项链"
+msgstr "Yıldız Taşı Kolye"
+
+msgid "玛瑙宝石项链"
+msgstr "Ağantaş Kolye"
+
+msgid "彩虹宝石项链"
+msgstr "Gökkuşağı Taşı Kolye"
+
+msgid "红宝石手环"
+msgstr "Yakut Bileklik"
+
+msgid "黄宝石手环"
+msgstr "Sarı Safir Bileklik"
+
+msgid "绿宝石手环"
+msgstr "Zümrüt Bileklik"
+
+msgid "月亮宝石手环"
+msgstr "Ay Taşı Bileklik"
+
+msgid "水晶宝石手环"
+msgstr "Kristal Taşı Bileklik"
+
+msgid "星星宝石手环"
+msgstr "Yıldız Taşı Bileklik"
+
+msgid "玛瑙宝石手环"
+msgstr "Ağantaş Bileklik"
+
+msgid "彩虹宝石手环"
+msgstr "Gökkuşağı Mücevher Bilekliği"
+
+msgid "铜鱼竿"
+msgstr "Bakır Olta"
+
+msgid "铜铲"
+msgstr "Bakır Kürek"
+
+msgid "铜斧"
+msgstr "Bakır Balta"
+
+msgid "铜镐"
+msgstr "Bakır Kazma"
+
+msgid "铜陷阱"
+msgstr "Bakır Tuzak"
+
+msgid "银鱼竿"
+msgstr "Gümüş Olta"
+
+msgid "银铲"
+msgstr "Gümüş Kürek"
+
+msgid "银斧"
+msgstr "Gümüş Balta"
+
+msgid "银镐"
+msgstr "Gümüş Kazma"
+
+msgid "银陷阱"
+msgstr "Gümüş Tuzak"
+
+msgid "金鱼竿"
+msgstr "Altın Olta"
+
+msgid "金铲"
+msgstr "Altın Kürek"
+
+msgid "金斧"
+msgstr "Altın Balta"
+
+msgid "金镐"
+msgstr "Altın Kazma"
+
+msgid "金陷阱"
+msgstr "Altın Tuzak"
+
+msgid "霜冻鱼竿"
+msgstr "Buzlu Olta"
+
+msgid "霜冻铲"
+msgstr "Buzlu Kürek"
+
+msgid "霜冻斧"
+msgstr "Buzlu Balta"
+
+msgid "霜冻镐"
+msgstr "Buzlu Kazma"
+
+msgid "霜冻陷阱"
+msgstr "Buz Tuzağı"
+
+msgid "翡翠鱼竿"
+msgstr "Zümrüt Oltası"
+
+msgid "翡翠铲"
+msgstr "Zümrüt Küreği"
+
+msgid "翡翠斧"
+msgstr "Zümrüt Baltası"
+
+msgid "翡翠镐"
+msgstr "Zümrüt Kazması"
+
+msgid "翡翠陷阱"
+msgstr "Zümrüt Tuzağı"
+
+msgid "熔岩鱼竿"
+msgstr "Lav Oltası"
+
+msgid "熔岩铲"
+msgstr "Lav Küreği"
+
+msgid "熔岩斧"
+msgstr "Lav Baltası"
+
+msgid "熔岩镐"
+msgstr "Lav Kazması"
+
+msgid "熔岩陷阱"
+msgstr "Lav Tuzağı"
+
+msgid "星辰鱼竿"
+msgstr "Yıldız Oltası"
+
+msgid "星辰铲"
+msgstr "Yıldız Küreği"
+
+msgid "星辰斧"
+msgstr "Yıldız Baltası"
+
+msgid "星辰镐"
+msgstr "Yıldız Kazması"
+
+msgid "星辰陷阱"
+msgstr "Yıldız Tuzağı"
+
+msgid "彩虹鱼竿"
+msgstr "Gökkuşağı Oltası"
+
+msgid "彩虹铲"
+msgstr "Gökkuşağı Küreği"
+
+msgid "彩虹斧"
+msgstr "Gökkuşağı Baltası"
+
+msgid "彩虹镐"
+msgstr "Gökkuşağı Kazması"
+
+msgid "彩虹陷阱"
+msgstr "Gökkuşağı Tuzağı"
+
+msgid "苹果"
+msgstr "Elma"
+
+msgid "草莓"
+msgstr "Çilek"
+
+msgid "香蕉"
+msgstr "Muz"
+
+msgid "蓝莓"
+msgstr "Yaban Mersini"
+
+msgid "樱桃"
+msgstr "Kiraz"
+
+msgid "橙子"
+msgstr "Portakal"
+
+msgid "桃子"
+msgstr "Şeftali"
+
+msgid "椰子"
+msgstr "Hindistan Cevizi"
+
+msgid "铜矿石"
+msgstr "Bakır Cevheri"
+
+msgid "银矿石"
+msgstr "Gümüş Cevheri"
+
+msgid "金矿石"
+msgstr "Altın Cevheri"
+
+msgid "霜冻矿石"
+msgstr "Donmuş Cevher"
+
+msgid "翡翠矿石"
+msgstr "Zümrüt Cevheri"
+
+msgid "熔岩矿石"
+msgstr "Lav Cevheri"
+
+msgid "星辰矿石"
+msgstr "Yıldız Cevheri"
+
+msgid "彩虹矿石"
+msgstr "Gökkuşağı Cevheri"
+
+msgid "眼睛"
+msgstr "Göz"
+
+msgid "牙"
+msgstr "Diş"
+
+msgid "黄色眼睛"
+msgstr "Sarı Göz"
+
+msgid "锋利的牙"
+msgstr "Keskin Diş"
+
+msgid "绿色眼睛"
+msgstr "Yeşil Göz"
+
+msgid "恐怖金牙"
+msgstr "Korkunç Altın Diş"
+
+msgid "红色眼睛"
+msgstr "Kırmızı Göz"
+
+msgid "骷髅头"
+msgstr "Kafatası"
+
+msgid "炭"
+msgstr "Kömür"
+
+msgid "铜锭"
+msgstr "Bakır Külçe"
+
+msgid "银锭"
+msgstr "Gümüş Külçe"
+
+msgid "金锭"
+msgstr "Altın Külçe"
+
+msgid "霜冻锭"
+msgstr "Buz Külçe"
+
+msgid "翡翠锭"
+msgstr "Zümrüt Külçe"
+
+msgid "熔岩锭"
+msgstr "Lav Külçe"
+
+msgid "星辰锭"
+msgstr "Yıldız Külçe"
+
+msgid "彩虹锭"
+msgstr "Gökkuşağı Külçe"
+
+msgid "松木"
+msgstr "Çam Ağacı"
+
+msgid "云杉木"
+msgstr "Ladin Ağacı"
+
+msgid "桦木"
+msgstr "Huş Ağacı"
+
+msgid "柚木"
+msgstr "Teak Ağacı"
+
+msgid "桃花心木"
+msgstr "Mahagoni Ağacı"
+
+msgid "铁皮木"
+msgstr "Demir Kabuklu Ağaç"
+
+msgid "红木"
+msgstr "Kızıl ağaç"
+
+msgid "古木"
+msgstr "Eski ağaç"
+
+msgid "鲤鱼"
+msgstr "Sazan"
+
+msgid "鳟鱼"
+msgstr "Alabalık"
+
+msgid "三文鱼"
+msgstr "Somon"
+
+msgid "鲈鱼"
+msgstr "Levrek"
+
+msgid "罗非鱼"
+msgstr "Tilapia"
+
+msgid "鲭鱼"
+msgstr "Uskumru"
+
+msgid "沙丁鱼"
+msgstr "Sardalya"
+
+msgid "鲱鱼"
+msgstr "Hamsi"
+
+msgid "鲤鱼料理"
+msgstr "Sazan yemeği"
+
+msgid "鳟鱼料理"
+msgstr "Alabalık yemeği"
+
+msgid "三文鱼料理"
+msgstr "Somon yemeği"
+
+msgid "鲈鱼料理"
+msgstr "Levrek yemeği"
+
+msgid "罗非鱼料理"
+msgstr "Tilapia yemeği"
+
+msgid "鲭鱼料理"
+msgstr "Uskumru yemeği"
+
+msgid "沙丁鱼料理"
+msgstr "Sardalya yemeği"
+
+msgid "鲱鱼料理"
+msgstr "Hamsi yemeği"
+
+msgid "鲤鱼豪华料理"
+msgstr "Sazan lüks yemeği"
+
+msgid "鳟鱼豪华料理"
+msgstr "Alabalık lüks yemeği"
+
+msgid "三文鱼豪华料理"
+msgstr "Somon Lüks Yemek"
+
+msgid "鲈鱼豪华料理"
+msgstr "Levrek Lüks Yemek"
+
+msgid "罗非鱼豪华料理"
+msgstr "Tilapia Lüks Yemek"
+
+msgid "鲭鱼豪华料理"
+msgstr "Uskumru Lüks Yemek"
+
+msgid "沙丁鱼豪华料理"
+msgstr "Sardalya Lüks Yemek"
+
+msgid "鲱鱼豪华料理"
+msgstr "Hamsi Lüks Yemek"
+
+msgid "红宝石"
+msgstr "Kırmızı Yakut"
+
+msgid "黄宝石"
+msgstr "Sarı Zümrüt"
+
+msgid "绿宝石"
+msgstr "Yeşil Zümrüt"
+
+msgid "月亮宝石"
+msgstr "Ay Taşı"
+
+msgid "水晶宝石"
+msgstr "Kristal Taş"
+
+msgid "星星宝石"
+msgstr "Yıldız Taşı"
+
+msgid "玛瑙宝石"
+msgstr "Agaç Taşı"
+
+msgid "彩虹宝石"
+msgstr "Gökkuşağı Taşı"
+
+msgid "红宝石精华"
+msgstr "Kırmızı Yakut Özü"
+
+msgid "黄宝石精华"
+msgstr "Sarı Zümrüt Özü"
+
+msgid "绿宝石精华"
+msgstr "Yeşil Zümrüt Özü"
+
+msgid "月亮精华"
+msgstr "Ay Özü"
+
+msgid "水晶精华"
+msgstr "Kristal Özü"
+
+msgid "星星精华"
+msgstr "Yıldız Özü"
+
+msgid "玛瑙精华"
+msgstr "Ametist Özü"
+
+msgid "彩虹精华"
+msgstr "Gökkuşağı Özü"
+
+msgid "宝石粉末"
+msgstr "Mücevher Tozu"
+
+msgid "种子"
+msgstr "Tohum"
+
+msgid "肥料"
+msgstr "Gübre"
+
+msgid "兰花"
+msgstr "Orkide"
+
+msgid "雏菊"
+msgstr "Papatya"
+
+msgid "郁金香"
+msgstr "Lale"
+
+msgid "玫瑰"
+msgstr "Gül"
+
+msgid "金盏花"
+msgstr "Aynısafa"
+
+msgid "牡丹"
+msgstr "Peygamber Çiçeği"
+
+msgid "风铃草"
+msgstr "Çan Çiçeği"
+
+msgid "向日葵"
+msgstr "Ayçiçeği"
+
+msgid "玉米"
+msgstr "Mısır"
+
+msgid "白菜"
+msgstr "Lahana"
+
+msgid "辣椒"
+msgstr "Biber"
+
+msgid "萝卜"
+msgstr "Turp"
+
+msgid "蘑菇"
+msgstr "Mantar"
+
+msgid "番茄"
+msgstr "Domates"
+
+msgid "茄子"
+msgstr "Patlıcan"
+
+msgid "黄瓜"
+msgstr "Salatalık"
+
+msgid "精英怪物地图"
+msgstr "Elit Canavar Haritası"
+
+msgid "老洞穴地图"
+msgstr "Eski Mağara Haritası"
+
+msgid "泡菜厂地图"
+msgstr "Turşu Fabrikası Haritası"
+
+msgid "老学校地图"
+msgstr "Eski Okul Haritası"
+
+msgid "啤酒厂地图"
+msgstr "Bira Fabrikası Haritası"
+
+msgid "大香蕉地图"
+msgstr "Büyük Muz Haritası"
+
+msgid "藏身处地图"
+msgstr "Sığınak Haritası"
+
+msgid "木地地图"
+msgstr "Tahta Zemin Haritası"
+
+msgid "红色血包"
+msgstr "Kırmızı Kan Paketi"
+
+msgid "大电池手电筒"
+msgstr "Büyük Pil El Feneri"
+
+msgid "空空瓶"
+msgstr "Boş Şişe"
+
+msgid "大哥大"
+msgstr "Büyük Telefon"
+
+msgid "卡姆PIU特"
+msgstr "KamPIUte"
+
+msgid "红药丸瓶"
+msgstr "Kırmızı Hap Şişesi"
+
+msgid "神奇海螺"
+msgstr "Sihirli Deniz Kabuğu"
+
+msgid "蓝色笔"
+msgstr "Mavi Kalem"
+
+msgid "对话气泡"
+msgstr "Konuşma Balonu"
+
+msgid "蓝色小人"
+msgstr "Mavi Küçük Adam"
+
+msgid "音药"
+msgstr "Müzik İlacı"
+
+msgid "拳头！"
+msgstr "Yumruk!"
+
+msgid "叶子~"
+msgstr "Yaprak~"
+
+msgid "火药球"
+msgstr "Barut Topu"
+
+msgid "蝴蝶蝶"
+msgstr "Kelebek"
+
+msgid "考试小抄"
+msgstr "Sınav Kopyası"
+
+msgid "下头！"
+msgstr "Sıkıcı!"
+
+msgid "护目镜"
+msgstr "Koruyucu Gözlük"
+
+msgid "硬币？"
+msgstr "Para?"
+
+msgid "贵项链"
+msgstr "Değerli Kolye"
+
+msgid "贵戒指"
+msgstr "Değerli Yüzük"
+
+msgid "经典背包经典"
+msgstr "Klasik Sırt Çantası"
+
+msgid "经典小包经典"
+msgstr "Klasik Çanta"
+
+msgid "烛蜡"
+msgstr "Mum"
+
+msgid "经典宝箱经典"
+msgstr "Klasik Sandık"
+
+msgid "经典十字经典"
+msgstr "Klasik Haç"
+
+msgid "神秘墓碑"
+msgstr "Gizemli Mezar Taşı"
+
+msgid "神秘铁锤"
+msgstr "Gizemli Çekiç"
+
+msgid "无良印品"
+msgstr "Sahte Baskı"
+
+msgid "鱼鱼"
+msgstr "Balık"
+
+msgid "捣蒜器"
+msgstr "Sarımsak Ezici"
+
+msgid "离洞绳"
+msgstr "Mağaradan Kaçış İpi"
+
+msgid "美容镜"
+msgstr "Güzellik Aynası"
+
+msgid "八匹狼"
+msgstr "Sekiz Kurt"
+
+msgid "神秘沙漏"
+msgstr "Gizemli Kum Saati"
+
+msgid "红心"
+msgstr "Kırmızı Kalp"
+
+msgid "火焰"
+msgstr "Alev"
+
+msgid "全麦面包"
+msgstr "Tam Buğday Ekmeği"
+
+msgid "没寄出的信"
+msgstr "Gönderilmemiş Mektup"
+
+msgid "花生之神"
+msgstr "Yer Fıstığı Tanrısı"
+
+msgid "威风堂堂"
+msgstr "Gururlu ve Cesur"
+
+msgid "每成功闪避一次攻击，下一次攻击必定暴击。"
+msgstr ""
+"Bir saldırıyı başarıyla savuşturduğunda, bir sonraki saldırı kesinlikle "
+"kritik vuruş yapar."
+
+msgid "百折不挠的真诚"
+msgstr "Yılmaz Dürüstlük"
+
+msgid "攻击时有 3% 的概率触发两次伤害。"
+msgstr "Saldırıda %3 olasılıkla iki kez hasar verilir."
+
+msgid "直言不讳的勇敢"
+msgstr "Açık Sözlü Cesaret"
+
+msgid "每场战斗随机激活 1 个效果：+50% 伤害 / +30% 防御 / 双倍经验"
+msgstr ""
+"Her savaşta rastgele 1 etki aktif olur: +%50 hasar / +%30 savunma / çift "
+"deneyim"
+
+msgid "空想家"
+msgstr "Hayalperest"
+
+msgid "击杀一名敌人后，掉落稀有物品的概率 +1%，可叠加，但是生命值低于 50% 时失效。"
+msgstr ""
+"Bir düşmanı öldürdükten sonra, nadir eşya düşme olasılığı %1 artar, "
+"yığılabilir ancak can %50'nin altına düştüğünde etkisizleşir."
+
+msgid "令人震惊的"
+msgstr "Şaşırtıcı"
+
+msgid "生命低于 20% 时，自动触发“再生”，每秒回复 5% 生命（持续 10 秒，CD 2 分钟）。"
+msgstr ""
+"Can %20'nin altına düştüğünde, otomatik olarak 'yenilenme' tetiklenir, "
+"saniyede %5 can yenilenir (10 saniye sürer, 2 dakika bekleme süresi)."
+
+msgid "恐慌的"
+msgstr "Panik"
+
+msgid "命中时，5% 几率使敌人无法行动 5 秒。不可重复触发。"
+msgstr ""
+"İsabet ettiğinde, %5 olasılıkla düşman 5 saniye boyunca eylem yapamaz. Tekrar "
+"tetiklenemez."
+
+msgid "无法忍受的"
+msgstr "Katlanılmaz"
+
+msgid "承受切割伤害时，10% 几率反弹 50% 伤害给攻击者。"
+msgstr ""
+"Kesme hasarı aldığında, %10 olasılıkla hasarın %50'sini saldırgana geri "
+"yansıtır."
+
+msgid "邪恶的"
+msgstr "Kötü"
+
+msgid "钓鱼速度提升 15%，但 10% 概率什么也不获得。"
+msgstr ""
+"Balıkçılık hızı %15 artar, ancak %10 olasılıkla hiçbir şey elde edilmez."
+
+msgid "难以置信的"
+msgstr "İnanılmaz"
+
+msgid "砍树时，5% 的概率获得 1 木炭。"
+msgstr "Ağaç keserken, %5 olasılıkla 1 kömür elde edilir."
+
+msgid "搞点货"
+msgstr "Biraz Mal Getir"
+
+msgid "获得的战斗经验降低 30%，但将这部分的 50% 均分给所有非战斗技能。"
+msgstr ""
+"Elde edilen savaş deneyimi %30 azalır, ancak bu kısmın %50'si tüm savaş dışı "
+"becerilere eşit olarak dağıtılır."
+
+msgid "空间管理"
+msgstr "Alan Yönetimi"
+
+msgid "背包格子每空出一格，获得 0.2% 的全局伤害加成；每占用一格，获得 0.2% 的全局减伤。"
+msgstr ""
+"Sırt çantası yuvası boşaldıkça, küresel hasar artışı %0.2 elde edilir; her "
+"dolu yuva için, küresel hasar azaltma %0.2 elde edilir."
+
+msgid "麻烦的"
+msgstr "Sorunlu"
+
+msgid "战斗奖励不会再掉落金币，会选择其他掉落物作为替代。"
+msgstr ""
+"Savaş ödülleri artık altın düşürmeyecek, bunun yerine diğer düşürme eşyaları "
+"seçilecek."
+
+msgid "一心二用的"
+msgstr "Çoklu Görev"
+
+msgid "佩戴并战斗时，考古的速度提升 10%。"
+msgstr "Takılıyken ve savaşırken, arkeoloji hızı %10 artar."
+
+msgid "底子很好的"
+msgstr "Temeli Çok İyi"
+
+msgid "攻击间隔每有 2s，最终伤害 +10%。"
+msgstr "Saldırı aralığı her 2 saniyede, nihai hasar +%10."
+
+msgid "主角般的"
+msgstr "Ana Karakter Gibi"
+
+msgid "敌人对你的命中率提升 20%，但作为回报，敌人掉落稀有物品的概率提升 1.5 倍。"
+msgstr ""
+"Düşmanların sana isabet oranı %20 artar, ancak karşılığında düşmanların nadir "
+"eşya düşürme olasılığı 1.5 kat artar."
+
+msgid "形容词的"
+msgstr "Sıfat"
+
+msgid "你的命中率降低 20%，但你的所有技能的产出倍率增加 10%。"
+msgstr ""
+"Senin isabet oranın %20 düşer, ancak tüm becerilerinin üretim çarpanı %10 "
+"artar."
+
+msgid "哈哈哈"
+msgstr "Ha Ha Ha"
+
+msgid "训练技能时有 10% 概率播放哈哈的笑声。"
+msgstr "Becerileri eğitirken %10 olasılıkla ha ha ha kahkahası çalar."
+
+msgid "Shift+Tab"
+msgstr "Shift+Tab"
+
+msgid "佩戴时，每次打开 Steam 覆盖层 +1 金币。"
+msgstr "Takılıyken, her Steam örtüsü açılışında +1 altın."
+
+msgid "基础健康药水"
+msgstr "Temel Sağlık İksiri"
+
+msgid "基础战斗经验药水"
+msgstr "Temel Savaş Deneyimi İksiri"
+
+msgid "基础拾取药水"
+msgstr "Temel Toplama İksiri"
+
+msgid "基础采集速度药水"
+msgstr "Temel Toplama Hızı İksiri"
+
+msgid "基础采集经验药水"
+msgstr "Temel Toplama Deneyimi İksiri"
+
+msgid "基础采集产量药水"
+msgstr "Temel Toplama Verimi İksiri"
+
+msgid "基础制造速度药水"
+msgstr "Temel Üretim Hızı İksiri"
+
+msgid "基础多件制造药水"
+msgstr "Temel Çoklu Üretim İksiri"
+
+msgid "基础制造经验药水"
+msgstr "Temel Üretim Deneyimi İksiri"
+
+msgid "常规健康药水"
+msgstr "Olağan Sağlık İksiri"
+
+msgid "常规战斗经验药水"
+msgstr "Düzenli Savaş Deneyimi İksiri"
+
+msgid "常规拾取药水"
+msgstr "Düzenli Toplama İksiri"
+
+msgid "常规采集速度药水"
+msgstr "Düzenli Toplama Hızı İksiri"
+
+msgid "常规采集经验药水"
+msgstr "Düzenli Toplama Deneyimi İksiri"
+
+msgid "常规采集产量药水"
+msgstr "Düzenli Toplama Verimi İksiri"
+
+msgid "常规制造速度药水"
+msgstr "Düzenli Üretim Hızı İksiri"
+
+msgid "常规多件制造药水"
+msgstr "Düzenli Çoklu Üretim İksiri"
+
+msgid "常规制造经验药水"
+msgstr "Düzenli Üretim Deneyimi İksiri"
+
+msgid "高级健康药水"
+msgstr "İleri Sağlık İksiri"
+
+msgid "高级战斗经验药水"
+msgstr "İleri Savaş Deneyimi İksiri"
+
+msgid "高级拾取药水"
+msgstr "İleri Toplama İksiri"
+
+msgid "高级采集速度药水"
+msgstr "İleri Toplama Hızı İksiri"
+
+msgid "高级采集经验药水"
+msgstr "İleri Toplama Deneyimi İksiri"
+
+msgid "高级采集产量药水"
+msgstr "İleri Toplama Verimi İksiri"
+
+msgid "高级制造速度药水"
+msgstr "İleri Üretim Hızı İksiri"
+
+msgid "高级多件制造药水"
+msgstr "İleri Çoklu Üretim İksiri"
+
+msgid "高级制造经验药水"
+msgstr "İleri Üretim Deneyimi İksiri"
+
+msgid "超级健康药水"
+msgstr "Süper Sağlık İksiri"
+
+msgid "超级战斗经验药水"
+msgstr "Süper Savaş Deneyimi İksiri"
+
+msgid "超级拾取药水"
+msgstr "Süper Toplama İksiri"
+
+msgid "超级采集速度药水"
+msgstr "Süper Toplama Hız İksiri"
+
+msgid "超级采集经验药水"
+msgstr "Süper Toplama Deneyim İksiri"
+
+msgid "超级采集产量药水"
+msgstr "Süper Toplama Verim İksiri"
+
+msgid "超级制造速度药水"
+msgstr "Süper Üretim Hız İksiri"
+
+msgid "超级多件制造药水"
+msgstr "Süper Çoklu Üretim İksiri"
+
+msgid "超级制造经验药水"
+msgstr "Süper Üretim Deneyim İksiri"
+
+msgid "老洞穴"
+msgstr "Eski Mağara"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "泡菜厂"
+msgstr "Turşu Fabrikası"
+
+msgid "老学校"
+msgstr "Eski Okul"
+
+msgid "大香蕉"
+msgstr "Büyük Muz"
+
+msgid "藏身处"
+msgstr "Sığınak"
+
+msgid "木地"
+msgstr "Tahta Zemin"
+
+msgid "龙虾巢穴"
+msgstr "Istakoz Yuvası"
+
+msgid "ocean"
+msgstr "Okyanus"
+
+msgid "深海洞窟"
+msgstr "Derin Deniz Mağarası"
+
+msgid "黏黏洞窟"
+msgstr "Yapışkan Mağara"
+
+msgid "决斗洞窟"
+msgstr "Düello Mağarası"
+
+msgid "海底坟墓"
+msgstr "Deniz Altı Mezarı"
+
+msgid "海底大坑"
+msgstr "Deniz Altı Çukuru"
+
+msgid "神秘小路"
+msgstr "Gizemli Yol"
+
+msgid "海底皇宫"
+msgstr "Deniz Altı Sarayı"
+
+msgid "危险黏黏洞窟"
+msgstr "Tehlikeli Yapışkan Mağara"
+
+msgid "elite"
+msgstr "Elit"
+
+msgid "危险决斗洞窟"
+msgstr "Tehlikeli Düello Mağarası"
+
+msgid "危险海底坟墓"
+msgstr "Tehlikeli Deniz Altı Mezarı"
+
+msgid "危险海底大坑"
+msgstr "Tehlikeli Deniz Altı Çukuru"
+
+msgid "危险海底小路"
+msgstr "Tehlikeli Deniz Altı Yolu"
+
+msgid "危险海底皇宫"
+msgstr "Tehlikeli Deniz Altı Sarayı"
+
+msgid "墓地"
+msgstr "Mezarlık"
+
+msgid "mountain"
+msgstr "Dağ"
+
+msgid "蛇蛇巢穴"
+msgstr "Yılan Yuvası"
+
+msgid "下水道"
+msgstr "Kanalizasyon"
+
+msgid "外星基地"
+msgstr "Uzaylı Üssü"
+
+msgid "大象巢穴"
+msgstr "Fil Yuvası"
+
+msgid "野人小屋"
+msgstr "Vahşi Kulübesi"
+
+msgid "地狱"
+msgstr "Cehennem"
+
+msgid "邪恶国度"
+msgstr "Kötülük Diyarı"
+
+msgid "危险下水道"
+msgstr "Tehlikeli Kanalizasyon"
+
+msgid "危险外星基地"
+msgstr "Tehlikeli Uzaylı Üssü"
+
+msgid "危险大象巢穴"
+msgstr "Tehlikeli Fil Yuvası"
+
+msgid "危险野人小屋"
+msgstr "Tehlikeli Vahşi Kulübesi"
+
+msgid "危险地狱"
+msgstr "Tehlikeli Cehennem"
+
+msgid "危险邪恶国度"
+msgstr "Tehlikeli Kötülük Diyarı"
+
+msgid "螃蟹巢穴"
+msgstr "Yengeç Yuvası"
+
+msgid "forest"
+msgstr "Orman"
+
+msgid "种植园"
+msgstr "Plantasyon"
+
+msgid "鸡圈"
+msgstr "Tavuk Kümesi"
+
+msgid "蜘蛛巢穴"
+msgstr "Örümcek Yuvası"
+
+msgid "蜂巢"
+msgstr "Arı Kovanı"
+
+msgid "开心乐园"
+msgstr "Eğlence Parkı"
+
+msgid "城堡"
+msgstr "Kale"
+
+msgid "魔法城堡"
+msgstr "Büyülü Kale"
+
+msgid "危险鸡圈"
+msgstr "Tehlikeli Tavuk Kümesi"
+
+msgid "危险蜘蛛巢穴"
+msgstr "Tehlikeli Örümcek Yuvası"
+
+msgid "危险蜂巢"
+msgstr "Tehlikeli Arı Kovanı"
+
+msgid "危险开心乐园"
+msgstr "Tehlikeli Eğlence Parkı"
+
+msgid "危险城堡"
+msgstr "Tehlikeli Kale"
+
+msgid "危险魔法城堡"
+msgstr "Tehlikeli Büyülü Kale"
+
+msgid "village"
+msgstr "Köy"
+
+msgid "优质三文鱼"
+msgstr "Kaliteli Somon"
+
+msgid "outskirts"
+msgstr "Kenar Bölgeler"
+
+msgid "优质鲈鱼"
+msgstr "Kaliteli Levrek"
+
+msgid "优质罗非鱼"
+msgstr "Kaliteli Tilapia"
+
+msgid "优质鲭鱼"
+msgstr "Kaliteli Uskumru"
+
+msgid "优质沙丁鱼"
+msgstr "Kaliteli Sardalya"
+
+msgid "优质鲱鱼"
+msgstr "Kaliteli Hamsi"
+
+msgid "铜矿脉"
+msgstr "Bakır Damarı"
+
+msgid "银矿脉"
+msgstr "Gümüş Damarı"
+
+msgid "金矿脉"
+msgstr "Altın Damarı"
+
+msgid "霜冻矿脉"
+msgstr "Buz Damarı"
+
+msgid "翡翠矿脉"
+msgstr "Zümrüt Damarı"
+
+msgid "熔岩矿脉"
+msgstr "Lav Damarı"
+
+msgid "星辰矿脉"
+msgstr "Yıldız Damarı"
+
+msgid "彩虹矿脉"
+msgstr "Gökkuşağı Damarı"
+
+msgid "优质金矿脉"
+msgstr "Kaliteli Altın Madeni"
+
+msgid "优质霜冻矿脉"
+msgstr "Kaliteli Donmuş Madeni"
+
+msgid "优质翡翠矿脉"
+msgstr "Kaliteli Yeşim Madeni"
+
+msgid "优质熔岩矿脉"
+msgstr "Kaliteli Lav Madeni"
+
+msgid "优质星辰矿脉"
+msgstr "Kaliteli Yıldız Madeni"
+
+msgid "优质彩虹矿脉"
+msgstr "Kaliteli Gökkuşağı Madeni"
+
+msgid "松树"
+msgstr "Çam Ağacı"
+
+msgid "云杉树"
+msgstr "Ladin Ağacı"
+
+msgid "桦树"
+msgstr "Huş Ağacı"
+
+msgid "柚木树"
+msgstr "Teak Ağacı"
+
+msgid "桃花心木树"
+msgstr "Mahagoni Ağacı"
+
+msgid "铁皮树"
+msgstr "Demir Kabuklu Ağaç"
+
+msgid "红木树"
+msgstr "Kızıl Ağaç"
+
+msgid "古树"
+msgstr "Antik Ağaç"
+
+msgid "优质桦树"
+msgstr "Kaliteli Huş Ağacı"
+
+msgid "优质柚木树"
+msgstr "Kaliteli Teak Ağacı"
+
+msgid "优质桃花心木树"
+msgstr "Kaliteli Mahagoni Ağacı"
+
+msgid "优质铁皮树"
+msgstr "Kaliteli Demir Kabuklu Ağaç"
+
+msgid "优质红木树"
+msgstr "Kaliteli Kızıl Ağaç"
+
+msgid "优质古树"
+msgstr "Kaliteli Antik Ağaç"
+
+msgid "ores"
+msgstr "cevherler"
+
+msgid "gems"
+msgstr "mücevherler"
+
+msgid "月亮宝石精华"
+msgstr "Ay Mücevher Özü"
+
+msgid "水晶宝石精华"
+msgstr "Kristal Mücevher Özü"
+
+msgid "星星宝石精华"
+msgstr "Yıldız Mücevher Özü"
+
+msgid "玛瑙宝石精华"
+msgstr "Agaç Mücevher Özü"
+
+msgid "彩虹宝石精华"
+msgstr "Gökkuşağı Mücevher Özü"
+
+msgid "flower"
+msgstr "çiçek"
+
+msgid "vegetable"
+msgstr "sebze"
+
+msgid "basics"
+msgstr "temel"
+
+msgid "regular"
+msgstr "düzenli"
+
+msgid "advance"
+msgstr "ileri"
+
+msgid "hyper"
+msgstr "hiper"
+
+msgid "cuisine"
+msgstr "mutfak"
+
+msgid "good_cuisine"
+msgstr "iyi mutfak"
+
+msgid "猪猪"
+msgstr "domuz"
+
+msgid "小鸡"
+msgstr "tavuk"
+
+msgid "鹅鹅"
+msgstr "kaz"
+
+msgid "羊羊"
+msgstr "koyun"
+
+msgid "狼狼"
+msgstr "kurt"
+
+msgid "乌龟"
+msgstr "Kaplumbağa"
+
+msgid "猫猫"
+msgstr "Kedi"
+
+msgid "螃蟹"
+msgstr "Yengeç"
+
+msgid "蓝皮猪猪"
+msgstr "Mavi Derili Domuz"
+
+msgid "blue_skin"
+msgstr "Mavi Deri"
+
+msgid "蓝皮小鸡"
+msgstr "Mavi Derili Civciv"
+
+msgid "蓝皮鹅鹅"
+msgstr "Mavi Derili Kaz"
+
+msgid "蓝皮羊羊"
+msgstr "Mavi Derili Koyun"
+
+msgid "蓝皮狼狼"
+msgstr "Mavi Derili Kurt"
+
+msgid "蓝皮乌龟"
+msgstr "Mavi Derili Kaplumbağa"
+
+msgid "蓝皮猫猫"
+msgstr "Mavi Derili Kedi"
+
+msgid "蓝皮螃蟹"
+msgstr "Mavi Derili Yengeç"
+
+msgid "map_crafting"
+msgstr "Harita Yapımı"
+
+msgid "copper"
+msgstr "Bakır"
+
+msgid "armor"
+msgstr "Zırh"
+
+msgid "tool"
+msgstr "Alet"
+
+msgid "铜铲子"
+msgstr "Bakır Kürek"
+
+msgid "铜斧头"
+msgstr "Bakır Balta"
+
+msgid "weapons"
+msgstr "Silahlar"
+
+msgid "铜弓"
+msgstr "Bakır Yay"
+
+msgid "accessories"
+msgstr "Aksesuarlar"
+
+msgid "silver"
+msgstr "Gümüş"
+
+msgid "银铲子"
+msgstr "Gümüş Kürek"
+
+msgid "银斧头"
+msgstr "Gümüş Balta"
+
+msgid "银弓"
+msgstr "Gümüş Yay"
+
+msgid "gold"
+msgstr "Altın"
+
+msgid "黄金披风"
+msgstr "Altın Pelerin"
+
+msgid "金铲子"
+msgstr "Altın Kürek"
+
+msgid "金斧头"
+msgstr "Altın Balta"
+
+msgid "金弓"
+msgstr "Altın Yay"
+
+msgid "frost"
+msgstr "Buz"
+
+msgid "霜冻铲子"
+msgstr "Buzlu Kürek"
+
+msgid "霜冻斧头"
+msgstr "Buzlu Balta"
+
+msgid "霜冻弓"
+msgstr "Buzlu Yay"
+
+msgid "jade"
+msgstr "Yeşim"
+
+msgid "翡翠铲子"
+msgstr "Yeşim Kürek"
+
+msgid "翡翠斧头"
+msgstr "Yeşim Balta"
+
+msgid "翡翠弓"
+msgstr "Yeşim Yay"
+
+msgid "molten"
+msgstr "Erime"
+
+msgid "熔岩铲子"
+msgstr "Lav Kürek"
+
+msgid "熔岩斧头"
+msgstr "Lav Baltası"
+
+msgid "熔岩弓"
+msgstr "Lav Yay"
+
+msgid "stellar"
+msgstr "Yıldız"
+
+msgid "星辰铲子"
+msgstr "Yıldız Kürek"
+
+msgid "星辰斧头"
+msgstr "Yıldız Baltası"
+
+msgid "星辰弓"
+msgstr "Yıldız Yay"
+
+msgid "rainbow"
+msgstr "Gökkuşağı"
+
+msgid "彩虹铲子"
+msgstr "Gökkuşağı Kürek"
+
+msgid "彩虹斧头"
+msgstr "Gökkuşağı Baltası"
+
+msgid "彩虹弓"
+msgstr "Gökkuşağı Yay"
+
+msgid "伐木"
+msgstr "Ağaç Kesme"
+
+msgid ""
+"主要产出：原木、水果\n"
+"\n"
+"用途：\n"
+"- 原木 → 转化为炭（冶炼、烹饪所需）\n"
+"- 原木 → 建造社区基础设施\n"
+"- 水果 → 转化为肥料（农业所需）\n"
+"\n"
+"技能加成：每级 +0.25% 伐木效率（提供立即完成行动的概率）\n"
+"核心工具：斧头（提高伐木速度）"
+msgstr ""
+"Ana Çıktılar: Kereste, Meyve\n"
+"\n"
+"Kullanım:\n"
+"- Kereste → Kömüre dönüştürülür (dökümhane, pişirme için)\n"
+"- Kereste → Topluluk altyapısı inşa edilir\n"
+"- Meyve → Gübreye dönüştürülür (tarım için)\n"
+"\n"
+"Beceri Artışı: Her seviye +0.25% ağaç kesme verimliliği (hemen tamamlama "
+"olasılığı sağlar)\n"
+"Ana Araç: Baltası (ağaç kesme hızını artırır)"
+
+msgid "采矿"
+msgstr "Madencilik"
+
+msgid ""
+"主要产出：矿石、宝石\n"
+"\n"
+"用途：\n"
+"- 矿石 → 冶炼成锭\n"
+"- 宝石 → 冶炼成宝石精华\n"
+"\n"
+"技能加成：每级 +0.25% 采矿效率（提供立即完成行动的概率）\n"
+"核心工具：镐子（提高采矿速度）"
+msgstr ""
+"Ana Çıktılar: Cevher, Mücevher\n"
+"\n"
+"Kullanım:\n"
+"- Cevher → Dökümhane'de külçeye dönüştürülür\n"
+"- Mücevher → Dökümhane'de mücevher özüne dönüştürülür\n"
+"\n"
+"Beceri Artışı: Her seviye +0.25% madencilik verimliliği (hemen tamamlama "
+"olasılığı sağlar)\n"
+"Ana Araç: Kazma (madencilik hızını artırır)"
+
+msgid "冶炼"
+msgstr "Dökümhane"
+
+msgid ""
+"制作内容：\n"
+"- 矿石 + 炭 → 锭\n"
+"- 宝石 + 炭 → 宝石精华\n"
+"\n"
+"用途：\n"
+"- 锭和宝石精华 → 锻造武器、工具、盔甲、饰品\n"
+"- 锭和宝石精华 → 建造社区基础设施\n"
+"\n"
+"技能加成：每级 +0.25% 冶炼效率（提供立即完成行动的概率）\n"
+"核心建筑：熔炉（提高冶炼速度）"
+msgstr ""
+"Üretim İçeriği:\n"
+"- Cevher + Kömür → Külçe\n"
+"- Mücevher + Kömür → Mücevher Özü\n"
+"\n"
+"Kullanım:\n"
+"- Külçe ve Mücevher Özü → Silah, alet, zırh, takı dövme\n"
+"- Külçe ve Mücevher Özü → Topluluk altyapısı inşa edilir\n"
+"\n"
+"Beceri Artışı: Her seviye +0.25% dökümhane verimliliği (hemen tamamlama "
+"olasılığı sağlar)\n"
+"Ana Bina: Fırın (dökümhane hızını artırır)"
+
+msgid "锻造"
+msgstr "Dövme"
+
+msgid ""
+"制作内容：武器、工具、盔甲、饰品\n"
+"所需材料：锭、宝石精华\n"
+"技能加成：每级 +0.25% 锻造效率（提供立即完成行动的概率）\n"
+"核心建筑：铁砧（提高锻造速度）"
+msgstr ""
+"Üretim İçeriği: Silah, alet, zırh, takı\n"
+"Gerekli Malzemeler: Külçe, Mücevher Özü\n"
+"Beceri Artışı: Her seviye +0.25% dövme verimliliği (hemen tamamlama olasılığı "
+"sağlar)\n"
+"Ana Bina: Örs (dövme hızını artırır)"
+
+msgid "农业"
+msgstr "Tarım"
+
+msgid ""
+"主要产出：鲜花、蔬菜\n"
+"\n"
+"用途：\n"
+"- 鲜花 → 炼金术制作药水\n"
+"- 蔬菜 → 烹饪豪华料理（战斗治疗）\n"
+"\n"
+"所需材料：\n"
+"- 种子（商店购买）\n"
+"- 肥料（由水果转化）\n"
+"\n"
+"技能加成：每级 +0.25% 农业效率（提供立即完成行动的概率）\n"
+"核心工具：铲子（提高农业速度）"
+msgstr ""
+"Ana Çıktılar: Çiçek, Sebze\n"
+"\n"
+"Kullanım:\n"
+"- Çiçek → Simya iksir yapımı\n"
+"- Sebze → Lüks yemek pişirme (savaş iyileşmesi)\n"
+"\n"
+"Gerekli Malzemeler:\n"
+"- Tohum (mağazadan satın alınır)\n"
+"- Gübre (meyveden dönüştürülür)\n"
+"\n"
+"Beceri Artışı: Her seviye +0.25% tarım verimliliği (hemen tamamlama olasılığı "
+"sağlar)\n"
+"Ana Araç: Kürek (tarım hızını artırır)"
+
+msgid "炼金"
+msgstr "Simya"
+
+msgid ""
+"制作内容：各类药水\n"
+"\n"
+"所需材料：\n"
+"- 鲜花（农业）\n"
+"- 骨头（战斗）\n"
+"- 瓶子（商店）\n"
+"\n"
+"药水效果：提供多种增益效果，默认持续 180 秒\n"
+"技能加成：每级 +0.25% 炼金效率（提供立即完成行动的概率）\n"
+"核心建筑：炼金实验室（提高炼金速度）"
+msgstr ""
+"Üretim içeriği: Çeşitli iksirler\n"
+"\n"
+"Gerekli malzemeler:\n"
+"- Çiçekler (Tarım)\n"
+"- Kemikler (Savaş)\n"
+"- Şişeler (Mağaza)\n"
+"\n"
+"İksir etkisi: Varsayılan olarak 180 saniye süren çeşitli fayda etkileri "
+"sağlar\n"
+"Beceri artışı: Her seviye +0.25% simya verimliliği (hemen eylem tamamlama "
+"olasılığı sağlar)\n"
+"Çekirdek bina: Simya laboratuvarı (simya hızını artırır)"
+
+msgid "钓鱼"
+msgstr "Balıkçılık"
+
+msgid ""
+"主要产出：鱼\n"
+"用途：烹饪料理（战斗治疗）\n"
+"技能加成：每级 +0.25% 钓鱼效率（提供立即完成行动的概率）\n"
+"核心工具：鱼竿（提高钓鱼速度）"
+msgstr ""
+"Ana üretim: Balık\n"
+"Kullanım: Yemek pişirme (savaş iyileştirmesi)\n"
+"Beceri artışı: Her seviye +0.25% balıkçılık verimliliği (hemen eylem "
+"tamamlama olasılığı sağlar)\n"
+"Çekirdek alet: Olta (balıkçılık hızını artırır)"
+
+msgid "烹饪"
+msgstr "Yemek Pişirme"
+
+msgid ""
+"制作内容：各类料理\n"
+"所需材料：食材（鱼和蔬菜）+ 炭\n"
+"料理效果：战斗中生命值低于 33% 时自动使用，恢复生命值（冷却时间 15 秒）\n"
+"技能加成：每级 +0.25% 烹饪效率（提供立即完成行动的概率）\n"
+"核心建筑：烹饪锅（提高烹饪速度）"
+msgstr ""
+"Üretim içeriği: Çeşitli yemekler\n"
+"Gerekli malzemeler: Malzemeler (balık ve sebzeler) + Kömür\n"
+"Yemek etkisi: Savaşta can %33'ün altına düştüğünde otomatik olarak "
+"kullanılır, canı geri yükler (15 saniye bekleme süresi)\n"
+"Beceri artışı: Her seviye +0.25% yemek pişirme verimliliği (hemen eylem "
+"tamamlama olasılığı sağlar)\n"
+"Çekirdek bina: Yemek pişirme kazanı (yemek pişirme hızını artırır)"
+
+msgid "狩猎"
+msgstr "Avcılık"
+
+msgid ""
+"主要产出：皮革、墨水、羽毛\n"
+"用途：制作地图（制图技能所需）\n"
+"所需材料：蚯蚓（钓鱼获得）\n"
+"技能加成：每级 +0.25% 狩猎效率（提供立即完成行动的概率）\n"
+"核心工具：陷阱（提高狩猎速度）"
+msgstr ""
+"Ana üretim: Deri, mürekkep, tüyler\n"
+"Kullanım: Harita yapımı (harita becerisi için gerekli)\n"
+"Gerekli malzemeler: Solucan (balıkçılık ile elde edilir)\n"
+"Beceri artışı: Her seviye +0.25% avcılık verimliliği (hemen eylem tamamlama "
+"olasılığı sağlar)\n"
+"Çekirdek alet: Tuzak (avcılık hızını artırır)"
+
+msgid "制图"
+msgstr "Harita Yapımı"
+
+msgid ""
+"制作内容：地图\n"
+"所需材料：皮革、墨水、羽毛\n"
+"\n"
+"用途：\n"
+"- 考古技能消耗品\n"
+"- 挑战精英怪物所需\n"
+"\n"
+"技能加成：每级 +0.25% 制图效率（提供立即完成行动的概率）\n"
+"核心建筑：制图台（提高制图速度）"
+msgstr ""
+"Üretim içeriği: Harita\n"
+"Gerekli malzemeler: Deri, mürekkep, tüyler\n"
+"\n"
+"Kullanım:\n"
+"- Arkeoloji becerisi tüketilebilirleri\n"
+"- Zorlu canavarlar için gerekli\n"
+"\n"
+"Beceri artışı: Her seviye +0.25% harita yapımı verimliliği (hemen eylem "
+"tamamlama olasılığı sağlar)\n"
+"Çekirdek bina: Harita yapım masası (harita yapımı hızını artırır)"
+
+msgid "考古"
+msgstr "Arkeoloji"
+
+msgid ""
+"特殊机制：被动技能，可与其他技能同时进行\n"
+"所需材料：地图\n"
+"主要产出：神器\n"
+"\n"
+"神器系统：\n"
+"- 建造祭坛后可激活神器\n"
+"- 最多同时激活 3 个神器\n"
+"- 激活需要消耗资源\n"
+"\n"
+"加速方式：使用星星加速考古进度"
+msgstr ""
+"Özel mekanizma: Pasif beceri, diğer becerilerle aynı anda "
+"yapılabilir\n"
+"Gerekli malzemeler: Harita\n"
+"Ana üretim: Efsanevi nesneler\n"
+"\n"
+"Efsanevi nesne sistemi:\n"
+"- 'Sunak' inşa edildikten sonra efsanevi nesneler aktif edilebilir\n"
+"- Aynı anda en fazla 3 efsanevi nesne aktif edilebilir\n"
+"- Aktif etmek kaynak tüketir\n"
+"\n"
+"Hızlandırma yöntemi: Yıldız kullanarak arkeoloji ilerlemesini hızlandır"
+
+msgid "单手武器"
+msgstr "Tek El Silahları"
+
+msgid ""
+"武器类型：剑、锤子\n"
+"技能加成：每级 +0.25% 单手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Silah türü: Kılıç, çekiç\n"
+"Beceri artışı: Her seviye +0.25% tek el verimliliği (eğitim sırasında çift "
+"savaş deneyimi ve ganimet olasılığı)\n"
+"\n"
+"İsabet oranı mekanizması:\n"
+"Temel isabet oranı: %75 (seviye uyumlu olduğunda)\n"
+"Her canavar seviyesinden 1 seviye yüksek: +0.5% isabet oranı (üst sınır "
+"%90)\n"
+"Her canavar seviyesinden 1 seviye düşük: -0.5% isabet oranı"
+
+msgid "双手武器"
+msgstr "Çift El Silahları"
+
+msgid ""
+"武器类型：长矛、镰刀\n"
+"技能加成：每级 +0.25% 双手效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Silah türü: Mızrak, tırpan\n"
+"Beceri artışı: Her seviye +0.25% çift el verimliliği (eğitim sırasında çift "
+"savaş deneyimi ve ganimet olasılığı)\n"
+"\n"
+"İsabet oranı mekanizması:\n"
+"Temel isabet oranı: %75 (seviye uyumlu olduğunda)\n"
+"Her canavar seviyesinden 1 seviye yüksek: +0.5% isabet oranı (üst sınır "
+"%90)\n"
+"Her canavar seviyesinden 1 seviye düşük: -0.5% isabet oranı"
+
+msgid "远程武器"
+msgstr "Uzaktan Silahları"
+
+msgid ""
+"武器类型：弓、回旋镖\n"
+"技能加成：每级 +0.25% 远程效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"命中率机制：\n"
+"基础命中率：75%（等级匹配时）\n"
+"每高于怪物 1 级：+0.5% 命中率（上限 90%）\n"
+"每低于怪物 1 级：-0.5% 命中率"
+msgstr ""
+"Silah türü: Yay, boomerang\n"
+"Beceri artışı: Her seviye +0.25% uzaktan verimliliği (eğitim sırasında çift "
+"savaş deneyimi ve ganimet olasılığı)\n"
+"\n"
+"İsabet oranı mekanizması:\n"
+"Temel isabet oranı: %75 (seviye uyumlu olduğunda)\n"
+"Her canavar seviyesinden 1 seviye yüksek: +0.5% isabet oranı (üst sınır "
+"%90)\n"
+"Her canavar seviyesinden 1 seviye düşük: -0.5% isabet oranı"
+
+msgid "防御"
+msgstr "Savunma"
+
+msgid ""
+"技能加成：每级 +0.25% 防御效率（训练时有机会双倍战斗经验和战利品）\n"
+"\n"
+"防御机制：降低怪物命中率\n"
+"每高于怪物 1 级：怪物命中率 -0.5%\n"
+"每低于怪物 1 级：怪物命中率 +0.5%"
+msgstr ""
+"Beceri artışı: Her seviye +0.25% savunma verimliliği (eğitim sırasında çift "
+"savaş deneyimi ve ganimet olasılığı)\n"
+"\n"
+"Savunma mekanizması: Canavar isabet oranını düşürür\n"
+"Her canavar seviyesinden 1 seviye yüksek: Canavar isabet oranı -0.5%\n"
+"Her canavar seviyesinden 1 seviye düşük: Canavar isabet oranı +0.5%"
+
+msgid "把你踹开"
+msgstr "Seni tekmeleyip atacağım"
+
+msgid "他想要"
+msgstr "O istiyor"
+
+msgid "我的号码"
+msgstr "Benim numaram"
+
+msgid "我不给"
+msgstr "Ben vermiyorum"
+
+msgid "对抗纨绔"
+msgstr "Zengin ve şımarıklara karşı"
+
+msgid "美颜参数"
+msgstr "Güzellik parametreleri"
+
+msgid "值得学习"
+msgstr "Öğrenmeye değer"
+
+msgid "说梦话"
+msgstr "Rüya görmek"
+
+msgid "肌肉大"
+msgstr "Kaslı"
+
+msgid "生活总是"
+msgstr "Hayat her zaman"
+
+msgid "太多波折"
+msgstr "Çok fazla engel"
+
+msgid "猫咪"
+msgstr "Kedi"
+
+msgid "张嘴"
+msgstr "Ağzını aç"
+
+msgid "这个地方"
+msgstr "Bu yer"
+
+msgid "傻子太多"
+msgstr "Çok fazla aptal"
+
+msgid "我的生活"
+msgstr "Benim hayatım"
+
+msgid "特别难过"
+msgstr "Çok üzgün"
+
+msgid "希望你"
+msgstr "Umarım sen"
+
+msgid "知道这个"
+msgstr "Bunu biliyor musun"
+
+msgid "我不想"
+msgstr "Ben istemiyorum"
+
+msgid "当小人物"
+msgstr "Küçük adam"
+
+msgid "地下的"
+msgstr "Yeraltı"
+
+msgid "皇帝"
+msgstr "İmparator"
+
+msgid "我想当"
+msgstr "Olmak istiyorum"
+
+msgid "三根一起抽"
+msgstr "Üç tane birlikte çek"
+
+msgid "喝很多水"
+msgstr "Çok su iç"
+
+msgid "和我作对"
+msgstr "Benimle karşı"
+
+msgid "出人头地"
+msgstr "Ün kazan"
+
+msgid "就在今天"
+msgstr "Tam bugün"
+
+msgid "当我看见"
+msgstr "Gördüğümde"
+
+msgid "外国友人"
+msgstr "Yabancı arkadaş"
+
+msgid "我不问好"
+msgstr "Selam vermiyorum"
+
+msgid "因为我太"
+msgstr "Çünkü çok"
+
+msgid "高冷了"
+msgstr "Soğukum"
+
+msgid "质疑我的"
+msgstr "Şüphelenen"
+
+msgid "嘲笑我的"
+msgstr "Alay eden"
+
+msgid "都是一群"
+msgstr "Hepsi bir grup"
+
+msgid "大傻子"
+msgstr "Büyük aptal"
+
+msgid "我就是"
+msgstr "Ben"
+
+msgid "全世界"
+msgstr "Dünya"
+
+msgid "最牛的！"
+msgstr "En havalısı!"
+
+msgid "你的炫耀"
+msgstr "Senin hava atman"
+
+msgid "名牌包包"
+msgstr "Marka çanta"
+
+msgid "名牌手表"
+msgstr "Marka saat"
+
+msgid "说实话"
+msgstr "Doğruyu söylemek gerekirse"
+
+msgid "我不在乎"
+msgstr "Umrumda değil"
+
+msgid "想打败我"
+msgstr "Beni yenmek istiyorsan"
+
+msgid "那你惨了"
+msgstr "O zaman başın belada"
+
+msgid "我需要个"
+msgstr "Bir tane ihtiyacım var"
+
+msgid "赚快钱"
+msgstr "Hızlı para kazanma"
+
+msgid "的方法"
+msgstr "yolu"
+
+msgid "你可以叫我"
+msgstr "Bana çağırabilirsin"
+
+msgid "小帅"
+msgstr "Küçük Yakışıklı"
+
+msgid "面临"
+msgstr "Karşı karşıya"
+
+msgid "指控"
+msgstr "Suçlama"
+
+msgid "从不会"
+msgstr "Asla"
+
+msgid "求神拜佛"
+msgstr "Tanrılara dua etmek"
+
+msgid "我只穿"
+msgstr "Sadece giyerim"
+
+msgid "一次性的"
+msgstr "Tek kullanımlık"
+
+msgid "袜子"
+msgstr "Çorap"
+
+msgid "洗衣服"
+msgstr "Çamaşırları yıkamak"
+
+msgid "太麻烦"
+msgstr "Çok zahmetli"
+
+msgid "她画了"
+msgstr "O boyadı"
+
+msgid "美丽的妆"
+msgstr "Güzel bir makyaj"
+
+msgid "但是她"
+msgstr "Ama o"
+
+msgid "喜欢女的"
+msgstr "Kadınları seviyor"
+
+msgid "我是那个"
+msgstr "Ben o"
+
+msgid "第三者"
+msgstr "Üçüncü şahıs"
+
+msgid "特别伤心"
+msgstr "Çok üzgün"
+
+msgid "我哭了"
+msgstr "Ağladım"
+
+msgid "自给自足者"
+msgstr "Kendi Kendine Yeten"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过200个时，技能速度+20%\n"
+"库存低于50个时，技能速度-12%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 200'den fazlaysa, beceri hızı +20%\n"
+"Envanter 50'den azsa, beceri hızı -12%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过300个时，技能经验倍率+20%\n"
+"库存低于100个时，技能经验倍率-8%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 300'den fazlaysa, beceri deneyimi çarpanı +20%\n"
+"Envanter 100'den azsa, beceri deneyimi çarpanı -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过320个时，技能速度+24%\n"
+"库存低于80个时，技能速度-8%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 320'den fazlaysa, beceri hızı +24%\n"
+"Envanter 80'den azsa, beceri hızı -8%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过420个时，技能经验倍率+24%\n"
+"库存低于140个时，技能经验倍率-6%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 420'den fazlaysa, beceri deneyimi çarpanı +24%\n"
+"Envanter 140'den azsa, beceri deneyimi çarpanı -6%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过500个时，技能速度+30%\n"
+"库存低于180个时，技能速度-4%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 500'den fazlaysa, beceri hızı +30%\n"
+"Envanter 180'den azsa, beceri hızı -4%"
+
+msgid ""
+"执行行动时，对该行动的必掉落物品进行检查：\n"
+"库存超过650个时，技能经验倍率+30%\n"
+"库存低于220个时，技能经验倍率-4%"
+msgstr ""
+"Eylemi gerçekleştirirken, o eylemin zorunlu düşürme eşyasını kontrol "
+"et:\n"
+"Envanter 650'den fazlaysa, beceri deneyimi çarpanı +30%\n"
+"Envanter 220'den azsa, beceri deneyimi çarpanı -4%"
+
+msgid "Z 世代"
+msgstr "Z Kuşağı"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00期间, tüm toplama becerileri hızı +18%.\n"
+"Diğer zamanlarda hız -12%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+18%。\n"
+"其他时间速度-12%"
+msgstr ""
+"22:00–6:00期间, tüm üretim becerileri hızı +18%.\n"
+"Diğer zamanlarda hız -12%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00期间, tüm toplama becerileri hızı +24%.\n"
+"Diğer zamanlarda hız -10%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+24%。\n"
+"其他时间速度-10%"
+msgstr ""
+"22:00–6:00期间, tüm üretim becerileri hızı +24%.\n"
+"Diğer zamanlarda hız -10%"
+
+msgid ""
+"22:00–6:00期间，所有采集技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00期间, tüm toplama becerileri hızı +28%.\n"
+"Diğer zamanlarda hız -8%"
+
+msgid ""
+"22:00–6:00期间，所有制造技能速度+28%。\n"
+"其他时间速度-8%"
+msgstr ""
+"22:00–6:00期间, tüm üretim becerileri hızı +28%.\n"
+"Diğer zamanlarda hız -8%"
+
+msgid "赌徒"
+msgstr "Kumarbaz"
+
+msgid ""
+"任意行动完成时：有13%概率本次产出清零，有13%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-18%。"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %13 olasılıkla bu seferki üretim "
+"sıfırlanır, %13 olasılıkla bu seferki üretim ×3 olur.\n"
+"Ancak toplama, üretim, dövüş becerileri eşya üretimi -18%."
+
+msgid "任意行动完成时：有4%概率本次产出清零，有6%概率本次产出×3"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %4 olasılıkla bu seferki üretim "
+"sıfırlanır, %6 olasılıkla bu seferki üretim ×3 olur"
+
+msgid ""
+"任意行动完成时：有10%概率本次产出清零，有20%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-12%"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %10 olasılıkla bu seferki üretim "
+"sıfırlanır, %20 olasılıkla bu seferki üretim ×3 olur.\n"
+"Ancak toplama, üretim, dövüş becerileri eşya üretimi -12%"
+
+msgid "任意行动完成时：有5%概率本次产出清零，有9%概率本次产出×3"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %5 olasılıkla bu seferki üretim "
+"sıfırlanır, %9 olasılıkla bu seferki üretim ×3 olur"
+
+msgid ""
+"任意行动完成时：有8%概率本次产出清零，有26%概率本次产出×3。\n"
+"但采集、制作、战斗技能物品产出-10%。"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %8 olasılıkla bu seferki üretim "
+"sıfırlanır, %26 olasılıkla bu seferki üretim ×3 olur.\n"
+"Ancak toplama, üretim ve savaş becerileri için eşya üretimi -%10."
+
+msgid "任意行动完成时：有2%概率本次产出清零，有10%概率本次产出×3"
+msgstr ""
+"Herhangi bir eylem tamamlandığında: %2 olasılıkla bu seferki üretim "
+"sıfırlanır, %10 olasılıkla bu seferki üretim ×3 olur."
+
+msgid "番茄钟"
+msgstr "Domates Saati"
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能物品产出累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 10 dakikadan fazla odaklandığında, o beceri için "
+"eşya üretimi kümülatif olarak +%5 artar (üst sınır +%30).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid ""
+"每专注单一制作技能超过10分钟，该技能经验倍率累计+5%（上限+30%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 10 dakikadan fazla odaklandığında, o beceri için "
+"deneyim çarpanı kümülatif olarak +%5 artar (üst sınır +%30).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能物品产出累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 8 dakikadan fazla odaklandığında, o beceri için "
+"eşya üretimi kümülatif olarak +%4 artar (üst sınır +%36).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid ""
+"每专注单一制作技能超过8分钟，该技能经验倍率累计+4%（上限+36%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 8 dakikadan fazla odaklandığında, o beceri için "
+"deneyim çarpanı kümülatif olarak +%4 artar (üst sınır +%36).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能物品产出累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 6 dakikadan fazla odaklandığında, o beceri için "
+"eşya üretimi kümülatif olarak +%4 artar (üst sınır +%48).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid ""
+"每专注单一制作技能超过6分钟，该技能经验倍率累计+4%（上限+48%）。\n"
+"切换制作技能时，累计值重置为0。"
+msgstr ""
+"Tek bir üretim becerisine 6 dakikadan fazla odaklandığında, o beceri için "
+"deneyim çarpanı kümülatif olarak +%4 artar (üst sınır +%48).\n"
+"Üretim becerisini değiştirdiğinde, kümülatif değer 0'a sıfırlanır."
+
+msgid "万岁"
+msgstr "Çok Yaşa"
+
+msgid ""
+"连续击败怪物时，每次累计+2.5%伤害和命中率（上限+25%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Canavarları art arda yenerken, her yenilme ile hasar ve isabet oranı "
+"kümülatif olarak +%2.5 artar (üst sınır +%25).\n"
+"Bir canavar tarafından vurulduğunda, sayaç 0'dan başlar."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+18%、命中率+8%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Her hasar aldığında, bir sonraki saldırı hasarı +%18, isabet oranı +%8 "
+"artar.\n"
+"Ancak maksimum can değeri -%12 düşer."
+
+msgid ""
+"连续击败怪物时，每次累计+3%伤害和命中率（上限+36%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Canavarları art arda yenerken, her yenilme ile hasar ve isabet oranı "
+"kümülatif olarak +%3 artar (üst sınır +%36).\n"
+"Bir canavar tarafından vurulduğunda, sayaç 0'dan başlar."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+24%、命中率+12%。\n"
+"但最大生命值-12%。"
+msgstr ""
+"Her hasar aldığında, bir sonraki saldırı hasarı +%24, isabet oranı +%12 "
+"artar.\n"
+"Ancak maksimum can değeri -%12 düşer."
+
+msgid ""
+"连续击败怪物时，每次累计+3.5%伤害和命中率（上限+45%）。\n"
+"一旦被怪物击中，从0计数。"
+msgstr ""
+"Canavarları art arda yenerken, her yenilme ile hasar ve isabet oranı "
+"kümülatif olarak +%3.5 artar (üst sınır +%45).\n"
+"Bir canavar tarafından vurulduğunda, sayaç 0'dan başlar."
+
+msgid ""
+"每次受到伤害后，下一次攻击伤害+30%、命中率+15%。\n"
+"但最大生命值-10%。"
+msgstr ""
+"Her hasar aldığında, bir sonraki saldırı hasarı +%30, isabet oranı +%15 "
+"artar.\n"
+"Ancak maksimum can değeri -%10 düşer."
+
+msgid "伐木菜鸟"
+msgstr "Oduncu Çaylak"
+
+msgid "挖掘菜鸟"
+msgstr "Kazıcı Çaylak"
+
+msgid "冶炼菜鸟"
+msgstr "Dökümcü Çaylak"
+
+msgid "锻造菜鸟"
+msgstr "Demirci Çaylak"
+
+msgid "种地菜鸟"
+msgstr "Çiftçi Çaylak"
+
+msgid "炼金菜鸟"
+msgstr "Simyacı Çaylak"
+
+msgid "钓鱼菜鸟"
+msgstr "Balıkçı Çaylak"
+
+msgid "烹饪菜鸟"
+msgstr "Aşçı Çaylak"
+
+msgid "狩猎菜鸟"
+msgstr "Avcı Çaylak"
+
+msgid "制图菜鸟"
+msgstr "Haritacı Çaylak"
+
+msgid "考古菜鸟"
+msgstr "Arkeolog Çaylak"
+
+msgid "单手武器菜鸟"
+msgstr "Tek El Silah Çaylak"
+
+msgid "双手武器菜鸟"
+msgstr "Çift El Silah Çaylak"
+
+msgid "远程武器菜鸟"
+msgstr "Uzaktan Silah Çaylak"
+
+msgid "防御菜鸟"
+msgstr "Savunma Çaylak"
+
+msgid "伐木高手"
+msgstr "Oduncu Usta"
+
+msgid "挖掘高手"
+msgstr "Kazıcı Usta"
+
+msgid "冶炼高手"
+msgstr "Dökümcü Usta"
+
+msgid "锻造高手"
+msgstr "Demirci Usta"
+
+msgid "种地高手"
+msgstr "Çiftçi Usta"
+
+msgid "炼金高手"
+msgstr "Usta Simyacı"
+
+msgid "钓鱼高手"
+msgstr "Usta Balıkçı"
+
+msgid "烹饪高手"
+msgstr "Usta Aşçı"
+
+msgid "狩猎高手"
+msgstr "Usta Avcı"
+
+msgid "制图高手"
+msgstr "Usta Haritacı"
+
+msgid "考古高手"
+msgstr "Usta Arkeolog"
+
+msgid "单手武器高手"
+msgstr "Tek El Silah Ustası"
+
+msgid "双手武器高手"
+msgstr "Çift El Silah Ustası"
+
+msgid "远程武器高手"
+msgstr "Uzak Mesafe Silah Ustası"
+
+msgid "防御高手"
+msgstr "Savunma Ustası"
+
+msgid "伐木大王"
+msgstr "Oduncu Kralı"
+
+msgid "挖掘大王"
+msgstr "Kazı Kralı"
+
+msgid "冶炼大王"
+msgstr "Eritme Kralı"
+
+msgid "锻造大王"
+msgstr "Dövme Kralı"
+
+msgid "种地大王"
+msgstr "Tarım Kralı"
+
+msgid "炼金大王"
+msgstr "Simya Kralı"
+
+msgid "钓鱼大王"
+msgstr "Balıkçılık Kralı"
+
+msgid "烹饪大王"
+msgstr "Aşçılık Kralı"
+
+msgid "狩猎大王"
+msgstr "Avcılık Kralı"
+
+msgid "制图大王"
+msgstr "Haritacılık Kralı"
+
+msgid "考古大王"
+msgstr "Arkeoloji Kralı"
+
+msgid "单手武器大王"
+msgstr "Tek El Kralı"
+
+msgid "双手武器大王"
+msgstr "Çift El Kralı"
+
+msgid "远程武器大王"
+msgstr "Uzaktan Saldırı Kralı"
+
+msgid "防御大王"
+msgstr "Savunma Kralı"
+
+msgid "Tutorial"
+msgstr "Öğretici"
+
+msgid "Loadout"
+msgstr "Ekipman"
+
+msgid "Character"
+msgstr "Karakter"
+
+msgid "Inventory"
+msgstr "Envanter"
+
+msgid "Journey"
+msgstr "Yolculuk"
+
+msgid "Quests"
+msgstr "Görevler"
+
+msgid "Community"
+msgstr "Topluluk"
+
+msgid "Cheat"
+msgstr "Hile"
+
+msgid "Dev"
+msgstr "Geliştirici"
+
+msgid "Shop"
+msgstr "Mağaza"
+
+msgid "StarStore"
+msgstr "Yıldız Mağazası"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Codex"
+msgstr "Ansiklopedi"
+
+msgid "Leaderboard"
+msgstr "Sıralama Tablosu"
+
+msgid "Achievements"
+msgstr "Başarılar"
+
+msgid "Talents"
+msgstr "Yetenekler"
+
+msgid "Traits"
+msgstr "Özellikler"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Skills"
+msgstr "Beceriler"
+
+msgid "Start"
+msgstr "Başla"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "Skill unlocked: {0}"
+msgstr "Beceri açıldı: {0}"
+
+msgid "Ad Opportunity"
+msgstr "Reklam Fırsatı"
+
+msgid "Ad Opportunity Dialog Desc"
+msgstr "Reklam Fırsatı Açıklaması"
+
+msgid "Ad Opportunity Finished"
+msgstr "Reklam Fırsatı Tamamlandı"
+
+msgid "Ad Failed"
+msgstr "Reklam Başarısız Oldu"
+
+msgid "Activated Modifiers"
+msgstr "Aktif Değiştiriciler"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Bankrupted"
+msgstr "İflas Edildi"
+
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+msgid "Decline"
+msgstr "Reddet"
+
+msgid "Accept"
+msgstr "Kabul Et"
+
+msgid "Skills Total Level"
+msgstr "Beceriler Toplam Seviye"
+
+msgid "Formater"
+msgstr "Şekillendirici"
+
+msgid "✦ First selection is free"
+msgstr "✦ İlk seçim ücretsiz"
+
+msgid "Switch cooldown: {0}"
+msgstr "Değiştirme bekleme süresi: {0}"
+
+msgid "● ACTIVE"
+msgstr "● AKTİF"
+
+msgid "Details"
+msgstr "Detaylar"
+
+msgid "Inspect"
+msgstr "İncele"
+
+msgid "← Back"
+msgstr "← Geri"
+
+msgid "● ACTIVE TRAIT"
+msgstr "● AKTİF ÖZELLİK"
+
+msgid "Selected"
+msgstr "Seçili"
+
+msgid "Switch  (1× Formater)"
+msgstr "Değiştir (1× Biçimlendirici)"
+
+msgid "Select"
+msgstr "Seç"
+
+msgid "Reach total skill level {0} to unlock this perk slot.  (Currently: {1})"
+msgstr ""
+"Bu avantaj yuvasını açmak için toplam beceri seviyesine ulaşın {0}. (Şu anki: "
+"{1})"
+
+msgid "Changing perk costs 1× Formater"
+msgstr "Avantaj değiştirmek 1× Biçimlendirici gerektirir"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Buy"
+msgstr "Satın Al"
+
+msgid "Watch {0} Ad for {1}?"
+msgstr "{1} için {0} Reklam izlensin mi?"
+
+msgid "Spend {0} stars for {1}?"
+msgstr "{1} için {0} yıldız harcansın mı?"
+
+msgid "Success"
+msgstr "Başarılı"
+
+msgid "Successfully purchased %s"
+msgstr "%s başarıyla satın alındı"
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "Failed to purchase %s"
+msgstr "%s satın alınamadı"
+
+msgid "Consumes"
+msgstr "Tüketir"
+
+msgid "Drops"
+msgstr "Düşürür"
+
+msgid "Loot"
+msgstr "Ganimet"
+
+msgid "Props"
+msgstr "Eşyalar"
+
+msgid "Auto Equip"
+msgstr "Otomatik Kuşan"
+
+msgid "Actions"
+msgstr "Eylemler"
+
+msgid "Speedup 10 mins: 1 star"
+msgstr "Hızlandır 10 dk: 1 yıldız"
+
+msgid "Dungeon: {0} - {1} Waves"
+msgstr "Zindan: {0} - {1} Dalga"
+
+msgid "Last wave is BOSS!"
+msgstr "Son dalga bir BOSS!"
+
+msgid "Monster Pool:"
+msgstr "Canavar Havuzu:"
+
+msgid "Equipped"
+msgstr "Kuşanılmış"
+
+msgid "No Prop Selected"
+msgstr "Özellik Seçilmedi"
+
+msgid "Item is not a prop"
+msgstr "Öğe bir özellik değil"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "Amount"
+msgstr "Miktar"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Not enough coins"
+msgstr "Yeterli para yok"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Game Version"
+msgstr "Oyun Versiyonu"
+
+msgid "Theme Preference"
+msgstr "Tema Tercihi"
+
+msgid "Theme Style"
+msgstr "Tema Stili"
+
+msgid "Seed Color"
+msgstr "Tohum Rengi"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "UI Scale"
+msgstr "Arayüz Ölçeği"
+
+msgid "Scale: {0}"
+msgstr "Ölçek: {0}"
+
+msgid "Sound Volume"
+msgstr "Ses Seviyesi"
+
+msgid "Volume: {0}"
+msgstr "Seviye: {0}"
+
+msgid "Music Volume"
+msgstr "Müzik Seviyesi"
+
+msgid "Confirm"
+msgstr "Onayla"
+
+msgid "Stock"
+msgstr "Stok"
+
+msgid "Materials"
+msgstr "Malzemeler"
+
+msgid "Empty"
+msgstr "Boş"
+
+msgid "Item"
+msgstr "Eşya"
+
+msgid "Select a material"
+msgstr "Bir malzeme seçin"
+
+msgid "Not enough materials"
+msgstr "Yeterli malzeme yok"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Quest"
+msgstr "Görev"
+
+msgid "Rewards"
+msgstr "Ödüller"
+
+msgid "Claim Reward"
+msgstr "Ödülü Al"
+
+msgid "Reward Claimed"
+msgstr "Ödül Alındı"
+
+msgid "In Progress"
+msgstr "Devam Ediyor"
+
+msgid "Daily Quests"
+msgstr "Günlük Görevler"
+
+msgid "Requirements"
+msgstr "Gereksinimler"
+
+msgid "Saving..."
+msgstr "Kaydediliyor..."
+
+msgid "Saved"
+msgstr "Kaydedildi"
+
+msgid "Creating save"
+msgstr "Kayıt oluşturuluyor"
+
+msgid "Deleting save"
+msgstr "Kayıt siliniyor"
+
+msgid "Entering save"
+msgstr "Kayda giriliyor"
+
+msgid "Refreshing"
+msgstr "Yenileniyor"
+
+msgid "Syncing cloud"
+msgstr "Bulut senkronize ediliyor"
+
+msgid "New save"
+msgstr "Yeni kayıt"
+
+msgid "No modified time"
+msgstr "Değiştirilme zamanı yok"
+
+msgid "Character name"
+msgstr "Karakter adı"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Saves"
+msgstr "Kayıtlar"
+
+msgid "Delete save"
+msgstr "Kaydı sil"
+
+msgid "Delete {0} ?"
+msgstr "{0} silinsin mi?"
+
+msgid "Onboarding"
+msgstr "Başlangıç"
+
+msgid "Total Mastery"
+msgstr "Toplam Ustalık"
+
+msgid "{0} mastered"
+msgstr "{0} ustalaşıldı"
+
+msgid "Progress Rank"
+msgstr "İlerleme Sıralaması"
+
+msgid "Collect items to start"
+msgstr "Başlamak için eşyaları topla"
+
+msgid "Mastery Level"
+msgstr "Ustalık Seviyesi"
+
+msgid "Locked"
+msgstr "Kilitli"
+
+msgid "Friends Only"
+msgstr "Sadece Arkadaşlar"
+
+msgid "Your Rank"
+msgstr "Sıralaman"
+
+msgid "Total Mastery XP"
+msgstr "Toplam Ustalık XP"
+
+msgid "Loading leaderboard..."
+msgstr "Liderlik tablosu yükleniyor..."
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Retry"
+msgstr "Yeniden Dene"
+
+msgid "No Data Available"
+msgstr "Veri Mevcut Değil"
+
+msgid "Add friends to see rankings"
+msgstr "Sıralamaları görmek için arkadaş ekleyin"
+
+msgid "Slots"
+msgstr "Yuvalar"
+
+msgid "Open Results"
+msgstr "Sonuçları Aç"
+
+msgid "Nothing obtained."
+msgstr "Hiçbir şey elde edilemedi."
+
+msgid "Inventory full"
+msgstr "Envanter dolu"
+
+msgid "Item is locked"
+msgstr "Eşya kilitli"
+
+msgid "Sell"
+msgstr "Sat"
+
+msgid "Purchase Slot"
+msgstr "Yuva Satın Al"
+
+msgid "Max Slots"
+msgstr "Maksimum Yuva"
+
+msgid "Selections"
+msgstr "Seçimler"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Remove the relic?"
+msgstr "Kalıntı kaldırılsın mı?"
+
+msgid "Place Relic"
+msgstr "Kalıntı Yerleştir"
+
+msgid "Enchanting"
+msgstr "Büyüleme"
+
+msgid "Square"
+msgstr "Kare"
+
+msgid "Altar"
+msgstr "Sunak"
+
+msgid "Stop Enchanting"
+msgstr "Büyülemeyi Durdur"
+
+msgid "Stop enchanting? Materials will not be refunded."
+msgstr "Büyülemeyi durdur? Malzemeler iade edilmeyecek."
+
+msgid "Enchanting Result"
+msgstr "Büyüleme Sonucu"
+
+msgid ""
+"Choose the item to put in the inventory, the other one will be discarded."
+msgstr "Envantere koymak için öğeyi seçin, diğeri atılacak."
+
+msgid "Put in Inventory"
+msgstr "Envantere Koy"
+
+msgid "Select Item"
+msgstr "Öğe Seç"
+
+msgid "Original"
+msgstr "Orijinal"
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "Click to Keep"
+msgstr "Saklamak için Tıkla"
+
+msgid "Remaining"
+msgstr "Kalan"
+
+msgid "Possible Modifiers"
+msgstr "Olası Değiştiriciler"
+
+msgid "Will randomly get 1-2 modifiers."
+msgstr "Rastgele 1-2 değiştirici kazanılacak."
+
+msgid "Capacity"
+msgstr "Kapasite"
+
+msgid "Upgrade"
+msgstr "Yükselt"
+
+msgid "Occupying"
+msgstr "İşgal Ediyor"
+
+msgid "Unlocked"
+msgstr "Kilidi Açıldı"
+
+msgid "Layers"
+msgstr "Katmanlar"
+
+msgid "Not Built"
+msgstr "İnşa Edilmedi"
+
+msgid "Max Level Reached"
+msgstr "Maksimum Seviyeye Ulaşıldı"
+
+msgid "Decrease Tier"
+msgstr "Seviye Düşür"
+
+msgid "Increase Tier"
+msgstr "Seviye Artır"
+
+msgid "Tier"
+msgstr "Seviye"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Offline Rewards"
+msgstr "Çevrimdışı Ödüller"
+
+msgid "You have been offline for {0}."
+msgstr "{0} süredir çevrimdışıydınız."
+
+msgid "Quantity"
+msgstr "Miktar"
+
+msgid "Max Count"
+msgstr "Maksimum Sayı"
+
+msgid "1 Left"
+msgstr "1 kaldı"
+
+msgid "Owned"
+msgstr "Sahip Olunan"
+
+msgid "Unit Price"
+msgstr "Birim Fiyat"
+
+msgid "Total Price"
+msgstr "Toplam Fiyat"
+
+msgid "Current Item"
+msgstr "Mevcut Eşya"
+
+msgid "Count"
+msgstr "Sayı"
+
+msgid "{0} missed {1}"
+msgstr "{0} {1} kaçırdı"
+
+msgid "{0} hit {1}, damage: {2}"
+msgstr "{0} {1} vurdu, hasar: {2}"
+
+msgid "{0} was defeated"
+msgstr "{0} yenildi"
+
+msgid "Trait triggered: {0}"
+msgstr "Özellik tetiklendi: {0}"
+
+msgid "Combat ended: {0}"
+msgstr "Savaş bitti: {0}"
+
+msgid "Combat started"
+msgstr "Savaş başladı"
+
+msgid "Reviving..."
+msgstr "Canlanıyor..."
+
+msgid "Combat Log"
+msgstr "Savaş Günlüğü"
+
+msgid "No combat events yet."
+msgstr "Henüz savaş olayı yok."
+
+msgid "No trait activations yet."
+msgstr "Henüz özellik aktivasyonu yok."
+
+msgid "Attack Speed"
+msgstr "Saldırı Hızı"
+
+msgid "Slash Damage"
+msgstr "Kesme Hasarı"
+
+msgid "Puncture Damage"
+msgstr "Delme Hasarı"
+
+msgid "Impact Damage"
+msgstr "Darbe Hasarı"
+
+msgid "Slash Resistance"
+msgstr "Kesme Direnci"
+
+msgid "Puncture Resistance"
+msgstr "Delme Direnci"
+
+msgid "Impact Resistance"
+msgstr "Darbe Direnci"
+
+msgid "Mastery Progress: {0}/{1}"
+msgstr "Ustalık İlerlemesi: {0}/{1}"
+
+msgid "Equipment"
+msgstr "Ekipman"
+
+msgid "Farming"
+msgstr "Çiftçilik"
+
+msgid "Material"
+msgstr "Malzeme"
+
+msgid "Misc"
+msgstr "Çeşitli"
+
+msgid "Relics"
+msgstr "Kalıntılar"
+
+msgid "Item Mastered"
+msgstr "Eşya Ustalaşıldı"
+
+msgid "Mastery Complete"
+msgstr "Ustalık Tamamlandı"
+
+msgid "Mastery Rank"
+msgstr "Ustalık Derecesi"
+
+msgid "Rank Advanced"
+msgstr "Derece İlerlendi"
+
+msgid "Your mastery continues to grow"
+msgstr "Ustalığın sürekli büyüyor"
+
+msgid "Finished"
+msgstr "Tamamlandı"
+
+msgid "Fee: {0}"
+msgstr "Ücret: {0}"
+
+msgid "Market Pressure: {0}"
+msgstr "Piyasa Baskısı: {0}"
+
+msgid "You Pay"
+msgstr "Ödediğiniz"
+
+msgid "You Receive"
+msgstr "Aldığınız"
+
+msgid ""
+"Market pressure represents the level of market saturation. The higher the "
+"market pressure, the worse the exchange rate for buying. Market pressure "
+"naturally decays over time."
+msgstr ""
+"Piyasa baskısı, piyasa doygunluk seviyesini temsil eder. Piyasa baskısı ne "
+"kadar yüksek olursa, satın alma için döviz kuru o kadar kötü olur. Piyasa "
+"baskısı zamanla doğal olarak azalır."
+
+msgid "Exchanging Coins for Isle Bucks will increase market pressure."
+msgstr "Hard Para ile Ada Parası değişimi piyasa baskısını artıracaktır."
+
+msgid "Confirm Exchange"
+msgstr "Değişimi Onayla"
+
+msgid "Enter Amount"
+msgstr "Miktar Girin"
+
+msgid "Insufficient Balance"
+msgstr "Yetersiz Bakiye"
+
+msgid "Balance: {0}"
+msgstr "Bakiye: {0}"
+
+msgid "MAX"
+msgstr "MAKS"
+
+msgid ""
+"If you think you've made a little mistake, just click the button below to "
+"start over! No worries—this is just a tiny hiccup on your way to greatness."
+msgstr ""
+"Küçük bir hata yaptığınızı düşünüyorsanız, yeniden başlamak için aşağıdaki "
+"düğmeye tıklamanız yeterli! Endişelenmeyin, bu sadece büyüklüğe giden yolda "
+"küçük bir engel."
+
+msgid "Start Over"
+msgstr "Yeniden Başla"
+
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+msgid "Port"
+msgstr "Liman"
+
+msgid "Next Trade In: {0}"
+msgstr "Sonraki Ticaret: {0}"
+
+msgid "Current Stats"
+msgstr "Mevcut İstatistikler"
+
+msgid "Capacity (per trade)"
+msgstr "Kapasite (ticaret başına)"
+
+msgid "Trade Interval"
+msgstr "Ticaret Aralığı"
+
+msgid "Saturation Speed"
+msgstr "Doygunluk Hızı"
+
+msgid "+{0}/item, -{1}/sec"
+msgstr "+{0}/öğe, -{1}/sn"
+
+msgid "Upgrades"
+msgstr "Yükseltmeler"
+
+msgid "How many items can be sold per trade."
+msgstr "Ticaret başına kaç öğe satılabilir."
+
+msgid "How often trades happen. Lower is better."
+msgstr "Ticaretlerin ne sıklıkla gerçekleşeceği. Düşük olması daha iyidir."
+
+msgid "Saturation rises slower and decays faster."
+msgstr "Doygunluk daha yavaş yükselir ve daha hızlı azalır."
+
+msgid "Now"
+msgstr "Şimdi"
+
+msgid "Next"
+msgstr "Sıradaki"
+
+msgid "Cost"
+msgstr "Maliyet"
+
+msgid "Last Trade"
+msgstr "Son Ticaret"
+
+msgid "Trade Rule"
+msgstr "Ticaret Kuralı"
+
+msgid "Stock: {0}"
+msgstr "Stok: {0}"
+
+msgid "Saturation: {0}% (Price x{1})"
+msgstr "Doygunluk: %{0} (Fiyat x{1})"
+
+msgid "Trade Mode"
+msgstr "Ticaret Modu"
+
+msgid "Min Stock"
+msgstr "Min Stok"
+
+msgid "Saturation"
+msgstr "Doygunluk"
+
+msgid "Policies"
+msgstr "Politikalar"
+
+msgid "Banking"
+msgstr "Bankacılık"
+
+msgid "Repository"
+msgstr "Depo"
+
+msgid "Farmers"
+msgstr "Çiftçiler"
+
+msgid "Workers"
+msgstr "İşçiler"
+
+msgid "Astrologers"
+msgstr "Astrologlar"
+
+msgid "Alchemists"
+msgstr "Simyacılar"
+
+msgid "GreatToken"
+msgstr "Ulu Jeton"
+
+msgid "The Office"
+msgstr "Ofis"
+
+msgid "Productivity"
+msgstr "Üretkenlik"
+
+msgid "Population"
+msgstr "Nüfus"
+
+msgid "Insufficient Resources"
+msgstr "Yetersiz Kaynaklar"
+
+msgid "Insufficient Workforce"
+msgstr "Yetersiz İş Gücü"
+
+msgid "Maintenance"
+msgstr "Bakım"
+
+msgid "Production Period"
+msgstr "Üretim Süresi"
+
+msgid "Building..."
+msgstr "İnşa ediliyor..."
+
+msgid "Build"
+msgstr "İnşa Et"
+
+msgid "Build Cost"
+msgstr "İnşa Maliyeti"
+
+msgid "Period Costs"
+msgstr "Dönem Maliyetleri"
+
+msgid "Period Yields"
+msgstr "Dönem Verimleri"
+
+msgid "Balance"
+msgstr "Bakiye"
+
+msgid "Maintenance: {0}s"
+msgstr "Bakım: {0}s"
+
+msgid "Trade: {0}"
+msgstr "Ticaret: {0}"
+
+msgid "Available: {0}"
+msgstr "Mevcut: {0}"
+
+msgid "Still needed: {0}"
+msgstr "Hala gereken: {0}"
+
+msgid "Done"
+msgstr "Tamamlandı"
+
+msgid "Already completed."
+msgstr "Zaten tamamlandı."
+
+msgid "No available items."
+msgstr "Mevcut öğe yok."
+
+msgid "Add Items."
+msgstr "Öğe Ekle."
+
+msgid "Amount: {0}"
+msgstr "Miktar: {0}"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "Needed"
+msgstr "Gereken"
+
+msgid "Progress"
+msgstr "İlerleme"
+
+msgid "Action"
+msgstr "Eylem"
+
+msgid "Great Token"
+msgstr "Ulu Jeton"
+
+msgid "Total Progress"
+msgstr "Toplam İlerleme"
+
+msgid ""
+"Drag cards to slots, then press Confirm to apply. Only unlocked cards can be "
+"drafted."
+msgstr ""
+"Kartları yuvalara sürükleyin ve ardından uygulamak için Onayla'ya basın. "
+"Sadece kilidi açılmış kartlar taslak haline getirilebilir."
+
+msgid "Unlocked: {0}"
+msgstr "Kilit Açıldı: {0}"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Unequip"
+msgstr "Çıkar"
+
+msgid "Cards"
+msgstr "Kartlar"
+
+msgid "{0} Policies"
+msgstr "{0} Politika"
+
+msgid "Equipped: {0}"
+msgstr "Donatıldı: {0}"
+
+msgid "Not equipped"
+msgstr "Donatılmadı"
+
+msgid "Equip"
+msgstr "Donat"
+
+msgid "Costs"
+msgstr "Maliyetler"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Economic"
+msgstr "Ekonomik"
+
+msgid "Labor"
+msgstr "İşgücü"
+
+msgid "Social"
+msgstr "Sosyal"
+
+msgid "Wildcard"
+msgstr "Joker"
+
+msgid "我知道你！大名鼎鼎，多才多艺的精通大师。我知道以你的聪明才智已经知道了城市的运转方式，但我必须向你介绍！你没有选择！"
+msgstr ""
+"Seni tanıyorum! Ünlü, yetenekli Ustalık Ustası. Zekanla şehrin nasıl "
+"işlediğini zaten çözdüğünü biliyorum ama sana rehberlik etmeliyim! Başka "
+"seçeneğin yok!"
+
+msgid "你的第一步是获得人口，这可以通过建造农民住宅来实现。请选择农民标签。"
+msgstr ""
+"İlk adımın nüfus kazanmak; bunu çiftçi konutları inşa ederek yapabilirsin. "
+"Lütfen Çiftçiler sekmesini seç."
+
+msgid "伟大的尝试！现在，建造一些树厂和锯木厂来生产木板。"
+msgstr ""
+"Harika deneme! Şimdi, kalas üretmek için birkaç ağaç fabrikası ve kereste "
+"fabrikası inşa et."
+
+msgid "太棒了，现在让我们把这些东西卖掉。请先到港口。找到木板，然后选择交易模式为售卖，在时机合适时会自动卖掉它。就这么简单！。"
+msgstr ""
+"Harika, şimdi bunları satalım. Öncelikle limana git. Kalasları bul, ticaret "
+"modunu satış olarak seç ve zamanı geldiğinde otomatik olarak satılacaktır. "
+"İşte bu kadar basit!"
+
+msgid "伟大的工作！你的终极目标就是合成出伟大代币，彰显出你超脱凡俗的城市治理能力，向着这个目标努力吧！"
+msgstr ""
+"Harika iş! Nihai hedefin, üstün şehir yönetme becerini kanıtlayan Ulu Jetonu "
+"sentezlemektir, bu hedefe doğru çalışmaya devam et!"
+
+msgid "你已经完成了！去实现你的宏图大志吧！"
+msgstr "İşin bitti! Git ve hayallerini gerçekleştir!"
+
+msgid "Skill level too low"
+msgstr "Beceri seviyesi çok düşük"
+
+msgid "Not enough items"
+msgstr "Yeterli eşya yok"
+
+msgctxt "stat_id"
+msgid "actor"
+msgstr "Aktör"
+
+msgctxt "stat_id"
+msgid "actor_maxHealth"
+msgstr "Maksimum Sağlık"
+
+msgctxt "stat_id"
+msgid "actor_health"
+msgstr "Sağlık"
+
+msgctxt "stat_id"
+msgid "actor_attackSpeed"
+msgstr "Saldırı Hızı"
+
+msgctxt "stat_id"
+msgid "actor_armor"
+msgstr "Zırh"
+
+msgctxt "stat_id"
+msgid "actor_damageMultiplier"
+msgstr "Hasar Çarpanı"
+
+msgctxt "stat_id"
+msgid "actor_damageTakenMultiplier"
+msgstr "Alınan Hasar Çarpanı"
+
+msgctxt "stat_id"
+msgid "actor_slashDamage"
+msgstr "Kesme Hasarı"
+
+msgctxt "stat_id"
+msgid "actor_punctureDamage"
+msgstr "Delme Hasarı"
+
+msgctxt "stat_id"
+msgid "actor_impactDamage"
+msgstr "Vuruş Hasarı"
+
+msgctxt "stat_id"
+msgid "actor_hitChanceBonus"
+msgstr "Vuruş Şansı Bonusu"
+
+msgctxt "stat_id"
+msgid "actor_dodgeChanceBonus"
+msgstr "Dodge Şansı Bonusu"
+
+msgctxt "stat_id"
+msgid "actor_slashResistance"
+msgstr "Kesme Direnci"
+
+msgctxt "stat_id"
+msgid "actor_punctureResistance"
+msgstr "Delme Direnci"
+
+msgctxt "stat_id"
+msgid "actor_impactResistance"
+msgstr "Vuruş Direnci"
+
+msgctxt "stat_id"
+msgid "player"
+msgstr "Oyuncu"
+
+msgctxt "stat_id"
+msgid "player_foodEffect"
+msgstr "Yemek Etkisi"
+
+msgctxt "stat_id"
+msgid "player_offlineRewardMultiplier"
+msgstr "Çevrimdışı Ödül Çarpanı"
+
+msgctxt "stat_id"
+msgid "skills"
+msgstr "Yetenekler"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_efficiency"
+msgstr "Odun Kesme Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_mining_efficiency"
+msgstr "Madencilik Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_smelting_efficiency"
+msgstr "Eritme Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_smithing_efficiency"
+msgstr "Demircilik Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_farming_efficiency"
+msgstr "Tarım Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_efficiency"
+msgstr "Simya Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_fishing_efficiency"
+msgstr "Balıkçılık Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_cooking_efficiency"
+msgstr "Pişirme Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_hunting_efficiency"
+msgstr "Avcılık Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_charting_efficiency"
+msgstr "Haritalama Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_efficiency"
+msgstr "Arkeoloji Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_efficiency"
+msgstr "Tek El Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_efficiency"
+msgstr "Çift El Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_ranged_efficiency"
+msgstr "Menzilli Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_defense_efficiency"
+msgstr "Savunma Verimliliği"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_speed"
+msgstr "Odun Kesme Hızı"
+
+msgctxt "stat_id"
+msgid "skill_mining_speed"
+msgstr "Madencilik Hızı"
+
+msgctxt "stat_id"
+msgid "skill_smelting_speed"
+msgstr "Eritme Hızı"
+
+msgctxt "stat_id"
+msgid "skill_smithing_speed"
+msgstr "Demircilik Hızı"
+
+msgctxt "stat_id"
+msgid "skill_farming_speed"
+msgstr "Tarım Hızı"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_speed"
+msgstr "Simya Hızı"
+
+msgctxt "stat_id"
+msgid "skill_fishing_speed"
+msgstr "Balıkçılık Hızı"
+
+msgctxt "stat_id"
+msgid "skill_cooking_speed"
+msgstr "Pişirme Hızı"
+
+msgctxt "stat_id"
+msgid "skill_hunting_speed"
+msgstr "Avcılık Hızı"
+
+msgctxt "stat_id"
+msgid "skill_charting_speed"
+msgstr "Haritalama Hızı"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_speed"
+msgstr "Arkeoloji Hızı"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_speed"
+msgstr "Tek El Hızı"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_speed"
+msgstr "Çift El Hızı"
+
+msgctxt "stat_id"
+msgid "skill_ranged_speed"
+msgstr "Menzilli Hızı"
+
+msgctxt "stat_id"
+msgid "skill_defense_speed"
+msgstr "Savunma Hızı"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_XpMultiplier"
+msgstr "Odun Kesme TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_mining_XpMultiplier"
+msgstr "Madencilik TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_smelting_XpMultiplier"
+msgstr "Eritme TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_smithing_XpMultiplier"
+msgstr "Demircilik TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_farming_XpMultiplier"
+msgstr "Tarım TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_XpMultiplier"
+msgstr "Simya TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_fishing_XpMultiplier"
+msgstr "Balıkçılık TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_cooking_XpMultiplier"
+msgstr "Pişirme TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_hunting_XpMultiplier"
+msgstr "Avcılık TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_charting_XpMultiplier"
+msgstr "Haritalama TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_XpMultiplier"
+msgstr "Arkeoloji TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_XpMultiplier"
+msgstr "Tek El TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_XpMultiplier"
+msgstr "Çift El TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_ranged_XpMultiplier"
+msgstr "Menzilli TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_defense_XpMultiplier"
+msgstr "Savunma TP Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lootMultiplier"
+msgstr "Odun Kesme Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_mining_lootMultiplier"
+msgstr "Madencilik Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lootMultiplier"
+msgstr "Eritme Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lootMultiplier"
+msgstr "Demircilik Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_farming_lootMultiplier"
+msgstr "Tarım Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lootMultiplier"
+msgstr "Simya Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lootMultiplier"
+msgstr "Balıkçılık Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lootMultiplier"
+msgstr "Pişirme Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lootMultiplier"
+msgstr "Avcılık Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_charting_lootMultiplier"
+msgstr "Haritalama Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lootMultiplier"
+msgstr "Arkeoloji Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_oneHanded_lootMultiplier"
+msgstr "Tek El Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_twoHanded_lootMultiplier"
+msgstr "Çift El Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_ranged_lootMultiplier"
+msgstr "Menzilli Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_defense_lootMultiplier"
+msgstr "Savunma Ganimet Çarpanı"
+
+msgctxt "stat_id"
+msgid "skill_woodcutting_lucky"
+msgstr "Odun Kesme Şansı"
+
+msgctxt "stat_id"
+msgid "skill_mining_lucky"
+msgstr "Madencilik Şansı"
+
+msgctxt "stat_id"
+msgid "skill_smelting_lucky"
+msgstr "Eritme Şansı"
+
+msgctxt "stat_id"
+msgid "skill_smithing_lucky"
+msgstr "Demircilik Şansı"
+
+msgctxt "stat_id"
+msgid "skill_farming_lucky"
+msgstr "Tarım Şansı"
+
+msgctxt "stat_id"
+msgid "skill_alchemy_lucky"
+msgstr "Simya Şansı"
+
+msgctxt "stat_id"
+msgid "skill_fishing_lucky"
+msgstr "Balıkçılık Şansı"
+
+msgctxt "stat_id"
+msgid "skill_cooking_lucky"
+msgstr "Pişirme Şansı"
+
+msgctxt "stat_id"
+msgid "skill_hunting_lucky"
+msgstr "Avcılık Şansı"
+
+msgctxt "stat_id"
+msgid "skill_charting_lucky"
+msgstr "Haritalama Şansı"
+
+msgctxt "stat_id"
+msgid "skill_archaeology_lucky"
+msgstr "Arkeoloji Şansı"
+
+msgctxt "stat_id"
+msgid "skill_combatXp"
+msgstr "Savaş TP"
+
+msgctxt "stat_id"
+msgid "skill_combatYield"
+msgstr "Savaş Verimi"
+
+msgctxt "stat_id"
+msgid "skill_gatherXp"
+msgstr "Toplama TP"
+
+msgctxt "stat_id"
+msgid "skill_gatherYield"
+msgstr "Toplama Verimi"
+
+msgctxt "stat_id"
+msgid "skill_gatherSpeed"
+msgstr "Toplama Hızı"
+
+msgctxt "stat_id"
+msgid "skill_craftXp"
+msgstr "Zanaat TP"
+
+msgctxt "stat_id"
+msgid "skill_craftYield"
+msgstr "Zanaat Verimi"
+
+msgctxt "stat_id"
+msgid "skill_craftSpeed"
+msgstr "Zanaat Hızı"
+
+msgid "Skill {0} level up to {1}"
+msgstr "Beceri {0} seviye {1} oldu"
+
+msgid "Food"
+msgstr "Yemek"
+
+msgid "Combat Potion"
+msgstr "Savaş İksiri"
+
+msgid "Gather Potion"
+msgstr "Toplama İksiri"
+
+msgid "Craft Potion"
+msgstr "Üretim İksiri"
+
+msgid "Inventory Slots"
+msgstr "Envanter Yuvaları"
+
+msgctxt "Theme Preference"
+msgid "System"
+msgstr "Sistem"
+
+msgctxt "Theme Preference"
+msgid "Light"
+msgstr "Açık"
+
+msgctxt "Theme Preference"
+msgid "Dark"
+msgstr "Koyu"
+
+msgctxt "Theme Style"
+msgid "TonalSpot"
+msgstr "Ton Noktası"
+
+msgctxt "Theme Style"
+msgid "Neutral"
+msgstr "Nötr"
+
+msgctxt "Theme Style"
+msgid "Vibrant"
+msgstr "Canlı"
+
+msgctxt "Theme Style"
+msgid "Expressive"
+msgstr "Etkileyici"
+
+msgctxt "Theme Style"
+msgid "Rainbow"
+msgstr "Gökkuşağı"
+
+msgctxt "Theme Style"
+msgid "FruitSalad"
+msgstr "Meyve Salatası"
+
+msgctxt "Theme Style"
+msgid "Monochrome"
+msgstr "Tek Renkli"
+
+msgctxt "Theme Style"
+msgid "Fidelity"
+msgstr "Aslına Sadık"
+
+msgctxt "Theme Style"
+msgid "Content"
+msgstr "İçerik"
+
+msgid "Unlock {0}"
+msgstr "{0} kilidini aç"
+
+msgid "No requirement"
+msgstr "Gereklilik yok"
+
+msgid "{0} reach level {1}"
+msgstr "{0} seviye {1} ulaş"
+
+msgid "Unknown skill"
+msgstr "Bilinmeyen beceri"
+
+msgid "{0} completed"
+msgstr "{0} tamamlandı"
+
+msgid "Error Quest"
+msgstr "Hata Görevi"
+
+msgid "Kill {0} {1}"
+msgstr "{0} {1} Öldür"
+
+msgid "Collect {0} {1}"
+msgstr "{0} {1} Topla"
+
+msgid "Finish {0} {1}"
+msgstr "{0} {1} Bitir"
+
+msgctxt "Build buildings"
+msgid "Build {0} {1}"
+msgstr "{0} {1} inşa et"
+
+msgid "Quest {0} completed"
+msgstr "Görev {0} tamamlandı"
+
+msgid "Weapon"
+msgstr "Silah"
+
+msgid "Shield"
+msgstr "Kalkan"
+
+msgid "Helmet"
+msgstr "Kask"
+
+msgid "Armor"
+msgstr "Zırh"
+
+msgid "LegArmor"
+msgstr "Bacak Zırhı"
+
+msgid "Boots"
+msgstr "Bot"
+
+msgid "Accessories"
+msgstr "Aksesuarlar"
+
+msgid "Necklace"
+msgstr "Kolye"
+
+msgid "Ring"
+msgstr "Yüzük"
+
+msgid "Bracelet"
+msgstr "Bilezik"
+
+msgid "Cape"
+msgstr "Pelerin"
+
+msgid "Tools"
+msgstr "Aletler"
+
+msgid "Axe"
+msgstr "Balta"
+
+msgid "Pickaxe"
+msgstr "Kazma"
+
+msgid "Spade"
+msgstr "Kürek"
+
+msgid "Rod"
+msgstr "Oltan"
+
+msgid "Trap"
+msgstr "Tuzak"
+
+msgid "{0} Completed"
+msgstr "{0} Tamamlandı"
+
+msgid "Items not enough"
+msgstr "Yeterli öğe yok"
+
+msgid "CombatPotion"
+msgstr "Savaş İksiri"
+
+msgid "GatherPotion"
+msgstr "Toplama İksiri"
+
+msgid "CraftPotion"
+msgstr "Zanaat İksiri"
+
+msgid "Flower"
+msgstr "Çiçek"
+
+msgid "Vegetable"
+msgstr "Sebze"
+
+msgid "Fruit"
+msgstr "Meyve"
+
+msgid "Fish"
+msgstr "Balık"
+
+msgid "Sword"
+msgstr "Kılıç"
+
+msgid "Hammer"
+msgstr "Çekiç"
+
+msgid "Scythe"
+msgstr "Tırpan"
+
+msgid "Spear"
+msgstr "Mızrak"
+
+msgid "Bow"
+msgstr "Yay"
+
+msgid "Dart"
+msgstr "Ok"
+
+msgid "Relic"
+msgstr "Kutsal Eşya"
+
+msgid "%s secs"
+msgstr "%s saniye"
+
+msgid "%s mins"
+msgstr "%s dakika"
+
+msgid "%s hours"
+msgstr "%s saat"
+
+msgid "%s days"
+msgstr "%s gün"
+
+msgid "%s weeks"
+msgstr "%s hafta"
+
+msgid "%s months"
+msgstr "%s ay"
+
+msgid "%s years"
+msgstr "%s yıl"
+
+msgid "Always"
+msgstr "Her zaman"
+
+msgid "Common"
+msgstr "Sıradan"
+
+msgid "Uncommon"
+msgstr "Nadir"
+
+msgid "Rare"
+msgstr "Çok Nadir"
+
+msgid "Legendary"
+msgstr "Efsanevi"
+
+msgid "Frenzy"
+msgstr "Çılgınlık"
+
+msgid "Tanky"
+msgstr "Dayanıklı"
+
+msgid "Deadly"
+msgstr "Ölümcül"
+
+msgid "Swift"
+msgstr "Çevik"
+
+msgid "Precise"
+msgstr "Keskin"
+
+msgid "Hardened"
+msgstr "Sertleşmiş"

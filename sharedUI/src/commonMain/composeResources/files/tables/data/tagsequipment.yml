@@ -1,0 +1,421 @@
+- id: 'equip_Helmet_HighSlashResistance'
+  name: '把你踹开'
+  type: 'Helmet'
+  tier: 7
+  tags:
+  - 'HighSlashResistance'
+- id: 'equip_Helmet_HighPunctureResistance'
+  name: '他想要'
+  type: 'Helmet'
+  tier: 7
+  tags:
+  - 'HighPunctureResistance'
+- id: 'equip_Helmet_HighImpactResistance'
+  name: '我的号码'
+  type: 'Helmet'
+  tier: 7
+  tags:
+  - 'HighImpactResistance'
+- id: 'equip_Helmet_HighMaxHealth'
+  name: '我不给'
+  type: 'Helmet'
+  tier: 7
+  tags:
+  - 'HighMaxHealth'
+- id: 'equip_Helmet_HighArmor'
+  name: '对抗纨绔'
+  type: 'Helmet'
+  tier: 7
+  tags:
+  - 'HighArmor'
+- id: 'equip_Armor_HighSlashResistance'
+  name: '美颜参数'
+  type: 'Armor'
+  tier: 7
+  tags:
+  - 'HighSlashResistance'
+- id: 'equip_Armor_HighPunctureResistance'
+  name: '值得学习'
+  type: 'Armor'
+  tier: 7
+  tags:
+  - 'HighPunctureResistance'
+- id: 'equip_Armor_HighImpactResistance'
+  name: '说梦话'
+  type: 'Armor'
+  tier: 7
+  tags:
+  - 'HighImpactResistance'
+- id: 'equip_Armor_HighMaxHealth'
+  name: '肌肉大'
+  type: 'Armor'
+  tier: 7
+  tags:
+  - 'HighMaxHealth'
+- id: 'equip_Armor_HighArmor'
+  name: '生活总是'
+  type: 'Armor'
+  tier: 7
+  tags:
+  - 'HighArmor'
+- id: 'equip_LegArmor_HighSlashResistance'
+  name: '太多波折'
+  type: 'LegArmor'
+  tier: 7
+  tags:
+  - 'HighSlashResistance'
+- id: 'equip_LegArmor_HighPunctureResistance'
+  name: '猫咪'
+  type: 'LegArmor'
+  tier: 7
+  tags:
+  - 'HighPunctureResistance'
+- id: 'equip_LegArmor_HighImpactResistance'
+  name: '张嘴'
+  type: 'LegArmor'
+  tier: 7
+  tags:
+  - 'HighImpactResistance'
+- id: 'equip_LegArmor_HighMaxHealth'
+  name: '这个地方'
+  type: 'LegArmor'
+  tier: 7
+  tags:
+  - 'HighMaxHealth'
+- id: 'equip_LegArmor_HighArmor'
+  name: '傻子太多'
+  type: 'LegArmor'
+  tier: 7
+  tags:
+  - 'HighArmor'
+- id: 'equip_Boots_HighSlashResistance'
+  name: '我的生活'
+  type: 'Boots'
+  tier: 7
+  tags:
+  - 'HighSlashResistance'
+- id: 'equip_Boots_HighPunctureResistance'
+  name: '特别难过'
+  type: 'Boots'
+  tier: 7
+  tags:
+  - 'HighPunctureResistance'
+- id: 'equip_Boots_HighImpactResistance'
+  name: '希望你'
+  type: 'Boots'
+  tier: 7
+  tags:
+  - 'HighImpactResistance'
+- id: 'equip_Boots_HighMaxHealth'
+  name: '知道这个'
+  type: 'Boots'
+  tier: 7
+  tags:
+  - 'HighMaxHealth'
+- id: 'equip_Boots_HighArmor'
+  name: '我不想'
+  type: 'Boots'
+  tier: 7
+  tags:
+  - 'HighArmor'
+- id: 'equip_Cape_HighSlashResistance'
+  name: '当小人物'
+  type: 'Cape'
+  tier: 7
+  tags:
+  - 'HighSlashResistance'
+- id: 'equip_Cape_HighPunctureResistance'
+  name: '地下的'
+  type: 'Cape'
+  tier: 7
+  tags:
+  - 'HighPunctureResistance'
+- id: 'equip_Cape_HighImpactResistance'
+  name: '皇帝'
+  type: 'Cape'
+  tier: 7
+  tags:
+  - 'HighImpactResistance'
+- id: 'equip_Cape_HighMaxHealth'
+  name: '我想当'
+  type: 'Cape'
+  tier: 7
+  tags:
+  - 'HighMaxHealth'
+- id: 'equip_Cape_HighArmor'
+  name: '三根一起抽'
+  type: 'Cape'
+  tier: 7
+  tags:
+  - 'HighArmor'
+- id: 'equip_Necklace_HighGatherYield'
+  name: '喝很多水'
+  type: 'Necklace'
+  tier: 7
+  tags:
+  - 'HighGatherYield'
+- id: 'equip_Necklace_HighCraftYield'
+  name: '和我作对'
+  type: 'Necklace'
+  tier: 7
+  tags:
+  - 'HighCraftYield'
+- id: 'equip_Necklace_HighLootMultiplier'
+  name: '出人头地'
+  type: 'Necklace'
+  tier: 7
+  tags:
+  - 'HighLootMultiplier'
+- id: 'equip_Ring_HighGatherYield'
+  name: '就在今天'
+  type: 'Ring'
+  tier: 7
+  tags:
+  - 'HighGatherYield'
+- id: 'equip_Ring_HighCraftYield'
+  name: '当我看见'
+  type: 'Ring'
+  tier: 7
+  tags:
+  - 'HighCraftYield'
+- id: 'equip_Ring_HighLootMultiplier'
+  name: '外国友人'
+  type: 'Ring'
+  tier: 7
+  tags:
+  - 'HighLootMultiplier'
+- id: 'equip_Bracelet_HighGatherYield'
+  name: '我不问好'
+  type: 'Bracelet'
+  tier: 7
+  tags:
+  - 'HighGatherYield'
+- id: 'equip_Bracelet_HighCraftYield'
+  name: '因为我太'
+  type: 'Bracelet'
+  tier: 7
+  tags:
+  - 'HighCraftYield'
+- id: 'equip_Bracelet_HighLootMultiplier'
+  name: '高冷了'
+  type: 'Bracelet'
+  tier: 7
+  tags:
+  - 'HighLootMultiplier'
+- id: 'equip_Sword_HighSlashDamage'
+  name: '质疑我的'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Sword_HighPunctureDamage'
+  name: '嘲笑我的'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Sword_HighImpactDamage'
+  name: '都是一群'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Sword_HighHitChance'
+  name: '大傻子'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Sword_HighDodgeChance'
+  name: '我就是'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Sword_HighDamageMultiplier'
+  name: '全世界'
+  type: 'Sword'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+- id: 'equip_Hammer_HighSlashDamage'
+  name: '最牛的！'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Hammer_HighPunctureDamage'
+  name: '你的炫耀'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Hammer_HighImpactDamage'
+  name: '名牌包包'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Hammer_HighHitChance'
+  name: '名牌手表'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Hammer_HighDodgeChance'
+  name: '说实话'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Hammer_HighDamageMultiplier'
+  name: '我不在乎'
+  type: 'Hammer'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+- id: 'equip_Scythe_HighSlashDamage'
+  name: '想打败我'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Scythe_HighPunctureDamage'
+  name: '那你惨了'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Scythe_HighImpactDamage'
+  name: '我需要个'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Scythe_HighHitChance'
+  name: '赚快钱'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Scythe_HighDodgeChance'
+  name: '的方法'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Scythe_HighDamageMultiplier'
+  name: '你可以叫我'
+  type: 'Scythe'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+- id: 'equip_Spear_HighSlashDamage'
+  name: '小帅'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Spear_HighPunctureDamage'
+  name: '面临'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Spear_HighImpactDamage'
+  name: '指控'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Spear_HighHitChance'
+  name: '从不会'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Spear_HighDodgeChance'
+  name: '求神拜佛'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Spear_HighDamageMultiplier'
+  name: '我只穿'
+  type: 'Spear'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+- id: 'equip_Bow_HighSlashDamage'
+  name: '一次性的'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Bow_HighPunctureDamage'
+  name: '袜子'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Bow_HighImpactDamage'
+  name: '洗衣服'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Bow_HighHitChance'
+  name: '太麻烦'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Bow_HighDodgeChance'
+  name: '她画了'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Bow_HighDamageMultiplier'
+  name: '美丽的妆'
+  type: 'Bow'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+- id: 'equip_Dart_HighSlashDamage'
+  name: '但是她'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighSlashDamage'
+- id: 'equip_Dart_HighPunctureDamage'
+  name: '喜欢女的'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighPunctureDamage'
+- id: 'equip_Dart_HighImpactDamage'
+  name: '我是那个'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighImpactDamage'
+- id: 'equip_Dart_HighHitChance'
+  name: '第三者'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighHitChance'
+- id: 'equip_Dart_HighDodgeChance'
+  name: '特别伤心'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighDodgeChance'
+- id: 'equip_Dart_HighDamageMultiplier'
+  name: '我哭了'
+  type: 'Dart'
+  tier: 7
+  tags:
+  - 'HighDamageMultiplier'
+...

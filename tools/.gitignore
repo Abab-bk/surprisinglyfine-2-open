@@ -1,0 +1,9 @@
+steampipe/
+game_builds/
+luban/app/
+steamContentBuilder/builder/
+steamContentBuilder/builder_linux/
+steamContentBuilder/builder_osx/
+steamContentBuilder/dumps/
+steamContentBuilder/output/
+steamContentBuilder/scripts/buildoutput/
